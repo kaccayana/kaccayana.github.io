@@ -1,12 +1,22 @@
-# Starlight
+# kaccayana.github.io
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+[![pages-build-deployment](https://github.com/kaccayana/kaccayana.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kaccayana/kaccayana.github.io/actions/workflows/pages/pages-build-deployment)
+
+A translation of the earliest available Pāli grammar into modern English.
+
+> [!IMPORTANT]
+> The current status of this work is “Idea” - this is currently not in a form suitable for consumption, please ignore unless you will like to contribute to the translation project.
+
+> [!NOTE]
+> This work is public domain using the CC0 licence and the source code is available on Github. If you like this work and wish to show your appreciation, please consider sponsoring me.
 
 ```sh
-pnpm create astro@latest -- --template starlight
+pnpm install
+pnpm exec playwright install
+pnpm astro check
+pnpm build
 ```
-
-Test project for playing around with Starlight
 
 ## 🚀 Project Structure
 
@@ -35,15 +45,11 @@ Static assets, like favicons, can be placed in the `public/` directory.
 
 All commands are run from the root of the project, from a terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+| Command                    | Action                                           |
+| :------------------------- | :----------------------------------------------- |
+| `pnpm install`             | Installs dependencies                            |
+| `pnpm run dev`             | Starts local dev server at `localhost:4321`      |
+| `pnpm run build`           | Build your production site to `./dist/`          |
+| `pnpm run preview`         | Preview your build locally, before deploying     |
+| `pnpm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `pnpm run astro -- --help` | Get help using the Astro CLI                     |

@@ -14,6 +14,9 @@ dependencies:
   '@astrojs/starlight':
     specifier: ^0.31.1
     version: 0.31.1(astro@5.1.10)
+  '@fontsource/noto-mono':
+    specifier: ^5.1.0
+    version: 5.1.0
   '@fontsource/noto-sans':
     specifier: ^5.1.1
     version: 5.1.1
@@ -35,6 +38,9 @@ dependencies:
   rehype-mermaid:
     specifier: ^3.0.0
     version: 3.0.0(playwright@1.50.0)
+  remark-alerts:
+    specifier: ^0.0.1
+    version: 0.0.1(@types/mdast@4.0.4)(unified@11.0.5)
   sharp:
     specifier: ^0.33.5
     version: 0.33.5
@@ -610,6 +616,10 @@ packages:
     resolution: {integrity: sha512-LsirF7M4F2yWgrFXEocD74F/MaVXsOsHVsRxBLhXQJemSSkWkDp/EZPt//OaqQ8ExnqWZ2lH7E1/KiN46unKjg==}
     dependencies:
       '@expressive-code/core': 0.40.1
+    dev: false
+
+  /@fontsource/noto-mono@5.1.0:
+    resolution: {integrity: sha512-oobAnMOVSTOLZB0v3yy48ucink9HKsY9Ll1kChX8uNWeCodf21PcAc/VEB2mBsX7+5HWFqVV7+ec+mPbomDwBw==}
     dev: false
 
   /@fontsource/noto-sans@5.1.1:
@@ -4214,6 +4224,17 @@ packages:
       rehype-parse: 9.0.1
       rehype-stringify: 10.0.1
       unified: 11.0.5
+    dev: false
+
+  /remark-alerts@0.0.1(@types/mdast@4.0.4)(unified@11.0.5):
+    resolution: {integrity: sha512-xDUy3FqgYu3rUsYovZKLXZwHuM7M/XUFxsTDAMeEKoHsg9hiEHR59FkRqeGtzZDg8ThEJYnFiJJW49n9ruvVLw==}
+    peerDependencies:
+      '@types/mdast': ^4.0.3
+      unified: ^11.0.4
+    dependencies:
+      '@types/mdast': 4.0.4
+      unified: 11.0.5
+      unist-util-visit: 5.0.0
     dev: false
 
   /remark-directive@3.0.1:
