@@ -1,0 +1,2012 @@
+---
+title: Sandhikappa
+---
+## 1. **Sandhikappa**
+
+
+### Paṭhamakaṇḍa
+
+
+> **(Ka)**
+
+> Seṭṭhaṃ tilokamahitaṃ abhivandiyaggaṃ, \
+> Buddhañca dhammamamalaṃ gaṇamuttamañca; \
+> Satthussa tassa vacanatthavaraṃ subuddhuṃ, \
+> Vakkhāmi suttahitamettha susandhikappaṃ. 
+
+
+> **(Kha)**
+
+> Seyyaṃ jineritanayena budhā labhanti, \
+> Tañcāpi tassa vacanatthasubodhanena;  \
+> Atthañca akkharapadesu amohabhāvā,  \
+> Seyyatthiko padamato vividhaṃ suṇeyyaṃ.  
+
+### First Chapter
+
+
+**(Ka)**
+
+I pay homage to the best in the three worlds, revered by all, \
+to the Buddha and the immaculate Dhamma and the best of communities; \
+I will explain the excellent meaning of the Teacher's words, \
+clearly and with good reasoning, for the benefit of the suttas. 
+
+
+**(Kha)**
+
+The wise ones attain the best sleep through the guidance of the Victor, \
+and also through the complete understanding of the meaning of his words;  \
+The state of non-delusion in the meanings of words and phrases, \
+a scholar of words should listen to the diverse meanings of the words.
+
+---
+<a name="m1"></a>
+
+### 1 (1): Attho akkharasaññāto
+
+> Sabbavacanānamattho akkhareheva saññāyate. 
+
+> Akkharavipattiyaṃ hi atthassa dunnayathā hoti, tasmā akkharakosallaṃ bahūpakāraṃ suttantesu.
+
+### 1 (1): Meaning is denoted by letters
+
+The meaning of all words is denoted by letters only. 
+
+For in the error of letters, the meaning is indeed badly understood, therefore skill in letters is very useful in the suttas.
+
+---
+<a name="m2"></a>
+
+### 2 (2): Akkharāpādayo ekacattālīsaṃ
+
+> Te ca kho akkharā api akārādayo ekacattā līsa suttantesu sopakārā.
+
+> Taṃ yathā? 
+
+> A ā i ī u ū e o, 
+
+> ka kha ga gha ṅa,\
+> ca cha ja jha ña, \
+> ṭa ṭha ḍa ḍha ṇa, \
+> ta tha da dha na, \
+> pa pha ba bha ma, \
+> ya ra la va sa ha ḷa aṃ, 
+
+> iti akkharā nāma.
+
+> Tena kvattho? 
+
+> Attho akkharasaññāto.
+
+### 2 (2): The Alphabet has Forty-Seven Letters
+
+Those letters, starting with a, are forty-seven in the suttas, with their aids.
+
+How is that?
+
+A ā i ī u ū e o, 
+ka kha ga gha ṅa,
+ca cha ja jha ña, 
+ṭa ṭha ḍa ḍha ṇa, 
+ta tha da dha na, 
+pa pha ba bha ma, 
+ya ra la va sa ha ḷa aṃ, 
+
+these are called letters.
+
+What is their purpose?
+
+The meaning is indicated by the letters.
+
+---
+<a name="m3"></a>
+
+### 3 (3): Tatthodantā sarā aṭṭha
+
+> Tattha akkharesu akārādīsu odantā aṭṭha akkharā sarā nāma honti.
+
+> Taṃ yathā? 
+
+> A ā i ī u ū e o, iti sarā nāma.
+
+> Tena kvattho? 
+
+> Sarā sare lopaṃ.
+
+3 (3): Therein, the eight vowels are called sounds.
+
+There, among the letters, the vowels starting from "a" are called the eight sounds.
+
+How is that?
+
+A, ā, i, ī, u, ū, e, o, these are called sounds.
+
+What is its purpose?
+
+Sounds lose their sound in combination.
+
+---
+<a name="m4"></a>
+
+### 4 (4): Lahumattā tayo rassā
+
+> Tattha aṭṭhasu saresu lahumattā tayo sarā rassā nāma honti.
+
+> Taṃ yathā? 
+
+> A i u, iti rassā nāma.
+
+> Tena kvattho? 
+
+> Rassaṃ.
+
+## translation
+### 4 (4): For the light (consonants) there are three sorts of rasses
+
+There, in the eight suras, for the light (consonants) there are three sorts of rasses, namely.
+
+How is that? 
+
+A i u, these are called rasses.
+
+What is their object? 
+
+The rassa.
+
+---
+<a name="m5"></a>
+
+### 5 (5): Aññe dīghā
+
+> Tattha aṭṭhasu saresu rassehi aññe pañca sarā dīghā nāma honti.
+
+> Taṃ yathā? 
+
+> Ā ī ū e o, iti dīghā nāma.
+
+> Tena kvattho? 
+
+> Dīghaṃ.
+
+There, among the eight sounds, the five other sounds, namely, long sounds are called dīghā.
+
+How is that?
+
+Ā, ī, ū, e, o, these are called long sounds.
+
+What is their derivative?
+
+Dīghaṃ.
+
+---
+<a name="m6"></a>
+
+### 6 (8): Sesā byañjanā
+
+> Ṭhapetvā aṭṭha sare sesā akkharā kakārādayo niggahitantā byañjanā nāma honti.
+
+> Taṃ yathā? 
+
+> Ka kha ga gha ṅa, \
+> ca cha ja jha ña, \
+> ṭa ṭha ḍa ḍha ṇa, \
+> ta tha da dha na, \
+> pa pha ba bha ma, \
+> ya ra la va sa ha ḷa aṃ, 
+
+> iti byañjanā nāma.
+
+> Tena kvattho? 
+
+> Sarā pakati byañjane.
+
+### 6 (8): Sesā byañjanā
+
+Having removed the eight vowels, the remaining consonants, which have the niggahita, are called byañjanā.
+
+How is that? 
+
+Ka kha ga gha ṅa, 
+ca cha ja jha ña, 
+ṭa ṭha ḍa ḍha ṇa, 
+ta tha da dha na, 
+pa pha ba bha ma, 
+ya ra la va sa ha ḷa aṃ, 
+
+these are called byañjanā.
+
+What is its purpose? 
+
+Vowels are inherent in consonants by nature.
+
+---
+<a name="m7"></a>
+
+### 7 (9): Vaggā pañcapañcaso mantā
+
+> Tesaṃ kho byañjanānaṃ kakārādayo makārantā pañcapañcaso akkharavanto vaggā nāma honti.
+
+> Taṃ yathā? 
+
+> Ka kha ga gha ṅa, \
+> ca cha ja jha ña, \
+> ṭa ṭha ḍa ḍha ṇa, \
+> ta tha da dha na, \
+> pa pha ba bha ma, 
+
+> iti vaggā nāma.
+
+> Tena kvattho? 
+
+> Vaggantaṃ vā vagge.
+
+7 (9): The groups of fifty consonants are called classes
+
+Those consonants, beginning with ka and ending with ma, in groups of fifty, are called classes.
+
+How is that?
+
+Ka, kha, ga, gha, ṅa, 
+ca, cha, ja, jha, ña, 
+ṭa, ṭha, ḍa, ḍha, ṇa, 
+ta, tha, da, dha, na, 
+pa, pha, ba, bha, ma, 
+
+are called classes.
+
+What is the purpose of that?
+
+A class-ending or in a class.
+
+---
+<a name="m8"></a>
+
+### 8 (10): Aṃ iti niggahitaṃ
+
+> Aṃ iti niggahitaṃ nāma hoti.
+
+> Tena kvattho? 
+
+> Aṃ byañjane niggahitaṃ.
+
+8 (10): "M" is called niggahita
+
+"M" is called niggahita indeed.
+
+What is the purpose of that? 
+
+The "M" is niggahita in the consonant.
+
+---
+<a name="m9"></a>
+
+### 9 (11): Parasamaññā payoge
+
+> Yā ca pana paresu sakkataganthesu samaññā ghosāti vā aghosāti vā, tā payoge sati etthāpi yujjante.
+
+> Tattha ghosā nāma-
+
+> ga gha ṅa,\
+> ja jha ña, \
+> ḍa ḍha ṇa, \
+> da dha na, \
+> ba bha ma, \
+> ya ra la va ha ḷa, 
+
+> iti ghosā nāma. 
+
+> Aghosā nāma-
+
+> ka kha, \
+> ca cha, \
+> ṭa ṭha, \
+> ta tha, \
+> pa pha, \
+> sa, 
+
+> iti aghosā nāma.
+
+> Tena kvattho? 
+
+> Vagge ghosāghosānaṃ tatiyapaṭhamā.
+
+### 9 (11): Application of Parasamaññā
+
+Whatever terms of address are used for others, whether polite or impolite, are also suitable in this context when applied.
+
+There, the voiced sounds are-
+
+ga gha ṅa,
+ja jha ña,
+ḍa ḍha ṇa,
+da dha na,
+ba bha ma,
+ya ra la va ha ḷa,
+
+these are called voiced sounds.
+
+The voiceless sounds are-
+
+ka kha,
+ca cha,
+ṭa ṭha,
+ta tha,
+pa pha,
+sa,
+
+these are called voiceless sounds.
+
+What is the purpose of this?
+
+In a sentence, the third and fourth of voiced and voiceless sounds.
+
+---
+<a name="m10"></a>
+
+### 10 (12): Pubbamadhoṭhita massaraṃ sarena viyojaye
+
+> Tattha sandhiṃ kattukāmo pubbabyañjanaṃ adhoṭhitaṃ assaraṃ katvā sarañca upari katvā sarena viyojaye.
+
+> Tatrāyamādi.
+
+## translation
+### 10 (12): Previously, the consonant group is separated by a vowel
+
+There, one who wants to form a sandhi, having made the preceding consonant low and the following consonant unlow, and having made the vowel above, separates by a vowel.
+
+This is the rule.
+
+---
+<a name="m11"></a>
+
+### 11 (14): Naye paraṃ yutte
+
+> Assaraṃ kho byañjanaṃ adhoṭhataṃ parakkharaṃ naye yutte. 
+
+> Tatrābhiratimiccheyya.
+
+> Yuttetikasmā? 
+
+> Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me. 
+
+> Ettha pana yuttaṃ na hoti.
+
+11 (14): In a logical statement 
+
+Indeed, the consonant is pronounced with a low tone, the consonant after it with a high tone in a logical statement. 
+
+There is a desire for a higher tone.
+
+Why is it called 'yutta'? 
+
+You abused me, limited me, beat me, struck me. 
+
+But here it is not called 'yutta'.
+
+---
+
+> *Iti sandhikappe paṭhamo kaṇḍo.*
+
+11 (14): In the case of a logical conclusion
+
+Indeed, the consonant assaraṃ is placed below the consonant parakkharaṃ in a logical conclusion.
+
+There is a desire for a higher tone.
+
+Why is it called yutta?
+
+You abused me, limited me, beat me, and struck me.
+
+But here it is not called yutta.
+
+*Thus ends the first chapter on sandhi.*
+
+---
+
+### Dutiyakaṇḍa
+
+<a name="m12"></a>
+
+### 12 (13): Sarā sare lopaṃ
+
+> Sarā kho sare pare lopaṃ papponti.
+
+> Yassindriyāni samathaṅgatāni. 
+
+> No hetaṃ bhante 
+
+> sametāyasmā saṅghena.
+
+12 (13): The Sarā (letters) lose their Sarā (sound)
+
+The Sarā indeed lose their Sarā sound on others.
+
+When the faculties are well-established.
+
+This is not so, venerable sir, 
+
+together with the venerable community.
+
+---
+<a name="m13"></a>
+
+### 13 (15): Vā paro asarūpā
+
+> Saramhā asarūpā paro saro lopaṃ pappoti vā.
+
+> Cattāro’me bhikkhave dhammā, 
+
+> kinnu’ māvasamaṇiyo. 
+
+> Vāti kasmā? 
+
+> Pañcindriyāni, 
+
+> tayassu dhammā jahitā bhavanti.
+
+13 (15): Or the other is formless
+
+The formless one obtains the disappearance of form or the other.
+
+These four things, monks, 
+
+what are they, monk?
+
+Why the "or"? 
+
+The five faculties, 
+
+those things are abandoned in him.
+
+---
+<a name="m14"></a>
+
+### 14 (16): Kvacāsacaṇṇaṃ lutte
+
+> Saro kho paro pubbasare lutte kvaci asavaṇṇaṃ pappoti.
+
+> Saṅkhyaṃ nopeti vedagū, 
+
+> bandhusseva samāgamo.
+
+> Kvacīti kasmā? 
+
+> Yassindriyāni, 
+
+> tathūpamaṃ dhammavaraṃ adesayi.
+
+14 (16): Occasionally to the naked 
+
+A monk indeed, in the early morning, occasionally gets an impure color.
+
+The sage does not reach a number, 
+
+the coming together is like a relative.
+
+Why occasionally? 
+
+For one whose faculties are thus, 
+
+he teaches the excellent dhamma in like manner.
+
+---
+<a name="m15"></a>
+
+### 15 (17): Dīghaṃ
+
+> Saro kho paro pubbasare lutte kvaci dīghaṃ pappoti. 
+
+> Saddhīdha vittaṃ purisassa seṭṭhaṃ, 
+
+> anāgārehi cūbhayaṃ.
+
+> Kvacīti kasmā? 
+
+> Pañcahupāli aṅgehi samannāgato. 
+
+> Natthaññaṃ kiñci.
+
+15 (17): Dīghaṃ
+
+A particle indeed, in the previous period, when elided, sometimes becomes long. 
+
+Faith is the wealth of a man, the best, 
+
+in both laymen and monks.
+
+Why 'sometimes'? 
+
+Because it is provided with five exceptions. 
+
+There is nothing else.
+
+---
+<a name="m16"></a>
+
+### 16 (18): Pubbo ca
+
+> Pubbo ca saro parasaralope kate kvaci dīghaṃ pappoti.
+
+> Kiṃsūdha vittaṃ purisassa seṭṭhaṃ, 
+
+> sādhūti paṭissuṇitvā, 
+
+> kvacīti kasmā? 
+
+> Itissa muhuttampi.
+
+16 (18): Pubbo ca
+
+Previously, a vowel and a consonant having been combined, sometimes a long (vowel) is obtained.
+
+What is the wealth of a man, the best? 
+
+Having answered "good speech", 
+
+where is "sometimes"? 
+
+For a moment, of such a man.
+
+---
+<a name="m17"></a>
+
+### 17 (19): Yamedantassādeso
+
+> Ekārassa antabhūtassa sare pare kvaci yakārādeso hoti.
+
+> Adhigato kho myāyaṃ dhammo, 
+
+> tyāhaṃ evaṃ vadeyyaṃ, 
+
+> tyāssa pahīnā honti.
+
+> Kvacīti kasmā? 
+
+> Ne’nāgatā, 
+
+> iti nettha.
+
+17 (19): Yamedantassādeso
+
+Of the internal ekāra that has become the end, sometimes the yakāra substitution occurs.
+
+This doctrine has been understood by me, 
+
+thus I would speak, 
+
+thus those are abandoned by him.
+
+Sometimes, why? 
+
+Because they are not to be come, 
+
+thus it is not so.
+
+---
+<a name="m18"></a>
+
+### 18 (20): Vamodudantānaṃ
+
+> Okārukārānaṃ antabhūtānaṃ sare pare kvaci vakārādeso hoti.
+
+> Atha khvassa, 
+
+> svassa hoti, 
+
+> bahvābādho, 
+
+> vatthvettha vihitaṃ niccaṃ cakkhāpāthamāgacchati.
+
+> Kvacītikasmā? 
+
+> Cattāro’me bhikkhave dhammā, 
+
+> kinnumāva samaṇiyo.
+
+### 18 (20): Vamodudantānaṃ
+
+Of the Okārukārānaṃ that have become internal, sometimes the substitute of "va" is found at the end.
+
+Then indeed, 
+
+it is its own,
+
+there is much danger,
+
+the constant eye-salve prescribed for the skin is applied.
+
+From what reason?
+
+These four things, monks, 
+
+are like a ascetic.
+
+---
+<a name="m19"></a>
+
+### 19 (22): Sabbo caṃti
+
+> Sabbo icceso tisaddo byañjano sare pare kvaci cakāraṃ pappoti.
+
+> Iccetaṃ kusalaṃ, iccassa vacanīyaṃ, paccuttaritvā, paccāharati.
+
+> Kvacīti kasmā? 
+
+> Itissa muhuttampi.
+
+19 (22): Sabbo caṃti
+
+Everything is called a word when three sounds or a vowel and a consonant and a visarga are obtained somewhere.
+
+It is called "iccessa" when it is good, "iccessa" is to be spoken, having answered, having brought.
+
+Why "somewhere"? 
+
+Because of (the word) "itissa" for a moment.
+
+---
+<a name="m20"></a>
+
+### 20 (27): Do dhassa ca
+
+> Dhaiccetassa sare pare kvaci dakārādeso hoti.
+
+> Ekamidāhaṃ bhikkhave samayaṃ.
+
+> Kvacīti kasmā? 
+
+> Idheva maraṇaṃ bhavissati.
+
+> Vaggahaṇena dhakārassa hakārādeso hoti sāhu dassana mariyānaṃ.
+
+> Suttavibhāgena bahudhā siyā-
+
+> To dassa, yathā? Sugato.
+
+> Ṭo tassa, yathā? Dukkaṭaṃ.
+
+> Dho tassa, yathā? Gandhabbo.
+
+> Tro ttassa, yathā? Atrajo.
+
+> Ko gassa, yathā? Kulūpako.
+
+> Lo rassa, yathā? Mahāsālo.
+
+> Jo yassa, yathā? Gavajo.
+
+> Bbo vissa, yathā? Kubbato.
+
+> Ko yassa, yathā? Sake.
+
+> Yo jassa, yathā? Niyaṃputtaṃ.
+
+> Ko tassa, yathā? Niyako.
+
+> Cco ttassa, yathā bhacco.
+
+> Pho passa, yathā? Nipphatti.
+
+> Kho kassa, yathā? Nikkhamati. 
+
+> Iccevamādī yojetabbā.
+
+20 (27): Of dhassa also
+
+For dhaiccetassa, in some cases, the substitute dakāra is used.
+
+There is one instance, monks.
+
+Why 'in some cases'? 
+
+Here death will occur.
+
+By the rule of substitution, the substitute hakāra is used for dhakāra, as seen in the example of death.
+
+In the analysis of the sutta, it becomes many -
+
+What is that instance, namely? The Sugato.
+
+What is that of it, namely? Dukkaṭaṃ.
+
+What is its dh, namely? Gandhabbo.
+
+What is its tr, namely? Atrajo.
+
+What is its k, namely? Kulūpako.
+
+What is its l, namely? Mahāsālo.
+
+What is its j, namely? Gavajo.
+
+What is its bb, namely? Kubbato.
+
+What is its k, namely? Sake.
+
+What is its y, namely? Niyaṃputtaṃ.
+
+What is its k, namely? Niyako.
+
+What is its cc, namely? Bhacco.
+
+What is its ph, namely? Nipphatti.
+
+What is its kh, namely? Nikkhamati.
+
+Such and similar ones should be connected.
+
+---
+<a name="m21"></a>
+
+### 21 (21): Ivaṇṇo yaṃ navā
+
+> Pubbo ivaṇṇo sare pare yakāraṃ pappoti navā. 
+
+> Paṭisunthāravutyassa, 
+
+> sabbā vityānubhūyate.
+
+> Navāti kasmā? 
+
+> Pañcahaṅgehi samannāgato, muttacāgī anuddhato.
+
+21: Like a boat that is new
+
+A boat that was old becomes new when it gets a new yakāraṃ at the front and back. 
+
+Because of the thorough examination, 
+
+all the components are understood.
+
+Why is it new? 
+
+It is endowed with the five components, released and unobstructed.
+
+---
+<a name="m22"></a>
+
+### 22 (28): Evādissa ri pubbo ca rasso
+
+> Saramhā parassa evassa ekārassa ādissa rikāro hoti, pubbo ca saro rasso hoti navā.
+
+> Yathariva vasudhātalañca sabbaṃ, 
+
+> tathariva guṇavā supūjaniyo.
+
+> Navāti kasmā? 
+
+> Yathā eva, tathā eva.
+
+22 (28): Thus with "i" and the preceding (sound) being short
+
+When "i" is before a single consonant of another (word), "r" is placed before it, and the preceding sound becomes short, it is new.
+
+Just as the earth and all (else) are 
+
+to be honored in the same way as one of great virtue.
+
+Why is it new? 
+
+Just as it is, so it is.
+
+---
+
+> _Iti sandhikappe dutiyo kaṇḍo._
+
+### 22 (28): Thus with 'ri' initially and 'r' afterwards
+
+When 'ri' with 'e' or 'o' is the initial, 'r' becomes 'rikāra', and the preceding sound becomes 'rassa' newly.
+
+Like the earth and all else, 
+
+thus also is one who has virtues to be revered.
+
+Why newly? 
+
+Just as it is, so it is.
+
+
+_Thus the second chapter on sandhi._
+
+---
+
+### Tatiyakaṇḍa
+
+<a name="m23"></a>
+
+### 23 (26): Sarā pakati byañjane
+
+> Sarā kho byañjane pare pakatirūpāni honti.
+
+> Manopubbaṅgamā dhammā, 
+
+> pamādo maccuno padaṃ, 
+
+> tiṇṇo pāraṅgato ahu.
+
+23 (26): Sarā in Inherent Qualities
+
+Inherent qualities are indeed the characteristics of qualities.
+
+Mental precursors are the things, 
+
+heedlessness is the domain of death, 
+
+one who has crossed the flood is called.
+
+---
+<a name="m24"></a>
+
+### 24 (35): Sare kvaci
+
+> Sarā kho sare pare kvaci pakatirūpāni honti.
+
+> Ko imaṃ pathaviṃ vicessati.
+
+> Kvacīti kasmā? 
+
+> Appassutāyaṃ puriso.
+
+24 (35): Sare kvaci
+
+All sounds are sounds in some cases, naturally.
+
+Who will distinguish this earth?
+
+Why 'in some cases'? 
+
+Because the man is not learned.
+
+---
+<a name="m25"></a>
+
+### 25 (37): Dīghaṃ
+
+> Sarā kho byañjane pare kvaci dīghaṃ papponti.
+
+> Sammā dhammaṃ vipassato,
+ 
+> evaṃ gāme munī care,
+ 
+> khantī paramaṃ tapo titikkhā.
+
+> Kvacīti kasmā? 
+
+> Idha modati pecca modati, 
+
+> patilīyati, 
+
+> paṭihaññati.
+
+## translation
+### 25 (37): Long
+
+Vowels, indeed, in some places become long after consonants.
+
+While contemplating the right doctrine,
+
+thus the sage wanders in the village,
+
+patience is the highest asceticism, tolerance.
+
+Why 'in some places'? 
+
+Here one delights, afterwards delights, 
+
+is pleased, 
+
+and rejoices.
+
+---
+<a name="m26"></a>
+
+### 26 (38): Rassaṃ
+
+> Sarā kho byañjane pare kvaci rassaṃ papponti.
+
+> Bhovādināma so hoti, 
+
+> yathābhāvi guṇena so.
+
+> Kvacīti kasmā? 
+
+> Sammāsamādhi, 
+
+> sāvittī chandaso mukhaṃ, 
+
+> upanīyati jīvitamappamāyu.
+
+26 (38): Short (Rassaṃ)
+
+The vowels are shortened in some places by the grammarians.
+
+It becomes Bhovādin, 
+
+as it is, with the quality.
+
+Why 'some places'? 
+
+Sammāsamādhi, 
+
+the beginning of the Sāvittī meter, 
+
+and the word 'jīvitamappamāyu'.
+
+---
+<a name="m27"></a>
+
+### 27 (39): Lopañca tatrākāro
+
+> Sarā kho byañjane pare kvaci lopaṃ papponti. Tatra ca lope kate akārāgamo hoti.
+
+> Sa sīlavā.
+ 
+> Sa paññavā 
+
+> esa dhammo sanantano, 
+
+> sa ve kasāvamarahati, 
+
+> sa mānakāmopi bhaveyya, 
+
+> sa ve muni jātibhayaṃ adassi.
+
+> Kvacīti kasmā? 
+
+> So muni, 
+
+> eso dhammo padissati, 
+
+> na so kāsāvamarahati.
+
+### 27 (39): Lopañca tatrākāro
+
+Vowels are indeed elided in some places after consonants. And when elision is done there, the augment of 'a' is added.
+
+He is virtuous.
+ 
+He is wise.
+
+This Dhamma is eternal,
+
+he wears worn-out robes,
+
+he might even be a Brahmin,
+
+he indeed is a sage who does not see fear of birth.
+
+Why 'in some places'? 
+
+That sage,
+
+this Dhamma will be proclaimed,
+
+he does not wear worn-out robes.
+
+---
+<a name="m28"></a>
+
+### 28 (40): Para dvebhāvo ṭhāne
+
+> Saramhā parassa byañjanassa dvebhāvo hoti ṭhāne.
+
+> Idhappamādo, 
+
+> purisassa jantuno, 
+
+> pabbajjaṃ kittayissāmi, 
+
+> cātuddasi, pañcaddasi, 
+
+> abhikkantataro cando.
+
+> Ṭhāneti kasmā? 
+
+> Idha modati pecca modati.
+
+## translation
+### 28 (40): The Two States in the Locative
+
+There are two states of the locative of another consonant.
+
+For example, 
+
+of a man, 
+
+I will declare the going forth, 
+
+on the fourteenth, on the fifteenth, 
+
+the moon is past its zenith.
+
+Why "in the locative"? 
+
+Here, he delights and afterwards delights.
+
+---
+<a name="m29"></a>
+
+### 29 (42): Vagge ghosāghosānaṃ tatiyapaṭhamā
+
+> Vagge kho pubbesaṃ byañjanānaṃ ghosāghosabhūtānaṃ saramhā yathāsaṅkhyaṃ tatiyapaṭhamakkharā dvebhāvaṃ gacchanti ṭhāne.
+
+> Eseva cajjhānapphalo, 
+
+> yatraṭṭhitaṃ 
+
+> nappasaheyya maccu, 
+
+> sele yathā pabbatamuddhaniṭṭhito, 
+
+> cattāriṭṭhānāni naro pamatto.
+
+> Ṭhāneti kasmā? 
+
+> Idha cetaso daḷhaṃ gaṇhāti thāmasā.
+
+29 (42): In a sentence, the third and fourth consonants of ghosāghosāna
+
+In a sentence, indeed, the preceding consonants which are ghosāghosabhūtānaṃ, in sequence, according to their number, the third and fourth letters have a double nature in a place.
+
+This is the result of spiritual cultivation, 
+
+where one stands, 
+
+death cannot overcome, 
+
+like a rock on the mountain peak, 
+
+a man who is heedless has four standings.
+
+Why 'in a place'? 
+
+Because here the mind grasps firmly with thāmasā.
+
+---
+
+> *Iti sandhikappe tatiyo kaṇḍo.*
+
+### 29 (42): In a Section, the Third and Fourth of the Ghosāghosāna
+
+In a section, indeed, of the preceding consonants which are ghosāghosabhūtānaṃ, two letters, according to their number, in the third and fourth place, go to two states in a position.
+
+This is the result of neglect, 
+
+where death is standing, 
+
+death cannot be endured, 
+
+like a mountain standing on a rock, 
+
+a man is negligent in four positions.
+
+Why 'in a position'? 
+
+Because here the mind grasps strongly due to thāmasā.
+
+*Thus ends the third chapter on sandhi.*
+
+---
+
+### Catutthakaṇḍa
+
+<a name="m30"></a>
+
+### 30 (58): Aṃ byañjane niggahitaṃ
+
+> Niggahitaṃ kho byañjane pare aṃ iti hoti.
+
+> Evaṃ vutte, 
+
+> taṃ sādhūti paṭissuṇitvā.
+
+## translation
+### 30 (58): Aṃ with consonants is nasalized
+
+Nasalized indeed with consonants, 'aṃ' becomes so.
+
+Thus spoken, 
+
+that was approved and acknowledged.
+
+---
+<a name="m31"></a>
+
+### 31 (49): Vaggantaṃ vā vagge
+
+> Vaggabhūte byañjane pare niggahitaṃ kho vaggantaṃ vā pappoti.
+
+> Tanniccutaṃ, 
+
+> dhammañcare sucaritaṃ, 
+
+> cirappavāsiṃ purisaṃ. 
+
+> Santantassa manaṃ hoti, 
+
+> taṅkāruṇikaṃ, 
+
+> evaṅkho bhikkhave sikkhitabbaṃ.
+
+> Vāggahaṇenaniggahitaṃ kho lakārādeso hoti. 
+
+> Puggalaṃ.
+
+> Vāti kasmā? 
+
+> Na taṃ kammaṃ kataṃ sādhu.
+
+31 (49): At the End of a Section or in a Section
+
+When a word that is a vowel or has a vowel sound at the end is followed by another word, the end of the section is indeed either cut off or elided.
+
+Of one who has a steadfast mind, 
+who has good conduct in the pursuit of dhamma, 
+who has lived a long time as a man. 
+The mind of one who is consistent is compassionate, 
+this, monks, is to be learned.
+
+The cutting off of the end of a word is not cut off by the mark of the syllable or the like. 
+The person. 
+Why is it cut off? 
+That action was not done well.
+
+---
+<a name="m32"></a>
+
+### 32 (50): Ehe uṃ
+
+> Ekārahakāre pare niggahitaṃ kho ñakāraṃ pappoti vā.
+
+> Paccattaññeva parinibbāyissāmi, \
+> taññevettha paṭipucchissāmi, \
+> evañhi vo bhikkhave sikkhitabbaṃ. \
+> Tañhi tassa musā hoti.
+
+> Vāti kasmā? 
+
+> Evametaṃ abhiññāya, \
+> evaṃ hoti subhāsitaṃ.
+
+### 32 (50): Come 
+
+When the nasal sound is upon a single "ṃ" sound, the ñ sound is also obtained.
+
+I will be fully enlightened by myself, 
+I will ask you about that, 
+this is how you should train, monks.
+For that is his deception.
+
+Why is it thus? 
+
+Having known thus, 
+the well-spoken word is thus.
+
+---
+<a name="m33"></a>
+
+### 33 (51): Sa ye ca
+
+> Niggahitaṃ kho yakāre pare saha yakārena ñakāraṃ pappoti vā.
+
+> Saññogo, \
+> saññuttaṃ.
+
+> Vāti kasmā? 
+
+> Saṃyogo, \
+> saṃyuttaṃ.
+
+33 (51): Whatever 
+
+The dropped "y" together with the following "y" makes a "ñ" or a "ṇ".
+
+Connection, 
+connected.
+
+Or why? 
+
+Association, 
+associated.
+
+---
+<a name="m34"></a>
+
+### 34 (52): Madā sare
+
+> Niggahitassa kho sare pare makāradakārādesā honti vā.
+
+> Tamahaṃ brūmi brāhmaṇaṃ, 
+
+> etadavoca satthā.
+
+> Vāti kasmā? 
+
+> Akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me.
+
+### 34 (52): Madā sare
+
+The consonants following a niggahita are pare, makāradakārādesā, if they exist.
+
+I call him a brahmin, 
+
+thus the teacher spoke.
+
+Why is it so? 
+
+You abused me, hindered me, beat me, and humiliated me.
+
+---
+<a name="m35"></a>
+
+### 35 (34): Ya va ma da na ta ra lā cāgamā
+
+> Sare pare yakāro vakāro makāro dakāro nakāro takāro rakāro lakāro ime āgamā honti vā.
+
+> Nayimassa vijjā, \
+> yathayidaṃ cittaṃ. 
+
+> Migī bhantā vudikkhati, \
+> sittā te lahu messati, \
+> asittā te garu messati. 
+
+> Asso bhadro kasāmiva, \
+> sammadaññā vimuttānaṃ. 
+
+> Manasādaññā vimuttānaṃ, \
+> attadatthamabhiññāya. 
+
+> Ciraṃnāyati, \
+> ito nāyati. 
+
+> Yasmātiha bhikkhave, \
+> tasmātiha bhikkhave, \
+> ajjatagge pāṇupetaṃ. 
+
+> Sabbhireva samāsetha, \
+> āraggeriva sāsapo, \
+> sāsaporiva āraggā. 
+
+> Chaḷabhiññā, \
+> saḷāyatanaṃ.
+
+> Vāti kasmā? 
+
+> Evaṃ mahiddhiyā esā, 
+
+> akkocchi maṃ avadhi maṃ, ajini maṃ ahāsi me, \
+> ajeyyo anugāmiko.
+
+> Caggahaṇena idheva makārassa pakāro hoti. 
+
+> Cirappavāsiṃ purisaṃ.
+
+> Kakārassa ca dakāro hoti. 
+
+> Sadatthapasuto siyā.
+
+> Dakārassa ca takāro hoti, 
+
+> sugato.
+
+35 (34): Ya va ma da na ta ra lā cāgamā
+
+These āgamas are ya, va, ma, da, na, ta, ra, lā, and they can be either honti or vā.
+
+Of this knowledge, 
+as the mind is thus.
+
+The deer, sir, is frightened, 
+the seated ones will laugh at you, 
+the seated ones will honor you.
+
+The good horse is like a plow, 
+for the fully understood and liberated.
+
+For those liberated by understanding the mind, 
+having understood one's own benefit.
+
+It delays for a long time, 
+it delays from this.
+
+Whatever from that, monks, 
+whatever from that, monks, 
+the foot is placed on the ground.
+
+All are brought together, 
+like a hare and a bird, 
+like a bird and a hare.
+
+The six higher knowledges, 
+the six sense-spheres.
+
+Why is it said? 
+
+Thus is the great power of this, 
+
+do not insult me, do not scold me, do not beat me, do not humiliate me, 
+I am unconquerable, a follower.
+
+By the taking of c, the pakāra of makāra becomes here.
+
+A man who has lived a long time.
+
+The dakāra also becomes kakāra.
+
+One who is skilled in the good.
+
+The takāra also becomes dakāra, 
+
+the well-gone one.
+
+---
+<a name="m36"></a>
+
+### 36 (47): Kvaci o byañjane
+
+> Byañjane pare kvaci okārāgamo hoti.
+
+> Atippago kho tāva sāvatthiyaṃ piṇḍāya carituṃ. 
+
+> Parosahassaṃ.
+
+> Kvacīki kasmā? 
+
+> Etha passathimaṃ lokaṃ, 
+
+> andhībhūto ayaṃ loko.
+
+## translation
+### 36 (47): In Any Case, Concerning the Letter
+
+In the case of a letter, the augment is sometimes added to the beginning.
+
+The one who begs is indeed going to Savatthi for alms.
+
+A thousand miles away.
+
+Why sometimes?
+
+Look at this world, 
+
+this world is blind.
+
+---
+<a name="m37"></a>
+
+### 37 (57): Niggahitañca
+
+> Niggahitañcāgamo hoti sare vā byañjane vā pare kvaci.
+
+> Cakkhuṃudapādi, \
+> avaṃsiro, \
+> yāvañcidha bhikkhave purimaṃ jātiṃ sarāmi, \
+> aṇuṃthūlāni sabbaso, \
+> manopubbaṅgamā dhammā.
+
+> Kvacīti kasmā? 
+
+> Idheva naṃ pasaṃsanti, \
+> pecca sagge pamodati, \
+> na hi etehi yānehi, \
+> gaccheyya agataṃ disaṃ.
+
+> Caggahaṇena visaddassa ca pakāro hoti. 
+
+> Pacessati, vicessati vā.
+
+### 37 (57): Niggahitañca
+
+The word with niggahita is also an exception in the case of 's' or 'v' or elsewhere.
+
+Eye-lid, 
+nose-hair, 
+as far as, monks, I remember my past births, 
+extremely small, 
+mind-preceded phenomena.
+
+Why 'elsewhere'? 
+
+For here they praise the name, 
+and after death rejoice in heaven, 
+for with these vehicles one 
+would not go to an unvisited region.
+
+The usage of 'c' is clear and the expression is also clear. 
+
+He will reach or he will investigate.
+
+---
+<a name="m38"></a>
+
+### 38 (53): Kvaci lopaṃ
+
+> Niggahitaṃ kho sare pare kvaci lopaṃ pappoti.
+
+> Tāsāhaṃ santike, 
+
+> vidūnaggamiti.
+
+> Kvacīti kasmā? 
+
+> Ahameva nūna bālo 
+
+> etamatthaṃ viditvāna.
+
+## translation
+### 38 (53): Kvaci lopaṃ
+
+The niggahita is sometimes dropped at the end of a word.
+
+In the vicinity of those, 
+
+it is called vidūna-gga.
+
+Why 'sometimes'? 
+
+I, being foolish, 
+
+have known this meaning.
+
+---
+<a name="m39"></a>
+
+### 39 (54): Byañjane ca
+
+> Niggahitaṃ kho byañjane pare kvaci lopaṃ pappoti.
+
+> Ariyasaccānadassanaṃ, 
+
+> etaṃ buddhānasāsanaṃ.
+
+> Kvacīti kasmā? 
+
+> Etaṃ maṅgalamuttamaṃ, 
+
+> taṃ vo vadāmi bhaddante.
+
+39 (54): And in the case of consonants
+
+The stopped one, indeed, in the case of consonants, sometimes obtains the loss.
+
+The vision of the noble truth, 
+
+this is the doctrine of the Buddhas.
+
+Sometimes, why? 
+
+This is the highest blessing, 
+
+this I tell you, gentlemen.
+
+---
+<a name="m40"></a>
+
+### 40 (55): Paro vāsaro
+
+> Niggahitamhā paro saro lopaṃ pappoti vā.
+
+> Bhāsitaṃ abhinandunti, \
+> uttattaṃva, \
+> yathābījaṃva, \
+> yathādhaññaṃva.
+
+> Vāti kasmā? 
+
+> Ahameva nūna bālo, \
+> etadahosi.
+
+### 40 (55): The Other is a Season
+
+The other is a season, the niggahita is lost, or it is obtained.
+
+They praise what is spoken, 
+as if expanded, 
+like a seed, 
+like grain.
+
+Why the season? 
+
+Am I a fool now, 
+thus I think.
+
+---
+<a name="m41"></a>
+
+### 41 (56): Byañjano ca visaññogo
+
+> Niggahitamhā parasmiṃ sare lutte yadi byañjano sasaññogo visaññogo hoti.
+
+> Evaṃsa te āsavo, 
+
+> pupphaṃsā uppajji.
+
+> Lutteti kasmā? 
+
+> Evamassa vidūnaggamiti.
+
+> Caggahaṇena tiṇṇaṃ byañjanānamantare ye sarūpā, tesampi lopo hoti. 
+
+> Agyāgāraṃ, 
+
+> paṭisanthāravutyassa.
+
+41 (56): A consonant is also without a perceptible object
+
+When a consonant with a visible object is in another's domain, if the consonant is without a perceptible object.
+
+Just like the residues, 
+
+the flowers arise.
+
+Why is it said to be released?
+
+Because it is known to be released thus.
+
+By the elision of the three consonants, those similar ones in between are also elided.
+
+In the non-home,
+
+of the dependent on the paṭisanthāra.
+
+---
+
+> *Iti sandhikappe catuttho kaṇḍo.*
+
+41 (56): A consonant is also without a perceptible object
+
+When a consonant with a visible object is in another place, if the consonant is without a perceptible object.
+
+Just like the threads, 
+
+the flowers arise.
+
+Why is it said to be cut off? 
+
+It is said because it is not understood.
+
+By the taking away of the three consonants in between, which are similar, their omission also occurs. 
+
+Agyāgāraṃ, 
+
+of Paṭisanthāravutyassa.
+
+*Thus the fourth chapter on sandhi.*
+
+---
+
+### Pañcamakaṇḍa
+
+<a name="m42"></a>
+
+### 42 (32): Gosare puthassāgamo kvaci
+
+> Puthaiccetassa ante sare pare kvaci gakārāgamo hoti.
+
+> Puthage va.
+
+42 (32): Before a consonant cluster, the word "gosara" has a "g" inserted in some cases.
+
+The "g" is inserted before the consonant cluster when it follows "putha" in some cases.
+
+Or before "putha".
+
+---
+<a name="m43"></a>
+
+### 43 (33): Pāssa canto rasso
+
+> Pāiccetassa ante sare pare kvaci gakārāgamo hoti, anto ca saro rasso hoti.
+
+> Pageva vutyassa.
+
+> Kvacīti kasmā? 
+
+> Pā eva vutyassa.
+
+43 (33): Pāssa canto rasso
+
+For five-syllable words, before the last syllable and after, and wherever, the g sound is added, and the last syllable is shortened.
+
+Except at the beginning of a sentence.
+
+Why "wherever"? 
+
+Because it is except at the beginning of a sentence.
+
+---
+<a name="m44"></a>
+
+### 44 (24): Abbho abhi
+
+> Abhiiccetassa sare pare abbhādeso hoti. 
+
+> Abbhudīritaṃ, 
+
+> abbhuggacchati.
+
+44 (24): Abbho abhi
+
+The prefix abbhā is placed before the root when it begins with abhi. 
+
+It is intensified, 
+it approaches.
+
+---
+<a name="m45"></a>
+
+### 45 (25): Ajjho adhi
+
+> Adhiiccetassa sare pare ajjhādeso hoti.
+
+> Ajjhokāse, 
+
+> ajjhāgamā.
+
+45 (25): Ajjho adhi
+
+The locative of the genitive of the word "adhi" is "ajjhādeso".
+
+In the locative case, 
+it becomes "ajjhāgamā".
+
+---
+<a name="m46"></a>
+
+### 46 (26): Te na vā ivaṇṇe
+
+> Te ca kho abhiadhiiccete ivaṇṇe pare abbho ajjhoitivuttarūpā naṃ honti vā.
+
+> Abhicchitaṃ, 
+
+> adhīritaṃ.
+
+> Vāti kasmā? 
+
+> Abbhīritaṃ, 
+
+> ajjhiṇamutto.
+
+46 (26): They are not like the weak
+
+They are indeed called weak in the highest sense, for they are surpassed by others, and are not strong.
+
+Desired, 
+
+respected.
+
+Why? 
+
+Surpassed, 
+
+conquered.
+
+---
+<a name="m47"></a>
+
+### 47 (23): Atissa cantassa
+
+> Atiiccetassa antabhūtassa tisaddassa ivaṇṇe pare ‘‘sabbo caṃ tī’’ti vuttarūpaṃ na hoti.
+
+> Atīsigaṇo, 
+
+> atīritaṃ.
+
+> Ivaṇṇeti kasmā? 
+
+> Accantaṃ.
+
+47 (23): Atissa cantassa
+
+Exceeding the thirty of the antabhūta, the three sibilants, as in "sabbo caṃ tī", the form is not said to be uttered.
+
+Atīsigaṇa, 
+
+atīrita.
+
+Why "ivaṇṇe"? 
+
+Because it is excessive.
+
+---
+<a name="m48"></a>
+
+### 48 (43): Kvaci paṭi patissa
+
+> Patiiccetassa sare vā byañjane vā pare kvaci paṭiādeso hoti.
+
+> Paṭaggi dātabbo, 
+
+> paṭihaññati.
+
+> Kvacīti kasmā? 
+
+> Paccantimesu janapadesu, 
+
+> patilīyati, 
+
+> patirūpadesavāso ca.
+
+48 (43): Wherever there is a repetition
+
+For one who has dependence on the meaning or the syllable, there is a repetition somewhere.
+
+The repetition should be given, 
+
+it is recognized as a repetition.
+
+Why "somewhere"? 
+
+In bordering countries, 
+
+it is repeated, 
+
+and the house of a returned messenger.
+
+---
+<a name="m49"></a>
+
+### 49 (44): Puthassu byañjane
+
+> Puthaiccetassa anto saro byañjane pare ukāro hoti.
+
+> Puthujjano, 
+
+> puthubhūtaṃ.
+
+> Antaggahaṇena aputhassāpi sare pare antassa ukāro hoti.
+
+> manuññaṃ.
+
+49 (44): For the letter in the masculine 
+
+Inside the masculine, the last letter of the word is a consonant and the last consonant after the vowel is an "o".
+
+Ordinary person, 
+
+become ordinary.
+
+By taking the end, even for the non-masculine, the last consonant after the vowel of the end is an "o".
+
+pleasant.
+
+---
+<a name="m50"></a>
+
+### 50 (45): O avassa
+
+> Avaiccetassa byañjane pare kvaci okāro hoti.
+
+> Andhakārena onaddhā.
+
+> Kvacīti kasmā? 
+
+> Avasussatu me sarīre maṃsalohitaṃ.
+
+## translation
+### 50 (45): O avassa
+
+For the consonant that is not a vowel, in some places, "o" becomes "au".
+
+It is obscured by the darkness.
+
+Why "in some places"? 
+
+May my flesh and blood be dried up.
+
+---
+<a name="m51"></a>
+
+### 51 (59): Anupadiṭṭhānaṃ vuttayogato
+
+> Anupadiṭṭhānaṃ upasagganipātānaṃ sarasandhīhi byañjanasandhīhi vuttasandhīhi ca yathāyogaṃ yojetabbaṃ.
+
+> Pāpanaṃ, \
+> parāyaṇaṃ, \
+> upāyanaṃ, \
+> upāhanaṃ, \
+> nyāyogo, \
+> nigupadhi, \
+> anubodho, \
+> duvūpasantaṃ, suvūpasantaṃ, \
+> dvālayo, svālayo, \
+> durākhyātaṃ, svākhyāto, \
+> udīritaṃ, \
+> samuddiṭṭhaṃ, \
+> viyaggaṃ, \
+> vijjhaggaṃ, \
+> byaggaṃ, \
+> avayāgamanaṃ, \
+> anveti, \
+> anupaghāto, \
+> anacchariyaṃ, \
+> pariyesanā, \
+> parāmāso, 
+
+> evaṃ sare ca honti.
+
+> Pariggaho, \
+> paggaho, \
+> pakkamo, \
+> parakkamo, \
+> nikkamo, \
+> nikkasāvo, \
+> nillayanaṃ, \
+> dullayanaṃ, \
+> dumbhikkhaṃ, \
+> dubbuttaṃ, \
+> sandiṭṭhaṃ, \
+> duggaho, \
+> viggaho, \
+> niggato, \
+> abhikkamo, \
+> paṭikkamo, 
+
+> evaṃ byañjane ca. 
+
+> Sesā sabbe yojetabbā.
+
+51 (59): Combination of Unlisted Items
+
+Unlisted items of upasagganipātānaṃ should be combined with sarasandhī, byañjanasandhī, and vuttasandhī as suitable.
+
+Pāpanaṃ, 
+parāyaṇaṃ, 
+upāyanaṃ, 
+upāhanaṃ, 
+nyāyogo, 
+nigupadhi, 
+anubodho, 
+duvūpasantaṃ, suvūpasantaṃ, 
+dvālayo, svālayo, 
+durākhyātaṃ, svākhyāto, 
+udīritaṃ, 
+samuddiṭṭhaṃ, 
+viyaggaṃ, 
+vijjhaggaṃ, 
+byaggaṃ, 
+avayāgamanaṃ, 
+anveti, 
+anupaghāto, 
+anacchariyaṃ, 
+pariyesanā, 
+parāmāso, 
+
+all these are the same.
+
+Pariggaho, 
+paggaho, 
+pakkamo, 
+parakkamo, 
+nikkamo, 
+nikkasāvo, 
+nillayanaṃ, 
+dullayanaṃ, 
+dumbhikkhaṃ, 
+dubbuttaṃ, 
+sandiṭṭhaṃ, 
+duggaho, 
+viggaho, 
+niggato, 
+abhikkamo, 
+paṭikkamo, 
+
+all these are consonants.
+
+The rest are to be combined.
+
+---
+
+> *Iti sandhikappe pañcamo kaṇḍo.*
+
+51 (59): Combination of Unlisted Items
+
+Unlisted items of upasagga and nipāta should be combined with sarasandhi, byañjanasandhi, and vuttasandhi according to their usage.
+
+Pāpanaṃ, 
+parāyaṇaṃ, 
+upāyanaṃ, 
+upāhanaṃ, 
+nyāyogo, 
+nigupadhi, 
+anubodho, 
+duvūpasantaṃ, suvūpasantaṃ, 
+dvālayo, svālayo, 
+durākhyātaṃ, svākhyāto, 
+udīritaṃ, 
+samuddiṭṭhaṃ, 
+viyaggaṃ, 
+vijjhaggaṃ, 
+byaggaṃ, 
+avayāgamanaṃ, 
+anveti, 
+anupaghāto, 
+anacchariyaṃ, 
+pariyesanā, 
+parāmāso, 
+
+all these are the same.
+
+Pariggaho, 
+paggaho, 
+pakkamo, 
+parakkamo, 
+nikkamo, 
+nikkasāvo, 
+nillayanaṃ, 
+dullayanaṃ, 
+dumbhikkhaṃ, 
+dubbuttaṃ, 
+sandiṭṭhaṃ, 
+duggaho, 
+viggaho, 
+niggato, 
+abhikkamo, 
+paṭikkamo, 
+
+all these are consonants.
+
+All the rest should be combined.
+
+*Iti sandhikappe pañcamo kaṇḍo.*
+
+---
+
+> *Sandhikappo niṭṭhito.*
+
+51 (59): The Unmentioned 
+
+The unmentioned upasagganipātānaṃ should be joined with sarasandhī, byañjanasandhī, and vuttasandhī as suitable.
+
+Pāpanaṃ, 
+parāyaṇaṃ, 
+upāyanaṃ, 
+upāhanaṃ, 
+nyāyogo, 
+nigupadhi, 
+anubodho, 
+duvūpasantaṃ, suvūpasantaṃ, 
+dvālayo, svālayo, 
+durākhyātaṃ, svākhyāto, 
+udīritaṃ, 
+samuddiṭṭhaṃ, 
+viyaggaṃ, 
+vijjhaggaṃ, 
+byaggaṃ, 
+avayāgamanaṃ, 
+anveti, 
+anupaghāto, 
+anacchariyaṃ, 
+pariyesanā, 
+parāmāso, 
+
+all these are the same.
+
+Pariggaho, 
+paggaho, 
+pakkamo, 
+parakkamo, 
+nikkamo, 
+nikkasāvo, 
+nillayanaṃ, 
+dullayanaṃ, 
+dumbhikkhaṃ, 
+dubbuttaṃ, 
+sandiṭṭhaṃ, 
+duggaho, 
+viggaho, 
+niggato, 
+abhikkamo, 
+paṭikkamo, 
+
+all these are consonants.
+
+The rest are all to be joined.
+
+*It ends the fifth chapter of the sandhi section.*
+
+*The sandhi section is finished.*
+
+---
+
