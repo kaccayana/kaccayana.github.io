@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Nāmakappa
 ---
 ## 2. **Nāmakappa**

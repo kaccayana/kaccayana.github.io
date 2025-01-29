@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Kārakakappa
 ---
 ## 3. **Kārakakappa**

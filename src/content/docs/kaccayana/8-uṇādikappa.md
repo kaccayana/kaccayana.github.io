@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Uṇādikappa
 ---
 ## 8. **Uṇādikappa**

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Taddhitakappa
 ---
 ## 5. **Taddhitakappa**

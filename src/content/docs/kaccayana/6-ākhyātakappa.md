@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Ākhyātakappa
 ---
 ## 6. **Ākhyātakappa**

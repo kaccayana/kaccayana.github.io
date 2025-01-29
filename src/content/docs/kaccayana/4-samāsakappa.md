@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Samāsakappa
 ---
 ## 4. **Samāsakappa**

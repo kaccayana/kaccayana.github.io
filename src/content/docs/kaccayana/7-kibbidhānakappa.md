@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Kibbidhānakappa
 ---
 ## 7. **Kibbidhānakappa**
