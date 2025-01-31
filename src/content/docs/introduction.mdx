@@ -9,6 +9,8 @@ sidebar:
   order: 1
 ---
 
+import { Badge } from '@astrojs/starlight/components';
+
 ## Context
 
 **Kaccāyana** is the oldest extant Pāli grammar, and was composed around the sixth century CE, most probably in India. It is partly based on **Pāṇini** and **Kātantra**:
@@ -164,85 +166,75 @@ The rules can be classified into four categories, and additional subcategories, 
 
 * `saññā` (technical term)
   * `anvattha` (meaningful)
-    >**8, 10.Aṃiti niggahitaṃ.**
-    >{{< anvattha >}}  
-    >Aṃ iti niggahitaṃ nāma hoti.
+    >**8, 10.Aṃiti niggahitaṃ.** <Badge text="anvattha" variant="note" /> \
+    >Aṃ iti niggahitaṃ nāma hoti. \
     >Tena kvattho? Aṃ byañjane niggahitaṃ.
   * `rūḷhī` (artificial)
-    >**58, 29.Ivaṇṇuvaṇṇā jhalā.**
-    >{{< rulhi >}}  
-    >Ivaṇṇuvaṇṇāiccete jhalasaññā honti yathāsaṅkhyaṃ.
-    >Isino , aggino, gahapatino, daṇḍino. Setuno, ketuno, bhikkhuno. Sayambhuno, abhibhuno.
+    >**58, 29.Ivaṇṇuvaṇṇā jhalā.** <Badge text="rūḷhī" variant="note" /> \
+    >Ivaṇṇuvaṇṇāiccete jhalasaññā honti yathāsaṅkhyaṃ. \
+    >Isino , aggino, gahapatino, daṇḍino. Setuno, ketuno, bhikkhuno. Sayambhuno, abhibhuno. \
     >Jhalaiccanena kvattho? Jhalato sassa no vā.
 * `adhikāra` (domain)
-  * `sīhagatika` (comprehensive)
-    >**52, 60.Jinavacanayuttaṃhi.**
-    >{{< sihagatika >}}  
+  * `sīhagatika` (comprehensive) \
+    >**52, 60.Jinavacanayuttaṃhi.** <Badge text="sīhagatika" variant="caution" />
     >"Jinavacanayuttaṃ hi" iccetaṃ adhikāratthaṃ veditabbaṃ.
   * `maṇḍūkagatika` (selective)
-    >**131, 0.Itthipumanapuṃsakasaṅkhyaṃ.**
-    >{{< mandukagatika >}}  
+    >**131, 0.Itthipumanapuṃsakasaṅkhyaṃ.** <Badge text="maṇḍūkagatika" variant="caution" /> \
     >"Itthipumanapuṃsakasaṅkhyaṃ" iccetaṃ adhikāratthaṃ veditabbaṃ.
   * `yathānupubbika` (progressive)
-    >**413, 427.Kāle.**
-    >{{< yathanupubbika >}}  
+    >**413, 427.Kāle.** <Badge text="yathānupubbika" variant="caution" />
     >"Kāle" iccetaṃ adhikāratthaṃ veditabbaṃ.
 * `paribhāsā` (metarule)
   * `saññaṅga` (definition metarule)
-    >**9, 11.Parasamaññā payoge.**
-    >{{< sannanga >}}  
-    >Yā ca pana paresu sakkataganthesu samaññā ghosāti vā aghosāti vā, tā payoge sati etthāpi yujjante.
-    >Tattha ghosā nāma-ga gha ṅa, ja jha ña, ḍa ḍha ṇa, da dha na, ba bha ma, ya ra la va ha ḷa, iti ghosā nāma. Aghosā nāma-ka kha, ca cha, ṭa ṭha, ta tha, pa pha, sa, iti aghosā nāma.
+    >**9, 11.Parasamaññā payoge.** <Badge text="saññaṅga" variant="tip" /> \
+    >Yā ca pana paresu sakkataganthesu samaññā ghosāti vā aghosāti vā, tā payoge sati etthāpi yujjante. \
+    >Tattha ghosā nāma-ga gha ṅa, ja jha ña, ḍa ḍha ṇa, da dha na, ba bha ma, ya ra la va ha ḷa, iti ghosā nāma. Aghosā nāma-ka kha, ca cha, ṭa ṭha, ta tha, pa pha, sa, iti aghosā nāma. \
     >Tena kvattho? Vagge ghosāghosānaṃ tatiyapaṭhamā.
   * `vidhyaṅga` (operational metarule)
-    >**10, 12.Pubbamadhoṭhita massaraṃ sarena viyojaye.**
-    >{{< vidhyanga >}}  
+    >**10, 12.Pubbamadhoṭhita massaraṃ sarena viyojaye.** <Badge text="vidhyaṅga" variant="tip" /> \
     >Tattha sandhiṃ kattukāmo pubbabyañjanaṃ adhoṭhitaṃ assaraṃ katvā sarañca upari katvā sarena viyojaye.
     >Tatrāyamādi.
   * `aññaṅga` (other metarule)
-    >**54, 62.Tato ca vibhattiyo.**
-    >{{< annanga >}}  
+    >**54, 62.Tato ca vibhattiyo.** <Badge text="aññaṅga" variant="tip" /> \
     >Tato jinavacanayuttehi liṅgehi vibhattiyo parā honti.
 * `vidhi` (operation)
   * `utsarga` (general rule)
-    >**12, 13.Sarā sare lopaṃ.**
-    >{{< utsarga >}}  
-    >Sarā kho sare pare lopaṃ papponti.
+    >**12, 13.Sarā sare lopaṃ.** <Badge text="utsarga" variant="success" /> \
+    >Sarā kho sare pare lopaṃ papponti. \
     >Yassindriyāni samathaṅgatāni. No hetaṃ bhante sametāyasmā saṅghena.
   * `apavāda` (exception)
-    >**13, 15.Vā paro asarūpā.**
-    >{{< apavada >}}  
-    >Saramhā asarūpā paro saro lopaṃ pappoti vā.
+    >**13, 15.Vā paro asarūpā.** <Badge text="apavāda" variant="success" /> \
+    >Saramhā asarūpā paro saro lopaṃ pappoti vā. \
     >Cattāro’me bhikkhave dhammā, kinnu’ māvasamaṇiyo. Vāti kasmā? Pañcindriyāni, tayassu dhammā jahitā bhavanti.
 
 According to Aleix Ruiz-Falqués in *A Short Introduction to the Pāli Kaccāyana Grammar*:
 
->Several `saññā` “technical terms”,  
->within an `adhikāra` “domain”,  
->following `paribhāsā` “metarules”,  
->will be subject to `vidhi` “operations”  
+>Several `saññā` “technical terms”, \
+>within an `adhikāra` “domain”, \
+>following `paribhāsā` “metarules”, \
+>will be subject to `vidhi` “operations” \
 >in order to derive words or sentences.
 
 ### Megarules
 
 `mahāsutta` or “megarules” are four rules that are invoked in order to derive forms that cannot be derived otherwise.
 
-* **391, 423.Yadanupapannā nipātanā sijjhanti.**  
-  `Ye saddā aniddiṭṭhalakkhaṇā, akkharapadabyañjanato, itthipumanapuṃsakaliṅgato , nāmupasagganipātato, abyayībhāvasamāsataddhitākhyātato, gaṇanasaṅkhyākālakārakappayogasaññāto, sandhipakativuddhilopāgamavikāraviparitato, vibhattivibhajanato ca, te nipātanā sijjhanti.`  
+* **391, 423.Yadanupapannā nipātanā sijjhanti.** \
+  `Ye saddā aniddiṭṭhalakkhaṇā, akkharapadabyañjanato, itthipumanapuṃsakaliṅgato , nāmupasagganipātato, abyayībhāvasamāsataddhitākhyātato, gaṇanasaṅkhyākālakārakappayogasaññāto, sandhipakativuddhilopāgamavikāraviparitato, vibhattivibhajanato ca, te nipātanā sijjhanti.` \
   “Those [words] that are not formed by the suttas, should be formed as irregular forms.”
-* **403, 354.Kvacādimajjhuttarānaṃ dīgharassā paccayesu ca.**  
-  `Kvaci ādimajjhauttaraiccetesaṃ dīgharassā honti paccayesu ca apaccayesu ca.`  
+* **403, 354.Kvacādimajjhuttarānaṃ dīgharassā paccayesu ca.** \
+  `Kvaci ādimajjhauttaraiccetesaṃ dīgharassā honti paccayesu ca apaccayesu ca.` \
   “Sometimes, there is lengthening or shortening at the beginning, middle or end [vowels of a word], even before affixes.”
-* **404, 370.Tesu vuddhilopāgamavikāraviparītādesā ca.**  
-  `Tesu ādimajjhuttaresu yathājinavacanānuparodhena kvaci vuddhi hoti, kvaci lopo hoti, kvaci āgamo hoti, kvaci vikāro hoti, kvaci viparīto hoti, kvaci ādeso hoti.`  
+* **404, 370.Tesu vuddhilopāgamavikāraviparītādesā ca.** \
+  `Tesu ādimajjhuttaresu yathājinavacanānuparodhena kvaci vuddhi hoti, kvaci lopo hoti, kvaci āgamo hoti, kvaci vikāro hoti, kvaci viparīto hoti, kvaci ādeso hoti.` \
   “And in those cases [cf. rule 405], [sometimes,] there is full grade, elision, augment, modification, change, or replacement.”
-* **517, 488.Kvaci dhātuvibhattipaccayānaṃ dīgha viparītādesalopāgamā ca.**  
-  `Idha ākhyāte aniddiṭṭhesu sādhanesu kvaci dhātuvibhattipaccayānaṃ dīghaviparītādesalopāgamaiccetāni kāriyāni jinavacanānurūpāni kātabbāni.`  
+* **517, 488.Kvaci dhātuvibhattipaccayānaṃ dīgha viparītādesalopāgamā ca.** \
+  `Idha ākhyāte aniddiṭṭhesu sādhanesu kvaci dhātuvibhattipaccayānaṃ dīghaviparītādesalopāgamaiccetāni kāriyāni jinavacanānurūpāni kātabbāni.` \
   “Sometimes [for verbal forms that cannot be derived otherwise, there is] lengthening, change, replacement or augment of the verbal root, the personal ending, or the affix(es).”
 
 Rule 52 is halfway between a megarule and a normal rule:
 
->**52, 60.Jinavacanayuttaṃhi.**  
+>**52, 60.Jinavacanayuttaṃhi.** \
 >"Jinavacanayuttaṃ hi" iccetaṃ adhikāratthaṃ veditabbaṃ.
 
 ### Ghost metarules
@@ -251,14 +243,14 @@ Rule 52 is halfway between a megarule and a normal rule:
 
 Examples:
 
-* `ekamhi vattabbe ekavacanaṃ bahumhi vattabbe bahuvacanan` [e.g. Mmd 28,15–16]  
-  “The singular is used when one [object] is to be stated, the plural is used when many [objects] are to be stated.”  
+* `ekamhi vattabbe ekavacanaṃ bahumhi vattabbe bahuvacanan` [e.g. Mmd 28,15–16] \
+  “The singular is used when one [object] is to be stated, the plural is used when many [objects] are to be stated.” \
   *[**NOTE**: in Pāṇini, 1.4.21 bahuṣu bahuvacanam (“plural for many [objects]”) & 1.4.22 dvyekayor dvivacanaikavacane (“dual and singular for two or one [objects respectively]”) are considered saṃjñā (“definition”) rules.]*
-* `vatticchānupubbikā saddapaṭipatti` [e.g. Mmd 64,17–18]  
+* `vatticchānupubbikā saddapaṭipatti` [e.g. Mmd 64,17–18] \
   “The meaning of a word is determined by the intention of the speaker.”
-* `vuttatthānam appayogo` [23 times in Mmd, e.g. 133,20]  
+* `vuttatthānam appayogo` [23 times in Mmd, e.g. 133,20] \
   “Words whose meaning has already been stated are not used.”
-* `yogavibhāgā iṭṭhappasiddhi` [Mmd, e.g. 252,29]  
+* `yogavibhāgā iṭṭhappasiddhi` [Mmd, e.g. 252,29] \
   “After the splitting up (vibhāgā) of the sutta (yoga) [there is] the expected result [only].”
 
 ### Usage of rūḷhī
@@ -285,15 +277,19 @@ In a sutta, a `rūḷhī` (artificial technical term) will have a case ending th
 
 ## Structure of a vidhi (operation)
 
-An operation converts `Before` into `After` surrounded by `Previous` and `Next`, in the context of `Marker` and `Semantic`.
+An operation converts `from` into `to` surrounded by `before` and `after`, in the context of `option` and `when`.
 
-{{% rule "Previous" "Before" "vidhi" "After" "Next" "Marker" "Semantic" /%}}
+| option | before | from | operation | to  | after | meaning |
+| ------ | ------ | ---- | --------- | --- | ----- | ---- |
+|        |        |      |           |     |       |      |
 
 As an illustration, the sequence `AXB` is replaced with `AYB`:
 
-{{% rule A X becomes Y B space space /%}}
+| option | before | from | operation | to  | after | meaning |
+| ------ | ------ | ---- | --------- | --- | ----- | ---- |
+|        |    A   |   X  | becomes   |  Y  |   B   |      |
 
-Markers:
+Option markers:
 
 * ca
 * api
@@ -303,45 +299,56 @@ Markers:
 * niccaṃ
 * ...
 
-Semantic: "in the sense of ..."
+Meaning: "in the sense of ..."
 
-Case endings are used to determine the various roles in the rule
+Vibhatti endings are used to determine the various roles in the rule
 
-{{% rules %}}
-{{% rule1 0 "Previous" "Before" "ādesa" "After" "Next" "Marker" "Semantic" %}}
-{{% rule1 1 "⑤" "⑥" "ādesa" "①" "⑦" "n/a" "⑦" %}}
-{{% rule1 2 "⑤" "①" "ādesa" "①" "⑦" "n/a" "⑦" %}}
-{{% rule1 3 "⑤" "①" "ādesa" "②" "⑦" "n/a" "⑦" %}}
-{{% /rules %}}
+| option | before | from | operation | to  | after | meaning |
+| ------ | ------ | ---- | --------- | --- | ----- | ---- |
+|        |    ⑤   |   ⑥  | ādesa   |  ①  |   ⑦   |  ⑦  |
+|        |    ⑤   |   ①  | ādesa   |  ①  |   ⑦   |  ⑦  |
+|        |    ⑤   |   ①  | ādesa   |  ②  |   ⑦   |  ⑦  |
 
-Example: rule 103 (`ato n’ ena`) - “After a, nā [becomes] ena”:
+> [!TIP] Example
+> **§103 `ato n’ ena`**: (After a, nā [becomes] ena):
+>
+> | option | before | from | operation | to  | after | meaning |
+> | ------ | ------ | ---- | --------- | --- | ----- | ---- |
+> |        |    a   |  nā  |   ādesa   | ena |       |      |
+> |        |    ⑤   |   ①  | ādesa   |  ①  |       |      |
+>
+> | | buddha + nā | rule |
+> | --- | --- | --- |
+> | → | buddha + (nā→ena) | §103 |
+> | → | **buddhena** | |
 
-{{% rule `a` `nā` "ādesa" `ena` space space space %}}
-ato n' space space ena space space space
-x1["⑤"] x2["①"] space space x3["①"] space space space
-{{% /rule %}}
+> [!TIP] Example
+> **§70: `jhalānam iyuvā sare vā`**: (Optionally, before a vowel: iya replaces i/ī, uva replaces u/ū):
+>
+> | option | before | from | operation | to  | after | meaning |
+> | ------ | ------ | ---- | --------- | --- | ----- | ---- |
+> |   vā   |        | i/ī  |   ādesa   | iva | sare  |      |
+> |   vā   |        | u/ū  |   ādesa   | uva | sare  |      |
+> |   vā   |        |   ⑥  | ādesa   |  ①  |   ⑦   |      |
+>
+> | | bhikkhu + āsane| rule |
+> | --- | --- | --- |
+> | → | bhikkh + (u→uva) + (āsane) | §70 |
+> | → | bhikkh + uv + (~~a~~ + ā) + sane | §12 |
+> | → | **bhikkhuvāsane** | |
 
-buddha + nā  
-→ buddha + (nā→ena) (rule 103)  
-→ buddhena
-
-Example: rule 70 (`jhalānam iyuvā sare vā`) - “Optionally, before a vowel: iya replaces i/ī, uva replaces u/ū”:
-
-{{% rule space "i/ī,u/ū" ādesa "iya,uva" sara vā space space %}}
-space jhalānam space:2 iyuvā sare vā space
-space x1["⑥"] space space x2["①"] x3["⑦"] space space
-{{% /rule %}}
-
-Example: rule 12 (`sarā sare lopaṃ`) - “Vowels, before a vowel, [adopt] elision”:
-
-{{% rule space sara lopaṃ "~~sara~~" sara space space %}}
-space sarā lopaṃ:2 space sare space space
-space x1["①"] x2["②"]:2 space x3["⑦"] space space
-{{% /rule %}}
-
-tena + upasaṅkami  
-→ ten(~~a~~) + upasaṅkami (rule 12)  
-→ tenupasaṅkami
+> [!TIP] Example
+> **§12 `sarā sare lopaṃ`**: (Vowel, before vowel, is elided):
+>
+> | option | before | from | operation | to  | after | meaning |
+> | ------ | ------ | ---- | --------- | --- | ----- | ---- |
+> |        |        | sarā | lopaṃ | ~~sara~~ | sare |      |
+> |        |        |   ①  | lopaṃ   |     |   ⑦   |      |
+>
+> | | tena + upasaṅkami | rule |
+> | --- | --- | --- |
+> | → | ten(~~a~~) + upasaṅkami | §12 |
+> | → | **tenupasaṅkami** | |
 
 Most vidhi “operational” rules teach paccaya “affixation” or ādesa “replacement” using previous definitions (saññā-s). It is all about adding particles to a base, and then replacing them if/when needed.
 To understand vidhi-s, we should keep in mind the following code of case endings:
