@@ -3,6 +3,7 @@ title: Kaccāyanabyākaraṇaṃ
 ---
 
 import { LinkCard } from '@astrojs/starlight/components';
+import { Badge } from '@astrojs/starlight/components';
 
 > Namo tassa bhagavato arahato sammāsambuddhassa
 
@@ -12,8 +13,28 @@ Homage to the Blessed One, the Worthy One, the Fully Enlightened One.
 
 The text of Mahākaccāyana's words.
 
+## Types of rules (`sutta`)
+
+The text of Kaccāyana consists of a number of rules (`sutta`) divided into chapters (`kappa`). Rules are classified into the following:
+
+* `saññā` (technical term)
+  * `anvattha` (meaningful) <Badge text="anvattha" variant="success" />
+  * `rūḷhī` (artificial)  <Badge text="rūḷhī" variant="success" />
+* `adhikāra` (domain)
+  * `sīhagatika` (comprehensive) <Badge text="sīhagatika" variant="caution" />
+  * `maṇḍūkagatika` (selective) <Badge text="maṇḍūkagatika" variant="caution" />
+  * `yathānupubbika` (progressive) <Badge text="yathānupubbika" variant="caution" />
+* `paribhāsā` (metarule)
+  * `saññaṅga` (definition metarule) <Badge text="saññaṅga" variant="tip" />
+  * `vidhyaṅga` (operational metarule) <Badge text="vidhyaṅga" variant="tip" />
+  * `aññaṅga` (other metarule) <Badge text="aññaṅga" variant="tip" />
+* `vidhi` (operation)
+  * `utsarga` (general rule) <Badge text="utsarga" variant="note" />
+  * `apavāda` (exception) <Badge text="apavāda" variant="note" />
+
+## Table of Contents
 <LinkCard
-  title="1. Sandhikappa"
+  title="Sandhikappa (`sandhi` chapter)"
   href="1-sandhikappa"
-  description="sandhi is derived from saṃ + dhā meaning “putting together” and is used to refer to the transformation that result from the joining together of two words (or two parts of a word) for the sake of euphony."
+  description="`sandhi` is derived from `saṃ` + `dhā` meaning “putting together” and is used to refer to the transformation that result from the joining together of two words (or two parts of a word) for the sake of euphony."
 />

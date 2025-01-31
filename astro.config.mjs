@@ -5,6 +5,7 @@ import rehypeMermaid from "rehype-mermaid";
 import remarkPlantUML from "@akebifiky/remark-simple-plantuml";
 import remarkAlerts from "remark-alerts";
 import astroExpressiveCode from "astro-expressive-code";
+import starlightHeadingBadges from "starlight-heading-badges";
 
 // https://astro.build/config
 export default defineConfig({
@@ -21,7 +22,7 @@ export default defineConfig({
     starlight({
       title: "Kaccāyana",
       social: {
-        github: "https://github.com/ChristineTham",
+        github: "https://github.com/kaccayana/kaccayana.github.io",
       },
       sidebar: [
         {
@@ -60,6 +61,7 @@ export default defineConfig({
           lang: "en",
         },
       },
+      plugins: [starlightHeadingBadges()],
     }),
   ],
   markdown: {

@@ -1,6 +1,41 @@
 ---
 const letterref = [
   {
+    letter: "𑀓𑁆",
+    roman: "kā",
+    phonetic: "/kaː/",
+  },
+  {
+    letter: "𑀓𑀺",
+    roman: "ki",
+    phonetic: "/ki/",
+  },
+  {
+    letter: "𑀓𑀻",
+    roman: "kī",
+    phonetic: "/kiː/",
+  },
+  {
+    letter: "𑀓𑀼",
+    roman: "ku",
+    phonetic: "/ku/",
+  },
+  {
+    letter: "𑀓𑀽",
+    roman: "kū",
+    phonetic: "/kuː/",
+  },
+  {
+    letter: "𑀓𑁂",
+    roman: "ke",
+    phonetic: "/keː/",
+  },
+  {
+    letter: "𑀓𑁄",
+    roman: "ko",
+    phonetic: "/koː/",
+  },
+  {
     letter: "𑀅",
     roman: "a",
     phonetic: "/ə/",
@@ -38,6 +73,46 @@ const letterref = [
   {
     letter: "𑀑",
     roman: "o",
+    phonetic: "/oː/",
+  },
+  {
+    letter: "◌",
+    roman: "(a)",
+    phonetic: "/ə/",
+  },
+  {
+    letter: "◌𑀸",
+    roman: "(ā)",
+    phonetic: "/aː/",
+  },
+  {
+    letter: "◌𑀺",
+    roman: "(i)",
+    phonetic: "/i/",
+  },
+  {
+    letter: "◌𑀻",
+    roman: "(ī)",
+    phonetic: "/iː/",
+  },
+  {
+    letter: "◌𑀼",
+    roman: "(u)",
+    phonetic: "/u/",
+  },
+  {
+    letter: "◌𑀽",
+    roman: "(ū)",
+    phonetic: "/uː/",
+  },
+  {
+    letter: "◌𑁂",
+    roman: "(e)",
+    phonetic: "/eː/",
+  },
+  {
+    letter: "◌𑁄",
+    roman: "(o)",
     phonetic: "/oː/",
   },
   {
@@ -205,21 +280,21 @@ const letterref = [
     roman: "aṃ",
     phonetic: "/ɲ/",
   },
-]
+];
 
 let letterdict: {
-  [key: string]: { letter: string; roman: string; phonetic: string }
+  [key: string]: { letter: string; roman: string; phonetic: string };
 } = {};
 
 letterref.forEach((letter) => {
-  letterdict[letter.roman] = { ...letter }
+  letterdict[letter.roman] = { ...letter };
 });
 
 interface Props {
-  letters: string[][]
+  letters: string[][];
 }
 
-const { letters } = Astro.props
+const { letters } = Astro.props;
 ---
 
 <style>
