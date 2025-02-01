@@ -13,7 +13,7 @@ dependencies:
     version: 0.9.4(typescript@5.7.3)
   '@astrojs/starlight':
     specifier: ^0.31.1
-    version: 0.31.1(astro@5.2.1)
+    version: 0.31.1(astro@5.2.3)
   '@fontsource/noto-mono':
     specifier: ^5.1.0
     version: 5.1.0
@@ -24,20 +24,20 @@ dependencies:
     specifier: ^2.0.6
     version: 2.0.6
   astro:
-    specifier: ^5.2.1
-    version: 5.2.1(typescript@5.7.3)
+    specifier: ^5.2.3
+    version: 5.2.3(typescript@5.7.3)
   astro-expressive-code:
     specifier: ^0.40.1
-    version: 0.40.1(astro@5.2.1)
+    version: 0.40.1(astro@5.2.3)
   playwright:
-    specifier: ^1.50.0
-    version: 1.50.0
+    specifier: ^1.50.1
+    version: 1.50.1
   pnpm:
     specifier: ^9.15.4
     version: 9.15.4
   rehype-mermaid:
     specifier: ^3.0.0
-    version: 3.0.0(playwright@1.50.0)
+    version: 3.0.0(playwright@1.50.1)
   remark-alerts:
     specifier: ^0.0.1
     version: 0.0.1(@types/mdast@4.0.4)(unified@11.0.5)
@@ -156,7 +156,7 @@ packages:
       - supports-color
     dev: false
 
-  /@astrojs/mdx@4.0.8(astro@5.2.1):
+  /@astrojs/mdx@4.0.8(astro@5.2.3):
     resolution: {integrity: sha512-/aiLr2yQ55W9AbpyOgfMtFXk7g2t7XoWdC2Avps/NqxAx4aYONDLneX43D79QwgqdjFhin7o3cIPp/vVppMbaA==}
     engines: {node: ^18.17.1 || ^20.3.0 || >=22.0.0}
     peerDependencies:
@@ -165,7 +165,7 @@ packages:
       '@astrojs/markdown-remark': 6.1.0
       '@mdx-js/mdx': 3.1.0(acorn@8.14.0)
       acorn: 8.14.0
-      astro: 5.2.1(typescript@5.7.3)
+      astro: 5.2.3(typescript@5.7.3)
       es-module-lexer: 1.6.0
       estree-util-visit: 2.0.0
       hast-util-to-html: 9.0.4
@@ -195,19 +195,19 @@ packages:
       zod: 3.24.1
     dev: false
 
-  /@astrojs/starlight@0.31.1(astro@5.2.1):
+  /@astrojs/starlight@0.31.1(astro@5.2.3):
     resolution: {integrity: sha512-VIVkHugwgtEqJPiRH8+ouP0UqUfdmpBO9C64R+6QaQ2qmADNkI/BA3/YAJHTBZYlMQQGEEuLJwD9qpaUovi52Q==}
     peerDependencies:
       astro: ^5.1.5
     dependencies:
-      '@astrojs/mdx': 4.0.8(astro@5.2.1)
+      '@astrojs/mdx': 4.0.8(astro@5.2.3)
       '@astrojs/sitemap': 3.2.1
       '@pagefind/default-ui': 1.3.0
       '@types/hast': 3.0.4
       '@types/js-yaml': 4.0.9
       '@types/mdast': 4.0.4
-      astro: 5.2.1(typescript@5.7.3)
-      astro-expressive-code: 0.40.1(astro@5.2.1)
+      astro: 5.2.3(typescript@5.7.3)
+      astro-expressive-code: 0.40.1(astro@5.2.3)
       bcp-47: 2.1.0
       hast-util-from-html: 2.0.3
       hast-util-select: 6.0.3
@@ -1586,17 +1586,17 @@ packages:
     hasBin: true
     dev: false
 
-  /astro-expressive-code@0.40.1(astro@5.2.1):
+  /astro-expressive-code@0.40.1(astro@5.2.3):
     resolution: {integrity: sha512-dQ47XhgtxuRTiKQrZOJKdebMuxvvTBR89U439EHzLP6KR45IILFlGDihGQp3//1aUjj4nwpbINSzms1heJ7vmQ==}
     peerDependencies:
       astro: ^4.0.0-beta || ^5.0.0-beta || ^3.3.0
     dependencies:
-      astro: 5.2.1(typescript@5.7.3)
+      astro: 5.2.3(typescript@5.7.3)
       rehype-expressive-code: 0.40.1
     dev: false
 
-  /astro@5.2.1(typescript@5.7.3):
-    resolution: {integrity: sha512-OYR2kUo9EqX6OYZ1OmM14xP8mjFwgrk1FzIr+3K3tS0gCCKJsXtfboCUhX3lODZFIsmY/on7NPZd+2PURA0R2Q==}
+  /astro@5.2.3(typescript@5.7.3):
+    resolution: {integrity: sha512-04AceE/gVihtO3V28Ss0+tPPgLHGoulXrm1E7fUVPYyQu7y6w8+oXfYyzh1lpy+uEYiebjH7AFlJoz73anBmZA==}
     engines: {node: ^18.17.1 || ^20.3.0 || >=22.0.0, npm: '>=9.6.5', pnpm: '>=7.1.0'}
     hasBin: true
     dependencies:
@@ -1655,7 +1655,7 @@ packages:
       which-pm: 3.0.0
       xxhash-wasm: 1.1.0
       yargs-parser: 21.1.1
-      yocto-spinner: 0.1.2
+      yocto-spinner: 0.2.0
       zod: 3.24.1
       zod-to-json-schema: 3.24.1(zod@3.24.1)
       zod-to-ts: 1.2.0(typescript@5.7.3)(zod@3.24.1)
@@ -3354,7 +3354,7 @@ packages:
     engines: {node: '>= 8'}
     dev: false
 
-  /mermaid-isomorphic@3.0.0(playwright@1.50.0):
+  /mermaid-isomorphic@3.0.0(playwright@1.50.1):
     resolution: {integrity: sha512-6RBUQD0ZWzBHO4KZ8JMK3a/lNL7383N6K4nXzOdA2Ylnhz34qC8Nls2ZgOJVjGuB9Iq1bP61XKE0K/fNOD2n6g==}
     peerDependencies:
       playwright: '1'
@@ -3364,7 +3364,7 @@ packages:
     dependencies:
       '@fortawesome/fontawesome-free': 6.7.2
       mermaid: 11.4.1
-      playwright: 1.50.0
+      playwright: 1.50.1
     transitivePeerDependencies:
       - supports-color
     dev: false
@@ -3979,18 +3979,18 @@ packages:
     resolution: {integrity: sha512-sxMwpDw/ySY1WB2CE3+IdMuEcWibJ72DDOsXLkSmEaSzwEUaYBT6DWgOfBiHGCux4q433X6+OEFWjlVqp7gL6g==}
     dev: false
 
-  /playwright-core@1.50.0:
-    resolution: {integrity: sha512-CXkSSlr4JaZs2tZHI40DsZUN/NIwgaUPsyLuOAaIZp2CyF2sN5MM5NJsyB188lFSSozFxQ5fPT4qM+f0tH/6wQ==}
+  /playwright-core@1.50.1:
+    resolution: {integrity: sha512-ra9fsNWayuYumt+NiM069M6OkcRb1FZSK8bgi66AtpFoWkg2+y0bJSNmkFrWhMbEBbVKC/EruAHH3g0zmtwGmQ==}
     engines: {node: '>=18'}
     hasBin: true
     dev: false
 
-  /playwright@1.50.0:
-    resolution: {integrity: sha512-+GinGfGTrd2IfX1TA4N2gNmeIksSb+IAe589ZH+FlmpV3MYTx6+buChGIuDLQwrGNCw2lWibqV50fU510N7S+w==}
+  /playwright@1.50.1:
+    resolution: {integrity: sha512-G8rwsOQJ63XG6BbKj2w5rHeavFjy5zynBA9zsJMMtBoe/Uf757oG12NXz6e6OirF7RCrTVAKFXbLmn1RbL7Qaw==}
     engines: {node: '>=18'}
     hasBin: true
     dependencies:
-      playwright-core: 1.50.0
+      playwright-core: 1.50.1
     optionalDependencies:
       fsevents: 2.3.2
     dev: false
@@ -4165,7 +4165,7 @@ packages:
       hast-util-format: 1.1.0
     dev: false
 
-  /rehype-mermaid@3.0.0(playwright@1.50.0):
+  /rehype-mermaid@3.0.0(playwright@1.50.1):
     resolution: {integrity: sha512-fxrD5E4Fa1WXUjmjNDvLOMT4XB1WaxcfycFIWiYU0yEMQhcTDElc9aDFnbDFRLxG1Cfo1I3mfD5kg4sjlWaB+Q==}
     peerDependencies:
       playwright: '1'
@@ -4176,9 +4176,9 @@ packages:
       '@types/hast': 3.0.4
       hast-util-from-html-isomorphic: 2.0.0
       hast-util-to-text: 4.0.2
-      mermaid-isomorphic: 3.0.0(playwright@1.50.0)
+      mermaid-isomorphic: 3.0.0(playwright@1.50.1)
       mini-svg-data-uri: 1.4.4
-      playwright: 1.50.0
+      playwright: 1.50.1
       space-separated-tokens: 2.0.2
       unified: 11.0.5
       unist-util-visit-parents: 6.0.1
@@ -4529,7 +4529,7 @@ packages:
       '@astrojs/starlight': '>=0.30.0'
     dependencies:
       '@astrojs/markdown-remark': 6.1.0
-      '@astrojs/starlight': 0.31.1(astro@5.2.1)
+      '@astrojs/starlight': 0.31.1(astro@5.2.3)
       github-slugger: 2.0.0
       unist-util-visit: 5.0.0
     transitivePeerDependencies:
@@ -5223,8 +5223,8 @@ packages:
     engines: {node: '>=12.20'}
     dev: false
 
-  /yocto-spinner@0.1.2:
-    resolution: {integrity: sha512-VfmLIh/ZSZOJnVRQZc/dvpPP90lWL4G0bmxQMP0+U/2vKBA8GSpcBuWv17y7F+CZItRuO97HN1wdbb4p10uhOg==}
+  /yocto-spinner@0.2.0:
+    resolution: {integrity: sha512-Qu6WAqNLGleB687CCGcmgHIo8l+J19MX/32UrSMfbf/4L8gLoxjpOYoiHT1asiWyqvjRZbgvOhLlvne6E5Tbdw==}
     engines: {node: '>=18.19'}
     dependencies:
       yoctocolors: 2.1.1
