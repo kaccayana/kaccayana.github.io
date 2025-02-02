@@ -49,6 +49,7 @@ export default defineConfig({
         "remark-alerts/styles/github-base.css",
         "@fontsource/noto-sans/400.css",
         "@fontsource/noto-sans/600.css",
+        "@fontsource/noto-sans/700.css",
         "@fontsource/noto-mono/400.css",
       ],
       logo: {

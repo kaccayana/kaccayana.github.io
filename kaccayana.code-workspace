@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../convert-scripts/tipitaka2500"
+		}
+	],
+	"settings": {}
+}
