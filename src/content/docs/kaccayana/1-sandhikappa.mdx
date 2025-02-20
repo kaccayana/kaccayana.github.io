@@ -7,7 +7,6 @@ sidebar:
 
 import LetterGrid from "../../../components/LetterGrid.astro";
 import { LinkCard } from "@astrojs/starlight/components";
-import { Badge } from "@astrojs/starlight/components";
 
 > [!NOTE]
 > `sandhi` is derived from `saṃ` + `dhā` meaning “putting together” and is used to refer to the transformation that result from the joining together of two words (or two parts of a word) for the sake of euphony.
@@ -67,11 +66,7 @@ All meanings of words are based on the recognition of `akkhara`. A mistaken `akk
 > [!TIP] Reference
 > For more information on Brahmi, refer to:
 >
-> <LinkCard
->   title="Brahmi"
->   href="/reference/brahmi"
->   description="Brahmi is a historical Indic abugida, written left-to-right. Used in 3rd century BCE–5th century CE in South Asia for Prakrit, Sanskrit, Saka, Tamil, Kannada, Tocharian. Evolved into the many Brahmic scripts used today in South and Southeast Asia."
-> />
+> <LinkCard title="Brahmi" href="/reference/brahmi" description="Brahmi is a historical Indic abugida, written left-to-right. Used in 3rd century BCE–5th century CE in South Asia for Prakrit, Sanskrit, Saka, Tamil, Kannada, Tocharian. Evolved into the many Brahmic scripts used today in South and Southeast Asia." />
 
 ---
 
@@ -114,9 +109,8 @@ And there are forty one `akkhara` constructed from sounds, starting with `a`.
   ]}
 />
 
-> [!TIP] Reference
-> Refer to [§1 (1): Attho akkharasaññāto (Meaning is represented by `akkhara`)](#m1)
-
+> [!TIP] Purpose
+> <LinkCard title="Refer to §1 `Attho akkharasaññāto`" href="#m1" description="Meaning is represented by `akkhara`" />
 ---
 
 <a name="m3"></a>
@@ -147,8 +141,8 @@ Regarding the `akkhara`, the eight `akkhara` starting with `a` and ending with `
   letters={[["(a)", "(ā)", "(i)", "(ī)", "(u)", "(ū)", "(e)", "(o)"]]}
 />
 
-> [!TIP] Reference
-> Refer to [§12 (13): sarā sare lopaṃ (vowel, before vowel, is elided)](#m12)
+> [!TIP] Purpose
+> <LinkCard title="Refer to §12 `sarā sare lopaṃ`" href="#m12" description="Vowel, before vowel, is elided" />
 
 ---
 
@@ -200,8 +194,8 @@ The digha vowels are:
 
 <LetterGrid letters={[["ā", "ī", "ū", "e", "o"]]} />
 
-> [!TIP] Reference
-> Refer to [§25 (37): Dīghaṃ (long vowels)](#m25)
+> [!TIP] Purpose
+> <LinkCard title="Refer to §25 `Dīghaṃ`" href="#m25" description="Long [vowels]" />
 
 ---
 
@@ -254,8 +248,8 @@ The byañjanā are:
   ]}
 />
 
-> [!TIP] Reference
-> Refer to [§23 (26): Sarā pakati byañjane (vowels naturally in consonants)](#m23)
+> [!TIP] Purpose
+> <LinkCard title="Refer to §23 `Sarā pakati byañjane`" href="#m23" description="Vowel before consonant retains original form" />
 
 ---
 
@@ -294,8 +288,8 @@ The consonants starting with `ka` and ending with `ma` arranged in five groups o
   ]}
 />
 
-> [!TIP] Reference
-> Refer to [§31 (49): Vaggantaṃ vā vagge (end-of-groups vs groups)](#m31)
+> [!TIP] Purpose
+> <LinkCard title="Refer to §31 `Vaggantaṃ vā vagge`" href="#m31" description="Optionally, Before group, to end of group" />
 
 ---
 
@@ -319,8 +313,8 @@ The `aṃ` letter is named `niggahita` (nasal consonant).
 > [!NOTE]
 > Note that the niggahita is also a diacritical mark appended to a consonant (possibly together with a vowel diacritic).
 
-> [!TIP] Reference
-> Refer to [§30 (58): Aṃ byañjane niggahitaṃ (“aṃ” in consonants: niggahita)](#m30)
+> [!TIP] Purpose
+> <LinkCard title="Refer to §30 `Aṃ byañjane niggahitaṃ`" href="#m30" description="`ṃ` before consonant [remains] `niggahita`" />
 
 ---
 
@@ -387,8 +381,9 @@ Terms such as `ghosa` (voiced) and `aghosa` (unvoiced) used in other texts (ie. 
   ]}
 />
 
-> [!TIP] Reference
+> [!TIP] Purpose
 > Refer to [§29 (42): Vagge ghosāghosānaṃ tatiyapaṭhamā](#m29)
+> <LinkCard title="Refer to §29 `Vagge ghosāghosānaṃ tatiyapaṭhamā`" href="#m29" description="Voiced and unvoiced groups: third and first" />
 
 ---
 
@@ -641,15 +636,15 @@ Optionally, when a vowel not of the same type (of articulation) follows a vowel,
 [^3]: CST4 mispells this as `kvacāsacaṇṇaṃ`
 
 > [!NOTE]
-> `vaṇṇa` can have various contexts, including "colour", "appearance" and "praise" but in the context of Kaccāyana it means "phoneme" or "syllable".
+> `vaṇṇa` can have various contexts, including "colour", "appearance" and "praise" but in the context of Kaccāyana it means a certain sound. For example `ivaṇṇa` means a the sound `i` or `ī` (note, the length of the sound does not matter).
 
 > [!NOTE] Analysis
 > | option | before | from | operation | to | after | context |
 > | --- | --- | --- | --- | --- | --- | --- |
 > | kvaci | (~~sarā~~) | (sare) | pappoti | asavaṇṇaṃ | | |
-> | occasionally | (~~vowel1~~) | (vowel2) | change | different phoneme | | |
+> | occasionally | (~~vowel1~~) | (vowel2) | change | different sound | | |
 >
-> The option marker `kvaci` indicates this cancels the `vā` option marker in the previous rule [§13 (15): Vā paro asarūpā (Optionally, next dissimilar [vowel])](#m13). It provides an alternative to rule [§12 (13): Sarā sare lopaṃ (Vowel, before vowel, is elided)](#m12).
+> The option marker `kvaci` indicates this cancels the `vā` option marker in the previous rule [§13 (15): Vā paro asarūpā (Optionally, next dissimilar-sounding [vowel])](#m13). It provides an alternative to rule [§12 (13): Sarā sare lopaṃ (Vowel, before vowel, is elided)](#m12).
 
 > Saro kho paro pubbasare lutte kvaci asavaṇṇaṃ pappoti.
 
@@ -663,7 +658,7 @@ Optionally, when a vowel not of the same type (of articulation) follows a vowel,
 
 > tathūpamaṃ dhammavaraṃ adesayi.
 
-A vowel, when the previous vowel has been elided, occasionally becomes a different phoneme (another vowel).
+A vowel, when the previous vowel has been elided, occasionally becomes a different sound (another vowel).
 
 > [!TIP] Example
 >
@@ -1092,7 +1087,7 @@ When [word] ending with `o` or `u`, followed by another vowel, the `o` or `u` is
 > | (kvaci) | | caṃ | (ādeso) | `ti` | (sare) | |
 > | (occasionally) | | `c` | replace | `ti` | (vowel) | |
 >
-> `sabbo` could possibly be interpreted as an option marker but in this case refers to the sound/phoneme `ti` which should not be split in accordance to §10. The examples show this rule is often followed by §28.
+> `sabbo` could possibly be interpreted as an option marker but in this case refers to the phoneme `ti` which should not be split in accordance to §10. The examples show this rule is often followed by §28.
 
 > Sabbo icceso tisaddo byañjano sare pare kvaci cakāraṃ pappoti.
 
@@ -1477,7 +1472,7 @@ The entire “ti” sound/consonant, when followed by another vowel, occasionall
 
 <a name="m21"></a>
 
-### §21 (21): Ivaṇṇo yaṃ navā (`i` phoneme to `y` rarely) :badge[apavada]{variant=success}
+### §21 (21): Ivaṇṇo yaṃ navā (`i` sound to `y` rarely) :badge[apavada]{variant=success}
 
 > [!NOTE] Analysis
 > | option | before | from | operation | to | after | context |
@@ -1497,7 +1492,7 @@ The entire “ti” sound/consonant, when followed by another vowel, occasionall
 
 > Pañcahaṅgehi samannāgato, muttacāgī anuddhato.
 
-Rarely, the “i” phoneme, followed by another vowel, is replaced with “y”.
+Rarely, the `i` sound (`i` or `ī`), followed by another vowel, is replaced with “y”.
 
 > [!TIP] Example
 >
@@ -3818,7 +3813,7 @@ Occasionally, in a word ending with `pā` followed by a vowel, `g` is inserted (
 
 <a name="m46"></a>
 
-### §46 (26): Te na vā ivaṇṇe (those rules do not apply before `i` phoneme) :badge[apavada]{variant=success}
+### §46 (26): Te na vā ivaṇṇe (those rules do not apply before `i` sound) :badge[apavada]{variant=success}
 
 > [!NOTE] Analysis
 > | option | before | from | operation | to | after | context |
@@ -3846,7 +3841,7 @@ Occasionally, in a word ending with `pā` followed by a vowel, `g` is inserted (
 
 > ajjhiṇamutto.
 
-Optionally, `abhi` and `adhi` before the `i` phoneme (`i` and `ī`) do not become `abbh` and `ajjh`.
+Optionally, `abhi` and `adhi` before the `i` sound (`i` and `ī`) do not become `abbh` and `ajjh`.
 
 > [!TIP] Example
 >
@@ -3913,7 +3908,7 @@ Optionally, `abhi` and `adhi` before the `i` phoneme (`i` and `ī`) do not becom
 
 47 (23): Atissa cantassa
 
-The `ti` of word `ati` is not replaced with `c` via ([§19 (22): Sabbo caṃti](#m19)) when followed by `i` phoneme (`i` and `ī`).
+The `ti` of word `ati` is not replaced with `c` via ([§19 (22): Sabbo caṃti](#m19)) when followed by `i` sound (`i` and `ī`).
 
 > [!TIP] Example
 >
