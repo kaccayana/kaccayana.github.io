@@ -1,366 +1,381 @@
 ---
 const letterref = [
-  {
-    letter: "𑀓𑁆",
-    roman: "kā",
-    phonetic: "/kaː/",
-  },
-  {
-    letter: "𑀓𑀺",
-    roman: "ki",
-    phonetic: "/ki/",
-  },
-  {
-    letter: "𑀓𑀻",
-    roman: "kī",
-    phonetic: "/kiː/",
-  },
-  {
-    letter: "𑀓𑀼",
-    roman: "ku",
-    phonetic: "/ku/",
-  },
-  {
-    letter: "𑀓𑀽",
-    roman: "kū",
-    phonetic: "/kuː/",
-  },
-  {
-    letter: "𑀓𑁂",
-    roman: "ke",
-    phonetic: "/keː/",
-  },
-  {
-    letter: "𑀓𑁄",
-    roman: "ko",
-    phonetic: "/koː/",
-  },
-  {
-    letter: "𑀅",
-    roman: "a",
-    phonetic: "/ə/",
-  },
-  {
-    letter: "𑀆",
-    roman: "ā",
-    phonetic: "/aː/",
-  },
-  {
-    letter: "𑀇",
-    roman: "i",
-    phonetic: "/i/",
-  },
-  {
-    letter: "𑀈",
-    roman: "ī",
-    phonetic: "/iː/",
-  },
-  {
-    letter: "𑀉",
-    roman: "u",
-    phonetic: "/u/",
-  },
-  {
-    letter: "𑀊",
-    roman: "ū",
-    phonetic: "/uː/",
-  },
-  {
-    letter: "𑀏",
-    roman: "e",
-    phonetic: "/eː/",
-  },
-  {
-    letter: "𑀑",
-    roman: "o",
-    phonetic: "/oː/",
-  },
-  {
-    letter: "◌",
-    roman: "(a)",
-    phonetic: "/ə/",
-  },
-  {
-    letter: "◌𑀸",
-    roman: "(ā)",
-    phonetic: "/aː/",
-  },
-  {
-    letter: "◌𑀺",
-    roman: "(i)",
-    phonetic: "/i/",
-  },
-  {
-    letter: "◌𑀻",
-    roman: "(ī)",
-    phonetic: "/iː/",
-  },
-  {
-    letter: "◌𑀼",
-    roman: "(u)",
-    phonetic: "/u/",
-  },
-  {
-    letter: "◌𑀽",
-    roman: "(ū)",
-    phonetic: "/uː/",
-  },
-  {
-    letter: "◌𑁂",
-    roman: "(e)",
-    phonetic: "/eː/",
-  },
-  {
-    letter: "◌𑁄",
-    roman: "(o)",
-    phonetic: "/oː/",
-  },
-  {
-    letter: "𑀓",
-    roman: "ka",
-    phonetic: "/k/",
-  },
-  {
-    letter: "𑀔",
-    roman: "kha",
-    phonetic: "/kʰ/",
-  },
-  {
-    letter: "𑀕",
-    roman: "ga",
-    phonetic: "/ɡ/",
-  },
-  {
-    letter: "𑀖",
-    roman: "gha",
-    phonetic: "/ɡʱ/",
-  },
-  {
-    letter: "𑀗",
-    roman: "ṅa",
-    phonetic: "/ŋ/",
-  },
-  {
-    letter: "𑀘",
-    roman: "ca",
-    phonetic: "/c/",
-  },
-  {
-    letter: "𑀙",
-    roman: "cha",
-    phonetic: "/cʰ/",
-  },
-  {
-    letter: "𑀚",
-    roman: "ja",
-    phonetic: "/ɟ/",
-  },
-  {
-    letter: "𑀛",
-    roman: "jha",
-    phonetic: "/ɟʱ/",
-  },
-  {
-    letter: "𑀜",
-    roman: "ña",
-    phonetic: "/ɲ/",
-  },
-  {
-    letter: "𑀝",
-    roman: "ṭa",
-    phonetic: "/ʈ/",
-  },
-  {
-    letter: "𑀞",
-    roman: "ṭha",
-    phonetic: "/ʈʰ/",
-  },
-  {
-    letter: "𑀟",
-    roman: "ḍa",
-    phonetic: "/ɖ/",
-  },
-  {
-    letter: "𑀠",
-    roman: "ḍha",
-    phonetic: "/ɖʱ/",
-  },
-  {
-    letter: "𑀡",
-    roman: "ṇa",
-    phonetic: "/ɳ/",
-  },
-  {
-    letter: "𑀢",
-    roman: "ta",
-    phonetic: "/t̪/",
-  },
-  {
-    letter: "𑀣",
-    roman: "tha",
-    phonetic: "/t̪ʰ/",
-  },
-  {
-    letter: "𑀤",
-    roman: "da",
-    phonetic: "/d̪/",
-  },
-  {
-    letter: "𑀥",
-    roman: "dha",
-    phonetic: "/d̪ʱ/",
-  },
-  {
-    letter: "𑀦",
-    roman: "na",
-    phonetic: "/n/",
-  },
-  {
-    letter: "𑀧",
-    roman: "pa",
-    phonetic: "/p/",
-  },
-  {
-    letter: "𑀨",
-    roman: "pha",
-    phonetic: "/pʰ/",
-  },
-  {
-    letter: "𑀩",
-    roman: "ba",
-    phonetic: "/b/",
-  },
-  {
-    letter: "𑀪",
-    roman: "bha",
-    phonetic: "/bʱ/",
-  },
-  {
-    letter: "𑀫",
-    roman: "ma",
-    phonetic: "/m/",
-  },
-  {
-    letter: "𑀬",
-    roman: "ya",
-    phonetic: "/j/",
-  },
-  {
-    letter: "𑀭",
-    roman: "ra",
-    phonetic: "/r/",
-  },
-  {
-    letter: "𑀮",
-    roman: "la",
-    phonetic: "/l/",
-  },
-  {
-    letter: "𑀯",
-    roman: "va",
-    phonetic: "/w, ʋ/",
-  },
-  {
-    letter: "𑀲",
-    roman: "sa",
-    phonetic: "/s/",
-  },
-  {
-    letter: "𑀳",
-    roman: "ha",
-    phonetic: "/ɦ/",
-  },
-  {
-    letter: "𑀴",
-    roman: "ḷa",
-    phonetic: "/l/",
-  },
-  {
-    letter: "𑀁",
-    roman: "aṃ",
-    phonetic: "/ɲ/",
-  },
+    {
+        letter: "𑀓𑁆",
+        roman: "kā",
+        phonetic: "/kaː/",
+    },
+    {
+        letter: "𑀓𑀺",
+        roman: "ki",
+        phonetic: "/ki/",
+    },
+    {
+        letter: "𑀓𑀻",
+        roman: "kī",
+        phonetic: "/kiː/",
+    },
+    {
+        letter: "𑀓𑀼",
+        roman: "ku",
+        phonetic: "/ku/",
+    },
+    {
+        letter: "𑀓𑀽",
+        roman: "kū",
+        phonetic: "/kuː/",
+    },
+    {
+        letter: "𑀓𑁂",
+        roman: "ke",
+        phonetic: "/keː/",
+    },
+    {
+        letter: "𑀓𑁄",
+        roman: "ko",
+        phonetic: "/koː/",
+    },
+    {
+        letter: "𑀅",
+        roman: "a",
+        phonetic: "/ə/",
+    },
+    {
+        letter: "𑀆",
+        roman: "ā",
+        phonetic: "/aː/",
+    },
+    {
+        letter: "𑀇",
+        roman: "i",
+        phonetic: "/i/",
+    },
+    {
+        letter: "𑀈",
+        roman: "ī",
+        phonetic: "/iː/",
+    },
+    {
+        letter: "𑀉",
+        roman: "u",
+        phonetic: "/u/",
+    },
+    {
+        letter: "𑀊",
+        roman: "ū",
+        phonetic: "/uː/",
+    },
+    {
+        letter: "𑀏",
+        roman: "e",
+        phonetic: "/eː/",
+    },
+    {
+        letter: "𑀑",
+        roman: "o",
+        phonetic: "/oː/",
+    },
+    {
+        letter: "◌",
+        roman: "(a)",
+        phonetic: "/ə/",
+    },
+    {
+        letter: "◌𑀸",
+        roman: "(ā)",
+        phonetic: "/aː/",
+    },
+    {
+        letter: "◌𑀺",
+        roman: "(i)",
+        phonetic: "/i/",
+    },
+    {
+        letter: "◌𑀻",
+        roman: "(ī)",
+        phonetic: "/iː/",
+    },
+    {
+        letter: "◌𑀼",
+        roman: "(u)",
+        phonetic: "/u/",
+    },
+    {
+        letter: "◌𑀽",
+        roman: "(ū)",
+        phonetic: "/uː/",
+    },
+    {
+        letter: "◌𑁂",
+        roman: "(e)",
+        phonetic: "/eː/",
+    },
+    {
+        letter: "◌𑁄",
+        roman: "(o)",
+        phonetic: "/oː/",
+    },
+    {
+        letter: "𑀓",
+        roman: "ka",
+        phonetic: "/k/",
+    },
+    {
+        letter: "𑀔",
+        roman: "kha",
+        phonetic: "/kʰ/",
+    },
+    {
+        letter: "𑀕",
+        roman: "ga",
+        phonetic: "/ɡ/",
+    },
+    {
+        letter: "𑀖",
+        roman: "gha",
+        phonetic: "/ɡʱ/",
+    },
+    {
+        letter: "𑀗",
+        roman: "ṅa",
+        phonetic: "/ŋ/",
+    },
+    {
+        letter: "𑀘",
+        roman: "ca",
+        phonetic: "/c/",
+    },
+    {
+        letter: "𑀙",
+        roman: "cha",
+        phonetic: "/cʰ/",
+    },
+    {
+        letter: "𑀚",
+        roman: "ja",
+        phonetic: "/ɟ/",
+    },
+    {
+        letter: "𑀛",
+        roman: "jha",
+        phonetic: "/ɟʱ/",
+    },
+    {
+        letter: "𑀜",
+        roman: "ña",
+        phonetic: "/ɲ/",
+    },
+    {
+        letter: "𑀝",
+        roman: "ṭa",
+        phonetic: "/ʈ/",
+    },
+    {
+        letter: "𑀞",
+        roman: "ṭha",
+        phonetic: "/ʈʰ/",
+    },
+    {
+        letter: "𑀟",
+        roman: "ḍa",
+        phonetic: "/ɖ/",
+    },
+    {
+        letter: "𑀠",
+        roman: "ḍha",
+        phonetic: "/ɖʱ/",
+    },
+    {
+        letter: "𑀡",
+        roman: "ṇa",
+        phonetic: "/ɳ/",
+    },
+    {
+        letter: "𑀢",
+        roman: "ta",
+        phonetic: "/t̪/",
+    },
+    {
+        letter: "𑀢𑀸",
+        roman: "tā",
+        phonetic: "/t̪a:/",
+    },
+    {
+        letter: "𑀣",
+        roman: "tha",
+        phonetic: "/t̪ʰ/",
+    },
+    {
+        letter: "𑀤",
+        roman: "da",
+        phonetic: "/d̪/",
+    },
+    {
+        letter: "𑀥",
+        roman: "dha",
+        phonetic: "/d̪ʱ/",
+    },
+    {
+        letter: "𑀦",
+        roman: "na",
+        phonetic: "/n/",
+    },
+    {
+        letter: "𑀧",
+        roman: "pa",
+        phonetic: "/p/",
+    },
+    {
+        letter: "𑀨",
+        roman: "pha",
+        phonetic: "/pʰ/",
+    },
+    {
+        letter: "",
+        roman: "ba",
+        phonetic: "/b/",
+    },
+    {
+        letter: "𑀩𑀸",
+        roman: "bā",
+        phonetic: "/ba:/",
+    },
+    {
+        letter: "𑀪",
+        roman: "bha",
+        phonetic: "/bʱ/",
+    },
+    {
+        letter: "𑀫",
+        roman: "ma",
+        phonetic: "/m/",
+    },
+    {
+        letter: "𑀬",
+        roman: "ya",
+        phonetic: "/j/",
+    },
+    {
+        letter: "𑀭",
+        roman: "ra",
+        phonetic: "/r/",
+    },
+    {
+        letter: "𑀮",
+        roman: "la",
+        phonetic: "/l/",
+    },
+    {
+        letter: "𑀮𑀸",
+        roman: "lā",
+        phonetic: "/la:/",
+    },
+    {
+        letter: "𑀯",
+        roman: "va",
+        phonetic: "/w, ʋ/",
+    },
+    {
+        letter: "𑀲",
+        roman: "sa",
+        phonetic: "/s/",
+    },
+    {
+        letter: "𑀳",
+        roman: "ha",
+        phonetic: "/ɦ/",
+    },
+    {
+        letter: "𑀴",
+        roman: "ḷa",
+        phonetic: "/l/",
+    },
+    {
+        letter: "𑀁",
+        roman: "aṃ",
+        phonetic: "/ɲ/",
+    },
 ];
 
 let letterdict: {
-  [key: string]: { letter: string; roman: string; phonetic: string };
+    [key: string]: { letter: string; roman: string; phonetic: string };
 } = {};
 
 letterref.forEach((letter) => {
-  letterdict[letter.roman] = { ...letter };
+    letterdict[letter.roman] = { ...letter };
 });
 
 interface Props {
-  letters: string[][];
+    letters: string[][];
 }
 
 const { letters } = Astro.props;
 ---
 
 <style>
-  .letter-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    padding: 0.5rem;
-    background-color: #f4eee8;
-    gap: 0.5rem;
+    .letter-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 0.5rem;
+        background-color: #f4eee8;
+        gap: 0.5rem;
 
-    border-radius: 0.5rem;
-  }
-  .letter-row {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: flex-start;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  .tile {
-    display: flex;
-    flex-direction: column;
-    width: 4.5rem;
-    height: 4.5rem;
-    background-color: #f7caca;
-    border-color: #d2c4d6;
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 0.5rem;
-  }
-  .letter {
-    font-size: 2.5rem;
-    margin-top: -0.75rem;
-    margin-bottom: -1rem;
-    text-align: center;
-    font-weight: 600;
-  }
-  .annotation {
-    padding-left: 0.2rem;
-    padding-right: 0.2rem;
-    display: flex;
-    justify-content: space-between;
-    font-size: 1rem;
-  }
+        border-radius: 0.5rem;
+    }
+    .letter-row {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 0.5rem;
+    }
+    .tile {
+        display: flex;
+        flex-direction: column;
+        width: 4.5rem;
+        height: 4.5rem;
+        background-color: #f7caca;
+        border-color: #d2c4d6;
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 0.5rem;
+    }
+    .letter {
+        font-size: 2.5rem;
+        margin-top: -0.75rem;
+        margin-bottom: -1rem;
+        text-align: center;
+        font-weight: 600;
+    }
+    .annotation {
+        padding-left: 0.2rem;
+        padding-right: 0.2rem;
+        display: flex;
+        justify-content: space-between;
+        font-size: 1rem;
+    }
 </style>
 
 <div class="letter-container not-content">
-  {
-    letters.map((row) => (
-      <div class="letter-row">
-        {row.map((letter) => (
-          <div class="tile">
-            <div class="letter">{letterdict[letter].letter}</div>
-            <div class="annotation">
-              <div>
-                <b>{letterdict[letter].roman}</b>
-              </div>
-              <div>
-                <em>{letterdict[letter].phonetic}</em>
-              </div>
+    {
+        letters.map((row) => (
+            <div class="letter-row">
+                {row.map((letter) => (
+                    <div class="tile">
+                        <div class="letter">{letterdict[letter].letter}</div>
+                        <div class="annotation">
+                            <div>
+                                <b>{letterdict[letter].roman}</b>
+                            </div>
+                            <div>
+                                <em>{letterdict[letter].phonetic}</em>
+                            </div>
+                        </div>
+                    </div>
+                ))}
             </div>
-          </div>
-        ))}
-      </div>
-    ))
-  }
+        ))
+    }
 </div>

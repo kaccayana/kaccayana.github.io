@@ -1,6 +1,6 @@
 // @ts-check
-import { defineConfig } from 'astro/config';
-import starlight from '@astrojs/starlight';
+import { defineConfig } from "astro/config";
+import starlight from "@astrojs/starlight";
 import rehypeMermaid from "rehype-mermaid";
 import remarkPlantUML from "@akebifiky/remark-simple-plantuml";
 import remarkAlerts from "remark-alerts";
@@ -36,6 +36,10 @@ export default defineConfig({
         {
           label: "Kaccāyana",
           autogenerate: { directory: "kaccayana" },
+        },
+        {
+          label: "Bālāvatāra",
+          autogenerate: { directory: "balavatara" },
         },
         {
           label: "Reference",
