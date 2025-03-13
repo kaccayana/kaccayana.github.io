@@ -18,7 +18,7 @@
     "@fontsource/noto-mono": "^5.2.5",
     "@fontsource/noto-sans": "^5.2.5",
     "add": "^2.0.6",
-    "astro": "^5.4.2",
+    "astro": "^5.4.3",
     "astro-expressive-code": "^0.40.2",
     "playwright": "^1.51.0",
     "pnpm": "^10.6.2",

@@ -1,6 +1,6 @@
 ---
-draft: true
-title: "Bālāvatāra (Vidyabhusana Translation)"
+draft: false
+title: "Bālāvatāra (1935 Translation)"
 description: >
   A translation into English, originally edited and translated by
   the late Mahamahopadhyaya
@@ -1819,81 +1819,38 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
          The Indeclinables (Nipātas) have been defined by
          Grammarians as follows :—
 
-Ssdisa ye ti-lihgesu sabbāsu са vibhattisu
-vacanesu ca sabbesu te Мраба ti kittita.
+         > Sadisā ye ti-liṅgesu sabbāsu ca vibhattisu \
+         > vacanesu ca sabbesu te Nipātā ti kittitā.
 
-—i.e., “‘those which are the same in the three genders,
-in all the case-endings and all the numbers, are called
-Nipatas (Indeclinables)."' a
+         \- i.e., "those which are the same in the three genders, in all the case-endings and all the numbers, are  called Nipātas (Indeclinables)."
 
-Thus, the nipüta ucca?h, for instance, remains un-
-changed in respect of Gender, whatever the Gender of
-the noun with which it is used :—uccam rukkho (m.) ;
-uccam lata (f.) ; 80007 gharani (n.). So also in respect
-of Case-endings :—uccam rukkho (nom.); uccam rukkham
-lacc.); uccam rukkhena (instr.), and so on. And so, too,
-in respect of Number:—uccam rukkho (sing.) ; uccam
-rukkha (pl.).
+         Thus, the nipāta uccaṁ, for instance, remains unchanged in respect of Gender, whatever the Gender of the noun  with which it is used: - *uccaṁ* rukkho (m.) ; *uccaṁ* latā (f.) ; *uccaṁ* gharāni (n.). So also in respect of  Case-endings: - *uccaṁ* rukkho (nom.); *uccaṁ* rukkhaṁ (acc.); *uccaṁ* rukkhena (instr.), and so on. And so,  too, in respect of Number: -*uccaṁ* rukkho (sing.); *uccaṁ* rukkhā (pl.).
 
-Prefixes and  Indeclinables, such as express
-‘self,’ ‘action,’ ‘place,’ ‘time,’ ‘direction,’ ‘qualities,’
+         Prefixes and Indeclinables, such as express 'self,' 'action,' 'place,' 'time,' 'direction,' 'qualities,'
+         etc., can be reckoned in the sense of the corresponding case-endings. Thus -
 
-NAMAKANDO 65
+         * *Adhi* may be used in the sense of the 7th case, e.g., *adhitthi*, which expresses the sense of the Locative *itthiyaṁ*.
 
-ete., can be reckoned in the sense of the corresponding
-case-endings. Thus—-
+         * *Anto* can express the sense of the 7th case, e.g., *antonagaraṁ* for *nagare* (Locative).
 
-Adhi may be used in the sense of the 7th case,
-e.g., adhitthi, which expresses the sense of
-the Locative itthiyarn.
+         * *Sayaṁ* may be interpreted in the sense of the 3rd and of the 0th case, r.g., *sayaṁkataṁ* for *attanā* (3rd) *kataṁ*; *sayaṁpabhā* for *attano* (0th) *pabhā*; sometimes, in the sense of the 1st case, e.g., *sayaṁbhū* for *sayaṁ* (1st) *bhavati*.
 
-Anto can express the sense of the 7th case, е.0.,
-antonagaram for nagare (Locative).
+         * *Namo* may be regarded in the sense of the 1st and of the 2nd case, c.g., *Namo tyathu*, where *namo* is in the Nominative ; *namo karohi*, where *namo* is in the Accusative.
 
-Sayam may be interpreted in the sense of the 3rd
-and of the 6th case, ¿.g., sayamkatam for
-aitaná, (3rd) katama; sayampabhd for attano
-(6th) pabha; sometimes, in the sense of the 1st
-case, e,g., sayambhi for sawam (18) bhavati.
+         * *Divā* can fit itself to the sense of the 1st or the 2nd or the 7th case, e.g., *divā hoti*, where *divā* is in the Nominative ; *divākaro*, where *divā* expresses the sense of the Accusative; *divā tapati ādicco*, where *divā* conveys the sense of the Locative.
 
-Namo may be regarded in the sense of the 1st and
-of the 2nd case, e.g., Namo tyatthu, where
-namo is in^the Nominative ; namo Като,
-where namo is in the Accusative.
+         * *Heṭṭhā* can convey the sense of the Locative and can, therefore, be said to answer to the 7th case, e.g., *heṭṭhā gopphakapariyantaṁ*, where *heṭṭhā* means 'downwards' and thus points to *direction*, which must be expressed by the 7th case-ending.
 
-Diva can fit itself to the sense of the Ist or the
-2nd or the 7th case, e.g., divd hoti, where
-divi is in the Nominative ; divakaro, where
-diva expresses the sense of the Accusative;
-diva tapati adicco, where divd conveys the
-sense of the Locative.
+         * *Uccaṁ* is good for all the cases. See above (p. 64).
 
-Hetthà can convey the sense of the Locative and `
-can, therefore, be said to answer to the 7th
-case, 6.g., hetthd gopphakapariyantam, where
-hettha means ‘downwards’ and thus points
-to direction, which must be expressed by
-the 7th case-ending.
+         * *He*, in the sense of the Vocative, relates to the first case.
 
-Uccam is good for all the cases. See above (p. 64).
-He, in the sense of the Vocative, relates to the
+         The remaining Prefixes (*pa*-saddas) and Indeclinables (*ca*-saddas) are to be reckoned in the sense of the 1st case-ending.
 
-first case,
-29
+         Prefixes are always attached to other words, but some of the Indeclinables are used separately. e.g., -
 
-66 BALAVATARA
-
-The remaining Prefixes (pa-saddas) and Indecli-
-
-nables (ca-saddas) are to be reckoned inthe sense of
-the 1st case-ending.
-
-Prefixes are always attached to other words, but
-some of the Indeclinables are used separately. e.g.,—
-
-Prefix: раһаго, paharati;
-
-Indeclinables: so ca; sā ca; 00558 và karoti và.
+         * Prefix: *pa*hāro, *pa*harati;
+         * Indeclinables: so *ca*; sā *ca*; bhāsati *vā* karoti *vā*.
 
 [^7]: Stems declined like *Buddha* are :— sūra, nara, uraga, asura, nāga,
 yakkha, gsndhabba, kinnara, manussa, pisāca, peta, sīha, mātaṅga,
@@ -1960,1794 +1917,481 @@ are declined like *Sabba*.
 
 ## VII. SAMASA (Compounds)
 
-1. Namanarn Samaso yutt’attho.
-
-fea ভিন্ন অর্থপূর্ণ নামগুলির যুক্তার্থ-সন্িবেশের নাম
-ASNA; যথা,-_“রঞ্ঞে!| পুত” এই কথাগুলি পৃথকূ,
-না রাখিয়া প্রাঁজ-পুত্তে” বলিলে সমাস হয়। এইরূপ,
-Эі ди est আগন্তক-ভত্রং ; সমণে। Б ব্রাঙ্গণো চল
-সমণ-ব্রাঙ্গণ! |
-
-Samása (Compound) is the aggregation of the
-meanings of words used to denote names :
-
-Ranno putto= Raja-putto.
-Agantukassa bhattam = Agantuka-bhattarn.
-Samano ca brihmano ca — Samana-brahmana.
-
-зт «d {чиба ata স্ব (২।৩৷২)--দন্ধনি wa
-ga (20912) 1
-2. Tesarn vibhattiyo lopà ca—-Pakati  c'assa
-sar'antassa.
-সমাস করিলে সাধারণতঃ 5] ও উত্তর পদের fref-
-গুলির লোপ হয়, এবং wate হইলে Q পদগুলি তাহাদের
-
-2 |
-
-68 BALAVATARA
-
-SHS রূপ প্রাপ্ত হয়। তাহার পর অর্থান্মসারে শেষ পদে
-লিঙ্গ ও বিভক্তি যুক্ত эш; যথা,__“চকৃখু” এবং "cire? এই
-দুইটি কথার সমাস করিতে হইলে, “Бурч: Б সোতং Б” এইরূপ
-পদ প্রয়োগ করিয়া, স্থত্রান্থসারে প্রথমতঃ “pee” ও “সোতং”
-এই ge কথার বিভক্কিগুলির লোপ করিতে হয়-__অর্থাৎ
-“চক্খু-সৌত” এই ees রূপ ( basic form )এ পরিণত
-করিতে হয় ; তাহার পর প্রয়োজনান্ুসারে অর্থভেদে লিঙ্গ
-ও বিভক্তি যৌগ করিতে za; যথা,__“চকৃখু-সোতং,
-“চক্খু-সোতেন” ইত্যাদি এইরূপ, “amre sma) =
-“রাজ-পুতো1” ; "scan аст” = প্রাজ-পুরিসো” |
-[কখন কখনও £ পদের বিভক্তি লোপ হয় না;
-যথা,__*পভং করোতি” সমাস করিলে “res এই পদের
-দ্বিতীয়! বিভক্তির লোপ ন! Seal “পভংকরো1” এই রূপ হয়। ]
-
-And the case-endings of those words which
-are united in a compound are (generally)
-elided.
-
-And the case-endings having elided, the words
-ending in vowels assume their basic forms
-(and then the compound assumes gender,
-number and case ):
-
-Cakkhurh ca sotarn ca — Cakkhu-sotarn.
-Cakkhuni са sotena ca=Cakkhu-sotena.
-Cakkhühi ca sotehi ca= Cakkhu-sotehi.
-Rañño putto- Raja-puttn.
-Ranno puriso= Raja-puriso.
-But, the case-ending is retained in such instances
-as Pabham karoti = Pabham-karo.
-
-SAMASA 69
-
-31 че qenfaact aram (২।৩৷৫৩) i
-
-9. Dvipade tulyadhikarane Kammadbaàra yo.
-
-তুল্যাধিকরণ বিশেষণ ও বিশেষ্য পদদ্বয়ের fecal
-বিশেষণ-ভুত পদ ও বিশেষ্য পদের যে সমাস হয়, তাহার নাম
-শ্রুস্ডা-শ্বাল্রস্ম ; যথা, হস্তে Б সো বীরে!| চাতিল
-মহাবীরে! ; + afeal Б সা কঞ্ঞা চাতি =খত্তিয-কঞ্ঞা | +
-
-[ দুইটি বিভিন্ন পদের অর্থগুলি যখন একই বস্তুতে
-সংক্রামিত wu, অর্থাৎ একই বস্তুকে সমানরূপে ( তুল্যার্থে )
-প্রকাশ করে, তখন সেই পদ ছুইটিকে Safaga
-বলে। এরূপ স্থলে, সমাসের পূর্বে পদ দুইটি তুল্য-
-বিভক্কিযুক্ত হয়; যথ1,__“মহাস্তে! বীরো” এই পদ দুইটি
-মহুত্বগুণ ও বাৰ্য্যগুণ-দ্বারা একই বিভক্তির ( এস্থলে “প্রথম।”*
-বিভক্তির ) অর্থ প্রকাশ করত তুল্যাংশে একই ব্যক্তিকে
-বুঝাইতেছে ; অতএব “মহস্তো” এবং “বীরে!” এই পদ দুইটি
-এস্থলে Sefe তুল্যাধিকরণ উভয় পদের
-অর্থপ্রকীশ-নিমিত্ত সমীস-বীকো "b" এবং “সো” এই দুইটি
-শব্দ ব্যবহার করিতে হয় | |
-
-« কশ্মধারয় সমালে “মছতং মহা তুল্যাধিকরণে পদে” (২1৭১৫) এই কচ্চাষন ra-
-TAA “মহস্ত” শব্দের স্থলে সাধারণতঃ “মহা এবং "কু" স্থলে কখন কখনও “কা” ও
-"aw" আদেশ হয়; যথা,-__“মহাৰীরে!”, “কাপুরিসে!”, “Fecal? ইত্যাদি ; কিন্ত,
-কুদারা, কুপুত্তা, FOE, কুদাসা, কুবত থা |
-
-- যদি ভুইটি পদই Af হয়, তাহ! হউলে “কপ্মধারয় лет চে" (215/95)
-এই কচ্চায়ন স্ুত্রানুসারে প্রথমটি পুংলিঙ্গের আকার প্রান্ত হয়; qe — “ws 5 সা
-ae) চাতি” = “seine”; কিন্ত, “rattler”; এস্থলে “asa” নপুংসক লিঙ্গ
-afam বিশেষশ-ভুত “কুমারী” শব্দটি পুংলিঙ্গ হইল না।
-
-70 BALAVATARA
-
-When two words (an adjective and a noun)
-possessing similar case-endings are combined,
-the combination is called Kammadharaya or
-Descriptive Compound :
-
-Mahanto са so viro cà ti=Mahiaviro.
-
-Khattiya ca sā Кайла са ti= Khattiya-kañña,
-
-[In a Kammadhüraya compound, mahanta is
-generally changed to maha and ku occasionally to
-kā ог kad (according to Kaccüyana, 2. 7. 15); ¢.g.,
-mahd-viro, kd-puriso, kadanno; but, ku-dara,
-ku-pultàá, ku-gehá, ku-dásá,  kuvatthà, If both
-the words are feminine, the first member of the
-compound assumes the masculine form (accord-
-ing to Kacciyana, 2. 7. 17); e.g., khattiya-
-kafifiüà, mahd-saddha. Otherwise, there is no
-change ; as, Китаті-таіапат (where  ratanam
-being neuter, the first member  Kkumári,
-which is used as an adjective, retains its feminine
+### 1. Nāmānam Samāso yutt'athho.
 
-form). ]
+**Samāsa** (Compound) is the aggregation of the meanings of words used to denote names:
 
-ві wages fes (২।৩৷৫০)--হিযুন্মম жє (Riog) |
+* Rañño putto = Rāja-putto.
+* Āgantukassa bhattaṁ = Āgantuka-bhattam.
+* Samaṇo ca brāhmaṇo ca = Samaṇa-brāhmaṇā.
 
-4. Sankhyapubbo Digu— Diguss'ekattarm.
+### 2. Tesaṁ vibhattiyo lopā ca — Pakati c'assa sar'antassa.
 
-sataa সমাসে পূর্বাপদটি যদি সংখ্যাবাচক হয়,
-
-তাহ! হইলে সেই সমাসকে Грез সমাস বলে। সমষ্টি বুঝায়
-বলিয়া! এই “সমাহার”-দিগু ciue একবচন ও নপুংসক লিঙ্গ
-প্রাপ্ত হয়; যথ,_“তয়ে| লোক! সমাহট1” =“তিলোকং” ;
-এইরূপ, “চতুদ্দিসং”, “পঞ্চিন্দ্রিয়ং” ইত্যাদি |
-
-If the first member of a Descriptive Compound
-
-is a numeral, the combination is called Digu
-or Numeral Compound, which becomes singular
-
-and neuter :
-
-SAMASA 71
-
-Tayo lokā samaihat&amp;a=Tilokarm. So also.
-Catuddisam, Paficindriyar.
-
-чї SH aqya ক্সলাুতী  uxuefe— sr яе
-асччіча—9% sr (২1৩৫, £২, 27, 22) I
-
-9. Ubhe  "Tappurisá—Amiüdayo parapadehi—
-Attam Nassa Tappurise—Sare An.
+And the case-endings of those words which are united in a compound are (generally) elided.
 
-(ক) fre ও wataq এই 58 সমাসকে Sot-
-elfe (“Serra”) সমাস বলে।
+And the case-endings having elided, the words ending in vowels assume their basic forms (and then the compound assumes gender, number and case):
 
-(ч) “অং”, “না” প্রভৃতি দ্বিতীয়া, তৃতীয়া ইত্যাদি
-বিভক্তিযুক্ত শব্দের সহিত аҹ] পদের যে সমাস হয়,
-সেই সমাসের নাম SAA c«m 697 ও
-পরপদের যে সম্বন্ধ তাহা এই সমাসে ব্যক্ত হয়। TA
-পদের যে বিভক্তি * সেই বিভক্তির নামানুসারে তপপুরিসের е
-বিশিষ্ট নাম হুইয়! থাকে | সমাস হইলে সাধারণতঃ পুর্বপদের
-বিভক্তি থাকে ai) তপপুরিস বা তৎ্পুরুষ সমাস ছয় প্রকারের
-হইয়া থাকে ; যথা,
+* Cakkhuṁ ca sotaṁ ca = Cakkhu-sotaṁ.
+* Cakkhuna ca sotena ca = Cakkhu-sotena.
+* Cakkhūhi ca sotehi ca = Cakkhu-sotehi.
+* Rañño putto = Rāja-putto.
+* Rañño puriso = Rāja-puriso.
 
-» | wie. গতে|= ভূমি-গতে৷ (দ্বিতীয়া তৎপুরুষ)
+But, the case-ending is retained in such instances as Pabhaṃ karoti = Pabhaṃ-karo.
 
-সববৰরত্ভিহ. সোভনে!= সববরত্তি-সৌভনো। (এ)
-з | ইস্সল্লেন্স কতং = ইস্সর-কতং (তৃতীয়া তৎ)
-সল্লেন্ন বিদ্ধং= সল্লবিদ্ধং (এ)
+### 3. Dvipade tulyādhikaraṇe Kammadhārayo.
 
-৩ | we হুস্সং= কঠিন-দুদ্‌সং (চতুর্থী তৎ)
-MTAA ভত্তং= আগস্ধক-ভত্তং (এ)
+When two words (an adjective and a noun) possessing similar case-endings are combined, the combination is called **Kammadhāraya** or *Descriptive* Compound:
 
-৪ | Cms) অপেতে|= মেথুনাপেতে| (পঞ্চমী তৎ)
-агас} ভয়ং = রাজ-ভয়ং (44)
-ota ভয়ং= চৌর-ভয়ং (এ)
+* Mahanto oa so vīro cā ti = Mahāvīro.
+* Khattiyā ca sā kaññā cā ti=Khattiya-kaññā.
 
-« পূর্ববপদ "পঠম।” কিংব| “আলপান” বিভক্তিযুক্ত হয় না;
+[In a Kammadhāraya compound, *mahanta* is generally changed to mahā and *ku* occasionally to *kā* or *kad* (according to Kaccāyana, 2. 7. 15); e.g., *mahā-vīro*, *kā-puriso*, *kadanno*; but, *ku-dārā*, *ku-puttā*, *ku-gohā*, *ku-dāsā*, *kuvatthā*. If both the words are feminine, the first member of the compound assumes the masculine form (according to Kaccāyana, 2. 7. 17); e. g., *khattiya*-kaññā, *mahā*-saddhā. Otherwise, there is no change ; as, *kumārī-ratanaṁ* (where *ratanaṁ* being neuter, the first member *kumārī*, which is used as an adjective, retains its feminine form).]
 
-72 BALAVATARA
+### 4. Saṅkhyāpubbo Digu—Diguss'ekattaṁ.
 
-৫ | 2C] পুত্তে = রাজ-পুত্তো (AH তৎ)
-ধঞ্ঞান্নহ রাসি= ধঞ্ঞে-রাসি (F)
-৬। ЖСР Hel = 371-104 (সপ্তমী তৎ)
-AICS] ছকৃখং = সংসার-দুকৃখং (এ)
-(я) তপপুরিস সমাসে যদি পূর্ববপদ ‘ন’ হয়, তাহ! হইলে
-এ ‘ন’ স্থানে “অকার” আদেশ হয়; যথা,ন a=
-womb; ন ব্রাহ্মণো=অ-ত্রাহ্মণো ; ন বসলী= অ-বসলী ; ন
-ভিকৃখু-অ-ভিকৃখু; ন পঞ্চবস্সো! = অ-পঞ্চবস্সো ; ন পুন
-গেষ্যা_ অ-পুনগেব্যা। [যে wataq সমাসের পূর্ব্বপদটি
-কোনও পনিপাত”-বিশেষ, তাহাকে সংস্কৃত ব্যাকরণে
-=a SS [SrA সমাস বলে | |
-(ч) কিন্ত, স্বরবর্ণ পরে থাকিলে £ পদের ‘ন’ স্থানে
-‘eq’ আদেশ zu; যথা, SON = SAC |
-Numeral Compounds (Digu) and Descriptive
-Compounds (Kammadharaya) are both called
-Tappurisa or Determinative Compounds.
-When the first member possesses one or other
-of the case-endings am, mà, etc. (i.e., the
-second, the third and so on),, excepting the
-nominative and the vocative, and determines
-the meaning of the second member, their
-combination is called Tappurisa or Determina-
+If the first member of a Descriptive Compound is a numeral, the combination is called **Digu** or *Numeral* Compound, which becomes singular and neuter :
 
-tive.
+* Tayo lokā samāhaṭā = Tilokaṁ. So also, Catuddisaṁ, Pañcindriyaṁ.
 
-In combination the case-ending of the first
-member is generally dropped. There are six
-kinds of Tappurisa Compound :
+### 5. U'bhe Tappurisā-Amādayo parapadehiAttam Nassa Tappurise—Sare An.
 
-1. Bhümi рабо = Bhümi-gato (2nd Tappurisa).
+Numeral Compounds (Digu) and Descriptive Compounds (Kammadhāraya) are both called **Tappurisa** or *Determinative* Compounds.
 
-Sabbarattim sobhano- Sabbaratti-sobhano
+When the first member possesses one or other of the case-endings aṁ, nā, etc. (i.e., the second, the third and so on), excepting the nominative and the vocative, and determines the meaning of the second member, their combination is called **Tappurisa** or *Determinative*.
 
-(Do.).
+In combination the case-ending of the first member is generally dropped. There are six kinds of Tappurisa Compound:
 
-SAMASA 78:
+1. Bhūmiṁ gato = Bhūmi-gato (2nd Tappurisa). \
+   Sabbarattiṁ sobhano = Sabbaratti-sobhano (Do.).
+2. Issarena kataṁ = Issara-kataṁ (3rd Tappurisa). \
+   Sallena viddhaṁ = Salla-viddhaṁ (Do.).
+3. Kaṭhinassa dussaṁ = Kaṭhina-dussaṁ (4th Tappurisa). \
+   Āgantukassa bhattaṁ = Āgantuka-bhattaṁ (4th Tappurisa).
+4. Methunasmā apeto = Methunāpeto (5th Tappurisa). \
+   Rājato bhayaṁ = Rāja-bhayaṁ (6th Tappurisa). \
+   Corā bhayaṁ = Cora-bhayaṁ (Do.).
+5. Rañño putto = Rāja-putto (6th Tappurisa). \
+   Dhaññanaṃ rāsi = Dhañña-rāsi (Do.).
+6. Rūpe saññā = Rūpa-saññā (7th Tappurisa). \
+   Saṁsāre dukkhaṁ = Saṁsāra-dukkhaṁ (Do.).
 
-2. Issarena katarh = Issara-katarh (Brd Tappurisa).
-Ballena viddharn = SBSalla-viddharn (Do.).
+If "na" is the first member in a Determinative Compound, it is changed into "a":
 
-8. Kathinassa dussarn = Kathina-dussarh
-(4th Tappurisa).
-Agantukassa bhattarh = Agantuka-bhattarm
-(4th Tappuriss).
-4, Methunasméü apeto= Methunüpeto
-(5th Тарригіза).
-Rüjato bhayarh = Raja-bhayam
-(6th Tappurisa).
-Сота bhayarh = Cora-bhay ari (Do.).
-Rafifio putto = H&amp;ja-putto (6th Tappurisa).
-Dhaffidnam rüsi- Dhafifia-risi (Do.).
-6. Rape saünü- Rüpa-sañña (7th Tappurisa).
-Sarnsare dukkharn = Sarnsüra-dukkharn (Do.).
+Na euro $=$ a-suro; na Brāhmaṇo $=$ aBrāhmaṇo; na vasalī=a-vasalī; na bhikkhu = abhikkhu; na pañca-vasso=a-pañcavasso; na punageyyā=a-punageyyā. [A Kammadhāraya combination, having a nipāta as its first member, is called "Nañ Tatpuruṣa" in Sanskrit Grammar.]
+But, if a vowel follows, the "na" becomes "an":
 
-সে
+Na asso=an-asso.
 
-If ‘‘na’’ is the first member in a Determinatives
-Compound, it is changed into “а”:
-
-Na suro = a-suro; na 13851025880 = a-
-Brühmano; na vasali=a-vasali; na bhikkhu=a-
-bhikkhu; na pafica-vasso=a-paficavasso; na puna-
-geyya=a-punageyya. [A Kammadharays combi-
-nation, having a nipite as its first member, is
-called ‘‘ Май Tatpurusa.'' in Sanskrit Grammar. ]
-
-But, if a vowel follows, the “па " becomes
-
-&amp; «4 oP .
-
-an м
-Na asso—an-asso.
-
-а, ক্সজ্জনহুল্প্রন্ত agate (319148) |
-6. Afifiapad’ atthesu Bahubbihi.
-ca কয়টি পদের সমাস করা যায় সেই পদগুলি যখন
-তাহাদের স্ব স্ব অর্থ না বুঝাইয়া অন্ত কোনও বস্তুর অর্থ
-10
-
-74)
-
-BALAVATARA
-
-বুঝাইতে মিলিত হয় তখন Q সমাসকে =т= 5 (“qG-
-afe") সমাস বলে, এবং এ সমাসপদটি অন্ত পদের বিশেষণ
-হয়] 464915 সমাস সাধিতে হইলে সমাস-বাক্যে দ্বিতীয়া,
-
-তৃতীয়া enfe বিভক্তিযুক্ত “ay” শব্দের একটি পদ আবশ্যক
-
-মত প্রয়োগ করিতে হয়) এই “aW” শব্দটি যে factos
-উদ্দেশে ব্যবহৃত হয়, সমস্ত সমাসপদটি সেই বিশেষ্যের বিশেষণ
-
-AW) যথা,-"আগত-সমণে! সঙ্ঘারামো” এই কথাগুলিতে
-
-“আগত-সমণো* অংশটি বিশেষণ এবং “সঙ্ঘারামো” কথাটি
-বিশেষ্য পদ. আবার, “আগত-সমণো।” একটি বহুৰ ৰীহি-
-
-. সমাসসিদ্ধ পদ | এস্থলে “আগত” ও “সমণো?* পদদ্বয় পরস্পরের
-অর্থ বা সম্বন্ধ ন! বুঝাইয়া, Gem fxfeui একটি অন্য পদ
-
-“সঙ্ঘারাম”কে বুঝাইতেছে ; অর্থাৎঁ--“সেই সঙ্ঘারাম, যে
-
-সঙ্ঘারামে সমণেরা' আগত হইয়াছিলেন”__-"“আগতা সমণা
-
-যং সঙ্ঘারামং সোয়ং SS-A সঙ্ঘারামো” |
-এইরূপ, fasta ইন্দ্িয়ানি যেন সমণেন সো=-
-
-I
-
-Каса সমণো। ; দিলো স্ুভূকো| যস্স রঞঞে'! সো
-
-_হিস্যা «fmi; নিয্নতা জনা чин! গামা সে!
-_ন্লিগঞাত-জন্লো sto ; far হত্থা чил পুরিসস্স
-সো_চিক্ষ-হত তথা পুরিসে। ; সম্পন্নানি সস্সানি ষশ্মিং
-জনপদে OSI জনপদো.; নিগ্রোধস্স
-পরিমগুলে।  নিগ্রোধপরিমগুলো! ( eh তৎপুরুষ ), farata-
-পরিমণ্ডলো৷ ইব পরিমণ্ডলে যস্স রাজক্মারস্স on facere-
-efase রাজকুমারো! ( 464 = ); ইত্যাদি।
-
-ৰহুৰ #18 সমাস দ্বিবিধ :—
-&gt;| gafara i—a яте লইয়া
-
-"U ае е সমাস করিতে হইবে সেই পদগুলির যখন একই
-2^ লিঙ্গ, বিভক্তি ও বচন থাকে ; যেমন, পূর্বোক্ত “আগতা
-
-` .
-
-SAMASA | „15
-
-সমণা যং” এই বাক্যটিতে “আগতা” ও "mq" উভয়
-পদেই পুংলিঙ্গ প্রথমা বিভক্তির বহুবচন প্রযুক্ত #23105 |
-সুতরাং, “আগত-সমণো” এই সমাসপদে তুল্যাধিকরূণে
-454415 সমাস হইয়াছে বলা যাইতে পারে |
-
-- | fastia i—a পদগুলি লইয়া ze
-axe সমাস করিতে হয়, সেই পদখুলিতে যখন বিভিন্ন
-লিঙ্গ, বিভক্তি ও বচন থাকে ; যেমন, "পুপফেহি ভবে!
-"ps এই বাক্যটিতে প্পুপফেহি” পদটি নপুংসক লিঙ্গের
-তৃতীয়ার বহুবচনে, fea “ভবে?” পদটি পুংলিঙ্গের প্রথমার
-একবচনে ব্যবহৃত 589105 | অতএৱ, “পুপফ-ভবো” এই
-সমাস পদে ভিন্নাধিকরণে বহুববীহি সমাস হইয়াছে বলা
-ata | а
-When words signifying names of objects are,
--combined together to signify the name of a
-
-different object, the Compound is called
-Bahubbihi or Attributive : | + €
-
-Араба samana yam  sanghaárümam so—Agafa-
-samano sangharimo.
-
-Jitini indriyani yena samanena — —
-sarnano.
-
-Dinno suñko yassa rañño so—Dinna- suhko raja.
-
-Niggata jana yasma gāmā so—Niggata-jano gümo.
-
-Chinna hattha TA purisassa so—Chinna-hattho
-puriso.
-
-Sampannani sassüni ` yasmim janapade so—
-Sampanna-sasso janapado. _
-
-Nigrodhassa psrimandalo= Nigrodha-parimandalo
-(6th Tappurisa); Nigrodha-parimandalo iva
-parimandalo yassa riaijakumdrassa so—
-Nigrodha-parimandalo rájakumáro (Bahubbihi).
-
-76
-
-Ә |
-
-V.
-
-BALAVATARA
+### 6. Aññapad' atthesu Bahubbthi.
 
 Attributive Compounds are of two kinds:
 
-1. "Tulyàüdhikarana,— When the words which
-are combined together are of the same gender,
-number and case, the samdsa is called Tulyddhi-
-karana Bahubbihi :
-
-Agata samana yarn sanghirimam so—Agata-
-samano sanighirimo (where dgaté and
-samand are both masculine, plural and
-nominative).
-
-2. Bhinnaédhikarana—When the words which
-are combined together are different in gender,
-number and case, the samdsa is called Bhinnddhi-
-
-- karana Bahubbihi :
-
-Pupphehi bhavo yassa so—Puppha-bhavo (where
-- pupphehi is neuter, plural and ablative, while
-bhavo is masculine, singular and nominative).
+1. Tulyādhikaraña.-When the words which are combined together are of the same gender, number and case, the samāsa is called Tulyādhikaraṇa Bahubbīhi:
 
-ятата wear == (২1৩৪) 1
+Agatā samanā yam sānghārāman̉ so-Āgatasamano sānghārāmo (where āgatā and saman $\bar{a}$ are both masculine, plural and nominative).
+2. Bhinnādhikaraña-When the words which are combined together are different in gender, number and case, the samāsa is called Bhinnādhikaraṇa Bahubbīhi:
 
-Namanam samuccayo Dvando.
+Pupphehi bhavo yassa so-Puppha-bhavo (where pupphehi is neuter, plural and ablative, while bhavo is masculine, singular and nominative).
 
-একই বিভক্তিঘুক্ত দুই বা বহুপদের সংযোজনের নাম
-ছন্দ ("uu") সমাস ; যথা,
-চন্দিমা 5 fac চ-_চন্দিম-সুরিয় |
+### 7. Nāmānan samuccayo Dvando.
 
-SAMASA 77
+When several words (denoting names) in the same case are joined together, the Compound is called Dyanda or Aggregative :
 
-When several words (denoting names) in the
-same case are joined together, the Compound
-is called Dvanda or Aggregative :
+Candimã ca suriyo ca-Candima-suriyã.
+$\left.\begin{array}{l}\text { Narã ca nãriyo ca } \\ \text { Naro ca nãrĩ ca }\end{array}\right\}$ -Nara-nãriyo.
+Akkharam் ca padam் ca Akkharãni ca padãni ca $\}$ —Akkhara-padãni.
+Similarly, Samana-brãhmaṇã, Sãriputta-Moggallãnã, Brãhmaṇa-gahapatikã, Yama-Varuṇã, Kuvera-Vãsavã and so on.
 
-Candimi ca suriyo ca—Candima-suriya.
+### 8. Tathã Dvande pãni-turiya-yogga-senangakhuddajantuka-vividha-viruddha-visabhãg'at-thãdĩnam ca.
 
-Мага ca nariyo ca
+(As the Diyu Compound,) even so the Dvanda Compound, consisting of words of the following among other descriptions, is put in the singular number and neuter gender:
+(1) signifying limbs of living beings: -
 
-eat ]—N ara-nariyo.
-Naro ca nari ca
+Cakkhum ca sotarn ca-Cakkhu-sotarn.
+Similarly, Mukha-nāsikarn, Chavi-marnsalohitarn;
+(2) signifying branches or instruments of music:-
+Gitan ca vāditarh-Gīta-vāditarh; Sankho ca panavo ca-Sankha-panavarn.
+Similarly, Daddari-dendimarn;
+(8) signifying objects belonging to a yoke:-
 
-Akkhararm са padar ca
+Yugarn ca nangalarn ca-Yuga-nangalarn.
+Similarly, Phāla-pācanarn;
+(4) signifying objects relating to, or component parts of, an army:-
+Asinī ca cammam̉ ca-Asi-cammam̉.
+Similarly, Dhanu-kalāpañ, Hattb'-assam̉, Ratha-pattikari;
+(б) signifying little creatures (worms, insects etc.) :-
+Daniso ca masako ca-Darisa-masakari.
+Similarly, Kuntha-kipilakari, Kita-sirimsapari;
+(6) signifying objects which indicate various degrees of difference:-
+Ahi ca nakulo ca-Ahi-nakulari.
+Similarly, Bilāra-mūsikari, Kākolūkarí ;
+(7) signifying contrary qualities:-
 
-} —Akkhara-padani.
-Akkharüni ca padani ca
+Nāman̉ ca Rūpañ ca-Nāma-Rūpañ.
+Similarly, Sila-paūñari, Samatha-vipassanari, Vijjā-caranam.
 
-Similarly, Samana-brahmana, Sariputta-
-Moggallina, Brühmana-gahapatikü, Yama-Varuna,
-Kuvera-Viisavii and во on.
+### 9. Vibhāsā rukkha-tina-pasu-dhana-dhañ̄najanapadādīnam ca.
 
-c, am w urfaegfernzenuegy-uwesegn-fafana-
-লিন্দ্ব-লিঘললালা্সাহীল = (21919) 1 |
-8. 'Tatha — Dvande páni-turiya-yogga-senanga-
+A Dvanda compound, consisting of words of the following among other descriptions, is also put in the singular number and neuter gender, optionally :-
 
-khuddajantuka - vividha-viruddha - visabhàg at -
-th&amp;dinam ca.
+1. denoting trees: Dhava-khādirarh, Dhavakhādirā ; Assattha-kapittharh, Assatthakapitthā ;
+2. denoting grass: Munja-babbajarh, Munja. babbajā ; Usīra-bīraṇarh, Usīra-bīraṇā ;
+3. denoting animals: Aj'elakari, Aj'elakā ;
+4. signifying valuable things: Hirañña-sú. vapṇarh, Hirañña-suvampā;
+5. denoting grains: Sāli-yavari, Sāli-yavā ;
+6. denoting inhabitants of a country: KāsiKosalarh, Kāsi-kosalā.
 
-যেরূপ fre সমাসে সমাসপদের একবচন ও নপুংসক
-লিঙ্গ হয়, সেইরূপ দ্বন্দ সমাসেও প্রাণী, তূর্য, যোগ্য ও
-সেন প্রভৃতির অঙ্গবাচক শব্দ, ক্ষুদ্র জন্তবাচক শব্দ, পরস্পর
-বিরুদ্ধার্থক শব্দ এবং অসদৃশ-গুণবাচক শব্দ প্রভৃতির যোগে
-সমাস-্পদের একবচন ও নপুংসক লিঙ্গ হয় ; বথা,__
-&gt;) FEW Б সোতং চ-_চকৃখু-সোতং ;
-এইরূপ, মুখ-লাসিকং, em প্রাণীর অঙ্গ অথে
-লোহিতং |
-. э | Яе: 5 বাদিতং চ-_গীত-বাদিতং ; |
-AGTA svn se ie রস чач
-এইরূপ, দদ্দরি-ডেস্ডিমং i
+### 10. Upasagga-Nipāta-pubbako Abyayībhāvo.
 
-78 BALAVATARA
+The combination of words with upasagga or nipāta in the following among other senses is called Abyayībhāya or Indeclinable
+Compound. The compound is put in the neuter gender [vide Kaccāyana, 2.7.5] and the final vowel is made short [vide Kaccāyana, 2.7.27]:
 
-৩। যুগং b নঙ্গলং চ-_বুগা-নঙ্গলং; যোগ্যের
-এইরূপ, ফাল-পাচনং। x অঙ্গ অর্থে
-8 | অসিং Б om চ--অসি-চম্মং ;
-এইরূপ, PAK, হত্থ-স্সং, | সেনার অঙ্গ অর্থে
-রথ-পত্তিকং |
-е | ডংসো Б মসকে! চ-_-ডংস-মসকং ;
-এইরূপ, কুস্থকিপিলিকং, কীট- | ক্ষুদ্র জন্ত অর্থে
-সিরিংসপং।
-৬। আহি 5 নকুলে| ৮-_অহি-নকুলং ; বিবিধ
-ean, বিলার-মুসিকং, ФСФ ЇТ Ф: | বিরুদ্ধ অর্থে
-«| নামং Б রূপং চ-_নাম-রূপং ;
-এইরূপ, সীল-পঞ্ঞং, সমথ- iu অর্থে
-বিপস্সনং, বিজ্জা-চরণং |
+Cittam adhikicca $=$ Adhicittañ.
 
-“(As the Digu Compound,) even so the Dvanda
-Compound, consisting of words of the follow-
-ing among other descriptions, is put in the
-singular number and neuter gender:
+Nagarassa samīpe $=$ Upanagaram̀n.
+Darathassa abhāvo $=$ Niddaratharh.
+Masakassa abhāvo $=$ Nimmasakarh.
+Makkhikānam abhāvo $=$ Nimmalkhikarh.
+Vuḍḍhānam paṭipāṭiyā=Yathāvuḍ̣̣ham.
+Sattim̀ anatikkamma $=$ Yathāsatti.
+Ye ye vuḍ̣̣hā=Yathāvuḍ̣̣ham.
+Jīvassa yattako paricohedo $=$ Yāvajīvarh.
+A pabbatā (khettam̀ $)=$ Apabbatam̀.
+A jalantā (sitarī) = Ajalantam̀.
+Pabbatassa tiro $=$ Tiropabbatam
+Sotassa pați $=$ Pațisctarh.
+Pāsādassa anto $=$ Antopāsādam̀.
 
-(1) signifying limbs of living beings : —
-Cakkhum ca sotarn ca—Cakkhu-sotarn.
-Similarly, Mukha-nasikam, —|Chavi-marnsa-
-lohitarh ;
+## VIIIA KĀRAKA (Complementives[^20])
 
-(2) signifying branches or instruments of music : —
-Gitarn ca váditarn—Gita-vüditarh; Sankho ca
-panavo ca—Sankhe-panavam.
+### 1. Karoti kiriyam nipphādetīti Kārakam.
 
-Similarly, Daddari-dendimarn ;
-(8) signifying objects belonging to a yoke:— *
-&gt; FY | Yugarh ca nafgalarh ca—Yuga-nangalarm.
-Similarly, Phála-pácanarh ;
+Kāraka or the Complementive[^20] is so called because it completes an action (see p. 33).
 
-SAMASA 79
+There are six Kārakas: Kamma, Kattu, Karana, Sampadāna, Apādāna, and Okāsa or Adhikarana. Sāmī or the Genitive and Alapana or the Vocative are not regarded as Kāraka, because neither of them satisfies the required condition.
 
-(4) signifying objects relating to, or —
-parts of, an army :—
+[^20]: The term has been coined by me. - S. M.
 
-Asim са cammarh ca—Asi-cammarh.
-Similarly, Dhanu-kaliparh, Hatth’-assarh,
-Ratha-pattikarh ;
+### 2. Yami karoti tam Kammam.
 
-(5) signifying little creatures (worms, insects
-etc.) :—
+That which one does (sees or hears), is called the Object :
+o. g., Ratham karoti, [See examples under Dutiyā, p. 34.]
 
-Damso ca masako ca—Darhnsa-masakarh.
-Similarly, Kuntha-kipilakarn, Kita-sirirhsaparh;
-
-- (6) signifying objects which indicate various
-
-degrees of difference : —
-
-Ahi ca nakulo ca—4Abhi-nakularh.
-Similarly, Bilàra-müsikarn, Kakolükarn ;
-
-(7) signifying contrary qualities:— .
-
-| Namarh ca Rüparn ca—Nima-Riparh.
-
-Similarly, Sila-patfiarn, Samatha-vipassgnam,
-Vijja-caranarh.
-
-«| fmm ্ৃন্্ব্র-লিষ্য-নজ্ব-নল-অজ্ল-জলনভাভীল ч
-(RISE) 1
-
-9. Vibhasa rukkha-tina-pasu-dhana-dharnüa-
-janapadàdinam ca.
-
-দ্বন্দ সমাস করিলে, বৃক্ষ, তূণ, পণ্ড, ধন, "TE, জনপদ
-ইত্যাদি বস্তবাচক শব্দ সকলের যে সমাসপদ, তাহা! বিকল
-একবচন ও নপুংসক লিঙ্গ প্রাপ্ত হয়; যথা =
-১ | ধরবে! Б খাদিরো চ-_-ধব-খাদিরং, ধব-খাঁদির1)
-Sse 5 ФГС চ-_-অস্সত্থ-
-কপিত্থং, অস্সত্থ-কপিত্থা। |
-
-TT
-বাচক
-
-80 BALAVATARA
-
-x | Wal b 33 3C9l 5 — 18-4 জং,
-39-44 ৰজা| ; »
-উসীরঞ্চ বাঁরণঞ্চ--উসীর-বীরণং, বাচক
-উসীর-বীরণ! |
-৩ | SCS Б এলকে| চ--অজেলকং, অজেলক] ।-_পাশু-বাচক
-в | {еза Б was Б— হিরএওএ,-ন্বগ্রং, ধন-
-farara] }
-çI সালি চ যবে! চ-_সালি-যবং, সালি-যব|। ধান্-বাচক
-©) কাসি 5 কোসলে! চ-_কাসি-কোসলং, x
-কাসি-কোসলা } বাচক
-
-A Dvanda compound, consisting of words of the
-following among other descriptions, is also
-put in the singular number and neuter gender,
-optionally :—
-
-(1) denoting trees: Dhava-khidiram, Dhava-
-khüdirà ; ^ Assattha-kapittharn, Assattha-
-kapittha ;
-
-(2) denoting grass: Muiija-babbajam, Muñja-
-babbaja ; Usira-biranarh, Usira-birana ;
-
-(3) denoting animals: Aj'elakarn, Aj’elaka ;
-
-(4) signifying valuable things: Hirañña-su-
-vannarn, Hiranha-suvanna ;
-
-(5) denoting grains: Sali-yavarh, Sali-yava ;
-
-(6) denoting inhabitants of a country: Kasi-
-Kosalarn, Küsi-kosalá.
-
-₹*॥ sqa- faa- ga stara (31918) 1
-19: Upasagga-Nipāta-pubbako Abyayibhüvo.
-
-বিভক্তি, আধার, সামীপ্য, অভাব, অনতিক্রম, Ar,
-ods, সীমা, fre, অভ্যন্তর ইত্যাদি অর্থে উপসর্গ কিংবা
-
-SAMASA 81
-
-নিপাত পদের সহিত পরবর্তী অন্ত পদের যে সমাস হয় তাহার
-নাম чулу шүн সমাস । এই সমাস-পদের নপুংসক
-লিঙ্গ Beal থাকে (“on নপুংসক-লিঙ্গো” = কচ্চায়ন, ২1৭1৫]
-এবং পদাস্ত স্বর z হয় [Atal 3001 নপুংসকে*” = কচ্চায়ন,
-219/29] ; 3«41—
-
-foe: অধিকিচ্চ = অধি-চিত্তং
-
-কুমারিং অধিকিচ্চ বা অধি কুমারিয়ং | সপ্তমী বিভক্তির
-
-= অধি-কুমারি অর্থে বা
-fete অধিকিচ্চ বা wfs ই খিয়ং আধার অর্থে |
-= অধিখি i
-নগরস্‌স সমীপে = উপনগর --সামীপ্য অর্থে |
-দরথস্স অভাবে! = নিদ্দরথং
-хуфя অভাবে! = নিশ্মসকং | অভাব অর্থে |
-মকৃখিকানং অভাবে = নিম্মকৃখিকং H
-15519: পটি-পাটিয়!  য্থ-বুড্ঢং অনতিক্রম
-afer অনতিকম্ম = যথা-সত্তি | অর্থে।
-বীন্দার্থে অর্থাৎ
-যে যে geni = ঘথা-বুড্ঢং পুনঃ পুনঃ”
-অর্থে |
-
-জীবস্‌স wees পরিচ্ছেদে! = বাব-জীবং__পধ্যস্ত অর্থে |
-ai পবৰতা ( খেত্তং ) = আপৰ ৰতং } —
-অ! seri ( সীতং )= আজলস্তং
-
-494599 fecal = তিরে!পৰৰতং
-সোতস্স পটি = পট-সোতং 1 tex wx
-পীসাদস্স অস্তেো = অস্তো-পাসাদং — অভান্তর অর্থে |
-
-The combination of words with upasagga
-or nipata in the following among other
-senses is called Abyayibhüva or /ndeclinable
-
-11
-
-BALAVATARA
-
-Compound The compound is put in the neuter
-gender [vide Кассӣуапра, 2.7.5] and the final
-vowel is made short [vide Kaccayana, 2.7.27]:
-
-Cittam adhikicca= Adhicittam.
-Kumarim adhikicca
-
-or = Adhikumiari.
-Adhi kumiariyam
-
-Itthirh adhikicea !
-or —Adhi'tthi.
-
-Adhi itthiyam
-
-Nagarassa samipe = Upanagararn.
-Darathasss abhivo= Niddaratharn.
-Masakassa abhavo= Nimmasakarb.,
-Makkhikaánam abhavo-Nimmakkhikarn.
-Vuddhanam patipütiyà = Yathüvuddharn.
-Satti anatikkamma= Yathasatti.
-
-Ye ye vuddhà = Yathávuddbarn.
-
-Jivassa yattako paricchedo= Yávajivarn.
-A pabbata (khettarn)= Apabbatarn.
-
-À jalanta (sitarn) = Ajalantarn.
-Pubbatassa tiro= Tiropabbatam
-
-Sotassa pati — Patisotarh.
-
-Равайазѕа апо = Antopüsadarn.
-
-VIII
-
-атса
-KARAKA
-
-Complementives*
-
-₹ | জ্হীলি fefe fecareetfe ares |
-
-1. Karoti kiriyam nipphadetiti Karakam.
-
-যাহ! ‘sca’ অর্থাৎ “ক্রিয়া favi করে” তাহাকে
-=Бі=тењ- বলে (оо পৃঃ йш)! [কারক ছয়টি:
-4, FE, করণ, সম্পদান, অপাদান ও ওকাস বা
-অধিকরপ। “সামী” অর্থাৎ সন্বন্ধ-পদ এবং ‘আলপন’ অর্থাৎ
-সন্বোধন-পদ্দ fam নিষ্পত্তি করে ন! বলিয়া! facea মধ্যে
-
-গণ্য নহে 1]
-
-Karaka or the Complementive* is so called
-because it completes an action (see p. 33).
-
-There are six Kürakas: Kamma, Kattu, Karana,
-Sampadàna, Apüdüna, and Okdsa ог
-Adhikarana. Sami or the Genitive and
-Alapana or the Vocative are not regarded
-as Karaka, because neither of them satisfies
-the required condition.
-
-- The term has been coined by me.—S. M.
-
-84 BALAVATARA
-
-21 Jafa а 91 dee
-2. Yam karoti tam Kammam.
-
-যাহা কিছু কৃত, và বা শৰত হয় তাহাই m
-(“w"f°) ; যথা, sare, করোতি [ов পৃঃ “ছুতিয়া”র উদাহরণ
-দ্রষ্টব্য | |
-
-That which one does (sees or hears), is called
-the Object :
-
-e. g., Ratham karoti. [See examples under Dutiya,
-p. 84.]
-
-эт ааа 9 RATI 14122
-3. Yo karoti sa Кафа.
-
-যে ক্রিয়া সম্পাদন করে সে SSS (*কর্তী”) ; যথা, =
-অহিন! দটুঠো! Atal ; গরুলেন হতো! নাগে! ; 409 জিতে!
-মারো ; উপগুত্তেন ясы মারো । ‘afzal, “গরুলেন’,
-‘ৰ দ্ধেন’, “উপগুত্তেন” পদগুলি ক্ৰিয়া সম্পাদন করে বলির!
-‘কর্তা? | [os পৃঃ ‘পঠমা’র অন্তর্গত ৩ নং উদাহরণ 3237 1]
+### 3. Yo karoti sa Kattā.
 
 One who does an action is called the Agent :
+o. g., Ahina daṭtho naro, Garuḷna hato nāgo, Buddheena jito Mâro; Upaguttena bandho Mâro; where the italicized words are the Agents, because each of them performs an action. [See example iii, under Pathamā, p. 84.]
 
-e. g., Ahind dattho naro, Garulena hato паро,
-Buddhena jito Маго; Upaguttena bandho
-Maro; where the italicized words are the
-Agents, because each of them performs
-an action. [See example iii, under Pathama,
-p. 84.]
+### 4. Yena va kayirate tam Karapam.
 
-&amp; 1 ĝa না ন্ধত্রিবন á зї] ২1৫.
-4. Yena và kayirate tam Karanarn.
+That by means of which an act of doing (seeing or hearing) is accomplished is called the Instrument :
+c. g., Dattena vihin lunāti; vāsiyā rukkhanh tacchati; pharasunā rukkhan chindati; kuddālena rukkham khanati; hatthena kammam karoti; caklkhunā rūpam passati; sotena saddarh suṇāti. [See example ii, under Tatiyā, p. 84.]
 
-KARAKA . 85
+### 5. Yassa dātukāmo rocate vā dhārayate vā tarh Sampadānam.
 
-বাহার wisi কর্তা fora সম্পাদন করে, তাহ! 2516)
-কারক বথা,-দত্বেন বীহিং লুনাতি ; if rove তচ্ছতি ;
-waza কুকৃখং ছিন্দতি 7 কুদ্দীলেন রুকৃখং খনতি ; হখেন কম্মং
-করোতি ; চকৃখুনা রূপং পস্সতি ; সোতেন swt 9115 | .
-[әв পৃঃ ‘ততিয়া’র অন্তর্গত ২ নং উদাহরণ দ্রষ্টব্য 1]
+One to whom something is desired to be given, or one who entertains a liking for something,
+or one from whom something is taken as a debt is called the Dative :
+c. g., Samanassa cīvaram dadāti; samanassa rocate saccam; Devadattassa suvapnachattam dhārayate Yaññadatto; suvapnam me dhārayate. [See example $i$, under Catutthī, p. 84.]
+[The Dative (Sampadāna) is also distinguished in the following ways :-
+(i) in connection with the following roots the object assumes the sense of the Dative: (a) silāgha (to flatter or boast of), e.g., Buddhassa silāghate ; (b) hanu (to hide from), e.g., hanute mayham eva; (c) upa + th $\bar{a}$ (to worship or wait on), e.g., upatiṭtheyya Sakyaputtānam vaḍ̣haki ; (d) sapa (to blame or curse), e.g., mayham sapate; (e) dhāra (to owe to any person), e.g., suvapnam to dhārayate ; (f) piha (to long for), e.g., Buddhassa aññatitthiṣa pihayanti, samiddhānam pihayanti dalidda ; (g) kudha (to be angry with), e.g., kodhayati Devadattassa, tassa kujjha mahāvīa; (h) duha (to meditate mischief), e.g., duhayati disānam̉ megho ; (i) issa (to envy), e.g., titthiya samanānam issayanti; (j) usuyya (to grumble at), e.g., titthiyā samanānam usuyyanti, lābhagiddhena dujjanā guṇavantānam̉ usuyyanti ;
+(ii) in connection with the roots rädha and $i k k h a$ when used in answer to a query, the object can be both Dative or Accusative, e.g., ārādho me rañño (also, räjānam) ; āyasmato Upālitherassa (also, āyasmantam Upālitheram) upasampadāpekkho Upatisso ;
+(iii) in connection with the root suṇa (with the prefix pati or $\bar{a}$ ) and the root gina (with the prefix anu or pati), that which was previously in the Nominative becomes Dative, e.g., Bhagavā (Nominative) bhikkhū etad avoca, Bhagavato (Dative) paccassosum̉ te bhikkhū ; Bhikkhu (Nominative) janam dhamman̉ sāveti, tassa bhikkhuno (Dative) jano anugināti;
+(iv) in connection with words signifying announcement ("Rocan'attha"), e.g., ārocayāmi vo bhikkhave, āmantayāmi vo bhikkhave ;
+(v) in denoting aim or purpose "Tadattha" e.g., ūnassa paripuriyā, Buddhassa atthāya ;
+(vi) in signifying the meaning of the infinitive suffix tum ("Tumattha"), e.g., lokānukampāya, phāsuvihārāya ;
+(vii) in signifying the sense of alam ('Alamattha"), e.g., alami $m c$ Buddho, alami $m e$ rajam, alami bhikkhu pattassa, alami mallo mallassa (where alami means 'fit for'); alami $m e$ rūpam karanīyam, alami $m e$ hiramnasuvampethi (where alami means 'enough', 'unnecessary');
+(viii) if the object of the root mañña be an inanimate thing and if it denotes disrespect, it assumes the sense of the Dative ("Mañn'and $d a r^{\prime} a p p \bar{a} n i n i^{\prime "}$ ), e.g., katṭhassa tuvarn mañe, kalingarassa tuvarn mañe ; but, suvampan tam mañe, gadrabham tam mañe ;
+(ix) the object of verbs denoting 'going' assumes the sense of the Dative ("Gatyatthakammani"), e.g., gāmassa pādena gato, appo saggāya gacchati, mūlāya paṭikasseyya Sangho ;
+(x) in denoting good wish ("Āsims'attha"), e.g., bhaddarī bhavato hotu, kusalari bhavato hotu ;
+(xi) in connection with the word sammuti, 'consent' ("Sammutippayoge"), e.g., sādhu sammuti $m e$ tassa Bhagavato dassanāya ;
+(xii) in connection with the word bhiyya 'more', 'abundant' ("Bhiyyappayoge"), e.g., bhiyyosomattāya ;
+(xiii) in the sense of the Seventh case ("Sattamyattha"), e.g., tuyham (=tava santike) āvikaromi, tassa me Sakko pāturahosi.
 
-That by means of which an act of doing (seeing
+The Dative is used not merely in connection with a particular word of a particular signification, but in connection with all words of that signification, e.g., upamari te karissāmi, dhammanī vo bhikkhave desissāmi, desetu bhante Bhagavā dhamman̄ bhikkhūnan̉, tassa phāsu, tassa pahipeyya, amhākain man̉inā attho, kimattho me Buddhena, seyyo me attho, etc.
 
-or hearing) is accomplished is called the
-Instrument :
+Sometimes, the endings of the Second, Third and Sixth cases are used.]
 
-€. g., Daltena vihim lunati; vdsiya rukkham
-tacchati; pharasund rukkham chindati;
-kuddalena rukkham  khanati; hatthena
-kammam karoti; cakkhund rüpam passati;
-sotena saddarm sunati. [See example ii, under
-Tatiya, p. 34.] T
+### 6. Yasmādapeti bhayamādatte vā tad Apādānan̉.
 
-ч wae =тазтаї trad না aaa ат а «Т9 |
-RIŠIŠ
-5. Yassa dātukāmo rocate vā dhārayate vā tarh
-Sampadáànam.,
-
-কর্তা যাহাকে দান করিতে ইচ্ছা করে বা যাহাতে কর্তার
-রুচি, কিংবা কর্তী যাহার নিকট w থাকে, তাহার নাম
-ভলম্পাদীন্ন (“সম্প্ৰদান”) কারক ; যথা, _সমণস্স চীবরং
-wets ; ATT রোচতে সচ্চং; CTS 9495:
-ধাররতে чета! ; Wise মে ধারয়তে | [os পৃঃ “চতুদ্ধী”র
-অন্তর্গত &gt; নং উদাহরণ দ্রষ্টব্য |]
-
-One to whom something is desired to be given,
-or one who entertains a liking for something,
-
-86 BALAVATARA
-
-or one from whom something is taken as
-a debt is called the Dative :
-
-€. g., Samanassa civaram  dadüti; samanassa
-rocate saecam; , Devadatiassa  suvanna-
-chattam dhürayate Yannadatto; suvannam me
-dhürayate. [See example i, under Catutthi,
-p. 34. |
-
-[The Dative (Sampadàna) is also distinguished in the
-following ways :—
-
-(i) in connection with the following roots
-the object assumes the sense of the Dative:—
-(a) silágha (to flatter or boast of), e.g., Buddhassa
-silaghate ; (b) hanu (to hide from), e.g., hanute
-mayham eva ; (c) upa--thà (to worship or wait
-c on), €.g., upatittheyya Sakyaputtdnam vaddhaki ;
-(4) зара (to blame or curse), e.g., mayham sapate ;
-(e) dhüra (to owe to any person), ¢.g., suvannam
-te dharayate ; (f) piha (to long for), e.g.,
-Buddhassa afifiatitthiya pihayanti, samiddhdnam
-pibayanti dalidda ; (g) kudha (to be angry with),
-e.g., kodhayati Devadattassa, tassa kujjha maha-
-vira ; (А) duha (to meditate mischief), e.g.,
-duhayati 01568772777 megho ; (i) issa (to envy), e.g.,
-titthiyA samandnam issayanti ; (j) usuyya (to
-grumble at), e.g., titthiya samandnam usuyyanti, `
-labhagiddhena dujjani gunavyantdnam usuyyanti ;
-
-(ii) in connection with the roots тааһа and
-ikkha when used in answer to a query, the object
-can be both Dative or Accusative, ¢.g., ārādho me
-rañño (also, 78187702777) ; Gyasmato Updlitherassa
-(also, йуазтапіат Upalitheram) upasampada-
-pekkho Upatisso ;
-
-KARAKA 87
-
-ii) in connection with the root suna (with
-the prefix pati or à) and the root gina (with the
-prefix anu or pati), that which was previously
-in the Nominative becomes Dative, e.g.,
-Bhagavi (Nominative) bhikkhü  etad avoca,
-Bhagavato (Dative) pacenssosurh te bhikkba ;
-Bhikkhu (Nominative) janarh dhammam süveti,
-tassa bhikkhuno (Dative) jano anuginiti;
-
-(iv) in connection with words signifying
-announcement (''Hocan'attha '"), e.g., arocayami
-vo bhikkhave, imantayimi vo bhikkhave ;
-
-(v) in denoting aim or purpose ** Tadattha ''
-€.g., Unassa paripuriyd, Buddhassa atthdya ;
-
-(vi) in signifying the meaning of the in-
-finitive suffix tum (''Tumattha "), e.g., lokanu~
-kampdya, phüsuvihüràáya ; |
-
-(vi) in signifying the sense of alam (''Ala-
-mattha ''), e.g., alam ime Buddho, alam me
-rajjam, alam  bhikkhu pattassa, alam mallo
-mallassa (where alam means ‘fit for’); alarh
-me rüpam karaniyam, alam me hiraütnasuvannehi
-(where alam means ‘enough’, ‘unnecessary’) ;
-
-(vin) if the object of the root mañña be an
-inanimate thing .and if it denotes disrespect, it
-assumes the sense of the Dative (‘'Mafnn’ana-
-dar'appünini'"), e.g., katthassa tuvam maññe,
-kalihgarassa tuvarh manne ; but, suvannam tarn
-manne, gadrabhamk tarn maüfe ;
-
-(im) the object of verbs denoting ‘going’
-assumes the sense of the Dative (''Gafyattha-
-kammani'"), e.g., gamassa püdena gato, арро
-saggüya gacchati, mülaya patikasseyya Sangho ;
-
-88
-
-&amp; |
-
-6.
-
-BALAVATARA
-
-(x) in denoting good wish (''Asims'attha'"),
-e.g., bhaddarm bhavato hotu, kusalam bhavato
-hotu ;
-
-(mi) in connection with the word sammuti,
-‘consent’ (‘‘Sammutippayoge’’), e.g., sadhu sam-
-muti me tassa Bhagavato dassanüya ;
-
-(ril) in connection with the word bhiyya
-‘more’, ‘abundant’ (''Bhiyyappayoge"), e.g.,
-bhiyyosomattdya ;
-
-(riii) in the sense of the Seventh case
-('*Sattamyattha""), e.g., tuyham (=tava santike)
-üvikaromi, tassa me Sakko paturahosi.
-
-The Dative is used not merely in connec-
-tion with a particular word of a particular
-signification, but in connection with all words of
-that signification, e.g., upamam te  karissami,
-dhammam vo bhikkhave desissimi, desetu bhante
-Bhagava dhammarn bhikkhinam, tassa phasu,
-tassa pahineyya, amhadkam manina attho, kimattho
-me Buddhena, seyyo me attho, etc.
-
-Sometimes, the endings of the Second, Third
-and Sixth cases аге used. ]
-
-guredfea ware না লভুনাভাল। 5141%
-Yasmádapeti bhayamiadatte va tad Apadànarn.
-
-যাহা! হইতে কোন বস্তু ব! ব্যক্তি দুরে গমন করে, কিংবা
-ভীত «| গৃহীত হয়, তাহার নাম 3*
-যথা,গাম! অপেস্তি সুনয়ো ; নগর! নিগ্্‌গতে| রাজা; পাপ
-fect নিবারয়ে ; চোর! ভয়ং জায়তে ; আচরয়িযুপস্মায়েহি
-সিকৃখং গণহাতি সিস্‌সো। [৩৫ পৃঃ ‘পঞ্চমী’র অন্তর্গত &gt; নং
-উদাহরণ দ্রষ্টব্য | ]
-
-KARAKA 59
-
-That from which a person or thing goes away
-or fear arises or something is received 1 is called
-the Ablative :
-
-€.g., байта  apenti munayo; падата  niggato
-raja; papa cittarh niviraye; cord bhayarh
-jayate; dacariy’upajjhaychi sikkharh ganhati
-sisso. [See example i under Paficami, р. 85. ]
-
-[The Ablative (Apidina) is also distinguished in the
-following ways:
-
-(i) in connection with roots used with parti-
-cular prefixes, ¢.g., pard+,/ji (to subdue):
-Buddhasma parajenti afifatitthiya (where
-“ Buddha, '” because he cannot be subdued, and
-not merely because he is the subduer, is put in the
-Ablative) ; pa + V bhū (to spring, proceed, arise):
-Himavanta pabhavanti panca mahanadiyo (here,
-'* Himavanta,'' from which the five rivers proceed,
-is put in the Ablative) ;
-
-(ii) in connection with particular пата
-(noun or word), ¢.g., urasmë jato putto, bhümito
-niggato raso, ubhafo sujato putto, tato pabhuti,
-nánnam dukkhd, bhinno Devadattà ;
-
-(iii) in connection with upasaggas (preposi-
-tions), e.g., apa (‘away’) salaya ayanti vanijà, à
-(‘up to," ‘down to’) Brahmaloka saddo abbhug-
-gacchati, upari pabbatd devo  vassati, uppalarh
-assa padumasm pati (‘ for," ‘instead of ') dadati ;
-Buddhasmd pati (‘ like unto’) Sariputte;
-
-. (iv) in connection with words denoting
-objects lying between two Kürakas, e.g., kosá
-vijjhati kunjaram (where the distance of a kosa
-lies between two Кагаказ, the agent and the
-
-12
-**
-
-90)
-
-BALAVATARA
-
-object, i.e., elephant); similarly, —māsasmä
-bhuñjati bhojanarh, pakkhasmā vijjhati migam ;
-
-(v). in connection with nipātas  (indeclin-
-ables), when the endings of the Fifth case are
-used as well as those of the Second and Third
-cases, €.g., rahitë (‘bereft of,’ ‘without ') mitujd
-(Sth case), rahitā mütujam (2nd case), rahitā
-mātujena (8rd case); similarly,—rite (‘without’)
-saddhammd, saddhammam, saddhammena ; во
-also with vinā (‘without’), nānā (‘various’), puthu
-(‘separate,’ 'different') ;
-
-(vi) in connection with verbs denoting pro-
-tection, where the object desired to be protected
-from any person or thing acquires the Ablative
-sense, 6.g., ucchuto sigile rakkhati, yavd pati-
-sedhenti gàvo; sometimes the endings of the
-Seventh case are used instead of those of the
-Fifth: каке rakkhanti tandula;
-
-(vii) in connection with that from which
-disappearance is desired, ¢.g., upajjhàyd antara-
-dhüyati sisso;  mütará ca pitarü ca (5th сазе)
-antaradhayati putto; sometimes the endings of
-the Seventh case are used: Jetavane (7th case)
-antaradhayati Bhagavš ;
-
+That from which a person or thing goes away or fear arises or something is received is called the Ablative :
+e. g., Gāmā apenti munayo; nagarā niggato rājā; pāpā cittañ nivārayc; corā bhayañ jāyate; ācariy'upajjhāyehi sikkham் ganhāti sisso. [See example $i$ under Pañcamī, p. 85.]
+[The Ablative (Apādāna) is also distinguished in the following ways:
+(i) in connection with roots used with particular prefixes, e.g., $p a-n+\sqrt{ } j i$ (to subdue): Buddhasmā parājenti aññatitthiyā (where "Buddha," because he cannot be subdued, and not merely because he is the subduer, is put in the Ablative) ; $p a+\sqrt{ } b h \bar{u}$ (to spring, proceed, arise): Himavantā pabhavanti pañca mahānadiyo (here, "Himavanta," from which the five rivers proceed, is put in the Ablative) ;
+(ii) in connection with particular nāma (noun or word), e.g., urasm $\bar{a}$ jāto putto, bhūmito niggato raso, ubhato sujāto putto, tato pabhuti, nàñ̃̃añ dukkhā, bhinno Devadattā ;
+(iii) in connection with upasaggas (prepositions), e.g., apa ('away') sālāya āyanti vānijā, ā ('up to,' 'down to') Brahmalokā saddo abbhuggacchati, upari pabbatā devo vassati, uppalain assa padumasmā pati ('for,' 'instead of ') dadāti ; Buddhasmā pati ('like unto ') Sāriputto;
+(iv) in connection with words denoting objects lying between two Kārakas, e.g., kosā vijjhati kunjaram (where the distance of a kosa lies between two kārakas, the agent and the
+object, i.e., elephant) ; similarly, -māsasm $\bar{a}$ bhuñjati bhojanam, pakkhasmā vijjhati migam ;
+(v) in connection with nipātas (indeclinables), when the endings of the Fifth case are used as well as those of the Second and Third cases, e.g., rahita ('bereft of,' 'without') mātujā (5th case), rahitā mātujam (2nd case), rahitā mātujena (3rd case) ; similarly,-rite ('without') saddhammā, saddhammam, saddhammena; so also with vinā ('without'), nānā ('various'), puthu ('separate,' 'different') ;
+(vi) in connection with verbs denoting protection, where the object desired to be protected from any person or thing acquires the Ablative sense, e.g., uechuto sigāle rakkhati, yava patisedhenti gāvo; sometimes the endings of the Seventh case are used instead of those of the Fifth: kāke rakkhanti taṇ̣ulā;
+(vii) in connection with that from which disappearance is desired, e.g., upajjhāya antaradhāyati sisso; mātarā ca pitarā ca (5th case) antaradhāyati putto; sometimes the endings of the Seventh case are used: Jetavane (7th case) antaradhāyati Bhagavā ;
 (viii) in connection with words
+(a) denoting distance (dūra), e.g., kivadūro ito Nalakāragāmo; sometimes the endings of the Second and Third cases are used: dūraio (also, dūram and dūrena) āgamma, ārakā te imasmā dhammavinayā (also, imam dhammavinayam, anena dhammavinayena) ;
+(b) denoting vicinity (antika), e.g., antikam gāmā, āsannam gāmā, samīpam gāmā; the endings
+of the Second and Third cases may also be used: antikam் gāmañ or gāmena, etc. ;
+(c) denoting space or time (addha-käla), e.g., ito Mathurāya catūsu yojanesu Sañkassa-nagarari atthi (Space), ito ekanavuti-kappa-matthake (Time) ;
+(d) left alone by the elision of verbal forms in -tvā (tvā-lopa), e.g., pāsăda sanikameyya (which originally stood as: pāsădam abhirūhitvā sañkameyya), āsanā vutṭhaheyya (which was: āsane nisīditvā vutṭhaheyya), pāsăda passati (which was: pāsădam abhirūhitvā passati); the Ablative here represents Accusative (Kamma) and Locative (Adhikarana) constructions;
+(e) denoting direction (disā-yoga), e.g., Avicito upari ; puratthimato, dakkhipato, pacchimato, uttarato ; yato assosum Bhagavato kittisaddam ; uddham̉ pādatalā, adho kesamatthaka ;
+(f) denoting comparison (vibhatta), e.g., yato panitataro, yato visitthataro; the endings of the Sixth case are sometimes used: channavutīnam pāsaṇ̣̄̄nam dhammanam pavarami idarī Sugatavinayan;
+(g) denoting cessation (ārappayoga), e.g., gāmadhammā arati virati pativirati, pānātipātā veramanī ;
+(h) denoting purification (sudāh'attha), e.g., lobhanīyehi dhammehi suddho, mātito ca pitito ca suddho asamsattho anupakuttho agarahito ;
+(i) denoting liberation (pamocan'attha), e.g., parimutto dukkhasmā, mutto 'smi Māra. bandhana $\bar{a}$;
+(j) denoting reason or cause (hetv-attha), e.g., kasmä hetunā, kasmā tumhe dabarā na miyyatha, kasmä idh'eva maraṇaṁ bhavissati; sometimes the endings of the Second, Third and Fourth cases are used: kiṁ kāraṇaṁ (2nd), Kena kāraṇena (3rd), kissa (4th) ;
+(k) denoting separation (vivitt'attha), e.g., vivitto pāpakā dhammā, vivicc' eva kāmehi akusalehi dhammehi ;
+(l) denoting measure (pamān'attha), e.g., dighaso (i.e., dighappamānena) nava vidatthiyo ;
+( $m$ ) used with pubba ('before') (pubba-yoga), e.g., pubb'eva me bhikkhave sambodhā ;
+( $n$ ) denoting the act of binding or tying (bandhan' attha), e.g., satasmā bandho naro (also, sateña, with the ending of the Third case);
+(o) denoting attribute or quality (guna-vacana), e.g., paññāya sugatirn yanti, issariyā (i.e., issariyaguṇa-hetuto) rājā janarh rakkhati ;
+(p) left alone by the elision of verbal forms in -tvā, and in answer to a query (pañhe tvālope), e.g., Abhidhammā (originally, Abhidhammam் sutvā, or Abhidhamme thatvā) pucchanti; the Ablative here stands for the Accusative (Kamma) and Locative (Adhikaraṇa) constructions. Instead of the Fifth case-ending, those of the Second and the Third are also used: Abhidhammam, Abhidhammena pucchanti ; similarly, - Vinayā, Vinayari, Vinayena, etc. ;
+(q) denoting littleness (thok' attha), e.g., thok $\bar{a}$ muccati, appamattakā muccati, kicchā muccati; the endings of the Second and Third cases are also used: thokam, thokena, etc. ;
+(r) used in a non-subjective sense (a-kattari), e.g., katattā upacitattā ussannattā vipulattā uppannam̀ cakkhuviññānaṁ.]
 
-(a) denoting distance (dūra), e.g., kivadiro ito
-Nalaküáragümo; sometimes the endings of
-the Second and Third cases are used: dirato
-(also, diramm and dürena) igamma, агака te
-imasmü dhammavinayd (also, ima?» dhamma-
-vinayam, anena dhammavinayena) ;
-
-(b) denoting vicinity (antika), e.g., antikarh gama,
-üsannarh gamd, samiparh gimd; the endings
-
-KARAKA 91
-
-of the Second and Third cases may also be
-used: апі Кат güma?h or gümena, etc. ;
-
-(০) denoting space or time (addha-kdla), e.g., ito
-Mathuráya catüsu yojanesu Sankassa-naga-
-гаа аы (Space), ito ekanavuti-kappa-mat-
-thake (Time) ;
-
-(d) left alone by the elision of verbal forms in -£và
-(tvd-lopa), e.g., pasada sankameyya (which
-originally stood as: pasidam  abhirühitvaá
-s&amp;hkameyya), fsand vutthaheyya (which
-was: üsane nisiditvà vutthaheyya), pasadd
-passati (which was: p&amp;sadam abhirihitva
-passati); the Ablative here represents Accu-
-sative (Kamma) and Locative (Adhikarana)
-constructions;
-
-(6) denoting direction (disd-yoga), ¢.g., Avicito
-upari; puratthimafo, dakkhinato, pacchi-
-mato, uttaraío ; yato assosum  Bhagavato
-kittisaddam ; uddham padatald, adho kesa-
-matthakaà :
-
-(f denoting comparison  (vibhatta), ¢.g., yato
-panitataro, yato visitthataro; the endings
-of the Sixth case are sometimes used:
-channavutina:z pàsandanam dhammdnam
-pavaram idam Sugatavinayam ;
-
-(g) denoting cessation (Grappayoga), ¢.g., gama-
-dhammd arati virati pativirati, pāņātipātā
-veramani ;
-
-(h) denoting purification (suddh'attha), 68.9.,
-lobhaniyehi dhammehi suddho, miéatito ca
-pitito ca suddho asamsaftho anupakuttho
-agarahito ;
-
-(i) denoting liberation (pamocan'attha), e.g., pari-
-тойо dukkhasmd, mutto ‘smi Māra-
-bandhand ;
-
-BALAVATARA
-
-(j) denoting reason or cause (hetv-attha), в.д.,
-kasma hetund, kasmá tumhe daharai па
-miyyatha, kasmd idh'eva maranarm bhavissati ;
-sometimes the endings of the Second, Third
-and Fourth cases are used: kim küranam
-(2nd), kena küranena (8rd), kissa (4th) ;
-
-(k) denoting separation (vivitt'attha), e.g., vivitto
-рарака dhamma,  vivicc' eva kümehi aku-
-salehi dhammehi ;
-
-(1) denoting measure (paman'attha), e.g., dighaso
-(i.e., dighappamaànens) nava vidatthiyo ;
-(m) used with pubba (‘before’) (pubba-yoga), e.g.,
-pubb'eva me bhikkhave sambodha ;
-
-(n) denoting the act of binding or tying (bandhan’
-attha), e.g., satasmü bandho naro (also,
-satena, with the ending of the Third case);
-
-(о) denoting attribute or quality (guna-vacana),
-e.g., paññaya sugatim yanti, issariyd  (i.e.,
-issariyaguna-hetuto) raja janarn rakkhati ;
-
-(p) left alone by the elision of verbal forms in
--tvd, and in answer to a query (pafthe tva-
-lope), e.g., Abhidhamma (originally, Abhi-
-dhammam suivd, ог Abhidhamme  thatvd)
-pucchanti; the Ablative here stands for the
-Accusative (Kamma) and Locative (Adhi-
-karana) constructions. Instead of the Fifth
-case-ending, those of the Second and the
-Third are also used: Abhidhammazn, Abhi-
-dhammena pucchanti; similarly,—Vinayd,
-Vinayam, Vinayena, etc. ;
-
-(q) denoting littleness (thok' attha), e.g., thokd
-muccati, appamattakd muccati, kicché muc-
-cati; the endings of the Second and Third
-cases are also used: thokasn, thokena, etc. ;
-
-VIBHATTI-BHEDA 93
-
-(r) used in a non-subjective sense (a-kattari), e.g.,
-katatta upacitattd ussannatta vipulattd
-uppannam cakkhuvififianam. |
-
-$1 aan а Brae) RIIE
-
-T. Yo ’dharo tarn Оказва.
-
-যাহ! ক্রিয়ার আধার তাহার নাম Tp (অবকাশ)
-4| егерде} কারক | [৩৫-৩৬ পৃঃ উদাহরণ দ্রষ্টব্য | ]
-
-The place of an action is called the Okasa or the
-Locative.
-
-[See examples under under Sattami, pp. 35-36. |
-
-B a
-fanfa-
-VIBHATTI-BHEDA
-Cases and Case-endings
+### 7. Yo 'dhāro tam̉ Okāsam̉.
 
-[The Vibhatti or the Case must not be confused with
-the Karaka. A Karaka is one of the many causes that
-accounts for the use of a Vibhatti, and the latter can
-bring home to us the sense of the Karaka that may
-have caused it. For instance, the Pathama-vibhatti
-(see p. 34) can be accounted for not only by means of
-the Kattu-küraka but also by Lingattha and Alapana (see
-Kaccayana) and it can help us to determine the sense of
-the Kattu-küraka. A loose enumeration of the Vibhattis
-are given at р. 31, sec. 5, where they appear as eight ;
-but strictly speaking, they are seven in number, excluding
-
-94 BALAVATARA
+The place of an action is called the Okāsa or the Locative.
+[See examples under under Sattamī, pp. 35-36.]
 
-the Alapana, which in English grammar is distinguished
-as the Case of Address. Only а rough idea of the use of
-the seven Vibhattis is given at pages 84-36 ; a detailed
-treatment of them will be found below. ]
+## VIIIB VIBHATTI-BHEDA (Cases and Case-endings)
 
-Ра{Һата (The First Case)
-
-ç fare qanri RIRIS
-
-1. Ling’atthe Pathama.
-
-লিঙ্গার্থে শব্দের উত্তর প্রথমা বিভক্তি হর; অর্থাৎ,
-যে স্থলে ক্রিয়াপদ প্রভৃতি থাকে না, কেবল লিঙ্গ m অভিধেয়
-বুঝাইবার নিমিত্ত শব্দ প্রয়োগ করা যায়, সেই স্থলে সেই
-শব্দের উত্তর প্রথমা বিভক্তি হয় [সংস্কৃত ব্যাকরণে ইহাকে
-প্অভিধেয়-মাত্রে প্রথমা” বলে] ; যথা,__পুরিসো, afari
-একো, cw, অহং ইত্যাদি |
-বালাবতার ব্যাকরণে কর্তৃবাচ্যের SS) এবং কর্শ্মবাচ্যের
-কর্মের উত্তরও লিঙ্গার্থে প্রথমা বিভক্তি হয় [সংস্কৃত ব্যাকরণে
-ইহাকে “Soe কর্তিরি ও “Soe wffa” প্রথমা বলে] ;*
-যথা, —їсғі ওদনং পচতি ( কর্তৃবাচ্য ) ; "ХОТЯ ওদনে! পচ্চতে
-( কৰ্ম্মবাচ্য )- এএস্থলে “সুদো” পদটি "sce কর্তরি” প্রথম!
-এবং “ওদনো” পদটি “Әса fa” প্রথম! হুইয়াছে।
-এইরূপ, 4051 ধন্মং দেসেসি ; ৰদ্ধেন ЧС দেলিতো! (IRA,
-প্রথম বাক্যের “ৰ দ্ধো” ও দ্বিতীয় বাক্যের “acai” পদটির
-উত্তর প্রথম! বিভক্তি হইয়াছে I)
-- কর্তৃবাচোে, প্রথমা-বিভক্তিঘুক্ত কর্তাকে “উক্ত কর্তা” এবং দ্বিতীয়1-বিভ স্কিতুক্ত
-
-acm age w" বলে । wao প্রথমা-বিভক্তিযুক্ত কৰ্ম্মকে “উক্ত GT এবং
-তৃতীয়া-বিভক্কিযুক্ত কর্তাকে “অনুক্ত কর্তা” বলে।
-
-VIBHATTI-BHEDA 95
-
-'অব্যয়-যোগেও লিঙ্গার্থ-সংজ্ঞা হয়; ষথা,নাগসেনে!
-নাম cecal; সীহসেনো। নাম "Ici | (এস্থলে “নাগসেনো”
-ও “সীহসেনো” পদ দুইটি “নাম” এই অব্যয়বোগে প্রথম!
-হইয়াছে |)
-
-The endings of the First Case are used, when only
-the sense of the crude form (i.e., stem or
-nominal base) is spoken of :
-
-Puriso, purisà ; eko, dve ; aharh, etc.
-
-The agent when in the Active Voice (Kartr-
-vdcya) and the object when in the Passive (Karma-
-vácya) require the ending of the First Case, which
-
-is also used if a word is governed by some
-Indeclinables, ¢.g.,—
-
-Sudo odanam pacati (Active), Südena odano
-paccate (Passive) ; similarly,—Buddho dhammar”®
-desesi, Buddhena dhammo desito.
-
-Ndgaseno nima thero, Sihaseno паша putto
-(where ‘‘nima,’’ an Indeclinable, governs the
-Proper names).
+[The Vibhatti or the Case must not be confused with the Kāraka. A Kāraka is one of the many causes that accounts for the use of a Vibhatti, and the latter can bring home to us the sense of the Kāraka that may have caused it. For instance, the Paṭhamā-vibhatti (see p. 34) can be accounted for not only by means of the Kattu-kāraka but also by Lingattha and Alapana (see Kaccāyana) and it can help us to determine the sense of the Kattu-kāraka. A loose enumeration of the Vibhattis are given at p. 31, sec. 5, where they appear as eight; but strictly speaking, they are seven in number, excluding
+the Alapana, which in English grammar is distinguished as the Case of Address. Only a rough idea of the use of the seven Vibhattis is given at pages 34-36; a detailed treatment of them will be found below.]
 
-RI тача aqa
-2. Alapane ca.
-লিঙ্গার্থে সন্বোধনেও প্রথম! বিভক্তি হয়; যথা,
-cel পুরিস, ভবস্তো wari; cel রাজ, ভবস্তো রাজানো 3
-হে সখ, হে সথিনো। [এই বিধানটি কচ্চায়ন, ব্যাকরণে
-স্বতন্ত্র, few বালাবতার ব্যাকরণে উপরি উক্ত “লিঙ্গখে” সংজ্ঞার
-অস্তভু ক্ত |]
-The endings of the First Case are also used to
+### Paṭhamā (The First Case) 
 
-express the sense of addressing, coupled with
-the sense of the crude form :
+#### 1. Ling'atthe Paṭhamā.
 
-96 BALAVATÁRA
+The endings of the First Case are used, when only the sense of the crude form (i.e., stem or nominal base) is spoken of :
 
-Bho purisa, bhavanto purisd ; bho raja,
-bhavanto тајапо ; he sakha, he sakhino. [In the
-Balávatüra these formations are allowed by the
-Sūtra ''Lihngatthe Pathama,’? but Rule 2 occurs
-separately in Kaccayana,
+Puriso, purisā ; eko, dve ; aham, etc.
+The agent when in the Active Voice (Kartrvācya) and the object when in the Passive (Karmavācya) require the ending of the First Case, which is also used if a word is governed by some Indeclinables, e.g.,-
 
-Dutiya (the Second Case)
+Sudo odanam pacati (Active), Sūdena odano paccate (Passive) ; similarly, -Buddho dhammam desesi, Buddhena dhammo desito.
 
-{1 wwe zfemi 214129
+Nāgaseno nāma thero, Sīhaseno nāma putto (where "nāma," an Indeclinable, governs the Proper names).
 
-1. Kammatthe Dutiya.
+#### 2. Ālapane ca.
 
-“aye sca” sc দ্বিতীয়া বিভক্তি হয় ; যথা
-ачу বন্দে, উনপত্তং wafe, কণ্টকং যদ্দতি, বিসং গিলতি,
-age করোতি, wae সুণাতি, বাচং ভাসতি, তঞ্জুলং পচতি,
-চোরং ঘাতেতি, গবং হনতি |
+The endings of the First Case are also used to express the sense of addressing, coupled with the sense of the crude form:
+Bho purisa, bhavanto purisā ; bho rāja, bhavanto rājāno; he sakhha, he sakhino. [In the Bālāvatāra these formations are allowed by the Sūtra "Liṅgatthe Paṭhamā," but Rule 2 occurs separately in Kaccāyana.
 
-@'he endings of the Second Case are used in
-denoting the object (in the Kartr-vàcya), 1.e.,
-the Accusative :
+### Dutiyā (the Second Case)
 
-Buddham vande, | unapattam 10100050961,
-kantakarh maddati, visarth gilati, ratharh karoti,
-dhammam  sunüti, viicath bhasati, tandulam
-pacati, corar ghüteti, gavara hanati.
+#### 1. Kammatthe Dutiyā.
 
-z | тетет |: RIÁIRT
-9. Kaladdhanamaccantasamyoge.
+The endings of the Second Case are used in denoting the object (in the Karty-vācya), i.e., the Accusative :
 
-দ্রব্য, গুণ বাঁ ক্রিয়ার সহিত কাল ও পথ-বাচক শব্দের
-নিরন্তর সংযোগ বুঝাইলে, কাল ও পথ-বাচক শব্দের উত্তর
-দ্বিতীয়া বিভক্তি হয়; যথা,_-“মাসং মংসোদনো” (অর্থাৎ
-একমাস-কাল ব্যাপিয়! খাইবার মত যে দ্রব্যবাচক মাংসোদন) ;
-“same au pn নদী” (অর্থাৎ সমস্ত শক্ষৎকাল ব্যাপিয়!
-রমনীয়তা-গুণসম্পনন। নদী) ; “ate সজ্ঝাষতি”শ (nm
+Buddham vande, unapattam bhunjati, kanṭakam maddati, visam gilati, ratham karoti, dhammam supāti, vācam bhāsati, tanḍulam pacati, coram ghāteṭi, gavami hanati.
 
--VI BHATTI-BHEDA 97
+#### 2. Kāladdhānamaccantasam̃yoge.
 
-একমাস-কাল ব্যাপিয়া “সজ্ঝাষন+ ক্রিয়া বুঝাইতেছে) ;
-"যোজনং বনরাজি* (অর্থাৎ যৌজন-বিস্তত পথ ব্যাপিয়!
-নিরস্তর অবস্থিত যে দ্রব্যবাচক বনরাজি) ; “যোজনং Fics
-49051” (এস্কলে, ‘দীঘো’ এই গুণবাচক শব্দের সহিত
-পথবাচক ষৌজন-শবের নিরন্তর সংযোগহেতু ‘যোজন’ শব্দে
-দ্বিতীয়া বিভক্তি হইয়াছে) ; “কোসং সজ্ঝাযতি” (яса
-ক্রিয়ার সহিত পথবাচক শব্দের নিরস্তর সংযোগহেতু পথ-
-বাচক ‘сіл শব্দে fasta বিভক্তি হইয়াছে) |
-
-The endings of the Second Case are added to
-words denoting time or space, which have
-immediate proximity (to any object, attribute
-or action) :
-
-Маза?» marnsodano (where māsa denotes time"
-and mamsodano object—i.e., a ‘marhsodano’
-which can be eatenfora whole month. Here
-we have proximity of time with an object).
-
-Saradam ramaniyi пайї (where 'ramaniyatü' is
-an attribute of ‘nadi,’ which lasts through-
-out the season ‘Sarada.’ Here we have
-proximity of time with an attribute).
-
-Masam sajjhiyati (where the action of 'sajjhayana'
-continues throughout a ‘misa.* Here we
-have proximity of time with an action).
-
-Yojana» vanarüji (proximity of space, yojana,
-with an object, vanaràji).
-
-Yojana digho pabbato (proximity of space with
-an attribute, digha).
-
-Kosar sajjhaiyati (proximity of space with an
-action, sajjhayati).
-
-23
-
-ug
-
-T
-9.
-
-BALAVATARA
-
-ন্বন্মমদন্ৰত্তলীয-যুন্ন । 514152.
-
-Kammappavacaniya-yutte.
-
-কৰ্্মপ্রবচনীয়-পদের প্রয়োগ থাকিলে শব্দের উত্তর
-দ্বিতীয়া বিভক্তি হয় sg, পতি, পরি ও অভি এই চারিটি
-উপসর্গ নিম্নলিখিত অর্থবোধক হইলে, উহাদিগকে 4
-— বলে :
-
-Sql লক্ষণ”, «яр (অর্থাৎ যুগপৎ ব্যাপ্তি-ইচ্ছা),
-Sse’ (‘এই প্রকার ভাব অর্থাৎ স্বভাব-বিরুদ্ধ
-ভাব প্রাপ্ত), “ভাগ”, “সহ” ও ‘হীন’ অর্থে |
-
-পতি ও গ্পল্লি_-লক্ষণা”, Ten’, Sige ও
-ভাগ’ অর্থে |
-
-gf, яр ও аэ” অর্থে |
-
-উদাহরণ
-
-অন্ত :--“রুক্খং чу বিজ্জোততে চন্দো” (mun
-
-‘oy এই কম্মপ্রবচনীক্ষ পদের প্রয়োগে ‘eee’ শব্দে
-লক্ষণার্থে দ্বিতীয়া! বিভক্তি হইয়াছে, যেহেতু বুক্ষকে লক্ষ্য
-করিয়! তাহার উপরে চন্দ্র প্রকাশ পাইতেছে); “FFA
-রুকৃখং ay বিজ্জোততে sew” (এস্থলে “mm বীপ্পার্থে
-প্রযুক্ত হওয়ার “রুকৃখং FEU’ এহরূপ দ্বিরুক্তি হইয়াছে__
-অতএব এস্থলে বীপ্দার্থে দ্বিতীয়া বিভক্তি); “সাধু দেবদত্তো
-মাতরং wu" (অর্থাৎ, দেবদত্ত স্বভাবতঃ সাধু নহে, কিন্ত
-মাতার প্রতি সাধু-_অতএব ‘aT Sar’ ইখ্ন্তৃতাৰ্থে দ্বিতীয়া
-বিভক্তি প্রাপ্ত হইল) ; “quna মং wg সিয়া তং দীয়তু”
-(অর্থাৎ, যাহা আমার ভাগ তাহা আমাকে দেওয়া হউক-_
-gga "wx" ভাগার্থবোধক, এই নিমিত্ত ‘মং’ festa
-ব্যবহৃত হইয়াছে); “নদিং অন্ববসিতা ৰারাণসী* (অর্থাৎ,
-
-=
-
-VIBHATTI-BHEDA. 99
-
-বারাণসী দেশটি নদীর সহিত অঙ্গাঙ্গিভাবে এক agal
-অবস্থিত-__এস্থলে ‘ay’ সহার্থবাচক, সেই নিমিত্ত "efe
-দ্বিতীয়া) ; “w সারিপুত্তং পঞ্ঞ্বা feq (অর্থাৎ, ভিকৃখু,
-প্রজ্ঞাবান্‌, কিন্ত সারিপুত্র অপেক্ষা তিনি প্রজ্ঞা হীন__
-এস্থলে, হীনার্থবাচক ‘অনু’ এই কর্ম্দপ্রবচনীক্ষ-পদের যোগে
-‘সারিপুত্তং’ দ্বিতীয়া) |
-
-পতি ও পরি :--“রুক্খং পতি বিজ্জোততে pci”
-(লক্ষণার্থে) ; “FEA, wee পতি বিজ্জোততে চন্দো”
-(বীপ্পার্থে) ; “সাধু দেবদত্তো মাতরং পতি” (হখন্তৃতার্থে );
-"ore মং পতি সি! তং Fras” (ভাগার্থে)। ‘পরি’-পক্ষেও
-এরূপ |
-
-অভি ₹__“রুকৃথং অভি বিজ্জোততে চন্দ” (লক্ষণার্থে ) ;
-"arme রুক্খং অভি বিজ্জৌোততে চন্দো” (বীপ্পার্থে ) ; “সাধু
-দেবদত্তে। মাতরং অভি” (হইখন্তৃতার্থে ) |
-
-The endings of the Second Case are added to
-words used in connection with terms (certain
-prepositions, particles or adverbs) employed
-to define an action (Kammappavacaniya).
+The endings of the Second Case are added to words denoting time or space, which have immediate proximity (to any object, attribute or action):
+
+Māsam manisodano (where māsa denotes time and manisodano object-i.e., a 'manisodano' which can be eaten for a whole month. Here we have proximity of time with an object).
+
+Saradam் ramanīyā nadī (where 'ramanīyatā' is an attribute of 'nadi,' which lasts throughout the season 'Sarada.' Here we have proximity of time with an attribute).
+
+Māsam sajjhāyati (where the action of 'sajjhāyana' continues throughout a 'māsa.' Here we have proximity of time with an action).
+Yojanami vanarāji (proximity of space, yojana, with an object, vanarāji).
+Yojanam̉ dīgho pabbato (proximity of space with an attribute, dīgha).
+Kosam sajjhāyati (proximity of space with an action, sajjhāynti).
+
+#### 3. Kammappavacanīya-yutte.
+
+The endings of the Second Case are added to words used in connection with terms (certain prepositions, particles or adverbs) employed to define an action (Kammappavacanīya).
 
 Such terms are: anu, pati, pari and abhi.
+Anu expresses the senses of (i) aiming at, (ii) pervasion, (iii) exception, (iv) portion, (v) homogeneity, and (vi) inferiority: e.g.,
+(i) Rukkham் anu vijjotate cando (where the idea is that the moon is shining with the tree as its aim ; the act of 'aiming at' is expressed by the Kammappavacanīya 'anu' ; hence, rukkham, which it governs, takes the ending of the Second Case).
+(ii) Bukkhami rukkhami anu vijjotate cando (where 'anu' expresses 'pervasion'; hence the repetition rukkhami rukkhami and the ending of the Second Case).
+(iii) Sädhu Devadatto mätarami anu (where the meaning is that Devadatta is not by nature good, but he is good towards his mother; hence, the Second Case-ending in mätarain, which is governed by 'anu,' denoting 'exception').
+(iv) Yad ettha mam anu siyā tan diyatu (which means: Give me that which is my portion; thus 'anu' has the force of 'share or portion,' and accordingly mam has the Second Case-ending).
+(v) Nadim anvavasitā Bārānasī (where 'Bārānasī' together with 'nadi' makes one complete whole; therefore, 'anu' in anvavasita (anu + ava + sitā, Sk. sritā) denoting 'homogeneity,' nadim has the Second Case-ending).
+(vi) Anu Sāriputtam paññavā bhikkhu (which means that the bhikkhu is wise, but that he is inferior to Sāriputta in wisdom; hence, 'anu' having the force of 'inferiority,' Sāriputtam has the Second Case-ending).
 
-Anu expresses the senses of (i) aiming at, (ii) perva-
-sion, (iii) exception, (io) portion, (vr) homogeneity, and
-(vi) inferiority : e.g.,
-
-(i) Rukkha» anu vijjotate cando (where the idea
-is that the moon is shining with the tree as
-its aim ; the act of ‘aiming at’ is expressed
-by the Kammappavacaniya 'anu' ; hence,
-rukkham, which it governs, takes the ending
-of the Second Case).
-
-100 BALAVATARA
-
-(ü) Rukkham rukkham anu vijjotate cando (where
-‘anu’ expresses 'pervasion' ; hence the repeti-
-tion rukkham rukkham and the ending of the
-Second Case).
-
-(i) Sadhu Devadatto matarath anu (where the
-meaning is that Devadatta is not by nature
-good, but he is good towards his mother ;
-hence, the Second Case.ending in mütaram,
-which is governed by 'anu,' denoting 'excep-
-tion").
-
-(10) Yad ettha mam anu siya tarn diyatu (which
-means: Give me that which is my portion;
-thus ‘апи has the force of “share or
-portion,” and accordingly mam has the Second
-Case-ending).
-
-(v) Nadim anvavasita Вагапазі (where ‘Baranasi’
-together with 'nadi' makes one complete
-whole; therefore, ‘anu’ in anvavasitá (anu+
-ava+sita, Sk. sriti) denoting ‘homogeneity,’
-nadim has the Second Case-ending).
-
-(vi) Anu Süriputtam paüünava bhikkhu (which
-means that the bhikkhu is wise, but that he is
-inferior to Siariputta in wisdom; hence,
-‘anu’ having the force of ‘inferiority,’ Säri-
-puttam has the Second Case-ending).
-
-Pati and Pari have only the first four significations of
-Anu in the above illustrations and they can be used in its
-stead. |
-Abhi has only the first three significations of Anu
-mentioned above and it can be used in its place.
-
-VIBHATTI-BHEDA 101
-
-81 বালি-নুত্বিমুস-অত-ন্ক-লব্-লঘাীল апка ат 2141282
-
-4. Gati-buddhi-bhuja-patha-hara-kara-sayadinam
-karite và.
-
-“গতি'-বোধার্থক, “বুদ্ধি*-বোধার্থক এবং ‘ভুজ’, 13’,
-‘হর’, ‘কর’ ও ‘ay প্রভৃতি ধাতুর কারিত-প্রত্যন্স যোগে
-প্রযোজ্য Ф419 কখন দ্বিতীয়া কখন তৃতীয়! বিভক্তি হয় ;
-যথ1,-"সামী দাসং গামং গময়তি”, কিংবা! “সামা দাসেন গামং
-গময়তি” ; “গরু Prine (কিংবা, “সিস্সেন') wae বোধয়তি” ;
-“উপাসকো fex (কিংবা, ‘ভিক্‌খুন!’) wet ভোজয়তি" ;
-"আচরিয়ো অস্তেবাসিকং (কিংবা, ‘অস্তেবাসিকেন’) পালিং
-পাঁঠয়তি” ; “হখারোহে!| হখিং (কিংবা, ‘হখিন!’) সায়য়তি”
-(শয়ন করাইতেছে), ইত্যাদি |
-
-In the sense of causation (‘karite’), the endings"
-of the Second Case are optionally used in
-connection with the roots denoting gati
-(motion) or buddhi (knowing) and with the
-roots bhuja, patha, hara, kara, saya, etc. :
-
-Simi йаза?п gamam gamayati (also, dasena),
-garu sissam dhammarn bodhayati (also, sissena),
-upasako bhikkhum  bhattam bhojayati (also,
-bhikkhund) ; асагіуо antevasikam Pàlirh pathayati
-(also, antevasikena) ; hatthüroho hatthim sayayati
-(also, hatthina).
-
-чу cf xfeurcwzsieWqui 514184
-5. Kvaci Dutiya Chatthinamatthe.
-বষ্ঠী-বিভক্তির অর্থেও কখন কখন «ста беа দ্বিতীয়!
-বিভক্তি হয় ; যথ!, “তং ta ভগবস্তং কল্যাণ-কিত্তি-
-
-102 BALAVATARA
-
-সদ্দো অৰভুগ্নতে।” (এস্কলে ‘তস্য ভগবতো” এই ষঠী-অর্থে
-তং ভগবন্তং' পদে দ্বিতীয়! বিভক্তি হুইয়াছে)। “অন্তরা”,
-‘stay, faw, afers’, “facer, “পটিভা” ইত্যাদি
-শব্দের প্রয়োগেও কখন কখন যষ্ঠী-অর্থে দ্বিতীয়! বিভক্তি
-হয় ; যথ৷,__“অস্তরা Б নালন্দং (অর্থাৎ ‘নালন্দস্য’) অন্তর!
-
-Б রাজগহং (অর্থাৎ ‘রাজগহস্য’)” ; এইরূপ, “অস্তো apse”, °
-“fecal apa”, “afersi গামং”, “facet গামং”, “Sep
-
-মং পটিভাতি” |
-
-The endings of the Second Case are sometimes
-used in denoting the sense of those of the
-
-Sixth :
+Pati and Pari have only the first four significations of Anu in the above illustrations and they can be used in its stead.
 
-Tam kho pana Bhagavantam kalyina-kitti-
-saddo abbhuggato (where tam  Bhagavantam
-means tassa Bhagavato).
+Abhi has only the first three significations of Anu mentioned above and it can be used in its place.
 
-So also in connection with the words antara,
-anto, tiro, abhito, parito, patibha etc.;  e.g.,
-апёага ca Nalanda antara ea Rüjagaharn ; anto
-rattham ; tiro rattha» ; abhito даша: ; parito
-сапат ; ората mam patibhati.
+#### 4. Gati-buddhi-bhuja-paṭha-hara-kara-sayādīnah kārite vā.
 
-হই । ললিমা-ন্নলীলভ্ব । 24129
-6. Tatiyā-Sattamīnañ ca.
-তৃতীয়! ও лаа অর্থেও কখন কখন দ্বিতীয়! বিভক্তি
-হয় ; বথা,__-“মং (অর্থাৎ m সহ’--তৃতীয়াৰ্থে) নাল-
-ffe”; প্পুৰৰণ্হ-সময়ং (‘সময়ে’ এই সপ্তমী-অর্ে)
-নিবাসেত্ব!” |
-উপ, ay, অধি ও আ পূৰ্ব্বক “বস” ধাতুর যোগে, অধি-
-spes ‘সি’, ‘ঠা’ ও ‘আস’ ধাতুর যোগে এবং অভি-নি
+In the sense of causation ('kärite'), the endings of the Second Case are optionally used in connection with the roots denoting gati (motion) or buddhi (knowing) and with the roots bhuja, patha, hara, kara, saya, etc. :
 
-VIBHATTI-BHEDA 103
+Sāmī dāsam̉ gāmam̉ gamayati (also, dāsena), garu sissam dhammam bodhayati (also, sissena), upāsako bhikkhum bhattam bhojayati (also, bhikkhunā) ; ācariyo antevāsikam Pālim pāṭhayati (also, antevāsikena) ; hatthāroho hatthim sāyayati (also, hatthinā).
 
-পূর্বক “বিস*ধাতুর যোগেও কখন কখন леа অর্থে
-দ্বিতীয়া বিভক্তি wu; যথা,-"গামং উপবসতি* (অর্থাৎ,
-গামে বসতি’), এইরূপ, “tte অন্থবসতি, 'অধিবসতি,
-আবসতি, অধিসেতে, অধিতিটঠতি, অজ্ঝাসয়তি, =afe-
-নিবিসতি” (অর্থাৎ, 'গামে পবিসতি+)।
+#### 5. Kvaci Dutiyā Chatṭhīnamatthe.
 
-পান করা অর্থে “পা” ধাতু ও ভ্রমণ কর! অর্থে ‘চর’
-ধাতুর যোগেও কখন কখন সপ্তমীর অর্থে দ্বিতীয়া বিভক্তি
-51; -qi—"afe: পিবতি” (অর্থাৎ, “নদীতে জল পান
-করিতেছে”); "sts safa” (অর্থাৎ, গ্রামে ভ্রমণ
-করিতেছে’) |
+The endings of the Second Case are sometimes used in denoting the sense of those of the Sixth :
 
-peta অর্থেও কখন কখন দ্বিতীয়া বিভক্তি হয়;
-যথা,_-“পচ্চারোচেমি তং” (চতুর্থা ‘তে'র স্থানে ‘তং’ )।
+Tari kho pana Bhagavantam kalyāna-kittisaddo abbhuggato (where tam Bhagavantam means tassa Bhagavato).
 
-পঞ্চমীর Bite কথন কখন fasta বিভক্তি হয়»
-যথা,__স্পুৰৰেন গামং” (stray অর্থে) |
+So also in connection with the words antarā, anto, tiro, abhito, parito, patibhā etc.; e.g., antarā̄ ca Nālaudam antarā ca Rājagaham ; anto rattham ; tiro rathham ; abhito gāmam ; parito gāmam ; upamā mam̀ paṭibhāti.
 
-ক্রিয়াবিশেষণেও দ্বিতীয়া বিভক্তি হয়; 441—945
-সেতি” |
+#### 6. Tatiyā-Sattamīnañ ca.
 
-The endings of the Second Case are also some-
-times used in denoting the sense of those of
-the Third and Seventh Cases :
+The endings of the Second Case are also sometimes used in denoting the sense of those of the Third and Seventh Cases:
 
-Mam (i.e., тауа saha) nàlapissati ; pubbanha-
-samayam (i.c., samaye) nivasetva.
+Mam (i.e., mayā saha) nālapissati ; pubbaṇhasamayam (i.e., samaye) nivāsetvā.
 
-The endings of the Second Case are also
-sometimes used in the sense of those of the
-Seventh Case in connection with the following :—
-upa + y vasa, anu+/vasa, adhi+ y vass, a+
-y vasa ; adhi + ysi ; adhi + /tha ; adhi+ asa ;
-abhi+ni+ / visa ; ¢.g., gama upavasati (i.e.,
+The endings of the Second Case are also sometimes used in the sense of those of the Seventh Case in connection with the following: upa+ $\sqrt{ }$ vasa, anu $+\sqrt{ }$ vasa, adhi $+\sqrt{ }$ vasa, $\bar{a}+$ $\sqrt{ }$ vasa ; adhi $+\sqrt{ }$ si ; adhi $+\sqrt{ }$ thā ; adhi $+\sqrt{ }$ āsa ; abhi + ni $+\sqrt{ }$ visa ; e.g., gāmam upavasati (i.e.,
+gāme vasati) ; similarly, -gāmani anuvasati, adhivasati, āvasati, adhisete, adhititṭhati, ajjhāsayati, abhinivisati (i.e., gäme pavisati).
 
-104 BALAVATARA
+Similarly, in connection with $\sqrt{ }$ pā (to drink) and $\sqrt{ }$ car (to go about) ; e.g., nadim pivati (i.e., nadiyam pñniyam pivati); gāmam carati (i.e., gäme carati).
 
-game vasati) ; similarly,—gimam anuvasati, adhi-
-vasati, ivasati, adhisete, adhititthati, ajjhisayati,
-nbhinivisati (i.e., дате pavisati).
+Also, in the sense of the endings of the Fourth Case ; e.g., paccārocemi tam (for $t e$ ).
 
-Similarly, in connection with 4 pà (to drink)
-and car (to go about) ; e.9., nadir pivati (8.৪.
-nadiyam — pàániyarh  pivati) ; gama»  carati
-(t.¢., game carati).
-
-Also, in the sense of the endings of the
-Fourth Case ; e.g., paccirocemi tam (tote).
+And in the sense of the endings of the Fifth Case ; e.g., pubbena gāmani (for gämasmä).
 
-And in the sense of the endings of the Fifth
-Case ; e.9.. pubbena ратат (for 72777087786.)
+Also, adverbially ; e.g., sukhami seti.
 
-Also, adverbially ; e.g., sukharn seti,
+### Tatiyā (the Third Case) 
 
-Tatiyà (the Third Case)
+#### 1. Karane Tatiyā.
 
-әт ж ললিতা RIRIA
+করণ কাঁরকে তৃতীয়া বিভক্তি হয় ; যথা—দত্তে বীহিং
+সুনাতি (এছলে ‘দত্তে’ অর্থাৎ ‘দাত্র দ্বারা’,—বাহির বা বাহ্
+করণ-কারক); নেহেন চন্দং ইকৃথতে (এছলে ‘নেতেন’
+অজ্ঘভ্রিক বা আধ্যা|ষিক করপ-কারক)।
 
-1. Karane Tatiya.
+The endings of the Third Case are used in denoting instrumentality :
 
-করণ কারকে তৃতীয়! বিভক্তি হয় ; যথ1--দত্তেন বীহিং
-লুনাতি (acm “দত্তেন অর্থাৎ np দ্বারা”, __বাহির বা বাহ!
-করণ-কারক); নেত্তেন চন্দং ZEUS (IAA ‘নেত্তেন’
-অজ্ধত্তিক বা আধ্যাত্মিক করণ-কারক)।
+Dattena vīhīn lunāti (where an external act is being performed by means of a 'datta'bāhira karaṇa); nettena candam ikkhate (where the action is being done inwardly by means of the eye-ajjhattika karaṇa).# २। छहादि-योगे च। २।६।२० 
 
-The endings of the Third Case are used in
-denoting instrumentality :
+#### 2. Sahādi-yoge ca.
 
-Dattena vihirh lunáti (where an external act
-is being performed by means of а 'datta'—
-báhira karana) ; nettena candam ikkhate (where
-the action is being done inwardly by means of the
-eye —ajjhattika karana).
+The endings of the Third Case are also used in connection with the words saha, alami, kim, etc., or in denoting the meanings thereof :
 
-VIBHATTI-BHEDA 105
+Puttena saha vutti ; puttena saha thūlo ; puttena saha dhanami; alami te idha-vāsena; kim to jatāhi. The endings of the Third Case would be used even without saha, only if the sense of saha be there: nisīdi Bhagavā saddhim bhikkhu-sanghena; sahassena samarī mitā ; piyehi manāpehi nānā-bhāvo ; piyehi manāpehi vinā-bhāvo.
 
-২। wwifz-3Y w зө
+#### 3. Hetvatthe ca.
 
-2. Sahadi-yoge са.
+In denoting cause and also in connection with the word 'hetu', the endings of the Third Case are used:
 
-‘সহ’, ао, ‘কিং’, প্রভৃতি শব্দের প্রয়োগে সহার্থে তৃতীয়! বিভক্তি
-হয়; যথা--পুত্তেন সহ বৃত্তি, পুত্তেন] সহ Чот, পুত্তেন সহ st;
-অলং তে ইধ বাসেন ; কিং তে জটাহি। ‘সহ’ শব্দ না থাকিলেও
-সহার্থ বুঝাইলেই তৃতীয়! হইবে ; ঘথা,_নিসীদি ভগবা সন্ধিং ভিকৃথু-
-সংঘেন (সহার্থ বাচক ‘afer’ শন্দযোগে তৃতীয়া); সহস্সেন সমং
-মিতা (সহার্থ বাচক “সম” শব্দের যোগে তৃতীয়া); পিযেহি মনাপেহি
-নানাভাবে! (এরূপ, “নানা” শব্দের যোগে তৃতীয়া) ; পিষেহি মনাপেহি
-বিনাভাবো (“বিনা শব্দযোগে তৃতীয়া) 1
+Annona vasati (because anna here is the 'cause'); kona hetuna (because used with the word 'hetu'). Similarly, dhammena vasati; vijjāya vasati ; na jaccā vasalo hoti ; dānena bhogavā hoti; kon'atthena so āgato.
 
-The endings of the Third Case are also used in
-connection with the words saha, alam, kim,
-ete., or in denoting the meanings thereof: “°
+#### 4. Sattamyatthe ca.
 
-Puttena saha vutti ; puttena saha thülo ;
-puttena saha dhanam ; alam te idha-vüsena ;
-kim te jatahi. The endings of the Third Case
-would be used even without saha, only if the
-sense of saha be there: nisidi Bhagavi saddhirn
-bhikkhu-sanghena ;  sshassena samam muta ;
-piyehi manüpehi nina-bhivo ; piyehi manapeli
-vinü-bhavo.
+The endings of the Third Case are used in the sense of the Seventh Case too :
 
-з. Jaqa ai 5141.
+Pubbena gāmani (=gāmasmā pubbasmini); tena kālena (=tasmini kāle). Similarly, tena kho samayena.
 
-8. Hetvatthe ca.
-awi এবং “হেতু” শব্দের যোগেও তৃতীয়া বিভক্তি হয় ; যথা,
+#### 5. Yen'angavikāro.
 
-ceed: অল্নেন বসতি (অর্থাৎ, “ww হেতু’); ‘হেতু’ শব্দ-যোগে :
+The endings of the Third Case are added to the word which denotes that diseased member of the body whereby the whole appearance is affected :
 
-কেন cepa; এইরূপ, чсщя বসতি, বিজ্জায় বসতি, ন mei
-বললো হোতি, দানেন ভোগবা হোতি, কেনখেন যো আগতে! |
-~ 14
+Akkhinā kāno ; sotena badhiro ; hatthena kupī ; pādena khañjo ; pitṭhiyā khujjo.
 
-106 BALAVATARA
+#### 6. Visesane ca.
 
-In denoting cause and also in connection with the
+The endings of the Third Case are also used in denoting a distinguishing attribute :
 
-word “hetu', the endings of the Third Case
-are used :
+Gottena Gotamo ; tapasa uttamo.
 
-Annena vasati (because anna here is the
-‘cause '); kena hetund (because used with the
-word ‘hetu’). Similarly, dhammena  vasati ;
-vijàya vasati ; na jacca vasalo hoti; danena
-bhogavñ hoti; ken'atthena so agato.
+#### 7. Kattari ca.
 
-з1 жее чі ২।হ।৯৩
-4. Sattamyatthe са.
-সপ্তমী-অর্থেও তৃতীয়া বিভক্তি হয়; sq1— ca
-গামং (অৰ্থাৎ, "গামস্মা পুৰ afe — "014 «fut অর্থে ‘পুৰ ৰেন’);
-তেন কালেন (অর্থাৎ, “Shae কালে’); এইরূপ, তেন খে!
-সময়েন |
-The endings of the Third Case are used in the
-sense of the Seventh Case too :
+The endings of the Third Case are used in denoting the agent (in the Karma- and Bhāvavācyas) :
+Sūdena odano paccate [see p. 94] ; pumunā puññam katam ; sūdajetthena sūdena odano pācāpiyate (here both the agents, the employer and the employed, are in the Third case).
 
-Pubbena рашай (=gāmasmā pubbasmim) ;
-tena kšlena (=tasmim kale), Similarly, tena kho
-samayena.
+### Catutthī (the Fourth Case)
 
-«| শ্রলক্রলি্জাতী । 51415%
-5. Yen'aüngavikáro.
-যে ব্যাধিগ্রস্ত অঙ্গের দ্বারা শরীরের বিকার বুঝায়, সেই
-অঙ্গবাচক শব্দের উত্তর তৃতীয়া বিভক্তি su; যথা
-অকৃখিনা wtc; সোতেন ৰধিরো ; হখেন কুণী; পাদেন
-arar; pfni yras] |
+#### 1. Sampadāne Catutthī.
 
-VIBHATTI-BHEDA 107
+The endings of the Fourth Case are added to a word that denotes the recipient (i.e., the Dative) :
 
-The endings of the Third Case are added to the
-word which denotes that diseased member of
-the body whereby the whole appearance is
-affected :
+Samanassa civaram dadāti ( ${ }^{\circ} s s a$, because used with $\sqrt{ } d \bar{a}$ ) ; samarassa rocate saccarh (because used with $\sqrt{ }$ ruc) ; Yaññadattassa chattam dhārayate (because used with $\sqrt{a} h \bar{a} r i$ ). [For the different conditions of Sampadāna, see pp. 85-88.]
 
-Akkhind Капо ; sotena  badhiro ; hatthena
-kumi ; pàdena khaünjo ; pitthiyd khujjo.
+#### 2. Namo-yogādisvapi ca.
 
-&amp;| faqen, 214122
-6. Visesane ca.
+The endings of the Fourth Case are also used in connection with namo and similar words (i.e., forms of reverential address):
 
-বিশেষণার্থেও শব্দের উত্তর তৃতীয়া বিভক্তি হয় ; যথা,
-গোত্তেন গোতমো13 তপসা Seca |
+Namo $t c$, namo karohi nāgassa; sotthi pajānam ; sotthi te bhagini, sotthi gabbhassa; svāgatam $t c$. With kim also the Fourth Case is used: kim vippatisārāya.
 
-The endings of the Third Case are also used in
-denoting a distinguishing attribute :
+### Pañcamī (the Fifth Case)
 
-e ~=
+#### 1. Apādāne Pañcamī.
 
-Gottena Gotamo ; tapasā uttamo.
+The endings of the Fifth Case are used in denoting the Ablative :
 
-Ol aAa RIIE
-7. Kattari ca.
+Gāmā apenti ; corā bhāyanti ; upajjhāyā sikkham் ganhāti ; upajjhāyamhā adhīyate (in the sense of 'receiving from') ; dhāvatā assā poso pate ; rukkha phalam pate.-[For the different conditions of Apädāna, see pp. 88-93.]
 
-aye ép অর্থাৎ p ও ভাববাচ্যে কর্তকারকে
-তৃতীয়! বিভক্তি হয়; যথা, _স্থদেন ওদনো| পচ্চতে [as পৃঃ
-age কর্তীর উদাহরণ wey]; Wal পুঞ্ঞং FB;
-হুদজেটঠেন স্থদেন ওদনো! পাচাপীঘতে (প্রযোজক কর্তা
-'হুদজেট্ঠেন? ও প্রযোজ্য কর্তা “zur উভয়ের উত্তর তৃতীয়া
-বিভক্তি হইয়াছে ) |
+### Chathī (the Sixth Case) 
 
-The endings of the Third Case are used in denot-
-ing the agent (in the Karma- and Bhdva-
+#### 1. Sāmismirn Chatthī.
 
-vücyas) :
-`
+The endings of the Sixth Case are added to the word that denotes the owner.
 
-e=
+According to Kaccāyaṇa, 2. 6. 13 (Yasвa vā pariggaho tam Sāmī), 'owner' means that which has a possessive relation (pariggaho) with something ; c.g., bhikkhuno cīvaraṁ, narānaṁ indo, nagaraasa samīparī, suvaṇṇaasa rāsi, rukkhaasa sākhā.-There are also other ways in which the Sixth Case is used.
 
-108 BALAVATARA
+#### 2. Sāmi-'ssarādhipati-dāyāda-sakkhi-patibhū-pa-sūta-kusalehi ca.
 
-Sudena odano paccate [see p. 94] ; pumund
-puüham katarh ; südajetthena südena odano рйсй-
-piyate (here both the agents, the employer and
-the employed, are in the Third case).
+The endings of the Sixth Case as well as those of the Seventh are used in connection with the words sāmi, issara, adhipati, dāyāda, sakkhi, patibhū, pasūta and kusala :
 
-Catutthi (the Fourth Case)
+Gonānam sāmī, gonesu sāmī. Similarly, the remaining words will have gonänam (Sixth case) and gonesu (Seventh case) each.
 
-# 1 Wer qmi RIRI
+#### 3.
 
-1. Sampadāne Catutthi.
+The endings of the Sixth Case as well as those of the Seventh are also used in denoting specification :
 
-সম্প্রদান-কারকে চতুর্থী বিভক্তি হয়; যথা,-_সমণস্স
-চীবরং দদাতি (“দা ধাতুর যোগে “Ap? এই পদে BSA ) ;
-সমণস্স রোচতে সচ্চং (FE ধাতুর যোগে চতুর্থী);
-যঞঞদত্ৰস্‌স ছত্তং ধারয়তে ( “ধারি ধাতুর যোগে Seat) |
+Narānam (also, naresu) khattiyo sūrataro, Kanhā gāvīnam (also, gāvīsu) sampanna-khīratamā, Bāmā nārīnam (also, nārīsu) dassanīyatamā, pathikānam (also, pathikesu) dhāvarī sighatamo, brāhmanūnam (also, brāhmanesu) Devadatto pandito.
 
-oR কি প্রকারে সম্প্রদান-সংজ্ঞ1 হয়, ৮৫-৮৮ পৃষ্ঠায় দেখ 1]
+#### 4.
 
-The endings of the Fourth Case are added to a
-word that denotes the recipient (i.e., the
-Dative) :
+The endings of the Sixth Case as well as those of the Seventh are also used in denoting neglect or contempt:
 
-Samanassa civaram dadāti (°ssa, because
-used with — dà); samanassa rocate saccam
-(because used with  4/ruc);  Yaññadattassa
-chattarn dharayate (because used with y лагі).
+Rudato dārakassa pabbajī ; also, rudantasmim dārake pabbajī.
 
-[ For the different conditions of Sampadina, see
-pp. 85-88. |
+#### 5. Chatthī ca.
 
-2) ললী-আনাভিক্জছি чї 512158
+The endings of the Sixth Case are sometimes used in denoting the sense of those of the Third and Seventh cases :
 
-2. Namo-yogüdisvapi ca.
+Pupphassa Buddham yajati (in the sense of 'pupphena'), ghatassa aggim juhoti (for 'ghatena'), kim tassa (in the sense of 'tena'), kusalā naccagitassa (in the sense of 'naccagite'). Similarly, —kusalo tvari rathassa angapaccangānam (in the sense of '"paccangemu').
 
-‘নমো!’ প্রভৃতি সম্মানবাচক শব্দের যোগে চতুর্থী বিভক্তি
-হয়) যথা,__নমেো| তে, নমো করোহি নাগস্স; সোখি
+#### 6. Dutiyā-Pañcaminah ca.
 
-A
+The endings of the Sixth Case are also sometimes used in denoting the sense of those of the Second and Fifth cases:
 
-VIBHATTI-BHEDA 109
+Kamunañaa kattāro, bhinnānañ aandhātā (in the sense of the Second Case); sabbe tasanti duṇ̣̣anna, sabbe bhāyanti maocuno (in the sense of the Fifth Case).
 
-পজানং, cat তে ভগিনি, সোখি saw; স্বাগতং
-তে। ‘কিং’ যোগেও চতুর্থী হয়; যথা,__কিং বিপ্লটিসারায় ।
-The endings of the Fourth Case are also used in
+### Sattami (the Seventh Case)
 
-connection with mamo and similar words (1.e.,
-forms of reverential address) :
+#### 1. Okāse Sattamī.
 
-Namo te, namo karohi nàgassa ;  sotthi
-pajanam ; sotthi te bhagini, sotthi gabbhassa ;
+The endings of the Seventh Case are used in denoting location (see pp. 35-36) :
 
-,
+Ghatcau vari, salile macohā, nadiyam sassam, tilesu telam.
 
-svügatam fe. With kira also the Fourth Case is
-used: kim vippatisardya.
+#### 2. Kamma-Karana-Nimittatthesu Sattami.
 
-Pancami (the Fifth Case)
+The endings of the Seventh Case are used in denoting the sense of the Accusative and the Instrumental as well as in signifying a motive :
 
-£1 YAZIR wuHli RII
+Bāhāsu gahetvā, muddhani cumbitvā, bhikkhusu abhivādenti (all in the sense of the Accusative); pattesu pinḍāya caranti (in the sense of the Instrumental = pattehi); kunjaro dantesu' haññate (where 'dantesu'='dantakaraṇāya', signifying motive).
 
-1. Apadane Райсаші.
+#### 3. Sampadāne ca.
 
-অপাদান-কারকে পঞ্চমী বিভক্তি হয়; যথা,-গাম!
-অপেস্তি, চোরা ভাষস্তি, উপজ্ঝাষা rea গণ্হাতি,
-উপজ্ঝাধম্হা অধীযতে (অর্থাৎ, Sraa হইতে নিয়ম-
-পূর্বক বিদ্যা গ্রহণ al আদান করিতেছে’) ; ধাবতা৷ অস্সা
-পোসো পতে (অর্থাৎ, “ধাবমান অশ্ব হইতে পুরুষ পাড়িয়া
-যাইতে পারে), FEA ফলং পতে ।-_[কি কি প্রকারে অপাদান-
-সংজ্ঞা হয়, ৮৮-৯৩ পৃষ্ঠায় দেখ |]
-The endings of the Fifth Case are used in denoting
-the Ablative :
-Саша apenti ; сога 10010958006) ; орајјһауа
-sikkham ganhüti ; upajjhayamha adhiyate (in the
-sense of ‘receiving from’) ; dhavatd assa poso
+The endings of the Seventh Case are also used in denoting the sense of the Dative :
 
-| pate ; rukkhá phalarh pate.—[For the different
-conditions of Apidiina, see рр. 88-93. |
+Sanghe dinnam (in the sense of 'Sanghassa dinnam').
 
-`a
+#### 4. Pañcamyatthe ca.
 
-LT
+The endings of the Seventh Case are also used in the sense of the Fifth :
 
-—
+Kadalīsu (for 'kadalīhi ') gajam̀ rakkhati.
 
-110 BALAVATARA
+#### 5. Kālabhāvesu ca.
 
-Chattht (the Sixth Case)
+The endings of the Seventh Case are also used in denoting time as well as the sense of the Nominative Absolute :
 
-t: атбай wzst! ৯।হ।ই€
+Pubbapha-samaye gatn (denoting time) ;
+Sanghesu bhojiyamānesu, gato (in the sense of the Nominative Absolute). Similarly, -tasmin gate, aham gamissāmi.
 
-1. 88001570017 Chatthi.
+#### 6. Upādhyadhik'-issaravacane.
 
-স্বামি-পদে অর্থাৎ সন্বন্ধ-পদে ষষ্ঠী বিভক্তি হয় ("wp __
-বা পরিগ্গহো| তং সামী,” কচ্চায়ণ-স্থত্র ২।৬।১৩ ); যথা, |
-ভিকৃখুনো চীবরং, নরানং হন্দো, নগরস্স সমীপং,
-Vase রাসি, রুকৃখস্স সাখ!। এতদছ্যতীত অন্ত প্রকারেও
-ষষ্ঠী বিভক্তি হয়।
+The endings of the Seventh Case are used in connection with adhi and upa to denote superiority :
 
-The endings of the Sixth Case are added to the
-word that denotes the owner.
+Upa nikkhe (i.e., more than a nikkha) kahāpanam ; similarly,-upa khāriyam doṇo. Adhi devesa (i.e., superior to the devas) Buddho; similarly,-adhi Brahmadatte Pañcālā.
 
- -—
+#### 7. Manḍitussukkesu Tatiyā ca.
 
-According to Kaecáyapa, 2, 6. 13 (Yassa vä
-pariggaho tam Sami), ‘owner’ means that which
-has a possessive relation (pariggaho) with some-
-thing ; e.g., bhikkhuno civararh, naranam indo,
-nagarassa samipam, suvannassa rüsi, rukkhassa
-sakha.—There are also other ways in which the
-Sixth Case is used.
+The endings of the Third Case as well as those of the Seventh are used in connection with words denoting adornment and zeal :
 
-21 urfu-uuifaufa-ure-uwa fa- ufa-
-Haare স্ব। 514133
-2.  Sümi-'ssarüdhipati-dayáda-sakkhi-patibhü-pa-
-süta-kusalehi ca. ="
-‘সামি,’ "Exp, ‘অধিপতি,’ її? “সকৃখি,* ‘fey,’
-‘পন্থত, ও ‘কুশল’ এই সকল শব্দের যোগে ষষ্ঠী ও সপ্তমী 1
-বিভক্তি হয়; ঘথা,_গোণানং সামী, গোণেস্স সামী» এইরূপ, |
-অবশিষ্ট শব্দ সকলের যোগে CaL (ষষ্ঠী) ও ‘গোণেস্স”
-(সপ্তমী) প্রয়োগ হইবে।
-
-VIBHATTI-BHEDA 111
-
-The endings of the Sixth Case as well as those of
-
-Seventh are used in connection with
-
-the words sāmi, issara, adhipati, dayada,
-sakkhi, patibhū, pasūta and kusala :
-
-Goninam simi, gonesu simi. Similarly,
-the remaining words will have gondnam (Sixth
-case) and gonesu (Seventh case) each.
-
-{ят 9 1 214128
-
-ае (অর্থাৎ উৎকর্ষ কিংবা অপকর্ষ অবধারণ) অর্থে
-ষষ্ঠী ও সপ্তমী উভয় বিভক্তি হয়; বথা,_নরানং (বা CO)
-খতিয়ে! স্বরতরো, Ф451 গাবীনং (পক্ষে, M) সম্পন্ন-
-খীরতমা, সাম! নারীন২ (পক্ষে, “TE দস্সনীষতমা,
-পথিকানং (পক্ষে, “পথিকেস্ত” ধাবং সীঘতমেণ, x াহ্মণানং
-(পক্ষে, “A tacts’) দেবদত্তো পণ্ডিতো।
-
-The endings of the Sixth G: ` as well as those of
-the Seventh are also used in denoting speci-
-fication :
-
-Narñnam (also, naresu) khattiyo  sürataro,
-Kanha giavinam (also, gavisu) sampanna-khira-
-tamā, Sama nirinam (also, nürisu) dassaniya-
-tamā, pathikanam (also, pathikeau) dhāvarh
-sighatamo, brabmaniinarm (also, brihmanesu)
-Devadatto pandito,
-
-Maret чі 514159
-‘অনাদর’ অর্থে ষষ্ঠী ও সপ্তমী বিভক্তি হয়; যথা,
-রুদতে। দারকস্স পৰ ৰজি, কুদস্তশ্মিং দারকে পৰ АГ |
-
-=
-
-a?
-
-112 BALAVATARA
-
-The endings of the Sixth Case as well as those of
-the Seventh are also used in denoting neglect
-or contempt :
-
-Rudato dirakassa pabbaji ; also, rudantasmim
-darake pabbaji.
-
-ЧУ mamans
-€! 29 91 RINE
-5. Chatthi ca.
-
-তৃতীয়া ও সপ্তমীর অর্থে কখন কখনও ah বিভক্তি হয়;
-বথা,__পুপ্ফস্স 49% যজতি ('পুপফেন” এই তৃতীয়ার অর্থে);
-এইরূপ, чели অগৃগিং জুহোতি (“ঘতেন” এই তৃতীয়ার্থে) ; কিং
-Sr (‘coy এই তৃতীয়ার্থে); অলং Sp (E এই
-ভৃতীয়ার্থে) ; কুসল! নচ্চ-গীতস্স (‘নচ্চগীতে’ এই crea
-
-=&lt; wq); এইরূপ, কুসলো ত্বং аии অঙ্গপচ্চঙ্গানং (-পচ্চঙ্গেন্ু
-
-এই সপ্তমীর wed) i x
-The endings of the Sixth Case are sometimes used
-in denoting the sense of those of the Third
-and Seventh cases : x
-
-Pupphassa Buddharn yajati (in the sense
-of ‘pupphena’), ghatassa aggirh juhoti (for
-‘ghatena’), kirh tassa (in the sense of ‘tena’),
-kusalà naccagitassa (in the sense of ‘naccagite’).
-Similarly,—kusalo tvarh rathassa ahgapaccangüna?a, .
-(in the sense of ‘°naccangesu’). -2
-
-ai হৃনলিঘা-দস্বলীনন্ত 1 514192.
-6. Dutiyā-Pañcamīnañ ca.
-দ্বিতীয়া ও পঞ্চমীর অর্থে কখন কখনও ষষ্টী বিভক্তি tu;
-যথা,_কম্মস্স mn (দ্বিতীয়ার্থে), fens সন্ধাতা
--
+Nānasmim (also, ñānena) pasīdito (denoting adornment) ; ñānena (also, ñānasmim) ussuko (denoting zeal).
