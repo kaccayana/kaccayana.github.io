@@ -2149,147 +2149,143 @@ of the Second and Third cases may also be used: antikam் gāmañ or gāmena, e
 ### 7. Yo 'dhāro tam̉ Okāsam̉.
 
 The place of an action is called the Okāsa or the Locative.
-[See examples under under Sattamī, pp. 35-36.]
+
+* [See examples under under *Sattamī*, pp. 35-36.]
 
 ## VIIIB VIBHATTI-BHEDA (Cases and Case-endings)
 
-[The Vibhatti or the Case must not be confused with the Kāraka. A Kāraka is one of the many causes that accounts for the use of a Vibhatti, and the latter can bring home to us the sense of the Kāraka that may have caused it. For instance, the Paṭhamā-vibhatti (see p. 34) can be accounted for not only by means of the Kattu-kāraka but also by Lingattha and Alapana (see Kaccāyana) and it can help us to determine the sense of the Kattu-kāraka. A loose enumeration of the Vibhattis are given at p. 31, sec. 5, where they appear as eight; but strictly speaking, they are seven in number, excluding
-the Alapana, which in English grammar is distinguished as the Case of Address. Only a rough idea of the use of the seven Vibhattis is given at pages 34-36; a detailed treatment of them will be found below.]
+[The Vibhatti or the Case must not be confused with the Kāraka. A Kāraka is one of the many causes that accounts for the use of a Vibhatti, and the latter can bring home to us the sense of the Kāraka that may have caused it. For instance, the Paṭhamā-vibhatti (see p. 34) can be accounted for not only by means of the *Kattu-kāraka* but also by *Liṅgattha* and *Ālapana* (see Kaccāyana) and it can help us to determine the sense of the *Kattu-kāraka*. A loose enumeration of the Vibhattis are given at p. 31, sec. 5, where they appear as *eight*; but strictly speaking, they are *seven* in number, excluding the Ālapana, which in English grammar is distinguished as the Case of Address. Only a rough idea of the use of the seven Vibhattis is given at pages 34-36; a detailed treatment of them will be found below.]
 
-### Paṭhamā (The First Case) 
+### Paṭhamā (The First Case)
 
 #### 1. Ling'atthe Paṭhamā.
 
 The endings of the First Case are used, when only the sense of the crude form (i.e., stem or nominal base) is spoken of :
 
-Puriso, purisā ; eko, dve ; aham, etc.
-The agent when in the Active Voice (Kartrvācya) and the object when in the Passive (Karmavācya) require the ending of the First Case, which is also used if a word is governed by some Indeclinables, e.g.,-
+* Puriso, purisā ; eko, dve ; aham, etc.
 
-Sudo odanam pacati (Active), Sūdena odano paccate (Passive) ; similarly, -Buddho dhammam desesi, Buddhena dhammo desito.
+* The agent when in the Active Voice (Kartṛ-vācya) and the object when in the Passive (Karma-vācya) require the ending of the First Case, which is also used if a word is governed by some Indeclinables, e.g.,-
 
-Nāgaseno nāma thero, Sīhaseno nāma putto (where "nāma," an Indeclinable, governs the Proper names).
+* *Sudo* odanam pacati (Active), *Sūdena* odano paccate (Passive) ; similarly, - Buddho dhammaṁ desesi, Buddhena dhammo desito.
+
+* Nāgaseno nāma thero, *Sīhaseno* nāma putto (where "nāma," an Indeclinable, governs the Proper names).
 
 #### 2. Ālapane ca.
 
 The endings of the First Case are also used to express the sense of addressing, coupled with the sense of the crude form:
-Bho purisa, bhavanto purisā ; bho rāja, bhavanto rājāno; he sakhha, he sakhino. [In the Bālāvatāra these formations are allowed by the Sūtra "Liṅgatthe Paṭhamā," but Rule 2 occurs separately in Kaccāyana.
+
+* Bho purisa, bhavanto purisā ; bho rāja, bhavanto rājāno; he sakhha, he sakhino. [In the Bālāvatāra these formations are allowed by the Sūtra "Liṅgatthe Paṭhamā," but Rule 2 occurs separately in Kaccāyana.
 
 ### Dutiyā (the Second Case)
 
 #### 1. Kammatthe Dutiyā.
 
-The endings of the Second Case are used in denoting the object (in the Karty-vācya), i.e., the Accusative :
+The endings of the Second Case are used in denoting the object (in the *Kartṛ-vācya*), i.e., the Accusative :
 
-Buddham vande, unapattam bhunjati, kanṭakam maddati, visam gilati, ratham karoti, dhammam supāti, vācam bhāsati, tanḍulam pacati, coram ghāteṭi, gavami hanati.
+* Buddhaṁ vande, ūnapattaṁ bhuñjati, kaṇṭakaṁ maddati, visaṁ gilati, rathaṁ karoti, dhammaṁ supāti, vācaṁ bhāsati, taṇḍulaṁ pacati, coraṁ ghāteṭi, gavaṁ hanati.
 
-#### 2. Kāladdhānamaccantasam̃yoge.
+#### 2. Kāladdhānamaccantasamṁyoge.
 
 The endings of the Second Case are added to words denoting time or space, which have immediate proximity (to any object, attribute or action):
 
-Māsam manisodano (where māsa denotes time and manisodano object-i.e., a 'manisodano' which can be eaten for a whole month. Here we have proximity of time with an object).
-
-Saradam் ramanīyā nadī (where 'ramanīyatā' is an attribute of 'nadi,' which lasts throughout the season 'Sarada.' Here we have proximity of time with an attribute).
-
-Māsam sajjhāyati (where the action of 'sajjhāyana' continues throughout a 'māsa.' Here we have proximity of time with an action).
-Yojanami vanarāji (proximity of space, yojana, with an object, vanarāji).
-Yojanam̉ dīgho pabbato (proximity of space with an attribute, dīgha).
-Kosam sajjhāyati (proximity of space with an action, sajjhāynti).
+* Māsaṁ maṁsodano (where *māsa* denotes time and *maṁsodano* object-i.e., a 'maṁsodano' which can be eaten for a whole month. Here we have proximity of time with an object).
+* Saradaṁ ramaṇīyā nadī (where 'ramaṇīyatā' is an attribute of 'nadi,' which lasts throughout the season 'Sarada.' Here we have proximity of time with an attribute).
+* Māsaṁ sajjhāyati (where the action of 'sajjhāyana' continues throughout a 'māsa.' Here we have proximity of time with an action).
+* Yojanaṁ vanarāji (proximity of space, yojana, with an object, *vanarāji*).
+* Yojanam̉ dīgho pabbato (proximity of space with an attribute, *dīgha*).
+* Kosaṁ sajjhāyati (proximity of space with an action, *sajjhāyati*).
 
 #### 3. Kammappavacanīya-yutte.
 
-The endings of the Second Case are added to words used in connection with terms (certain prepositions, particles or adverbs) employed to define an action (Kammappavacanīya).
+The endings of the Second Case are added to words used in connection with terms (certain prepositions, particles or adverbs) employed to define an action (*Kammappavacanīya*).
 
-Such terms are: anu, pati, pari and abhi.
-Anu expresses the senses of (i) aiming at, (ii) pervasion, (iii) exception, (iv) portion, (v) homogeneity, and (vi) inferiority: e.g.,
-(i) Rukkham் anu vijjotate cando (where the idea is that the moon is shining with the tree as its aim ; the act of 'aiming at' is expressed by the Kammappavacanīya 'anu' ; hence, rukkham, which it governs, takes the ending of the Second Case).
-(ii) Bukkhami rukkhami anu vijjotate cando (where 'anu' expresses 'pervasion'; hence the repetition rukkhami rukkhami and the ending of the Second Case).
-(iii) Sädhu Devadatto mätarami anu (where the meaning is that Devadatta is not by nature good, but he is good towards his mother; hence, the Second Case-ending in mätarain, which is governed by 'anu,' denoting 'exception').
-(iv) Yad ettha mam anu siyā tan diyatu (which means: Give me that which is my portion; thus 'anu' has the force of 'share or portion,' and accordingly mam has the Second Case-ending).
-(v) Nadim anvavasitā Bārānasī (where 'Bārānasī' together with 'nadi' makes one complete whole; therefore, 'anu' in anvavasita (anu + ava + sitā, Sk. sritā) denoting 'homogeneity,' nadim has the Second Case-ending).
-(vi) Anu Sāriputtam paññavā bhikkhu (which means that the bhikkhu is wise, but that he is inferior to Sāriputta in wisdom; hence, 'anu' having the force of 'inferiority,' Sāriputtam has the Second Case-ending).
+* Such terms are: *anu*, *pati*, *pari* and *abhi*.
 
-Pati and Pari have only the first four significations of Anu in the above illustrations and they can be used in its stead.
+* Anu expresses the senses of (1) aiming at, (2) pervasion, (3) exception, (4) portion, (5) homogeneity, and (6) inferiority: e.g.,
+  1. Rukkhaṁ anu vijjotate cando (where the idea is that the moon is shining with the tree as its aim ; the act of 'aiming at' is expressed by the Kammappavacanīya 'anu' ; hence, *rukkhaṁ*, which it governs, takes the ending of the Second Case).
+  2. Rukkhaṁ rukkhaṁ anu vijjotate cando (where 'anu' expresses 'pervasion'; hence the repetition *rukkhaṁ rukkhaṁ* and the ending of the Second Case).
+  3. Sädhu Devadatto mātaraṁ anu (where the meaning is that Devadatta is not by nature good, but he is good towards his mother; hence, the Second Case-ending in mātaraṁ, which is governed by 'anu,' denoting 'exception').
+  4. Yad ettha maṁ anu siyā taṁ diyatu (which means: Give me that which is my portion; thus '*anu*' has the force of 'share or portion,' and accordingly *maṁ* has the Second Case-ending).
+  5. Nadiṁ anvavasitā Bārāṇasī (where 'Bārāṇasī' together with 'nadi' makes one complete whole; therefore, 'anu' in anvavasita (anu + ava + sitā, Sk. sritā) denoting 'homogeneity,' *nadiṁ* has the Second Case-ending).
+  6. Anu Sāriputtaṁ paññavā bhikkhu (which means that the bhikkhu is wise, but that he is inferior to Sāriputta in wisdom; hence, 'anu' having the force of 'inferiority,' *Sāriputtaṁ* has the Second Case-ending).
 
-Abhi has only the first three significations of Anu mentioned above and it can be used in its place.
+* *Pati* and *Pari* have only the first four significations of *Anu* in the above illustrations and they can be used in its stead.
 
-#### 4. Gati-buddhi-bhuja-paṭha-hara-kara-sayādīnah kārite vā.
+* *Abhi* has only the first three significations of *Anu* mentioned above and it can be used in its place.
 
-In the sense of causation ('kärite'), the endings of the Second Case are optionally used in connection with the roots denoting gati (motion) or buddhi (knowing) and with the roots bhuja, patha, hara, kara, saya, etc. :
+#### 4. Gati-buddhi-bhuja-paṭha-hara-kara-sayādīnaṁ kārite vā.
 
-Sāmī dāsam̉ gāmam̉ gamayati (also, dāsena), garu sissam dhammam bodhayati (also, sissena), upāsako bhikkhum bhattam bhojayati (also, bhikkhunā) ; ācariyo antevāsikam Pālim pāṭhayati (also, antevāsikena) ; hatthāroho hatthim sāyayati (also, hatthinā).
+In the sense of causation ('kārite'), the endings of the Second Case are optionally used in connection with the roots denoting gati (motion) or buddhi (knowing) and with the roots *bhuja*, *patha*, *hara*, *kara*, *saya*, etc. :
 
-#### 5. Kvaci Dutiyā Chatṭhīnamatthe.
+* Sāmī dāsam̉ gāmam̉ gamayati (also, dāsena), garu sissaṁ dhammaṁ bodhayati (also, sissena), upāsako bhikkhuṁ bhattaṁ bhojayati (also, bhikkhunā) ; ācariyo antevāsikaṁ Pāliṁ pāṭhayati (also, antevāsikena) ; hatthāroho hatthiṁ sāyayati (also, hatthinā).
+
+#### 5. Kvaci Dutiyā Chaṭṭhīnamatthe.
 
 The endings of the Second Case are sometimes used in denoting the sense of those of the Sixth :
 
-Tari kho pana Bhagavantam kalyāna-kittisaddo abbhuggato (where tam Bhagavantam means tassa Bhagavato).
+* Taṁ kho pana Bhagavantaṁ kalyāṇa-kittisaddo abbhuggato (where taṁ Bhagavantaṁ means *tassa* Bhagavato).
 
-So also in connection with the words antarā, anto, tiro, abhito, parito, patibhā etc.; e.g., antarā̄ ca Nālaudam antarā ca Rājagaham ; anto rattham ; tiro rathham ; abhito gāmam ; parito gāmam ; upamā mam̀ paṭibhāti.
+* So also in connection with the words *antarā*, *anto*, *tiro*, *abhito*, *parito*, *patibhā* etc.; e.g., antarā̄ ca Nālandaṁ antarā ca Rājagahaṁ ; anto ratthaṁ ; tiro rathhaṁ ; abhito gāmaṁ ; parito gāmaṁ ; upamā mam̀ paṭibhāti.
 
 #### 6. Tatiyā-Sattamīnañ ca.
 
 The endings of the Second Case are also sometimes used in denoting the sense of those of the Third and Seventh Cases:
 
-Mam (i.e., mayā saha) nālapissati ; pubbaṇhasamayam (i.e., samaye) nivāsetvā.
+* Maṁ (i.e., mayā saha) nālapissati ; pubbaṇhasamayaṁ (i.e., samaye) nivāsetvā.
 
-The endings of the Second Case are also sometimes used in the sense of those of the Seventh Case in connection with the following: upa+ $\sqrt{ }$ vasa, anu $+\sqrt{ }$ vasa, adhi $+\sqrt{ }$ vasa, $\bar{a}+$ $\sqrt{ }$ vasa ; adhi $+\sqrt{ }$ si ; adhi $+\sqrt{ }$ thā ; adhi $+\sqrt{ }$ āsa ; abhi + ni $+\sqrt{ }$ visa ; e.g., gāmam upavasati (i.e.,
-gāme vasati) ; similarly, -gāmani anuvasati, adhivasati, āvasati, adhisete, adhititṭhati, ajjhāsayati, abhinivisati (i.e., gäme pavisati).
+* The endings of the Second Case are also sometimes used in the sense of those of the Seventh Case in connection with the following: upa + √vasa, anu + √vasa, adhi + √vasa, ā + √vasa ; adhi + √si ; adhi + √ṭhā ; adhi + √āsa ; abhi + ni + √visa ; e.g., gāmaṁ upavasati (i.e., gāme vasati) ; similarly, - gāmaṁ anuvasati, adhivasati, āvasati, adhisete, adhitiṭṭhati, ajjhāsayati, abhinivisati (i.e., gäme pavisati).
 
-Similarly, in connection with $\sqrt{ }$ pā (to drink) and $\sqrt{ }$ car (to go about) ; e.g., nadim pivati (i.e., nadiyam pñniyam pivati); gāmam carati (i.e., gäme carati).
+* Similarly, in connection with √pā (to drink) and √car (to go about) ; e.g., nadiṁ pivati (i.e., nadiyaṁ panīyaṁ pivati); gāmaṁ carati (i.e., gäme carati).
 
-Also, in the sense of the endings of the Fourth Case ; e.g., paccārocemi tam (for $t e$ ).
+* Also, in the sense of the endings of the Fourth Case ; e.g., paccārocemi taṁ (for *te*).
 
-And in the sense of the endings of the Fifth Case ; e.g., pubbena gāmani (for gämasmä).
+* And in the sense of the endings of the Fifth Case ; e.g., pubbena gāmaṁ (for gāmasmā).
 
-Also, adverbially ; e.g., sukhami seti.
+* Also, adverbially ; e.g., sukhaṁ seti.
 
-### Tatiyā (the Third Case) 
+### Tatiyā (the Third Case)
 
-#### 1. Karane Tatiyā.
-
-করণ কাঁরকে তৃতীয়া বিভক্তি হয় ; যথা—দত্তে বীহিং
-সুনাতি (এছলে ‘দত্তে’ অর্থাৎ ‘দাত্র দ্বারা’,—বাহির বা বাহ্
-করণ-কারক); নেহেন চন্দং ইকৃথতে (এছলে ‘নেতেন’
-অজ্ঘভ্রিক বা আধ্যা|ষিক করপ-কারক)।
+#### 1. Karaṇe Tatiyā.
 
 The endings of the Third Case are used in denoting instrumentality :
 
-Dattena vīhīn lunāti (where an external act is being performed by means of a 'datta'bāhira karaṇa); nettena candam ikkhate (where the action is being done inwardly by means of the eye-ajjhattika karaṇa).# २। छहादि-योगे च। २।६।२० 
+* Dattena vīhīṁ lunāti (where an *external* act is being performed by means of a 'datta' - bāhira karaṇa); nettena candaṁ ikkhate (where the action is being done *inwardly* by means of the eye - ajjhattika karaṇa).
 
 #### 2. Sahādi-yoge ca.
 
-The endings of the Third Case are also used in connection with the words saha, alami, kim, etc., or in denoting the meanings thereof :
+The endings of the Third Case are also used in connection with the words *saha*, *alaṁ*, *kiṁ*, etc., or in denoting the meanings thereof :
 
-Puttena saha vutti ; puttena saha thūlo ; puttena saha dhanami; alami te idha-vāsena; kim to jatāhi. The endings of the Third Case would be used even without saha, only if the sense of saha be there: nisīdi Bhagavā saddhim bhikkhu-sanghena; sahassena samarī mitā ; piyehi manāpehi nānā-bhāvo ; piyehi manāpehi vinā-bhāvo.
+* Puttena saha vutti ; puttena saha thūlo ; puttena saha dhanaṁ; alaṁ te idha-vāsena; kiṁ te jaṭāhi. The endings of the Third Case would be used even without *saha*, only if the sense of *saha* be there: nisīdi Bhagavā saddhiṁ bhikkhu-saṅghena; sahassena samaṁ mitā ; piyehi manāpehi nānā-bhāvo ; piyehi manāpehi vinā-bhāvo.
 
 #### 3. Hetvatthe ca.
 
 In denoting cause and also in connection with the word 'hetu', the endings of the Third Case are used:
 
-Annona vasati (because anna here is the 'cause'); kona hetuna (because used with the word 'hetu'). Similarly, dhammena vasati; vijjāya vasati ; na jaccā vasalo hoti ; dānena bhogavā hoti; kon'atthena so āgato.
+* Annena vasati (because *anna* here is the 'cause'); kena hetuna (because used with the word 'hetu'). Similarly, dhammena vasati; vijjāya vasati ; na jaccā vasalo hoti ; dānena bhogavā hoti; ken'atthena so āgato.
 
 #### 4. Sattamyatthe ca.
 
 The endings of the Third Case are used in the sense of the Seventh Case too :
 
-Pubbena gāmani (=gāmasmā pubbasmini); tena kālena (=tasmini kāle). Similarly, tena kho samayena.
+* Pubbena gāmaṁ (=gāmasmā pubbasmiṁ); tena kālena (=tasmiṁ kāle). Similarly, tena kho samayena.
 
-#### 5. Yen'angavikāro.
+#### 5. Yen'aṅgavikāro.
 
 The endings of the Third Case are added to the word which denotes that diseased member of the body whereby the whole appearance is affected :
 
-Akkhinā kāno ; sotena badhiro ; hatthena kupī ; pādena khañjo ; pitṭhiyā khujjo.
+* Akkhinā kāṇo ; sotena badhiro ; hatthena kuṇī ; pādena khañjo ; piṭṭhiyā khujjo.
 
 #### 6. Visesane ca.
 
 The endings of the Third Case are also used in denoting a distinguishing attribute :
 
-Gottena Gotamo ; tapasa uttamo.
+* Gottena Gotamo ; tapasa uttamo.
 
 #### 7. Kattari ca.
 
-The endings of the Third Case are used in denoting the agent (in the Karma- and Bhāvavācyas) :
-Sūdena odano paccate [see p. 94] ; pumunā puññam katam ; sūdajetthena sūdena odano pācāpiyate (here both the agents, the employer and the employed, are in the Third case).
+The endings of the Third Case are used in denoting the agent (in the *Kamma*- and *Bhāvavācyas*) :
+
+* Sūdena odano paccate [see p. 94] ; pumunā puññaṁ kataṁ ; sūdajeṭṭhena sūdena odano pācāpiyate (here both the agents, the employer and the employed, are in the Third case).
 
 ### Catutthī (the Fourth Case)
 
@@ -2297,13 +2293,13 @@ Sūdena odano paccate [see p. 94] ; pumunā puññam katam ; sūdajetthena sūde
 
 The endings of the Fourth Case are added to a word that denotes the recipient (i.e., the Dative) :
 
-Samanassa civaram dadāti ( ${ }^{\circ} s s a$, because used with $\sqrt{ } d \bar{a}$ ) ; samarassa rocate saccarh (because used with $\sqrt{ }$ ruc) ; Yaññadattassa chattam dhārayate (because used with $\sqrt{a} h \bar{a} r i$ ). [For the different conditions of Sampadāna, see pp. 85-88.]
+* Samaṇassa cīvaraṁ dadāti (°ssa, because used with √dā) ; samarassa rocate saccaṁ (because used with √ruc) ; Yaññadattassa chattaṁ dhārayate (because used with √dhāri). [For the different conditions of Sampadāna, see pp. 85-88.]
 
 #### 2. Namo-yogādisvapi ca.
 
-The endings of the Fourth Case are also used in connection with namo and similar words (i.e., forms of reverential address):
+The endings of the Fourth Case are also used in connection with *namo* and similar words (i.e., forms of reverential address):
 
-Namo $t c$, namo karohi nāgassa; sotthi pajānam ; sotthi te bhagini, sotthi gabbhassa; svāgatam $t c$. With kim also the Fourth Case is used: kim vippatisārāya.
+* Namo te, namo karohi nāgassa; sotthi pajānaṁ ; sotthi te bhagini, sotthi gabbhassa; svāgataṁ te. With kiṁ also the Fourth Case is used: kiṁ vippaṭisārāya.
 
 ### Pañcamī (the Fifth Case)
 
@@ -2311,45 +2307,45 @@ Namo $t c$, namo karohi nāgassa; sotthi pajānam ; sotthi te bhagini, sotthi ga
 
 The endings of the Fifth Case are used in denoting the Ablative :
 
-Gāmā apenti ; corā bhāyanti ; upajjhāyā sikkham் ganhāti ; upajjhāyamhā adhīyate (in the sense of 'receiving from') ; dhāvatā assā poso pate ; rukkha phalam pate.-[For the different conditions of Apädāna, see pp. 88-93.]
+* Gāmā apenti ; corā bhāyanti ; upajjhāyā sikkhaṁ gaṇhāti ; upajjhāyamhā adhīyate (in the sense of 'receiving from') ; dhāvatā assā poso pate ; rukkha phalaṁ pate.-[For the different conditions of Apädāna, see pp. 88-93.]
 
-### Chathī (the Sixth Case) 
+### Chaṭṭhī (the Sixth Case)
 
-#### 1. Sāmismirn Chatthī.
+#### 1. Sāmismiṁ Chaṭṭhī.
 
 The endings of the Sixth Case are added to the word that denotes the owner.
 
-According to Kaccāyaṇa, 2. 6. 13 (Yasвa vā pariggaho tam Sāmī), 'owner' means that which has a possessive relation (pariggaho) with something ; c.g., bhikkhuno cīvaraṁ, narānaṁ indo, nagaraasa samīparī, suvaṇṇaasa rāsi, rukkhaasa sākhā.-There are also other ways in which the Sixth Case is used.
+According to Kaccāyaṇa, 2. 6. 18 (Yasвa vā pariggaho taṁ Sāmī), 'owner' means that which has a possessive relation (pariggaho) with something ; c.g., bhikkhuno cīvaraṁ, narānaṁ indo, nagarassa samīpaṁ, suvaṇṇassa rāsi, rukkhassa sākhā. - There are also other ways in which the Sixth Case is used.
 
-#### 2. Sāmi-'ssarādhipati-dāyāda-sakkhi-patibhū-pa-sūta-kusalehi ca.
+#### 2. Sāmi-'ssarādhipati-dāyāda-sakkhi-patibhū-pasūta-kusalehi ca.
 
-The endings of the Sixth Case as well as those of the Seventh are used in connection with the words sāmi, issara, adhipati, dāyāda, sakkhi, patibhū, pasūta and kusala :
+The endings of the Sixth Case as well as those of the Seventh are used in connection with the words *sāmi*, *issara*, *adhipati*, *dāyāda*, *sakkhi*, *patibhū*, *pasūta* and *kusala* :
 
-Gonānam sāmī, gonesu sāmī. Similarly, the remaining words will have gonänam (Sixth case) and gonesu (Seventh case) each.
+* Goṇānaṁ sāmī, goṇesu sāmī. Similarly, the remaining words will have goṇänaṁ (Sixth case) and goṇesu (Seventh case) each.
 
 #### 3.
 
 The endings of the Sixth Case as well as those of the Seventh are also used in denoting specification :
 
-Narānam (also, naresu) khattiyo sūrataro, Kanhā gāvīnam (also, gāvīsu) sampanna-khīratamā, Bāmā nārīnam (also, nārīsu) dassanīyatamā, pathikānam (also, pathikesu) dhāvarī sighatamo, brāhmanūnam (also, brāhmanesu) Devadatto pandito.
+* Narānaṁ (also, naresu) khattiyo sūrataro, Kanhā gāvīnaṁ (also, gāvīsu) sampanna-khīratamā, Sāmā nārīnaṁ (also, nārīsu) dassanīyatamā, pathikānaṁ (also, pathikesu) dhāvaṁ sīghatamo, brāhmaṇānaṁ (also, brāhmaṇesu) Devadatto paṇḍito.
 
 #### 4.
 
 The endings of the Sixth Case as well as those of the Seventh are also used in denoting neglect or contempt:
 
-Rudato dārakassa pabbajī ; also, rudantasmim dārake pabbajī.
+* Rudato dārakassa pabbajī ; also, rudantasmiṁ dārake pabbajī.
 
-#### 5. Chatthī ca.
+#### 5. Chaṭṭhī ca.
 
 The endings of the Sixth Case are sometimes used in denoting the sense of those of the Third and Seventh cases :
 
-Pupphassa Buddham yajati (in the sense of 'pupphena'), ghatassa aggim juhoti (for 'ghatena'), kim tassa (in the sense of 'tena'), kusalā naccagitassa (in the sense of 'naccagite'). Similarly, —kusalo tvari rathassa angapaccangānam (in the sense of '"paccangemu').
+* Pupphassa Buddhaṃ yajati (in the sense of 'pupphena'), ghatassa aggiṃ juhoti (for 'ghatena'), kiṃ tassa (in the sense of 'tena'), kusalā naccagītassa (in the sense of 'naccagīte'). Similarly, — kusalo tvaṁ rathassa aṅgapaccaṅgānaṁ (in the sense of '"paccaṅgesu').
 
-#### 6. Dutiyā-Pañcaminah ca.
+#### 6. Dutiyā-Pañcaminañ ca.
 
 The endings of the Sixth Case are also sometimes used in denoting the sense of those of the Second and Fifth cases:
 
-Kamunañaa kattāro, bhinnānañ aandhātā (in the sense of the Second Case); sabbe tasanti duṇ̣̣anna, sabbe bhāyanti maocuno (in the sense of the Fifth Case).
+* Kammassa kattāro, bhinnānaṁ sandhātā (in the sense of the Second Case); sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno (in the sense of the Fifth Case).
 
 ### Sattami (the Seventh Case)
 
@@ -2357,41 +2353,41 @@ Kamunañaa kattāro, bhinnānañ aandhātā (in the sense of the Second Case); s
 
 The endings of the Seventh Case are used in denoting location (see pp. 35-36) :
 
-Ghatcau vari, salile macohā, nadiyam sassam, tilesu telam.
+* Ghaṭesu vari, salile macchā, nadiyaṁ sassaṁ, tilesu telaṁ.
 
-#### 2. Kamma-Karana-Nimittatthesu Sattami.
+#### 2. Kamma-Karaṇa-Nimittatthesu Sattamī.
 
 The endings of the Seventh Case are used in denoting the sense of the Accusative and the Instrumental as well as in signifying a motive :
 
-Bāhāsu gahetvā, muddhani cumbitvā, bhikkhusu abhivādenti (all in the sense of the Accusative); pattesu pinḍāya caranti (in the sense of the Instrumental = pattehi); kunjaro dantesu' haññate (where 'dantesu'='dantakaraṇāya', signifying motive).
+* Bāhāsu gahetvā, muddhani cumbitvā, bhikkhusu abhivādenti (all in the sense of the Accusative); pattesu piṇḍāya caranti (in the sense of the Instrumental = pattehi); kuñjaro dantesu' haññate (where 'dantesu'='dantakaraṇāya', signifying motive).
 
 #### 3. Sampadāne ca.
 
 The endings of the Seventh Case are also used in denoting the sense of the Dative :
 
-Sanghe dinnam (in the sense of 'Sanghassa dinnam').
+* Saṅghe dinnaṁ (in the sense of 'Saṅghassa dinnaṁ').
 
 #### 4. Pañcamyatthe ca.
 
 The endings of the Seventh Case are also used in the sense of the Fifth :
 
-Kadalīsu (for 'kadalīhi ') gajam̀ rakkhati.
+* Kadalīsu (for 'kadalīhi ') gajamṁ rakkhati.
 
 #### 5. Kālabhāvesu ca.
 
 The endings of the Seventh Case are also used in denoting time as well as the sense of the Nominative Absolute :
 
-Pubbapha-samaye gatn (denoting time) ;
-Sanghesu bhojiyamānesu, gato (in the sense of the Nominative Absolute). Similarly, -tasmin gate, aham gamissāmi.
+* Pubbapha-samaye gato (denoting time) ;
+* Saṅghesu bhojiyamānesu, gato (in the sense of the Nominative Absolute). Similarly, - tasmiṁ gate, ahaṁ gamissāmi.
 
 #### 6. Upādhyadhik'-issaravacane.
 
-The endings of the Seventh Case are used in connection with adhi and upa to denote superiority :
+The endings of the Seventh Case are used in connection with *adhi* and *upa* to denote superiority :
 
-Upa nikkhe (i.e., more than a nikkha) kahāpanam ; similarly,-upa khāriyam doṇo. Adhi devesa (i.e., superior to the devas) Buddho; similarly,-adhi Brahmadatte Pañcālā.
+* Upa nikkhe (i.e., more than a nikkha) kahāpaṇaṁ ; similarly, - upa khāriyaṁ doṇo. Adhi devesu (i.e., superior to the devas) Buddho; similarly, - adhi Brahmadatte Pañcālā.
 
-#### 7. Manḍitussukkesu Tatiyā ca.
+#### 7. Maṇḍitussukkesu Tatiyā ca.
 
 The endings of the Third Case as well as those of the Seventh are used in connection with words denoting adornment and zeal :
 
-Nānasmim (also, ñānena) pasīdito (denoting adornment) ; ñānena (also, ñānasmim) ussuko (denoting zeal).
+* Ñānasmiṁ (also, ñānena) pasīdito (denoting adornment) ; ñānena (also, ñānasmiṁ) ussuko (denoting zeal).
