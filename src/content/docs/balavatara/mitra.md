@@ -1948,13 +1948,13 @@ When two words (an adjective and a noun) possessing similar case-endings are com
 
 [In a Kammadhāraya compound, *mahanta* is generally changed to mahā and *ku* occasionally to *kā* or *kad* (according to Kaccāyana, 2. 7. 15); e.g., *mahā-vīro*, *kā-puriso*, *kadanno*; but, *ku-dārā*, *ku-puttā*, *ku-gohā*, *ku-dāsā*, *kuvatthā*. If both the words are feminine, the first member of the compound assumes the masculine form (according to Kaccāyana, 2. 7. 17); e. g., *khattiya*-kaññā, *mahā*-saddhā. Otherwise, there is no change ; as, *kumārī-ratanaṁ* (where *ratanaṁ* being neuter, the first member *kumārī*, which is used as an adjective, retains its feminine form).]
 
-### 4. Saṅkhyāpubbo Digu—Diguss'ekattaṁ.
+### 4. Saṅkhyāpubbo Digu — Diguss'ekattaṁ.
 
 If the first member of a Descriptive Compound is a numeral, the combination is called **Digu** or *Numeral* Compound, which becomes singular and neuter :
 
 * Tayo lokā samāhaṭā = Tilokaṁ. So also, Catuddisaṁ, Pañcindriyaṁ.
 
-### 5. U'bhe Tappurisā-Amādayo parapadehiAttam Nassa Tappurise—Sare An.
+### 5. U'bhe Tappurisā - Amādayo parapadehi - Attaṁ Nassa Tappurise — Sare An.
 
 Numeral Compounds (Digu) and Descriptive Compounds (Kammadhāraya) are both called **Tappurisa** or *Determinative* Compounds.
 
@@ -1978,12 +1978,23 @@ In combination the case-ending of the first member is generally dropped. There a
 
 If "na" is the first member in a Determinative Compound, it is changed into "a":
 
-Na euro $=$ a-suro; na Brāhmaṇo $=$ aBrāhmaṇo; na vasalī=a-vasalī; na bhikkhu = abhikkhu; na pañca-vasso=a-pañcavasso; na punageyyā=a-punageyyā. [A Kammadhāraya combination, having a nipāta as its first member, is called "Nañ Tatpuruṣa" in Sanskrit Grammar.]
+* Na suro = a-suro; na Brāhmaṇo = a-Brāhmaṇo; na vasalī = a-vasalī; na bhikkhu = a-bhikkhu; na pañca-vasso = a-pañcavasso; na punageyyā = a-punageyyā. [A Kammadhāraya combination, having a nipāta as its first member, is called "Nañ Tatpuruṣa" in Sanskrit Grammar.]
+
 But, if a vowel follows, the "na" becomes "an":
 
-Na asso=an-asso.
+* Na asso = an-asso.
 
-### 6. Aññapad' atthesu Bahubbthi.
+### 6. Aññapad' atthesu Bahubbīhi.
+
+When words signifying names of objects are combined together to signify the name of a different object, the Compound is called **Bahubbīhi** or *Attributive* :
+
+* Āgatā samaṇā yaṁ saṅghārāmaṁ so - Agatasamaṇo saṅghāramo.
+* Jitani indriyäni yena samanens so-Jilindriyo
+* Dinno sunito yasa rañão 0- Dinna sunto rajiã.
+* Niggatã janã yasmã gãmã so-Niggata-jano gamo.
+* Chinnà hatthù yassa purisassa so—Chinna-hattho puriso.
+* Sampannäni sassãni yasmim janapade so- Sampanna-sasso janapado.
+* Nigrodbassa parimandalo= Nigrodha-parimandalo (6th Tappurisa); Nigrodha-parimandalo iva parimandalo yassa räjakumãrasse s o - Nigrodha-parimangalo räjakumãro (Bahubbihi).
 
 Attributive Compounds are of two kinds:
 
