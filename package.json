@@ -9,24 +9,24 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "upgrade": "pnpm dlx @astrojs/upgrade ; pnpm up -L"
+    "refresh": "pnpm dlx @astrojs/upgrade ; pnpm up -L"
   },
   "dependencies": {
     "@akebifiky/remark-simple-plantuml": "^1.0.2",
-    "@astrojs/check": "^0.9.4",
-    "@astrojs/starlight": "^0.32.2",
+    "@astrojs/check": "^0.9.6",
+    "@astrojs/starlight": "^0.37.2",
     "@fontsource/noto-mono": "^5.2.5",
-    "@fontsource/noto-sans": "^5.2.6",
+    "@fontsource/noto-sans": "^5.2.10",
     "add": "^2.0.6",
-    "astro": "^5.5.2",
-    "astro-expressive-code": "^0.40.2",
-    "playwright": "^1.51.0",
-    "pnpm": "^10.6.3",
+    "astro": "^5.16.7",
+    "astro-expressive-code": "^0.41.5",
+    "playwright": "^1.57.0",
+    "pnpm": "^10.27.0",
     "rehype-mermaid": "^3.0.0",
     "remark-alerts": "^0.0.1",
-    "sharp": "^0.33.5",
-    "starlight-heading-badges": "^0.5.0",
-    "typescript": "^5.8.2"
+    "sharp": "^0.34.5",
+    "starlight-heading-badges": "^0.6.1",
+    "typescript": "^5.9.3"
   },
-  "packageManager": "pnpm@10.5.2+sha512.da9dc28cd3ff40d0592188235ab25d3202add8a207afbedc682220e4a0029ffbff4562102b9e6e46b4e3f9e8bd53e6d05de48544b0c57d4b0179e22c76d1199b"
+  "packageManager": "pnpm@10.27.0+sha512.72d699da16b1179c14ba9e64dc71c9a40988cbdc65c264cb0e489db7de917f20dcf4d64d8723625f2969ba52d4b7e2a1170682d9ac2a5dcaeaab732b7e16f04a"
 }

@@ -21,9 +21,13 @@ export default defineConfig({
     }),
     starlight({
       title: "Kaccāyana",
-      social: {
-        github: "https://github.com/kaccayana/kaccayana.github.io",
-      },
+      social: [
+        {
+          icon: "github",
+          label: "GitHub",
+          href: "https://github.com/kaccayana/kaccayana.github.io",
+        },
+      ],
       sidebar: [
         {
           label: "Introduction",
