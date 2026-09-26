@@ -49,7 +49,7 @@ Reg. No 706B. - June, 1935 - A.
 
 The Bālāvatāra, originally edited for use in the upper classes of High English Schools by the late Mahamahopadhyaya Dr. Satischandra Vidyabhusana and the late Samana Punnananda Swami, has been revised and recast in the present edition. The sutras of the *Nāmakanda* have been omitted altogether because they often proved boring to the beginner, but the matter in that section has been re-shuffled and conveniently arranged. New topics — *Samāsa*, *Kāraka* and *Vibhatti-bheda* — have been added for the simple reason that they are essential at the preliminary stage. As Vernacular has been made the medium of instruction for the Matriculation Examination in subjects other than English, I have deemed it desirable to explain the sutras in Bengali without, however, omitting the old exposition in English. Considerable additions have been made to the illustrations, for which I have drawn very largely upon Kaccāyana.
 
-A word of explanation is, I believe, necessary in regard to the *Case* (*Vibhatti*). According to indigenous grammarians, the  Vibhattis are seven, excluding the *Ālapana*, which in English grammar is distinguished as a Case, *i.e.*, the Case of Address. In order, however, not to confound the beginner (whose knowledge of English grammar is presupposed) by stating at the outset that the Vocative is not regarded as an independent case, I have preferred, as will be seen at page 31, to count the cases as eight (including the Vocative), leaving the student's notion to be gradually cleared as he reaches the sections on Kāraka and Vibhatti-bheda.
+A word of explanation is, I believe, necessary in regard to the *Case* (*Vibhatti*). According to indigenous grammarians, the Vibhattis are seven, excluding the *Ālapana*, which in English grammar is distinguished as a Case, *i.e.*, the Case of Address. In order, however, not to confound the beginner (whose knowledge of English grammar is presupposed) by stating at the outset that the Vocative is not regarded as an independent case, I have preferred, as will be seen at page 31, to count the cases as eight (including the Vocative), leaving the student's notion to be gradually cleared as he reaches the sections on Kāraka and Vibhatti-bheda.
 
 My thanks are due to Mr. Atulchandra Ghatak, M.A., Superintendent of the University Press, for the ready assistance he has given in seeing the book through the press.
 
@@ -61,9 +61,9 @@ The Ist June, 1935.
 
 ## I SAÑÑĀ (Orthography)
 
-### 1.[^1] Akkharāpādayo ekacattālīsaṃ.
+### 1.[^1] Akkharāpādayo ekacattālīsaṁ.
 
-[^1]: These figures refer to the Book, the Chapter and the Sfitra respectively of Kaccāyana’s Pāli Grammar, to which the Bālāvtāra
+[^1]: These figures refer to the Book, the Chapter and the Sūtra respectively of Kaccāyana’s Pāli Grammar, to which the Bālāvatāra
 Sūtra can be traced.
 
 The letters beginning with a are forty-one, useful
@@ -76,7 +76,7 @@ to Suttanta.
   ṭ, ṭh, ḍ, ḍh, ṇ,\
   t, th, d, dh, n,\
   p, ph, b, bh, m,\
-  y, r, l, v, s, h, ḷ, and ṃ.
+  y, r, l, v, s, h, ḷ, and ṁ.
 
 ### 3. Tatthodantāsarā aṭṭha.
 
@@ -112,22 +112,22 @@ are:
   * *e* in *ettha* and *seyyo*;
   * *o* in *oṭṭho* and *sotthi*.
 
-### 5. Sesā byañjanā.
+### 6. Sesā byañjanā.
 
 The remaining letters are **Consonants**.
 
 * Setting aside the vowels, the other thirty-three
-  letters, from *k* to *ṃ*, are consonants.
+  letters, from *k* to *ṁ*, are consonants.
 
-* The Consonants аге:\
+* The Consonants are:\
   k, kh, g, gh, ṅ,\
   c, ch, j, jh, ñ,\
   ṭ, ṭh, ḍ, ḍh, ṇ,\
   t, th, d, dh, n,\
   p, ph, b, bh, m,\
-  y, r, l, v, s, h, ḷ, ṃ.
+  y, r, l, v, s, h, ḷ, ṁ.
 
-### б. Vaggā pañcapañcaso mantā.
+### 6. Vaggā pañcapañcaso mantā.
 
 The **Vaggas** are groups of five of the first
 twenty-five consonants ending with *m*.
@@ -141,7 +141,7 @@ twenty-five consonants ending with *m*.
   *ta*-vagga - t, th, d, dh, n;\
   *pa*-vagga - p, ph, b, bh, m.
 
-* The first and second letters оf each Vagga,
+* The first and second letters of each Vagga,
   together with *s*, are called **Āghosa** or **Surds**. The
   remaining letters ending with *ḷ* are **Ghosa**[^2] or
   **Sonants**.
@@ -149,15 +149,15 @@ twenty-five consonants ending with *m*.
 * The *Surds* are:\
   k, kh, c, ch, ṭ, ṭh, t, th, p, ph and s.
 
-* The *Sonants* аге:\
+* The *Sonants* are:\
   g, gh, ṅ, j, jh, ñ, ḍ, ḍh, ṇ, d, dh, n, b, bh, y, r, l, v, h, and ḷ.
 
-### 7. Aṃiti niggahītaṃ.
+### 7. Aṁiti niggahītaṁ.
 
 *Ṃ* is Niggahita.
 
-* The nasal denoted by *ṃ*, which is sounded
-  after *a* (in the syllable *aṃ*), is called **Niggahita**
+* The nasal denoted by *ṁ*, which is sounded
+  after *a* (in the syllable *aṁ*), is called **Niggahita**
   (arrested letter).[^3]
 
 * The vowels *i* and *u* may also be placed before
@@ -166,11 +166,11 @@ twenty-five consonants ending with *m*.
 [^2]: The technical terms **Ghosa** and **Āghosa** have been taken from
 Sanskrit Grammar, as is indicated in the Sutta *“parasamaññā payoge"* (*vide* Kaccāyana, 1. 9). Other terms have been similarly borrowed, e.g. **liṅga**, **sabbanāma**, **pada**, **upasagga**, **nipāta**, etc.
 
-[^3]: The following verse gives a full definition of Niggahita : Bindu cūḷā-maṇ'-ākāro Niggahitan ti vuccate | Kevalass' appayogattā a-kāro sannidhīyate || *i.e.*, The point resembling a small gem is called **Niggahita**, As it is not employed alone, *a* is placed before it.
+[^3]: The following verse gives a full definition of Niggahita: Bindu cūḷā-maṇ'-ākāro Niggahitan ti vuccate | Kevalass' appayogattā a-kāro sannidhīyate || *i.e.*, The point resembling a small gem is called **Niggahita**, As it is not employed alone, *a* is placed before it.
 
 * The letters of the alphabet can be grouped,
   according to their seats of pronunciation
-  as follows : —\
+  as follows: —\
   *a*, *ā*, *h*, and *ka*-vagga are Gutturals.\
   *i*, *ī*, *y*, and *ca*-vagga are Palatals.\
   *u*, *ū*, and *pa*-vagga are Labials.\
@@ -185,7 +185,7 @@ Sanskrit Grammar, as is indicated in the Sutta *“parasamaññā payoge"* (*vid
 **Sandhi** (Junction) means proximity of two
 letters without any other letter or pause intervening them.
 
-### 1. Sarā sare lopaṃ.
+### 1. Sarā sare lopaṁ.
 
 There is elision of a vowel before a vowel.
 
@@ -196,9 +196,9 @@ There is elision of a vowel before a vowel.
 * [There is no vowel-sandhi, if there is,
   intervention of
   1. a consonant, as in
-     * Maṃ + ahāsi = Maṃ ahāsi\
+     * Maṁ + ahāsi = Maṁ ahāsi\
      (here *a* is not joined with *a*, because
-     of *ṃ* intervening),
+     of *ṁ* intervening),
 
      or
 
@@ -209,9 +209,9 @@ There is elision of a vowel before a vowel.
       >"Pamādamanuyuñjanti\
       >bālā dummedhino janā\
       >Appamādañca medhāvī\
-      >dhanaṃ seṭṭhaṃ va rakkhati."
+      >dhanaṁ seṭṭhaṁ va rakkhati."
 
-     * Janā + appamādaṃ = janā + appamādaṃ,\
+     * Janā + appamādaṁ = janā + appamādaṁ,\
        where *ā* of the second foot has not been joined with *a* of
        the third foot on account of a pause after the *ā* of
        "janā".
@@ -225,9 +225,9 @@ dissimilar vowel.
 
 * A vowel after a dissimilar vowel is optionally
   elided:
-  * Pana + ime = Pana‘mе, Pan’ime.
+  * Pana + ime = Pana‘me, Pan’ime.
 
-### 3. Kvacāsavaṇṇaṃ lutte.
+### 3. Kvacāsavaṇṇaṁ lutte.
 
 In case of elision, the succeeding vowel sometimes
 becomes dissimilar.
@@ -241,31 +241,31 @@ becomes dissimilar.
   * Na + upeti = N’opeti. (So also *ā* is changed
     into *o*.)
 
-### 4. Dīghaṃ.
+### 4. Dīghaṁ.
 
 There is lengthening of the succeeding vowel.
 
 * If the preceding vowel is elided, the succeeding
-  vowel is sometimes lengthened :
+  vowel is sometimes lengthened:
 
-  * tatra + ayaṃ = tatr'āyaṃ
+  * tatra + ayaṁ = tatr'āyaṁ
   * yāni + idha = yān'īdha
-  * bahu + upakāraṃ = bah'ūpakāraṃ
+  * bahu + upakāraṁ = bah'ūpakāraṁ
   * saddhā + idha = saddh'īdha
-  * tathā + upamaṃ = tath'ūpamaṃ
+  * tathā + upamaṁ = tath'ūpamaṁ
 
 ### 5. Pūbbo[^4] ca.
 
 There is lengthening of the preceding vowel.
 
 * If the succeeding vowel is elided, the preceding
-  vowel is sometimes lengthened :
-  * kiṃsu + idha = kiṃsūdha
+  vowel is sometimes lengthened:
+  * kiṁsu + idha = kiṁsūdha
 
-[^4]: The word is alwaya spelt with a short *u* in Pāli (*vide* Sutta 10,
-р. 14). I have left the spelling just as it occurs in manuscripts.
+[^4]: The word is always spelt with a short *u* in Pāli (*vide* Sutta 10,
+p. 14). I have left the spelling just as it occurs in manuscripts.
 
-### б. Yamedantassādeso.
+### 6. Yamedantassādeso.
 
 The final *e* is changed into *y*.
 
@@ -276,13 +276,13 @@ The final *e* is changed into *y*.
   * te + ajja = tyajja
 
 * But,
-  * te + ahaṃ = tyāhaṃ.
+  * te + ahaṁ = tyāhaṁ.
 
   [Here *a* is lengthened,
-  because "a vowel followed by a consonant is some-
-  times lengthened" (*vide* Kaccāyana, 1. 3. 8).]
+  because "a vowel followed by a consonant is sometimes
+   lengthened" (*vide* Kaccāyana, 1. 3. 3).]
 
-### 7. Vamodudantānaṃ.
+### 7. Vamodudantānaṁ.
 
 The final *o* and *u* are changed into *v*.
 
@@ -303,9 +303,9 @@ The final *o* and *u* are changed into *v*.
 
 * If a vowel follows, *dh* is sometimes changed
   into *d*:
-  * idha + ahaṃ = idāhaṃ,
+  * idha + ahaṁ = idāhaṁ,
 
-    [Here *a* of "ahaṃ" is
+    [Here *a* of "ahaṁ" is
     lengthened, because the preceding *a* is elided
     (*vide* Sutta 4 above).]
 
@@ -313,12 +313,12 @@ The final *o* and *u* are changed into *v*.
   * idha + eva = idh’eva.
 
 * Even when followed by a consonant, *dh* is
-  sometimes changed into *d* :
+  sometimes changed into *d*:
   * idha + bhikkhave = ida bhikkhave.
 
 ### 9. Ivaṇṇo yannavā.
 
-*I* and *ī* may or may not be changed into *у*.
+*I* and *ī* may or may not be changed into *y*.
 
 * If a (dissimilar) vowel follows, the preceding
   letters *i* and *ī* may or may not be changed
@@ -327,54 +327,54 @@ The final *o* and *u* are changed into *v*.
 
 * [If there is *ty*, it is
   sometimes changed into *cc*; as,
-  * pati + antuṃ = patyantaṃ = paccantaṃ.]
+  * pati + antuṁ = patyantaṁ = paccantaṁ.]
 * But,
   * pati + aggi = paṭaggi.
 
     [Here *t* becomes *ṭ*
-    by the sutta ‘‘ Pati patisseti'" (*vide* Kaccayana, 1. 5. 7).]
+    by the sutta ‘‘ Pati patisseti'" (*vide* Kaccāyana, 1. 5. 7).]
 
 * The word "vaṇṇo" is used to include in all
   cases both short and long vowels; for instance, the
-  "vaṇṇa a" implies both *a* and *ā* ; the "vaṇṇa i"
+  "vaṇṇa a" implies both *a* and *ā*; the "vaṇṇa i"
   implies both *i* and *ī*; and the "vaṇṇa u" implies
   both *u* and *ū*.
 
-### 10.  Evādissa ri pubbo ca rasso.
+### 10. Evādissa ri pubbo ca rasso.
 
 *E* of *eva* is optionally changed into *ri*, and the
 preceding vowel is shortened.
 
 * If *eva* follows a vowel, the *e* of *eva* may
   optionally be changed into *ri*, and the preceding
-  vowel into its corresponding short formi:
+  vowel into its corresponding short form:
 
-  * Yathā + eva=yathariva, yath' eva:
+  * Yathā + eva = yathariva, yath' eva:
 
-### 11.  Yavamadanataralà cagama.
+### 11. Yavamadanataraḷā cāgamā.
 
-*Y*, *v*, *m*, *d*, *n*, *t*, *r*, апd *ḷ* are the optional
+*Y*, *v*, *m*, *d*, *n*, *t*, *r*, and *ḷ* are the optional
 *insertions*.
 
 * When a vowel follows, the letters *y*, *v*, *m*, *d*,
-  *n*, *t*, *r*, апd *ḷ* may be optionally inserted. *G* also
+  *n*, *t*, *r*, and *ḷ* may be optionally inserted. *G* also
   may come as an insertion:
 
   * na + imassa = na-y-imassa
-  * ti + aṅgikaṃ = ti-v-aṅgikaṃ
+  * ti + aṅgikaṁ = ti-v-aṅgikaṁ
   * lahu + essati = lahu-m-essati
-  * atta + atthaṃ = atta-d-atthaṃ
+  * atta + atthaṁ = atta-d-atthaṁ
   * ito + āyati = ito-n-āyati
   * tasmā + iha = tasmā-t-iha
   * sabbhi + eva = sabbhi-r-eva
-  * cha + abhiññā = cha-ḷ-abhiñā (Sometimes
+  * cha + abhiññā = cha-ḷ-abhiññā (Sometimes
     there is no sandhi.)
 * And, putha + eva = putha-g-eva (Sometimes
   there is no sandhi.)
 * Also, pā + eva = pa-g-eva (Sometimes
 * But, abhi + uggato = abbhuggato.
 
-## III. BYANJANA-SANDHI (Consonant-Junction)
+## III. BYAÑJANA-SANDHI (Consonant-Junction)
 
 In the following suttas the words *byañjane* ('when
 a consonant follows') and *kvacit* ('sometimes') are
@@ -387,33 +387,33 @@ There is elision of the vowel, with an insertion of
 
 * A vowel followed by a consonant is sometimes
   elided and *a* is inserted in its place:
-  * So + bhikkhu=sa bhikkhu.
-* *U* and *o* may also come аз insertions:
-  * Jānema + taṃ = jānemu taṃ.
-  * Kaccinu + tvaṃ = kaccino tvaṃ.
-* But, So + muni=so muni (without Sandhi).
+  * So + bhikkhu = sa bhikkhu.
+* *U* and *o* may also come as insertions:
+  * Jānema + taṁ = jānemu taṁ.
+  * Kaccinu + tvaṁ = kaccino tvaṁ.
+* But, So + muni = so muni (without Sandhi).
 
-### 2. Vagge ghosāghosānaṃ tatiya-paṭhamā.
+### 2. Vagge ghosāghosānaṁ tatiya-paṭhamā.
 
 The *sonant* and *surd* consonants of a *vagga* get
 doubled by taking before them the third and
 the first letter respectively of the vagga.
 
-* The fourth and the second lettera of a vagga
+* The fourth and the second letters of a vagga
   after a vowel are in some instances doubled
   through conjunction with the third and the first
   letter respectively of the vagga:
   * U + ghoso = ugghoso.
-  * Ā + khātaṃ = akkhātaṃ. [Here *ā* is
-    shortened according to the  Knccayana sutta
-    "Rassaṁ" (1. З. 4), which lays down: “A vowel
-    followed by а consonant is sometimes shortened."]
+  * Ā + khātaṁ = akkhātaṁ. [Here *ā* is
+    shortened according to the Kaccāyana sutta
+    "Rassaṁ" (1. 3. 4), which lays down: “A vowel
+    followed by a consonant is sometimes shortened."]
 
-* Exceptions : —
+* Exceptions: —
 
   1. *O* is sometimes inserted when a consonant
-     follows :
-     * Para + sahassaṃ = parosahassaṃ.
+     follows:
+     * Para + sahassaṁ = parosahassaṁ.
      * Atippa + kho = atippagokho.
        [There is insertion of *o* here after *g* has been added according
        to the sutta "Yavamadanataraḷā cāgamā" (pp. 14, 15).]
@@ -426,28 +426,27 @@ the first letter respectively of the vagga.
 
 [^5]: See p. 5, sutta 1.7, where the word is spelt with a short *i*.
 
-### 1. Vaggantaṃ vā vagge.
+### 1. Vaggantaṁ vā vagge.
 
 The *Niggahīta* followed by a consonant of a vagga
 is optionally transformed into the last consonant of that vagga.
 
 * *Ṁ* followed by a consonant of a vagga is
   optionally changed into the last consonant of the
-  same vagga :
+  same vagga:
 
-  * Kiṃ + kato = kiṅkato.
-  * Saṃ + jāto = sañjāto.
-  * Saṃ + ṭhito = saṇṭhito.
-  * Taṃ + dhanaṃ = tandhanaṃ.
-  * Taṃ + mittaṃ = tammittaṃ.
+  * Kiṁ + kato = kiṅkato.
+  * Saṁ + jāto = sañjāto.
+  * Saṁ + ṭhito = saṇṭhito.
+  * Taṁ + dhanaṁ = tandhanaṁ.
+  * Taṁ + mittaṁ = tammittaṁ.
 
-* But, Na + taṃ + kammaṃ = nataṃkammaṃ
+* But, Na + taṁ + kammaṁ = nataṁkammaṁ
   (without Sandhi).
 
 * *Ṁ* may be changed into *l* when followed
-  bу a *l*:
-  * Puṃ + liṅgaṃ = pulliṅgaṃ.
-Pum + lingam = Pullingarn.
+  by a *l*:
+  * Puṁ + liṅgaṁ = pulliṅgaṁ.
 
 ### 2. Madā sare.
 
@@ -457,12 +456,12 @@ if a vowel follows.
 * *Ṁ* followed by a vowel is sometimes optionally
   changed into *m* or *d*:
 
-  * Evaṃ + assa = eva + (ṃ→m + a) + ssa = evamassa
-  * Etaṃ + avoca = eta + (ṃ→d + a) + voca = etadavoca
+  * Evaṁ + assa = eva + (ṁ→m + a) + ssa = evamassa
+  * Etaṁ + avoca = eta + (ṁ→d + a) + voca = etadavoca
 
-* But, Maṃ + ajini = maṃajini.
+* But, Maṁ + ajini = maṁ ajini.
 
-### 3. Eheñaṃ.
+### 3. Eheñaṁ.
 
 When *e* or *h* follows, [the *Niggahīta* is optionally
 changed into] *ñ*.
@@ -470,11 +469,11 @@ changed into] *ñ*.
 * *Ṁ* followed by *e* or *h* is optionally changed
   into *ñ*:
 
-  * Taṃ + eva = taññeva [the doubling of *ñ* takes
-    place according to the Кассāуапа sutta
+  * Taṁ + eva = taññeva [the doubling of *ñ* takes
+    place according to the Kaccāyana sutta
     "Paradvebhāvo ṭhāne" (1. 3. 6)]; also, —
     tameva.
-  * taṃ + hi = tañhi ; also, — taṃhi (without
+  * taṁ + hi = tañhi; also, — taṁhi (without
     Sandhi).
 
 ### 4. Saye ca.
@@ -485,10 +484,10 @@ also optionally changed into *ñ*.
 * Even when followed by *y*, the *ṁ* together
   with the *y* is optionally changed into *ñ*:
 
-  * saṃyogo = saññogo [ the doubling of *ñ*
-  takes place according to the Кассауапа
-  sutta (1. 3. 6), quoted above] ; also,—
-  saṃyogo.
+  * saṁyogo = saññogo [ the doubling of *ñ*
+  takes place according to the Kaccāyana
+  sutta (1. 3. 6), quoted above]; also,—
+  saṁyogo.
 
 ### 5. Niggahītañca.
 
@@ -498,27 +497,27 @@ inserted.
 * *Ṁ* is also sometimes optionally inserted when
   a vowel or a consonant follows:
 
-  * Cakkhu + aniccaṃ = cakkhuṃaniccaṃ.
-  * Ava + siro =  avaṃsiro.
+  * Cakkhu + aniccaṁ = cakkhuṁaniccaṁ.
+  * Ava + siro = avaṁsiro.
 
 * [The opposite is also noticeable (*vide* Kaccāyana,
-  1.4.9 "Kvaci lopaṁ") :
+  1.4.9 "Kvaci lopaṁ"):
 
   1. *Ṁ* is sometimes elided when a vowel follows:
 
-     * Vidūnaṃ + aggaṃ = vidūna + aggaṃ = vidūnaggaṃ
-     * Tāsaṃ + ahaṃ = tāsa + ahaṃ = tāsāhaṃ
-       (Here, the second vowel of tāsāhaṃ is
+     * Vidūnaṁ + aggaṁ = vidūna + aggaṁ = vidūnaggaṁ
+     * Tāsaṁ + ahaṁ = tāsa + ahaṁ = tāsāhaṁ
+       (Here, the second vowel of tāsāhaṁ is
        lengthened according to the sutta
-       "Dighaṁ" see *ante*, p. 10, sutta 4.)
+       "Dīghaṁ" see *ante*, p. 10, sutta 4.)
 
   2. There is occasional elision even when a
      consonant follows:
 
-     * Buddhānaṃ + sāsanaṃ = buddhāna + sāsanaṃ = buddhānasāsanaṃ
-     * Saṃ + rāgo = sa + rāgo = sārāgo (For the
+     * Buddhānaṁ + sāsanaṁ = buddhāna + sāsanaṁ = buddhānasāsanaṁ
+     * Saṁ + rāgo = sa + rāgo = sārāgo (For the
        lengthening of the first vowel of sārāgo,
-       *vide* Kaccāyana, 1.8.3, — "Dighaṁ.")]
+       *vide* Kaccāyana, 1.3.3, — "Dīghaṁ.")]
 
 ### 6. Paro vā saro.
 
@@ -526,19 +525,19 @@ The succeeding vowel is sometimes optionally
 elided.
 
 * Sometimes the vowel after *ṁ* is optionally
-  elided :
-  * Bījaṃ + iva = bījaṃ va.
+  elided:
+  * Bījaṁ + iva = bījaṁ va.
 
 ### 7. Byañjano ca visaññogo.
 
 The consonant is also simplified.
 
-* When the vowel is elided after *ṁ*, the succeeding conjunct is simplified :
-  * Evaṃ + assa = evaṃ + 'ssa = evaṃ 'sa.
+* When the vowel is elided after *ṁ*, the succeeding conjunct is simplified:
+  * Evaṁ + assa = evaṁ + 'ssa = evaṁ 'sa.
 
 ## V. VOMISSAKA-SANDHI (Miscellaneous Junction)
 
-### 1. Anupadiṭṭhānaṃ vuttayogato.
+### 1. Anupadiṭṭhānaṁ vuttayogato.
 
 The foregoing suttas are to be suitably applied to
 instances not yet discussed.
@@ -546,28 +545,28 @@ instances not yet discussed.
 * The foregoing suttas of vowel-junction and
   consonant-junction are to be applied in a suitable
   manner to the prefix, indeclinable and other
-  kinds of junction, not yet discussed :
+  kinds of junction, not yet discussed:
 
-* For instance, yadi + evaṃ =  yadj + evaṃ =
-  yajjevaṃ — (first, by the sutta "Ivaṇṇo yannavā"
+* For instance, yadi + evaṁ = yady + evaṁ =
+  yajjevaṁ — (first, by the sutta "Ivaṇṇo yannavā"
   (see ante, p. 13), *di* of *yadi* is changed
   into *dy*; secondly, by the principle (implied in the
   same sutta) that "*ty* is sometimes changed into
   *cc*," *dy* is changed into *jj*). Similarly,
-  Bodhi + aṅgā =  bodhy + aṅgā = bojjhaṅgā.]
+  Bodhi + aṅgā = bodhy + aṅgā = bojjhaṅgā.]
 
 The following minor rules are applicable in
-Miscellaneous Junction :—
+Miscellaneous Junction:—
 
-1. Asadisa-saṃyoge ekasarūpatā ca.
+1. Asadisa-saṁyoge ekasarūpatā ca.
 
    * In junction, the preceding consonant is assimilated
      to the succeeding dissimilar consonant:
-     * Pari + esanā = pary + esanā (vide sutta 9, р. 18) =
+     * Pari + esanā = pary + esanā (vide sutta 9, p. 18) =
        payyesanā (*r* being assimilated
        to *y*).
 
-2. Vaṇṇānaṃ bahuttaṃ, viparītatā ca.
+2. Vaṇṇānaṁ bahuttaṁ, viparītatā ca.
 
    * In some cases there is multiplication of a
      letter, and in certain cases there is inversion too.
@@ -583,9 +582,9 @@ Miscellaneous Junction :—
      having been elided, the preceding *ā* is changed
      into *o* by extension of sutta II. 5 (p. 10).
 
-   * In  busā + eva = busamiva, *m* іs inserted
+   * In busā + eva = busamiva, *m* is inserted
      (11. 11), the preceding vowel *ā* is shortened (*vide*
-     Kaccüyana, 1. 3. 4. - "Rassaṁ") and the succeeding
+     Kaccāyana, 1. 3. 4. - "Rassaṁ") and the succeeding
      *e* is changed into *i* by extension of sutta
      II. 10 (p. 14).
 
@@ -601,7 +600,7 @@ Miscellaneous Junction :—
      preceding vowel is elided, the succeeding vowel
      is sometimes lengthened.”
 
-3. Radānaṃ ḷo.
+3. Radānaṁ ḷo.
 
    * *R* and *d* are changed into *ḷ*:—
 
@@ -610,31 +609,31 @@ Miscellaneous Junction :—
 
 4. Sare, byañjane vā pare binduno kvaci mo.
 
-   * If a vowel ог a consonant follows, *ṁ* is
-     sometimes changed into *m* :
-     * Maṃ + ahāsi = mamahāsi (*vide* sutta IV. 2) ;
-     * Buddhaṃ + saraṇaṃ = buddham saraṇaṃ.
+   * If a vowel or a consonant follows, *ṁ* is
+     sometimes changed into *m*:
+     * Maṁ + ahāsi = mamahāsi (*vide* sutta IV. 2);
+     * Buddhaṁ + saraṇaṁ = buddham saraṇaṁ.
 
 5. Binduto parasarāna maññassaratāpi.
 
    * The vowels after *ṁ* may be changed into
      dissimilar vowels:
 
-     * Taṃ + iminā = tadaminā — (*i* is changed into *a*,
+     * Taṁ + iminā = tadaminā — (*i* is changed into *a*,
        after *ṁ* has been replaced by *d* according to sutta
        IV. 2).
 
-     * Evaṃ + imaṃ = evumaṃ — (*ṁ* is elided, according
+     * Evaṁ + imaṁ = evumaṁ — (*ṁ* is elided, according
        to the Kaccāyana sutta "Kvaci lopaṁ" 1.4.9,
        and then *i* is changed into *u*.
 
-     * Kiṃ + ahaṃ = kehaṃ - (*ṁ* is elided, and *i* is
+     * Kiṁ + ahaṁ = kehaṁ - (*ṁ* is elided, and *i* is
        changed into *e*).
 
-6. Vākyasukhuccāraṇatthaṃ, chandahānitthañca vaṇṇalopopi.
+6. Vākyasukhuccāraṇatthaṁ, chandahānitthañca vaṇṇalopopi.
 
    * Letters are sometimes omitted for the sake of
-     euphony and metre :
+     euphony and metre:
 
    * Paṭisaṁkhāya + yoniso = paṭisaṁkhā'yoniso
      — (the preceding *ya* is elided for the sake of
@@ -655,15 +654,15 @@ Miscellaneous Junction :—
      *metri causa*).
 
 [^6]: Akkharaniyamo *Chandaṁ*, garū-lahu-niyamo bhave *Vutti*,\
-Digho saṁyogādi-pubbo rasso ca *garū*, *lahu* tu rasso.\
+Dīgho saṁyogādi-pubbo rasso ca *garū*, *lahu* tu rasso.\
 **Metre** is the harmonious order of letters. **Measure** is the regulation
 of heavy and light vowels.\
 A *heavy* vowel is a long vowel, and so is also the short vowel which
 precedes a double consonant or the *Niggahīta*; e.g., the italics in the
-following :— *ā*, *аssa*, *aṁ*.\
+following:— *ā*, *assa*, *aṁ*.\
 A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
 
-## VI. NĀMAKANDO (Name)
+## VI. NĀMAKAṆḌO (Name)
 
 1. Words are chiefly divided into *two* classes,
    — **Name** and **Verb**.
@@ -671,9 +670,9 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
 2. Name comprises Noun, Pronoun (including
    the Numerals), Preposition and the Indeclinable.
 
-3. There are *three* Genders :— Masculine, Feminine and Neuter.
+3. There are *three* Genders:— Masculine, Feminine and Neuter.
 
-4. There are *two* Numbers :— Singular and
+4. There are *two* Numbers:— Singular and
    Plural.
 
 5. There are *eight* Cases (including the
@@ -681,9 +680,9 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
    (Nominative), *Dutiyā*, the Second Case
    (Accusative), *Tatiyā*, the Third Case (Instrumental),
    *Catutthī*, the Fourth (Dative),
-   *Раñсаmī*, the Fifth (Ablative), *Chaṭṭhī*, the
+   *Pañcamī*, the Fifth (Ablative), *Chaṭṭhī*, the
    Sixth (Genitive), *Sattamī*, the Seventh (Locative),
-   апd *Ālapana* or the Case of Address ( Vocative).
+   and *Ālapana* or the Case of Address ( Vocative).
    In derivation the last one is not distinguished from the Paṭhamā, although it is
    apparently different in the Singular number.
 
@@ -692,7 +691,7 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
    **Stem** or **Base**), according to the particular
    relation in which we intend to use it.
 
-   * The case-endings are set in order as follows :—
+   * The case-endings are set in order as follows:—
 
      |                             | *Singular* | *Plural* |
      | --------------------------- | ---------- | -------- |
@@ -700,16 +699,16 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
      | Ālapana (Vocative)          | si *or* ga | yo       |
      | 2nd — Dutiyā (Accusative)   | aṁ         | yo       |
      | 3rd — Tatiyā (Instrumental) | nā         | hi       |
-     | 4th — Catutthī (Dative)     | ва         | naṁ      |
-     | 5th — Раñсаmī (Ablative)    | smā        | hi       |
-     | 6th — Chaṭṭhī (Genitive)    | ва         | naṁ      |
+     | 4th — Catutthī (Dative)     | sa         | naṁ      |
+     | 5th — Pañcamī (Ablative)    | smā        | hi       |
+     | 6th — Chaṭṭhī (Genitive)    | sa         | naṁ      |
      | 7th — Sattamī (Locative)    | smiṁ       | su       |
 
      A stem is said to be **declined**, when the
      case-endings are stuck to it. The case-endings
      undergo change in some instances, as can be seen
      from the declension of the stem *Buddha*, given
-     below :—
+     below:—
 
      |          | *Singular*                          | *Plural*                |
      | -------- | ----------------------------------- | ----------------------- |
@@ -718,7 +717,7 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
      | Dutiyā   | Buddh*aṁ*                           | Buddh*e*                |
      | Tatiyā   | Buddh*ena*                          | Buddh*ehi*, Buddh*ebhi* |
      | Catutthī | Buddh*assa*                         | Buddh*ānaṁ*             |
-     | Раñсаmī  | Buddh*ā*, Buddh*asmā*, Buddh*amhā*  | Buddh*ehi*, Buddh*ebhi* |
+     | Pañcamī  | Buddh*ā*, Buddh*asmā*, Buddh*amhā*  | Buddh*ehi*, Buddh*ebhi* |
      | Chaṭṭhī  | Buddh*assa*                         | Buddh*ānaṁ*             |
      | Sattamī  | Buddh*e*, Buddh*asmiṁ*, Buddh*amhi* | Buddh*esu*              |
 
@@ -741,7 +740,7 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
    'Buddha' *doing something*, we use the nominative
    form *Buddho*; and, when we mean
    'Buddha' as the *object of an action*, we
-   employ the accusative *Buddhaṁ* ; again, if we
+   employ the accusative *Buddhaṁ*; again, if we
    want to express something done by 'Buddha,'
    we make use of the instrumental *Buddhena*,
    In this way, all the case-forms can be used to
@@ -753,37 +752,37 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
 
      1. *Lingatthe*, — in the sense of the crude form (i.e.,
          stem or nominal base), e.g., *Buddho*, *puriso* (*vide*
-         Kaccāyana, З, 1. 14).
+         Kaccāyana, 3. 1. 14).
 
      2. *Ālapane ca*, — in vocation too, e.g., *bho purisa*,
-       *bhavanto  purisā* ; *bho rāja*, *bhavanto rājāno* ;
+       *bhavanto purisā*; *bho rāja*, *bhavanto rājāno*;
        *he sakha*, *he sakhino* (*vide* Kaccāyana, 3. 1. 15).
 
-     3. To denote the *kattā* or subject, e.g., *so* karoti ;
-       *Satthā* aṁtaṁ āhari.
+     3. To denote the *kattā* or subject, e.g., *so* karoti;
+       *Satthā* atītaṁ āhari.
 
    * *Dutiyā*
 
      1. *Kammatthe*, — to denote an object, e.g., *rathaṁ*
-       karoti ; *dhammaṁ* suṇāti ; *vācaṁ* bhāsati ; *gavaṁ*
-       hanati ; *vīhayo* lunāti (*vide* Kaccāyana, 8.1.27).
+       karoti; *dhammaṁ* suṇāti; *vācaṁ* bhāsati; *gavaṁ*
+       hanati; *vīhayo* lunāti (*vide* Kaccāyana, 3.1.27).
 
    * *Tatiyā*
 
      1. *Kattari ca*, — to denote the agent too (beside the
        Paṭhamā), e.g., *raññā* hato poso; *Yakkhena*
-       dinno varo ; *ahinā* daṭṭho naro (*vide* Kaccāyana,
+       dinno varo; *ahinā* daṭṭho naro (*vide* Kaccāyana,
        3.1.18).
 
-     2. *Karane*, — to denote instrumentality, e.g., agginā kuṭiṁ
-       jhāpeti ; manasā ce padutthena ; *kāyena* kammaṁ
+     2. *Karaṇe*, — to denote instrumentality, e.g., agginā kuṭiṁ
+       jhāpeti; manasā ce paduṭṭhena; *kāyena* kammaṁ
        karoti (*vide* Kaccāyana, 3.1.16).
 
    * *Catutthī*
 
      1. *Sampadāne*, — to denote the recipient, e.g., *Buddhassa*
-       vā *Dhammassa* vā *Saṅghassa* và dāпаṁ deti (*vide*
-       Кассāуапа, 3.1.23).
+       vā *Dhammassa* vā *Saṅghassa* vā dānaṁ deti (*vide*
+       Kaccāyana, 3.1.23).
 
         * [One to whom something is desired to be
           given, or one who entertains a liking for
@@ -791,29 +790,29 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
           is taken as debt, is put in the Dative
           case — *Yassa dātukāmo rocate vā dhārayate vā taṁ Sampadānaṁ*
           (vide Kaccāyana, 3.1.6), e.g., *samaṇassa* cīvaraṁ
-          dadāti;  *samaṇassa* rocate вассаṁ ;
+          dadāti; *samaṇassa* rocate saccaṁ;
           suvaṇṇaṁ *me* dhārayate.]
 
-   * *Раñсаmī*
+   * *Pañcamī*
 
      1. *Apādāne*, — to denote the Ablative, e.g., *pāpā* cittaṁ
-        nivaraye ; *abbhā* mutto vā candimā;  *bhayā*
-        muccati so naro (*vide* Kaccayana, 3.1.25).
+        nivāraye; *abbhā* mutto vā candimā; *bhayā*
+        muccati so naro (*vide* Kaccāyana, 3.1.25).
 
         * [The Ablative case signifies that from which
           some person or thing goes off or fear
           arises or something is received -
-          *Yasmādapeti bhayaṁ adatte vā tad Apādānaṁ*
+          *Yasmādapeti bhayaṁ ādatte vā tad Apādānaṁ*
           (*vide* Kaccāyana 3. 1. 1), e.g., gāmā
-          apenti munayo ; *паgarā* niggato rājā;
-          corā bhayaṁ jayāte ; ācariy’upajjhāyehi
+          apenti munayo; *nagarā* niggato rājā;
+          corā bhayaṁ jāyate; ācariy’upajjhāyehi
           sikkhaṁ gaṇhāti sisso.]
 
    * *Chaṭṭhī*
 
      1. *Sāmismiṁ*, — to denote ownership, e.g., *tassa bhikkhuno*
-        paṭivisaṁ ; *tassa  bhikkhuno* pattaṁ;
-        *tassa bhikkhuno* civaraṁ ; *attano* mukhaṁ (*vide*
+        paṭivisaṁ; *tassa bhikkhuno* pattaṁ;
+        *tassa bhikkhuno* cīvaraṁ; *attano* mukhaṁ (*vide*
         Kaccāyana, 3.1.31).
 
    * *Sattamī*
@@ -825,22 +824,22 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
 
         * [The site of an action is called *Okāsa* (location),
           and the Locative case signifies 'site' —
-          *Yo'dhāro taṁ okāsaṁ* (*vide* Kaccāyana, 9.1.8).
-          *Site* is of four kinds :—
+          *Yo'dhāro taṁ okāsaṁ* (*vide* Kaccāyana, 3.1.8).
+          *Site* is of four kinds:—
 
-          1. *Vyāpiko* ог co-extensive, — e.g., *jalesu
-             khīraṁ* ; *tilesu* telaṁ ; *ucchūsu* raso.
+          1. *Vyāpiko* or co-extensive, — e.g., *jalesu
+             khīraṁ*; *tilesu* telaṁ; *ucchūsu* raso.
 
           2. *Opasilesiko* or contiguous, — e.g., *pariyaṅke*
-             rājā seti ; *āsane* upaviṭṭho Saṅgho.
+             rājā seti; *āsane* upaviṭṭho Saṅgho.
 
           3. *Vesayiko* or objective, i.e., relating to
-             place or quarter, — e.g., *bhūmisu* manussā ;
-             *antarikkhe* vāyu ; *ākāsе* sakunā.
+             place or quarter, — e.g., *bhūmisu* manussā;
+             *antarikkhe* vāyu; *ākāse* sakunā.
 
           4. *Sāmīpiko* or proximate, adjacent, e.g.,
-             *vane* hatthino ; *Gaṅgāyaṁ* ghoso ; *vaje*
-             gāviṁ duhanti ; *Sāvatthiyaṁ* viharati
+             *vane* hatthino; *Gaṅgāyaṁ* ghoso; *vaje*
+             gāviṁ duhanti; *Sāvatthiyaṁ* viharati
              *Jetavane*.]
 
 8. Nouns are divided into four classes, according
@@ -852,7 +851,7 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
 
       1. MASCULINE.
 
-         1. MASCULINE STEMS ENDING IN -*а*.
+         1. MASCULINE STEMS ENDING IN -*a*.
 
             * *Buddha*[^7]
 
@@ -887,11 +886,11 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
               | 1st  | Rāj*ā*                        | Rāj*āno*                                 |
               | Voc. | Rāj*a*, Rāj*ā*                | Rāj*āno*                                 |
               | 2nd  | Rāj*ānaṁ*, Rāj*aṁ*            | Rāj*āno*                                 |
-              | 3rd  | Rāj*ena*, *Rāññā*             | Rāj*ehi*, Rāj*ebhi*, Rāj*ūhi*, Rāj*ūbhi* |
-              | 4th  | Rāj*ino*, *Rāñño*             | Rāj*ānaṁ*, *Rāññaṁ*, Rāj*ūnaṁ*           |
-              | 5th  | *Rāññā*, Rāj*asmā*, Rāj*amhā* | Rāj*ehi*, Rāj*ebhi*, Rāj*ūhi*, Rāj*ūbhi* |
-              | 6th  | *Rāñño*, Rāj*ino*             | Rāj*ānaṁ*, *Rāññaṁ*, Rāj*ūnaṁ*           |
-              | 7th  | Rāj*ini*, *Rāññe*             | Rāj*usu*, Rāj*ūsu*, Rāj*esu*             |
+              | 3rd  | Rāj*ena*, *Raññā*             | Rāj*ehi*, Rāj*ebhi*, Rāj*ūhi*, Rāj*ūbhi* |
+              | 4th  | Rāj*ino*, *Rañño*             | Rāj*ānaṁ*, *Raññaṁ*, Rāj*ūnaṁ*           |
+              | 5th  | *Raññā*, Rāj*asmā*, Rāj*amhā* | Rāj*ehi*, Rāj*ebhi*, Rāj*ūhi*, Rāj*ūbhi* |
+              | 6th  | *Rañño*, Rāj*ino*             | Rāj*ānaṁ*, *Raññaṁ*, Rāj*ūnaṁ*           |
+              | 7th  | Rāj*ini*, *Raññe*             | Rāj*usu*, Rāj*ūsu*, Rāj*esu*             |
 
             * *Guṇavanta*[^8]
 
@@ -937,9 +936,9 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
             * *Ādi*
 
               *Ādi* is declined like *Aggi*, with a slight difference in
-              Locative Singular :—
+              Locative Singular:—
 
-              Loc. Sing. — ādiṁ, ādо, ādimhi, ādismiṁ.
+              Loc. Sing. — ādiṁ, ādo, ādimhi, ādismiṁ.
 
          3. MASCULINE STEMS ENDING IN -*ī*.
 
@@ -957,7 +956,7 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
               | 7th  | Daṇḍ*ismiṁ*, Daṇḍ*imhi*, Daṇḍ*ini* | Daṇḍ*īsu*, Daṇḍ*isu*          |
 
             * *Gāmanī*, *senānī* and *sudhī* are declined like Daṇḍī except in the 7th
-              case-ending, where the forms respectively are :—
+              case-ending, where the forms respectively are:—
 
               |        | *Singular*                | *Plural*   |
               | ------ | ------------------------- | ---------- |
@@ -1115,7 +1114,7 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
               | 6th  | Yāg*uyā*   | Yāg*ūnaṁ*           |
               | 7th  | Yāg*uyā*   | Yāg*ūsu*, Yāg*usu*  |
 
-              [*Mātu*, *dhitu* and *duhitu* follow the declension rules of
+              [*Mātu*, *dhītu* and *duhitu* follow the declension rules of
               *Pitu*]
 
          5. FEMININE STEMS ENDING IN -*ū*.
@@ -1206,15 +1205,15 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
 
          | *Mas.*   | *Fem.*   |
          | -------- | -------- |
-         | Ghato    | Ghatī    |
+         | Ghaṭo    | Ghaṭī    |
          | Yaṭṭhi   | Yaṭṭhī   |
          | Sindhu   | Sindhū   |
          | Khattiyo | Khattiyā |
          | Gajo     | Gajā     |
-         | Kato     | Katī     |
-         | Mutthi   | Mutthī   |
-         | Renu     | Renū     |
-         | Samano   | Samanī   |
+         | Kaṭo     | Kaṭī     |
+         | Muṭṭhi   | Muṭṭhī   |
+         | Reṇu     | Reṇū     |
+         | Samaṇo   | Samaṇī   |
          | Byaggho  | Byagghī  |
 
       2. MASCULINE AND NEUTER.
@@ -1232,7 +1231,7 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
          | Sarīro   | Sarīraṁ   |
          | Suvaṇṇo  | Suvaṇṇaṁ  |
          | Vaṇṇo    | Vaṇṇaṁ    |
-         | Kahāpano | Kahāpanaṁ |
+         | Kahāpaṇo | Kahāpaṇaṁ |
          | Bhavano  | Bhavanaṁ  |
          | Bhuvano  | Bhuvanaṁ  |
          | Yobbano  | Yobbanaṁ  |
@@ -1598,7 +1597,7 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
            | 3rd | Ek*ena*    | Ek*ehi*, Ek*ebhi* |
 
            [The rest are like the masculine. *Eka* means *saṅkhyā*
-           (number), *tulya* (equal), *sahāya* (friend) and *аñña* (other),
+           (number), *tulya* (equal), *sahāya* (friend) and *añña* (other),
            When it means number it is singular; otherwise it is
            declined in both the numbers.]
 
@@ -1701,14 +1700,14 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
          [Cha, satta, aṭṭha, nava, dasa, ekādasa, ekārasa,
          bārasa, dvādasa, terasa, telasa, cuddasa, coddasa, catuddasa,
          pañcadasa, paṇṇarasa, solasa, sorasa, sattadasa, sattarasa,
-         aṭṭhadasa and aṭṭhārasa are declined like *Раñса* and
+         aṭṭhadasa and aṭṭhārasa are declined like *Pañca* and
          are the same in all genders.
 
          Vīsati, tiṁsati, saṭṭhi, sattati, asīti, navuti, koṭi are,
          when used alone, feminine stems in the singular number,
          and they are declined like *Ratti*. All the case-endings used
          after the stems cattāḷīsa and paññāsa are elided. The
-         stems sata, sahassa efc. are neuter and singular, when
+         stems sata, sahassa etc. are neuter and singular, when
          used alone.
 
          The stem vīsati can be used in the plural number in
@@ -1723,7 +1722,7 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
          Such is also the case with the numerals tiṁsati, saṭṭhi,
          sattati etc., and sata, sahassa etc.]
 
-   4. Nouns having no Gender (Ālinga).
+   4. Nouns having no Gender (Āliṅga).
 
       They are:
 
@@ -1731,30 +1730,30 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
          suffixes which can be used in place of certain case-endings,
          e.g., -to; -tra, -tha; -va; -hiṁ, -haṁ, -hiñcanaṁ;
          -ha, -dha; -dhi; -dā, -dācanaṁ; -dāni, -dā; -jja, -jju;
-         -rahi, -dhunā, -dāni. Stems, masculine, feminine ог
+         -rahi, -dhunā, -dāni. Stems, masculine, feminine or
          neuter, when these suffixes are joined, become *words*
          (noun or pronoun), because the suffixes themselves are
          regarded as case-endings. Hence, no more case-endings
          are required. The words thus formed have no
-         Gender of their own, nor do they admit of declension :—
+         Gender of their own, nor do they admit of declension:—
 
          |        | Suffixes                                       | Words (noun or pronoun)                        |
          | ------ | ---------------------------------------------- | ---------------------------------------------- |
-         | (i)    | -to as ablative                                | cora + tо = corato                             |
+         | (i)    | -to as ablative                                | cora + to = corato                             |
          |        |                                                | pitu + to = pitito                             |
-         |        |                                                | mātu + tо = mātito                             |
-         |        |                                                | ādi + tо = ādito (both Ablative and  Locative) |
+         |        |                                                | mātu + to = mātito                             |
+         |        |                                                | ādi + to = ādito (both Ablative and  Locative) |
          |        |                                                | ima + to = ito                                 |
-         |        |                                                | еtа + to=ato, etto                             |
+         |        |                                                | eta + to = ato, etto                             |
          |        |                                                | kiṁ + to = kuto                                |
-         | (ii)   | -tra and -tha as locative of place             | sabba + tra = sabbattra                        |
-         |        |                                                | sabba + tha=sabbattha                          |
+         | (ii)   | -tra and -tha as locative of place             | sabba + tra = sabbatra                        |
+         |        |                                                | sabba + tha = sabbattha                          |
          |        |                                                | eta + tra = atra                               |
          |        |                                                | eta + tha = attha, ettha                       |
          |        |                                                | kiṁ + tra = kutra                              |
          |        |                                                | kiṁ + tha = kuttha, kattha                     |
          | (iii)  | -va as locative of place                       | kiṁ + va = kva                                 |
-         | (iv)   | -hiṁ, -haṁ and -hiñicanaṁ аs locative of place | kiṁ + hiṁ = kuhiṁ                              |
+         | (iv)   | -hiṁ, -haṁ and -hiñcanaṁ as locative of place | kiṁ + hiṁ = kuhiṁ                              |
          |        |                                                | kiṁ + haṁ = kuhaṁ                              |
          |        |                                                | kiṁ + hiñcanaṁ = kuhiñcanaṁ                    |
          |        |                                                | ta + hiṁ = tahiṁ                               |
@@ -1763,47 +1762,47 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
          | (v)    | -ha and -dha as locative of place              | ima + ha = iha                                 |
          |        |                                                | ima + dha = idha                               |
          | (vi)   | -dhi as locative of place and manner           | sabba + dhi = sabbadhi                         |
-         | (vii)  | -dā and -dācanaṁ as locative of time           | kiṁ + dā = kаdā                                |
+         | (vii)  | -dā and -dācanaṁ as locative of time           | kiṁ + dā = kadā                                |
          |        |                                                | sabba + dā = sabbadā, sadā |
          |        |                                                | añña + dā = aññadā |
          |        |                                                | eka + dā = ekadā |
-         |        |                                                | уа + dā = уаdā |
+         |        |                                                | ya + dā = yadā |
          |        |                                                | kiṁ + dācanaṁ = kudācanaṁ |
-         | (viii) | -dāпі, -dāna, as locative of time              | ta + dāпі = tadāпі                             |
+         | (viii) | -dāni, -dāna, as locative of time              | ta + dāni = tadāni                             |
          |        |                                                | ta + dā = tadā |
          | (ix)   | -jja and -jju as locative of time              | ima + jja= ajja                               |
-         |        |                                                | samāna + jju= вајјu |
-         |        |                                                | арага + jju = aparajju |
+         |        |                                                | samāna + jju= sajju |
+         |        |                                                | apara + jju = aparajju |
          | (x)    | -rahi, -dhunā, -dāni as locative of time       | ima + rahi = etarahi                       |
          |        |                                                | ima + dhunā = adhunā |
          |        |                                                | ima + dāni = idāni |
 
       2. *The Prefixes or Prepositions (Upasaggas)* — They
          are so called because they are pre-fixed to words, e.g.,
-         pa-haro, pa-harati. They cannot be declined, as all case-
-         endings are elided after them, and they have no Gender
+         pa-hāro, pa-harati. They cannot be declined, as all case-endings
+          are elided after them, and they have no Gender
          or Number. The Prefixes or Upasaggas are twenty:
          pa, parā, ni, nī, u, du, saṁ, vi, ava, anu, pari, adhi, abhi,
-         pati, su, ā, ati, api, apa, uра.
+         pati, su, ā, ati, api, apa, upa.
 
-      3. *The Indeclinables (Nipatas)*. — These are particles
+      3. *The Indeclinables (Nipātas)*. — These are particles
          and words which do not admit of declension, as all
          case-endings are dropped after them, and they, too,
          have no Gender or Number. The Indeclinables or
-         Nipatas are: ca, na, va, vā, mā, hi, dhi, ci, ku, tu, nu,
+         Nipātas are: ca, na, va, vā, mā, hi, dhi, ci, ku, tu, nu,
          ce, re, he, sve, ve, vo, kho, no, to, yaṁ, naṁ, taṁ, kiṁ;
 
-         Handa, kira, eva, kıva, yāva, tāva, vata, vatha, atha,
-         аṅgа, iṅgha, taggha, āma, nāma, nūna, puna, pana, āһа,
+         Handa, kira, eva, kīva, yāva, tāva, vata, vatha, atha,
+         aṅga, iṅgha, taggha, āma, nāma, nūna, puna, pana, āha,
          saha, musā, sakkā, labbhā, heṭṭhā, ārā, dūra, divā, navā,
-         vinā, nānā, addhā, muddhā, micchā, paccha, āvi, sakkhi,
+         vinā, nānā, addhā, muddhā, micchā, pacchā, āvi, sakkhi,
          sacci, sacchi, bahi, yadi, iti, kinti, atthi, sotthi, khalu,
          nanu, kimu, assu, yagghe, sace, have, suve, suvo, are, pure,
          namo, tiro, adho, atho, aho, raho, hiyyo, bhiyyo, anto,
          pāto, sudaṁ, kallaṁ, evaṁ, dhuvaṁ, alaṁ, halaṁ,
-         sayaṁ, sāyaṁ, samaṁ, sāṁam, kāmaṁ, paraṁ, oraṁ,
-         ciraṁ, huraṁ, аһаṁ, sahaṁ,  uccaṁ, nīcaṁ,  sakiṁ,
-         saddhiṁ ;
+         sayaṁ, sāyaṁ, samaṁ, sāmaṁ, kāmaṁ, paraṁ, oraṁ,
+         ciraṁ, huraṁ, ahaṁ, sahaṁ, uccaṁ, nīcaṁ, sakiṁ,
+         saddhiṁ;
 
          Athavā, antarā, ārakā, bāhirā, bahiddhā, yāvatā,
          tāvatā, samantā, sāmantā, āmantā, sammukhā, carahi,
@@ -1811,20 +1810,20 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
          sanikaṁ, sasakkaṁ;
 
          Etarahi, ettāvatā, parammukhā, kittāvatā, aññadatthu,
-         seyyathīdaṁ, appevanūma, bhiyyosomattāya.
+         seyyathīdaṁ, appevanāma, bhiyyosomattāya.
 
          [N.B. — All case-endings are elided also after the word
          'āvuso’, e.g., tvaṁ āvuso, tumhe āvuso.]
 
          The Indeclinables (Nipātas) have been defined by
-         Grammarians as follows :—
+         Grammarians as follows:—
 
          > Sadisā ye ti-liṅgesu sabbāsu ca vibhattisu \
          > vacanesu ca sabbesu te Nipātā ti kittitā.
 
-         \- i.e., "those which are the same in the three genders, in all the case-endings and all the numbers, are  called Nipātas (Indeclinables)."
+         \- i.e., "those which are the same in the three genders, in all the case-endings and all the numbers, are called Nipātas (Indeclinables)."
 
-         Thus, the nipāta uccaṁ, for instance, remains unchanged in respect of Gender, whatever the Gender of the noun  with which it is used: - *uccaṁ* rukkho (m.) ; *uccaṁ* latā (f.) ; *uccaṁ* gharāni (n.). So also in respect of  Case-endings: - *uccaṁ* rukkho (nom.); *uccaṁ* rukkhaṁ (acc.); *uccaṁ* rukkhena (instr.), and so on. And so,  too, in respect of Number: -*uccaṁ* rukkho (sing.); *uccaṁ* rukkhā (pl.).
+         Thus, the nipāta uccaṁ, for instance, remains unchanged in respect of Gender, whatever the Gender of the noun with which it is used: - *uccaṁ* rukkho (m.); *uccaṁ* latā (f.); *uccaṁ* gharāni (n.). So also in respect of Case-endings: - *uccaṁ* rukkho (nom.); *uccaṁ* rukkhaṁ (acc.); *uccaṁ* rukkhena (instr.), and so on. And so, too, in respect of Number: -*uccaṁ* rukkho (sing.); *uccaṁ* rukkhā (pl.).
 
          Prefixes and Indeclinables, such as express 'self,' 'action,' 'place,' 'time,' 'direction,' 'qualities,'
          etc., can be reckoned in the sense of the corresponding case-endings. Thus -
@@ -1833,11 +1832,11 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
 
          * *Anto* can express the sense of the 7th case, e.g., *antonagaraṁ* for *nagare* (Locative).
 
-         * *Sayaṁ* may be interpreted in the sense of the 3rd and of the 0th case, r.g., *sayaṁkataṁ* for *attanā* (3rd) *kataṁ*; *sayaṁpabhā* for *attano* (0th) *pabhā*; sometimes, in the sense of the 1st case, e.g., *sayaṁbhū* for *sayaṁ* (1st) *bhavati*.
+         * *Sayaṁ* may be interpreted in the sense of the 3rd and of the 6th case, e.g., *sayaṁkataṁ* for *attanā* (3rd) *kataṁ*; *sayaṁpabhā* for *attano* (6th) *pabhā*; sometimes, in the sense of the 1st case, e.g., *sayaṁbhū* for *sayaṁ* (1st) *bhavati*.
 
-         * *Namo* may be regarded in the sense of the 1st and of the 2nd case, c.g., *Namo tyathu*, where *namo* is in the Nominative ; *namo karohi*, where *namo* is in the Accusative.
+         * *Namo* may be regarded in the sense of the 1st and of the 2nd case, e.g., *Namo tyatthu*, where *namo* is in the Nominative; *namo karohi*, where *namo* is in the Accusative.
 
-         * *Divā* can fit itself to the sense of the 1st or the 2nd or the 7th case, e.g., *divā hoti*, where *divā* is in the Nominative ; *divākaro*, where *divā* expresses the sense of the Accusative; *divā tapati ādicco*, where *divā* conveys the sense of the Locative.
+         * *Divā* can fit itself to the sense of the 1st or the 2nd or the 7th case, e.g., *divā hoti*, where *divā* is in the Nominative; *divākaro*, where *divā* expresses the sense of the Accusative; *divā tapati ādicco*, where *divā* conveys the sense of the Locative.
 
          * *Heṭṭhā* can convey the sense of the Locative and can, therefore, be said to answer to the 7th case, e.g., *heṭṭhā gopphakapariyantaṁ*, where *heṭṭhā* means 'downwards' and thus points to *direction*, which must be expressed by the 7th case-ending.
 
@@ -1852,77 +1851,77 @@ A *light* vowel is a short vowel; e.g., the vowels *a*, *i* and *u*.
          * Prefix: *pa*hāro, *pa*harati;
          * Indeclinables: so *ca*; sā *ca*; bhāsati *vā* karoti *vā*.
 
-[^7]: Stems declined like *Buddha* are :— sūra, nara, uraga, asura, nāga,
-yakkha, gsndhabba, kinnara, manussa, pisāca, peta, sīha, mātaṅga,
-jaṅgama, turaṅga, varāba, byaggha, accha, kacchapa, taraccha, miga,
-asss, sоṇа, purisa, āloka, loka, nilaya, anila, cāga, yoga, vāyāma,
+[^7]: Stems declined like *Buddha* are:— sūra, nara, uraga, asura, nāga,
+yakkha, gandhabba, kinnara, manussa, pisāca, peta, sīha, mātaṅga,
+jaṅgama, turaṅga, varāha, byaggha, accha, kacchapa, taraccha, miga,
+asss, soṇa, purisa, āloka, loka, nilaya, anila, cāga, yoga, vāyāma,
 gāma, nigama, āgama, dhamma, kāma, saṅgha, ogha, ghosa, paṭigha,
 āsava, kodha, lobha, sārambha, thambha, mada, māna, pamāda,
-makkha, punnāga, puga, panasa, āsаnа, campaka, amba, hintāla, tāla,
-vakula, ajjuna, kiṁsuka, mandāra, kunda, pucimanda, karañja, rakkba,
-mayūra, sakuṇa, аṇḍaja, kоñса, haṁsa, etc.
+makkha, punnāga, puga, panasa, āsana, campaka, amba, hintāla, tāla,
+vakula, ajjuna, kiṁsuka, mandāra, kunda, pucimanda, karañja, rukkha,
+mayūra, sakuṇa, aṇḍaja, koñca, haṁsa, etc.
 
-[^8]: Stems of the following are declined like *Gunavanta* :— maghavā,
-kulavā, phalavā, yasavā, dhanavā, sutavā, bhāgavā, himavā, balavā,
+[^8]: Stems of the following are declined like *Guṇavanta*:— maghavā,
+kulavā, phalavā, yasavā, dhanavā, sutavā, bhagavā, himavā, balavā,
 sīlavā, paññavā, etc.
 
 [^9]: Stems of the following are declined like *Gacchanta* :- mahaṁ,
 caraṁ, tiṭṭhaṁ, dadaṁ, bhuñjaṁ, suñaṁ, pacaṁ, jayaṁ, jiraṁ, cavaṁ,
 miyaṁ, sāraṁ, kubbaṁ, japaṁ, vajaṁ, etc.
 
-[^10]: Stems declined like *Aggi* are :— Joti, pāṇi, gaṇthi, muṭṭhi, kucchi,
-sāli, vihi, vyādhi, bodhi, sandhi, rāsi, dīpi, isi, muni, maṇi, dhani, giri,
+[^10]: Stems declined like *Aggi* are:— Joti, pāṇi, gaṇṭhi, muṭṭhi, kucchi,
+sāli, vīhi, vyādhi, bodhi, sandhi, rāsi, dīpi, isi, muni, maṇi, dhani, giri,
 ravi, kavi, kapi, asi, masi, nidhi, vidhi, ahi, kimi, pati, hari, ari, timi,
 kali, bali, añjali, atithi, samādhi, upadhi, etc.
 
-[^11]: The following stems are declined like *Daṇḍī* :— dhammī, saṁghī,
+[^11]: The following stems are declined like *Daṇḍī*:— dhammī, saṁghī,
 ñāṇī, hatthī, pakkhī, chattī, mālī, yogī, bhogī, kāmī, sāmī, dhajī, gaṇī,
-sāsi, kuṭṭhī, jātī, yānī, sukhī, sikhī, dantī, mantī, karī, kusalī, musalī,
+sasī, kuṭṭhī, jaṭī, yānī, sukhī, sikhī, dantī, mantī, karī, kusalī, musalī,
 pāpakārī, dhammavādī, dīghajīvī, etc.
 
-[^12]: Stems declined like *Satthu* аге: Nattu, bhattu, vattu, netu, sotu,
-ñātu, jetu, ohettu, bhettu, dātu, dhātu, boddhu, viññāpetu, etc.
+[^12]: Stems declined like *Satthu* are: Nattu, bhattu, vattu, netu, sotu,
+ñātu, jetu, chettu, bhettu, dātu, dhātu, boddhu, viññāpetu, etc.
 
 [^13]: *Bhātu* and the like are declined like *Pitu*.
 
-[^14]: Stems declined like *Kaññā* are :— Saddhā, medhā, paññā, vijjā,
-cintā, taṇhā, icchā, māyā, mettā, sikkhā, bikkhā;, gīvā, jivhā, vācā,
+[^14]: Stems declined like *Kaññā* are:— Saddhā, medhā, paññā, vijjā,
+cintā, taṇhā, icchā, māyā, mettā, sikkhā, bhikkhā;, gīvā, jivhā, vācā,
 chāyā, āsā, gaṅgā, nāvā, gāthā, senā, lekhā, sālā, mālā, velā, pūjā,
 pipāsā, vedanā, cetanā, pajā, devatā, godhā, parisā, sabhā, sephālikā,
 laṅkā, salākā, vālikā, sikhā, bālakā, mandā, jarā, ajā, elakā, kokilā,
-assā, musikā, jaṭā, ghaṭā, jeṭṭhā, karunā, vanitā, latā, kathā, niddā,
+assā, musikā, jaṭā, ghaṭā, jeṭṭhā, karuṇā, vanitā, latā, kathā, niddā,
 sudhā, rādhā, vāsanā, pabhā, sīmā, khamā, jayā, khattiyā, surā, dolā,
-tulā, sālā, līhā, mekhalā, kalā, musā, disā, nāsā, juṇhā, gehā,
+tulā, sālā, līlā, mekhalā, kalā, musā, disā, nāsā, juṇhā, gehā,
 and vasudhā.
 
-[^15]: Stems declined like *Ratti* are :— Kitti, mutti, tithi, khanti, yanti,
+[^15]: Stems declined like *Ratti* are:— Kitti, mutti, tithi, khanti, yanti,
 tanti, siddhi, suddhi, iddhi, buddhi, bodhi, bhūmi, jāti, pīti, koṭi, diṭṭhi,
 tuṭṭhi, yaṭṭhi, pāli, āli and keli,
 
 [^16]: Stems declined like *Nadī* are :- Nagarī, kumārī, brāhmaṇī,
-taruṇī, kukkuṭī, itthā, mātulānī, sakhī, hatthī, bhotī, mānavī,
-nāvikī, venateyyī, gotamī, gunavatī, guṇavantī, dhitimatī, dhitimantī,
-mahatī, mahantī, gahapatānī, bhikkhunī, rājinī, medhāvinī, tappasinī,
+taruṇī, kukkuṭī, itthī, mātulānī, sakhī, hatthī, bhotī, mānavī,
+nāvikī, venateyyī, gotamī, guṇavatī, guṇavantī, dhitimatī, dhitimantī,
+mahatī, mahantī, gahapatānī, bhikkhunī, rājinī, medhāvinī, tapassinī,
 dhammacārinī, bhayadassāvinī, and bhuttāvinī.\
-*Hatthī* as a feminine form being nonsense. Sinhalese graminarians
-have now corrected it *hattī*.
+*Hatthī* as a feminine form being nonsense. Sinhalese grammarians
+have now corrected it to *hattī*.
 
 [^17]: Stems belonging to the *Mano*-group and declined like *Mana*
-are :— Sira, ura, teja, raja, oja, vaya, paya, yasa, tapa, vaca, ceta, etc.
+are:— Sira, ura, teja, raja, oja, vaya, paya, yasa, tapa, vaca, ceta, etc.
 
 [^18]: Katara, katama, ubhaya, itara, añña, aññatara and aññatama
 are declined like *Sabba*.
 
 [^19]: Para, apara, dakkhiṇa, uttara and adhara are declined like *Pubba*.
 
-## VII. SAMASA (Compounds)
+## VII. SAMĀSA (Compounds)
 
-### 1. Nāmānam Samāso yutt'athho.
+### 1. Nāmānaṁ Samāso yutt'attho.
 
 **Samāsa** (Compound) is the aggregation of the meanings of words used to denote names:
 
 * Rañño putto = Rāja-putto.
-* Āgantukassa bhattaṁ = Āgantuka-bhattam.
+* Āgantukassa bhattaṁ = Āgantuka-bhattaṁ.
 * Samaṇo ca brāhmaṇo ca = Samaṇa-brāhmaṇā.
 
 ### 2. Tesaṁ vibhattiyo lopā ca — Pakati c'assa sar'antassa.
@@ -1932,12 +1931,12 @@ And the case-endings of those words which are united in a compound are (generall
 And the case-endings having elided, the words ending in vowels assume their basic forms (and then the compound assumes gender, number and case):
 
 * Cakkhuṁ ca sotaṁ ca = Cakkhu-sotaṁ.
-* Cakkhuna ca sotena ca = Cakkhu-sotena.
+* Cakkhunā ca sotena ca = Cakkhu-sotena.
 * Cakkhūhi ca sotehi ca = Cakkhu-sotehi.
 * Rañño putto = Rāja-putto.
 * Rañño puriso = Rāja-puriso.
 
-But, the case-ending is retained in such instances as Pabhaṃ karoti = Pabhaṃ-karo.
+But, the case-ending is retained in such instances as Pabhaṁ karoti = Pabhaṁ-karo.
 
 ### 3. Dvipade tulyādhikaraṇe Kammadhārayo.
 
@@ -1946,15 +1945,15 @@ When two words (an adjective and a noun) possessing similar case-endings are com
 * Mahanto oa so vīro cā ti = Mahāvīro.
 * Khattiyā ca sā kaññā cā ti=Khattiya-kaññā.
 
-[In a Kammadhāraya compound, *mahanta* is generally changed to mahā and *ku* occasionally to *kā* or *kad* (according to Kaccāyana, 2. 7. 15); e.g., *mahā-vīro*, *kā-puriso*, *kadanno*; but, *ku-dārā*, *ku-puttā*, *ku-gohā*, *ku-dāsā*, *kuvatthā*. If both the words are feminine, the first member of the compound assumes the masculine form (according to Kaccāyana, 2. 7. 17); e. g., *khattiya*-kaññā, *mahā*-saddhā. Otherwise, there is no change ; as, *kumārī-ratanaṁ* (where *ratanaṁ* being neuter, the first member *kumārī*, which is used as an adjective, retains its feminine form).]
+[In a Kammadhāraya compound, *mahanta* is generally changed to mahā and *ku* occasionally to *kā* or *kad* (according to Kaccāyana, 2. 7. 15); e.g., *mahā-vīro*, *kā-puriso*, *kadanno*; but, *ku-dārā*, *ku-puttā*, *ku-gehā*, *ku-dāsā*, *kuvatthā*. If both the words are feminine, the first member of the compound assumes the masculine form (according to Kaccāyana, 2. 7. 17); e. g., *khattiya*-kaññā, *mahā*-saddhā. Otherwise, there is no change; as, *kumārī-ratanaṁ* (where *ratanaṁ* being neuter, the first member *kumārī*, which is used as an adjective, retains its feminine form).]
 
 ### 4. Saṅkhyāpubbo Digu — Diguss'ekattaṁ.
 
-If the first member of a Descriptive Compound is a numeral, the combination is called **Digu** or *Numeral* Compound, which becomes singular and neuter :
+If the first member of a Descriptive Compound is a numeral, the combination is called **Digu** or *Numeral* Compound, which becomes singular and neuter:
 
 * Tayo lokā samāhaṭā = Tilokaṁ. So also, Catuddisaṁ, Pañcindriyaṁ.
 
-### 5. U'bhe Tappurisā - Amādayo parapadehi - Attaṁ Nassa Tappurise — Sare An.
+### 5. Ubhe Tappurisā — Amādayo parapadehi — Attaṁ Nassa Tappurise — Sare An.
 
 Numeral Compounds (Digu) and Descriptive Compounds (Kammadhāraya) are both called **Tappurisa** or *Determinative* Compounds.
 
@@ -1972,7 +1971,7 @@ In combination the case-ending of the first member is generally dropped. There a
    Rājato bhayaṁ = Rāja-bhayaṁ (6th Tappurisa). \
    Corā bhayaṁ = Cora-bhayaṁ (Do.).
 5. Rañño putto = Rāja-putto (6th Tappurisa). \
-   Dhaññanaṃ rāsi = Dhañña-rāsi (Do.).
+   Dhaññānaṁ rāsi = Dhañña-rāsi (Do.).
 6. Rūpe saññā = Rūpa-saññā (7th Tappurisa). \
    Saṁsāre dukkhaṁ = Saṁsāra-dukkhaṁ (Do.).
 
@@ -1986,182 +1985,182 @@ But, if a vowel follows, the "na" becomes "an":
 
 ### 6. Aññapad' atthesu Bahubbīhi.
 
-When words signifying names of objects are combined together to signify the name of a different object, the Compound is called **Bahubbīhi** or *Attributive* :
+When words signifying names of objects are combined together to signify the name of a different object, the Compound is called **Bahubbīhi** or *Attributive*:
 
-* Āgatā samaṇā yaṁ saṅghārāmaṁ so - Agatasamaṇo saṅghāramo.
-* Jitani indriyäni yena samanens so-Jilindriyo
-* Dinno sunito yasa rañão 0- Dinna sunto rajiã.
-* Niggatã janã yasmã gãmã so-Niggata-jano gamo.
-* Chinnà hatthù yassa purisassa so—Chinna-hattho puriso.
-* Sampannäni sassãni yasmim janapade so- Sampanna-sasso janapado.
-* Nigrodbassa parimandalo= Nigrodha-parimandalo (6th Tappurisa); Nigrodha-parimandalo iva parimandalo yassa räjakumãrasse s o - Nigrodha-parimangalo räjakumãro (Bahubbihi).
+* Āgatā samaṇā yaṁ saṅghārāmaṁ so — Āgata-samaṇo saṅghārāmo.
+* Jitāni indriyāni yena samaṇena so — Jitindriyo samaṇo.
+* Dinno suṅko yassa rañño so — Dinna-suṅko rājā.
+* Niggatā janā yasmā gāmā so — Niggata-jano gāmo.
+* Chinnā hatthā yassa purisassa so — Chinna-hattho puriso.
+* Sampannāni sassāni yasmiṁ janapade so — Sampanna-sasso janapado.
+* Nigrodhassa parimaṇḍalo = Nigrodha-parimaṇḍalo (6th Tappurisa); Nigrodha-parimaṇḍalo iva parimaṇḍalo yassa rājakumārassa so — Nigrodha-parimaṇḍalo rājakumāro (Bahubbīhi).
 
 Attributive Compounds are of two kinds:
 
-1. Tulyādhikaraña.-When the words which are combined together are of the same gender, number and case, the samāsa is called Tulyādhikaraṇa Bahubbīhi:
+1. Tulyādhikaraṇa.-When the words which are combined together are of the same gender, number and case, the samāsa is called Tulyādhikaraṇa Bahubbīhi:
 
-Agatā samanā yam sānghārāman̉ so-Āgatasamano sānghārāmo (where āgatā and saman $\bar{a}$ are both masculine, plural and nominative).
-2. Bhinnādhikaraña-When the words which are combined together are different in gender, number and case, the samāsa is called Bhinnādhikaraṇa Bahubbīhi:
+Āgatā samaṇā yaṁ saṅghārāmaṁ so — Āgata-samaṇo saṅghārāmo (where āgatā and samaṇā are both masculine, plural and nominative).
+2. Bhinnādhikaraṇa-When the words which are combined together are different in gender, number and case, the samāsa is called Bhinnādhikaraṇa Bahubbīhi:
 
 Pupphehi bhavo yassa so-Puppha-bhavo (where pupphehi is neuter, plural and ablative, while bhavo is masculine, singular and nominative).
 
-### 7. Nāmānan samuccayo Dvando.
+### 7. Nāmānaṁ samuccayo Dvando.
 
-When several words (denoting names) in the same case are joined together, the Compound is called Dyanda or Aggregative :
+When several words (denoting names) in the same case are joined together, the Compound is called Dvanda or Aggregative:
 
-Candimã ca suriyo ca-Candima-suriyã.
-$\left.\begin{array}{l}\text { Narã ca nãriyo ca } \\ \text { Naro ca nãrĩ ca }\end{array}\right\}$ -Nara-nãriyo.
-Akkharam் ca padam் ca Akkharãni ca padãni ca $\}$ —Akkhara-padãni.
-Similarly, Samana-brãhmaṇã, Sãriputta-Moggallãnã, Brãhmaṇa-gahapatikã, Yama-Varuṇã, Kuvera-Vãsavã and so on.
+Candimā ca suriyo ca — Candima-suriyā.
+Narā ca nāriyo ca, Naro ca nārī ca — Nara-nāriyo.
+Akkharaṁ ca padaṁ ca, Akkharāni ca padāni ca — Akkhara-padāni.
+Similarly, Samaṇa-brāhmaṇā, Sāriputta-Moggallānā, Brāhmaṇa-gahapatikā, Yama-Varuṇā, Kuvera-Vāsavā and so on.
 
-### 8. Tathã Dvande pãni-turiya-yogga-senangakhuddajantuka-vividha-viruddha-visabhãg'at-thãdĩnam ca.
+### 8. Tathā Dvande pāṇi-turiya-yogga-senaṅga-khuddajantuka-vividha-viruddha-visabhāg'atthādīnaṁ ca.
 
-(As the Diyu Compound,) even so the Dvanda Compound, consisting of words of the following among other descriptions, is put in the singular number and neuter gender:
+(As the Digu Compound,) even so the Dvanda Compound, consisting of words of the following among other descriptions, is put in the singular number and neuter gender:
 (1) signifying limbs of living beings: -
 
-Cakkhum ca sotarn ca-Cakkhu-sotarn.
-Similarly, Mukha-nāsikarn, Chavi-marnsalohitarn;
+Cakkhuṁ ca sotaṁ ca — Cakkhu-sotaṁ.
+Similarly, Mukha-nāsikaṁ, Chavi-maṁsa-lohitaṁ;
 (2) signifying branches or instruments of music:-
-Gitan ca vāditarh-Gīta-vāditarh; Sankho ca panavo ca-Sankha-panavarn.
-Similarly, Daddari-dendimarn;
-(8) signifying objects belonging to a yoke:-
+Gītaṁ ca vāditaṁ — Gīta-vāditaṁ; Saṅkho ca paṇavo ca — Saṅkha-paṇavaṁ.
+Similarly, Daddari-deṇḍimaṁ;
+(3) signifying objects belonging to a yoke:-
 
-Yugarn ca nangalarn ca-Yuga-nangalarn.
-Similarly, Phāla-pācanarn;
+Yugaṁ ca naṅgalaṁ ca — Yuga-naṅgalaṁ.
+Similarly, Phāla-pācanaṁ;
 (4) signifying objects relating to, or component parts of, an army:-
-Asinī ca cammam̉ ca-Asi-cammam̉.
-Similarly, Dhanu-kalāpañ, Hattb'-assam̉, Ratha-pattikari;
-(б) signifying little creatures (worms, insects etc.) :-
-Daniso ca masako ca-Darisa-masakari.
-Similarly, Kuntha-kipilakari, Kita-sirimsapari;
+Asi ca cammaṁ ca — Asi-cammaṁ.
+Similarly, Dhanu-kalāpaṁ, Hatth'-assaṁ, Ratha-pattikaṁ;
+(5) signifying little creatures (worms, insects etc.) :-
+Ḍaṁso ca masako ca — Ḍaṁsa-masakaṁ.
+Similarly, Kuntha-kipillikaṁ, Kīṭa-siriṁsapaṁ;
 (6) signifying objects which indicate various degrees of difference:-
-Ahi ca nakulo ca-Ahi-nakulari.
-Similarly, Bilāra-mūsikari, Kākolūkarí ;
+Ahi ca nakulo ca — Ahi-nakulaṁ.
+Similarly, Biḷāra-mūsikaṁ, Kākolūkaṁ;
 (7) signifying contrary qualities:-
 
-Nāman̉ ca Rūpañ ca-Nāma-Rūpañ.
-Similarly, Sila-paūñari, Samatha-vipassanari, Vijjā-caranam.
+Nāmañ ca Rūpañ ca — Nāma-Rūpaṁ.
+Similarly, Sīla-paññaṁ, Samatha-vipassanaṁ, Vijjā-caraṇaṁ.
 
-### 9. Vibhāsā rukkha-tina-pasu-dhana-dhañ̄najanapadādīnam ca.
+### 9. Vibhāsā rukkha-tiṇa-pasu-dhana-dhañña-janapadādīnaṁ ca.
 
 A Dvanda compound, consisting of words of the following among other descriptions, is also put in the singular number and neuter gender, optionally :-
 
-1. denoting trees: Dhava-khādirarh, Dhavakhādirā ; Assattha-kapittharh, Assatthakapitthā ;
-2. denoting grass: Munja-babbajarh, Munja. babbajā ; Usīra-bīraṇarh, Usīra-bīraṇā ;
-3. denoting animals: Aj'elakari, Aj'elakā ;
-4. signifying valuable things: Hirañña-sú. vapṇarh, Hirañña-suvampā;
-5. denoting grains: Sāli-yavari, Sāli-yavā ;
-6. denoting inhabitants of a country: KāsiKosalarh, Kāsi-kosalā.
+1. denoting trees: Dhava-khādiraṁ, Dhava-khādirā; Assattha-kapitthaṁ, Assattha-kapitthā;
+2. denoting grass: Muñja-babbajaṁ, Muñja-babbajā; Usīra-bīraṇaṁ, Usīra-bīraṇā;
+3. denoting animals: Aj'eḷakaṁ, Aj'eḷakā;
+4. signifying valuable things: Hirañña-suvaṇṇaṁ, Hirañña-suvaṇṇā;
+5. denoting grains: Sāli-yavaṁ, Sāli-yavā;
+6. denoting inhabitants of a country: Kāsi-Kosalaṁ, Kāsi-Kosalā.
 
 ### 10. Upasagga-Nipāta-pubbako Abyayībhāvo.
 
-The combination of words with upasagga or nipāta in the following among other senses is called Abyayībhāya or Indeclinable
+The combination of words with upasagga or nipāta in the following among other senses is called Abyayībhāva or Indeclinable
 Compound. The compound is put in the neuter gender [vide Kaccāyana, 2.7.5] and the final vowel is made short [vide Kaccāyana, 2.7.27]:
 
-Cittam adhikicca $=$ Adhicittañ.
+Cittaṁ adhikicca = Adhicittaṁ.
 
-Nagarassa samīpe $=$ Upanagaram̀n.
-Darathassa abhāvo $=$ Niddaratharh.
-Masakassa abhāvo $=$ Nimmasakarh.
-Makkhikānam abhāvo $=$ Nimmalkhikarh.
-Vuḍḍhānam paṭipāṭiyā=Yathāvuḍ̣̣ham.
-Sattim̀ anatikkamma $=$ Yathāsatti.
-Ye ye vuḍ̣̣hā=Yathāvuḍ̣̣ham.
-Jīvassa yattako paricohedo $=$ Yāvajīvarh.
-A pabbatā (khettam̀ $)=$ Apabbatam̀.
-A jalantā (sitarī) = Ajalantam̀.
-Pabbatassa tiro $=$ Tiropabbatam
-Sotassa pați $=$ Pațisctarh.
-Pāsādassa anto $=$ Antopāsādam̀.
+Nagarassa samīpe = Upanagaraṁ.
+Darathassa abhāvo = Niddarathaṁ.
+Masakassa abhāvo = Nimmasakaṁ.
+Makkhikānaṁ abhāvo = Nimmakkhikaṁ.
+Vuḍḍhānaṁ paṭipāṭiyā = Yathāvuḍḍhaṁ.
+Sattiṁ anatikkamma = Yathāsatti.
+Ye ye vuḍḍhā = Yathāvuḍḍhaṁ.
+Jīvassa yattako paricchedo = Yāvajīvaṁ.
+Ā pabbatā (khettaṁ) = Āpabbataṁ.
+Ā jalantā (sītaṁ) = Ājalantaṁ.
+Pabbatassa tiro = Tiropabbataṁ
+Sotassa paṭi = Paṭisotaṁ.
+Pāsādassa anto = Antopāsādaṁ.
 
 ## VIIIA KĀRAKA (Complementives[^20])
 
-### 1. Karoti kiriyam nipphādetīti Kārakam.
+### 1. Karoti kiriyaṁ nipphādetīti Kārakaṁ.
 
 Kāraka or the Complementive[^20] is so called because it completes an action (see p. 33).
 
-There are six Kārakas: Kamma, Kattu, Karana, Sampadāna, Apādāna, and Okāsa or Adhikarana. Sāmī or the Genitive and Alapana or the Vocative are not regarded as Kāraka, because neither of them satisfies the required condition.
+There are six Kārakas: Kamma, Kattu, Karaṇa, Sampadāna, Apādāna, and Okāsa or Adhikaraṇa. Sāmī or the Genitive and Ālapana or the Vocative are not regarded as Kāraka, because neither of them satisfies the required condition.
 
 [^20]: The term has been coined by me. - S. M.
 
-### 2. Yami karoti tam Kammam.
+### 2. Yaṁ karoti taṁ Kammaṁ.
 
-That which one does (sees or hears), is called the Object :
-o. g., Ratham karoti, [See examples under Dutiyā, p. 34.]
+That which one does (sees or hears), is called the Object:
+e.g., Rathaṁ karoti, [See examples under Dutiyā, p. 34.]
 
 ### 3. Yo karoti sa Kattā.
 
-One who does an action is called the Agent :
-o. g., Ahina daṭtho naro, Garuḷna hato nāgo, Buddheena jito Mâro; Upaguttena bandho Mâro; where the italicized words are the Agents, because each of them performs an action. [See example iii, under Pathamā, p. 84.]
+One who does an action is called the Agent:
+e.g., Ahinā daṭṭho naro, Garuḷena hato nāgo, Buddhena jito Māro; Upaguttena baddho Māro; where the italicized words are the Agents, because each of them performs an action. [See example iii, under Paṭhamā, p. 84.]
 
-### 4. Yena va kayirate tam Karapam.
+### 4. Yena vā kayirate taṁ Karaṇaṁ.
 
-That by means of which an act of doing (seeing or hearing) is accomplished is called the Instrument :
-c. g., Dattena vihin lunāti; vāsiyā rukkhanh tacchati; pharasunā rukkhan chindati; kuddālena rukkham khanati; hatthena kammam karoti; caklkhunā rūpam passati; sotena saddarh suṇāti. [See example ii, under Tatiyā, p. 84.]
+That by means of which an act of doing (seeing or hearing) is accomplished is called the Instrument:
+e.g., Dattena vīhiṁ lunāti; vāsiyā rukkhaṁ tacchati; pharasunā rukkhaṁ chindati; kuddālena rukkhaṁ khaṇati; hatthena kammaṁ karoti; cakkhunā rūpaṁ passati; sotena saddaṁ suṇāti. [See example ii, under Tatiyā, p. 84.]
 
-### 5. Yassa dātukāmo rocate vā dhārayate vā tarh Sampadānam.
+### 5. Yassa dātukāmo rocate vā dhārayate vā taṁ Sampadānaṁ.
 
 One to whom something is desired to be given, or one who entertains a liking for something,
-or one from whom something is taken as a debt is called the Dative :
-c. g., Samanassa cīvaram dadāti; samanassa rocate saccam; Devadattassa suvapnachattam dhārayate Yaññadatto; suvapnam me dhārayate. [See example $i$, under Catutthī, p. 84.]
+or one from whom something is taken as a debt is called the Dative:
+e.g., Samaṇassa cīvaraṁ dadāti; samaṇassa rocate saccaṁ; Devadattassa suvaṇṇacchattaṁ dhārayate Yaññadatto; suvaṇṇaṁ me dhārayate. [See example i, under Catutthī, p. 84.]
 [The Dative (Sampadāna) is also distinguished in the following ways :-
-(i) in connection with the following roots the object assumes the sense of the Dative: (a) silāgha (to flatter or boast of), e.g., Buddhassa silāghate ; (b) hanu (to hide from), e.g., hanute mayham eva; (c) upa + th $\bar{a}$ (to worship or wait on), e.g., upatiṭtheyya Sakyaputtānam vaḍ̣haki ; (d) sapa (to blame or curse), e.g., mayham sapate; (e) dhāra (to owe to any person), e.g., suvapnam to dhārayate ; (f) piha (to long for), e.g., Buddhassa aññatitthiṣa pihayanti, samiddhānam pihayanti dalidda ; (g) kudha (to be angry with), e.g., kodhayati Devadattassa, tassa kujjha mahāvīa; (h) duha (to meditate mischief), e.g., duhayati disānam̉ megho ; (i) issa (to envy), e.g., titthiya samanānam issayanti; (j) usuyya (to grumble at), e.g., titthiyā samanānam usuyyanti, lābhagiddhena dujjanā guṇavantānam̉ usuyyanti ;
-(ii) in connection with the roots rädha and $i k k h a$ when used in answer to a query, the object can be both Dative or Accusative, e.g., ārādho me rañño (also, räjānam) ; āyasmato Upālitherassa (also, āyasmantam Upālitheram) upasampadāpekkho Upatisso ;
-(iii) in connection with the root suṇa (with the prefix pati or $\bar{a}$ ) and the root gina (with the prefix anu or pati), that which was previously in the Nominative becomes Dative, e.g., Bhagavā (Nominative) bhikkhū etad avoca, Bhagavato (Dative) paccassosum̉ te bhikkhū ; Bhikkhu (Nominative) janam dhamman̉ sāveti, tassa bhikkhuno (Dative) jano anugināti;
-(iv) in connection with words signifying announcement ("Rocan'attha"), e.g., ārocayāmi vo bhikkhave, āmantayāmi vo bhikkhave ;
-(v) in denoting aim or purpose "Tadattha" e.g., ūnassa paripuriyā, Buddhassa atthāya ;
-(vi) in signifying the meaning of the infinitive suffix tum ("Tumattha"), e.g., lokānukampāya, phāsuvihārāya ;
-(vii) in signifying the sense of alam ('Alamattha"), e.g., alami $m c$ Buddho, alami $m e$ rajam, alami bhikkhu pattassa, alami mallo mallassa (where alami means 'fit for'); alami $m e$ rūpam karanīyam, alami $m e$ hiramnasuvampethi (where alami means 'enough', 'unnecessary');
-(viii) if the object of the root mañña be an inanimate thing and if it denotes disrespect, it assumes the sense of the Dative ("Mañn'and $d a r^{\prime} a p p \bar{a} n i n i^{\prime "}$ ), e.g., katṭhassa tuvarn mañe, kalingarassa tuvarn mañe ; but, suvampan tam mañe, gadrabham tam mañe ;
-(ix) the object of verbs denoting 'going' assumes the sense of the Dative ("Gatyatthakammani"), e.g., gāmassa pādena gato, appo saggāya gacchati, mūlāya paṭikasseyya Sangho ;
-(x) in denoting good wish ("Āsims'attha"), e.g., bhaddarī bhavato hotu, kusalari bhavato hotu ;
-(xi) in connection with the word sammuti, 'consent' ("Sammutippayoge"), e.g., sādhu sammuti $m e$ tassa Bhagavato dassanāya ;
-(xii) in connection with the word bhiyya 'more', 'abundant' ("Bhiyyappayoge"), e.g., bhiyyosomattāya ;
-(xiii) in the sense of the Seventh case ("Sattamyattha"), e.g., tuyham (=tava santike) āvikaromi, tassa me Sakko pāturahosi.
+(i) in connection with the following roots the object assumes the sense of the Dative: (a) silāgha (to flatter or boast of), e.g., Buddhassa silāghate; (b) hanu (to hide from), e.g., hanute mayhaṁ eva; (c) upa + ṭhā (to worship or wait on), e.g., upatiṭṭheyya Sakyaputtānaṁ vaḍḍhaki; (d) sapa (to blame or curse), e.g., mayhaṁ sapate; (e) dhāra (to owe to any person), e.g., suvaṇṇaṁ te dhārayate; (f) piha (to long for), e.g., Buddhassa aññatitthiyā pihayanti, samiddhānaṁ pihayanti daliddā; (g) kudha (to be angry with), e.g., kodhayati Devadattassa, tassa kujjha mahāvīra; (h) duha (to meditate mischief), e.g., duhayati disānaṁ megho; (i) issa (to envy), e.g., titthiyā samaṇānaṁ issayanti; (j) usuyya (to grumble at), e.g., titthiyā samaṇānaṁ usuyyanti, lābhagiddhena dujjanā guṇavantānaṁ usuyyanti;
+(ii) in connection with the roots rādha and ikkha when used in answer to a query, the object can be both Dative or Accusative, e.g., ārādho me rañño (also, rājānaṁ); āyasmato Upālitherassa (also, āyasmantaṁ Upālitheraṁ) upasampadāpekkho Upatisso;
+(iii) in connection with the root suṇa (with the prefix pati or ā) and the root gina (with the prefix anu or pati), that which was previously in the Nominative becomes Dative, e.g., Bhagavā (Nominative) bhikkhū etad avoca, Bhagavato (Dative) paccassosuṁ te bhikkhū; Bhikkhu (Nominative) janaṁ dhammaṁ sāveti, tassa bhikkhuno (Dative) jano anugināti;
+(iv) in connection with words signifying announcement ("Rocan'attha"), e.g., ārocayāmi vo bhikkhave, āmantayāmi vo bhikkhave;
+(v) in denoting aim or purpose "Tadattha" e.g., ūnassa pāripūriyā, Buddhassa atthāya;
+(vi) in signifying the meaning of the infinitive suffix tum ("Tumattha"), e.g., lokānukampāya, phāsuvihārāya;
+(vii) in signifying the sense of alaṁ ('Alamattha"), e.g., alaṁ me Buddho, alaṁ me rajjaṁ, alaṁ bhikkhu pattassa, alaṁ mallo mallassa (where alaṁ means 'fit for'); alaṁ me rūpaṁ karaṇīyaṁ, alaṁ me hiraññasuvaṇṇehi (where alaṁ means 'enough', 'unnecessary');
+(viii) if the object of the root mañña be an inanimate thing and if it denotes disrespect, it assumes the sense of the Dative ("Maññ'anādar'appāṇini"), e.g., kaṭṭhassa tuvaṁ maññe, kaliṅgarassa tuvaṁ maññe; but, suvaṇṇaṁ taṁ maññe, gadrabhaṁ taṁ maññe;
+(ix) the object of verbs denoting 'going' assumes the sense of the Dative ("Gatyatthakammani"), e.g., gāmassa pādena gato, appo saggāya gacchati, mūlāya paṭikasseyya Sangho;
+(x) in denoting good wish ("Āsims'attha"), e.g., bhaddarī bhavato hotu, kusalari bhavato hotu;
+(xi) in connection with the word sammuti, 'consent' ("Sammutippayoge"), e.g., sādhu sammuti me tassa Bhagavato dassanāya;
+(xii) in connection with the word bhiyya 'more', 'abundant' ("Bhiyyappayoge"), e.g., bhiyyosomattāya;
+(xiii) in the sense of the Seventh case ("Sattamyattha"), e.g., tuyhaṁ (= tava santike) āvikaromi, tassa me Sakko pāturahosi.
 
-The Dative is used not merely in connection with a particular word of a particular signification, but in connection with all words of that signification, e.g., upamari te karissāmi, dhammanī vo bhikkhave desissāmi, desetu bhante Bhagavā dhamman̄ bhikkhūnan̉, tassa phāsu, tassa pahipeyya, amhākain man̉inā attho, kimattho me Buddhena, seyyo me attho, etc.
+The Dative is used not merely in connection with a particular word of a particular signification, but in connection with all words of that signification, e.g., upamaṁ te karissāmi, dhammaṁ vo bhikkhave desissāmi, desetu bhante Bhagavā dhammaṁ bhikkhūnaṁ, tassa phāsu, tassa pahiṇeyya, amhākaṁ maṇinā attho, kimattho me Buddhena, seyyo me attho, etc.
 
 Sometimes, the endings of the Second, Third and Sixth cases are used.]
 
-### 6. Yasmādapeti bhayamādatte vā tad Apādānan̉.
+### 6. Yasmādapeti bhayamādatte vā tad Apādānaṁ.
 
-That from which a person or thing goes away or fear arises or something is received is called the Ablative :
-e. g., Gāmā apenti munayo; nagarā niggato rājā; pāpā cittañ nivārayc; corā bhayañ jāyate; ācariy'upajjhāyehi sikkham் ganhāti sisso. [See example $i$ under Pañcamī, p. 85.]
+That from which a person or thing goes away or fear arises or something is received is called the Ablative:
+e.g., Gāmā apenti munayo; nagarā niggato rājā; pāpā cittaṁ nivāraye; corā bhayaṁ jāyate; ācariy'upajjhāyehi sikkhaṁ gaṇhāti sisso. [See example i under Pañcamī, p. 85.]
 [The Ablative (Apādāna) is also distinguished in the following ways:
-(i) in connection with roots used with particular prefixes, e.g., $p a-n+\sqrt{ } j i$ (to subdue): Buddhasmā parājenti aññatitthiyā (where "Buddha," because he cannot be subdued, and not merely because he is the subduer, is put in the Ablative) ; $p a+\sqrt{ } b h \bar{u}$ (to spring, proceed, arise): Himavantā pabhavanti pañca mahānadiyo (here, "Himavanta," from which the five rivers proceed, is put in the Ablative) ;
-(ii) in connection with particular nāma (noun or word), e.g., urasm $\bar{a}$ jāto putto, bhūmito niggato raso, ubhato sujāto putto, tato pabhuti, nàñ̃̃añ dukkhā, bhinno Devadattā ;
-(iii) in connection with upasaggas (prepositions), e.g., apa ('away') sālāya āyanti vānijā, ā ('up to,' 'down to') Brahmalokā saddo abbhuggacchati, upari pabbatā devo vassati, uppalain assa padumasmā pati ('for,' 'instead of ') dadāti ; Buddhasmā pati ('like unto ') Sāriputto;
-(iv) in connection with words denoting objects lying between two Kārakas, e.g., kosā vijjhati kunjaram (where the distance of a kosa lies between two kārakas, the agent and the
-object, i.e., elephant) ; similarly, -māsasm $\bar{a}$ bhuñjati bhojanam, pakkhasmā vijjhati migam ;
-(v) in connection with nipātas (indeclinables), when the endings of the Fifth case are used as well as those of the Second and Third cases, e.g., rahita ('bereft of,' 'without') mātujā (5th case), rahitā mātujam (2nd case), rahitā mātujena (3rd case) ; similarly,-rite ('without') saddhammā, saddhammam, saddhammena; so also with vinā ('without'), nānā ('various'), puthu ('separate,' 'different') ;
-(vi) in connection with verbs denoting protection, where the object desired to be protected from any person or thing acquires the Ablative sense, e.g., uechuto sigāle rakkhati, yava patisedhenti gāvo; sometimes the endings of the Seventh case are used instead of those of the Fifth: kāke rakkhanti taṇ̣ulā;
-(vii) in connection with that from which disappearance is desired, e.g., upajjhāya antaradhāyati sisso; mātarā ca pitarā ca (5th case) antaradhāyati putto; sometimes the endings of the Seventh case are used: Jetavane (7th case) antaradhāyati Bhagavā ;
+(i) in connection with roots used with particular prefixes, e.g., parā + √ji (to subdue): Buddhasmā parājenti aññatitthiyā (where "Buddha," because he cannot be subdued, and not merely because he is the subduer, is put in the Ablative); pa + √bhū (to spring, proceed, arise): Himavantā pabhavanti pañca mahānadiyo (here, "Himavanta," from which the five rivers proceed, is put in the Ablative);
+(ii) in connection with particular nāma (noun or word), e.g., urasmā jāto putto, bhūmito niggato raso, ubhato sujāto putto, tato pabhuti, nāññaṁ dukkhā, bhinno Devadattā;
+(iii) in connection with upasaggas (prepositions), e.g., apa ('away') sālāya āyanti vānijā, ā ('up to,' 'down to') Brahmalokā saddo abbhuggacchati, upari pabbatā devo vassati, uppalaṁ assa padumasmā pati ('for,' 'instead of ') dadāti; Buddhasmā pati ('like unto ') Sāriputto;
+(iv) in connection with words denoting objects lying between two Kārakas, e.g., kosā vijjhati kuñjaraṁ (where the distance of a kosa lies between two kārakas, the agent and the
+object, i.e., elephant); similarly, māsasmā bhuñjati bhojanaṁ, pakkhasmā vijjhati migaṁ;
+(v) in connection with nipātas (indeclinables), when the endings of the Fifth case are used as well as those of the Second and Third cases, e.g., rahita ('bereft of,' 'without') mātujā (5th case), rahitā mātujaṁ (2nd case), rahitā mātujena (3rd case); similarly,-rite ('without') saddhammā, saddhammaṁ, saddhammena; so also with vinā ('without'), nānā ('various'), puthu ('separate,' 'different');
+(vi) in connection with verbs denoting protection, where the object desired to be protected from any person or thing acquires the Ablative sense, e.g., ucchuto sigāle rakkhati, yava paṭisedhenti gāvo; sometimes the endings of the Seventh case are used instead of those of the Fifth: kāke rakkhanti taṇḍulā;
+(vii) in connection with that from which disappearance is desired, e.g., upajjhāya antaradhāyati sisso; mātarā ca pitarā ca (5th case) antaradhāyati putto; sometimes the endings of the Seventh case are used: Jetavane (7th case) antaradhāyati Bhagavā;
 (viii) in connection with words
-(a) denoting distance (dūra), e.g., kivadūro ito Nalakāragāmo; sometimes the endings of the Second and Third cases are used: dūraio (also, dūram and dūrena) āgamma, ārakā te imasmā dhammavinayā (also, imam dhammavinayam, anena dhammavinayena) ;
-(b) denoting vicinity (antika), e.g., antikam gāmā, āsannam gāmā, samīpam gāmā; the endings
-of the Second and Third cases may also be used: antikam் gāmañ or gāmena, etc. ;
-(c) denoting space or time (addha-käla), e.g., ito Mathurāya catūsu yojanesu Sañkassa-nagarari atthi (Space), ito ekanavuti-kappa-matthake (Time) ;
-(d) left alone by the elision of verbal forms in -tvā (tvā-lopa), e.g., pāsăda sanikameyya (which originally stood as: pāsădam abhirūhitvā sañkameyya), āsanā vutṭhaheyya (which was: āsane nisīditvā vutṭhaheyya), pāsăda passati (which was: pāsădam abhirūhitvā passati); the Ablative here represents Accusative (Kamma) and Locative (Adhikarana) constructions;
-(e) denoting direction (disā-yoga), e.g., Avicito upari ; puratthimato, dakkhipato, pacchimato, uttarato ; yato assosum Bhagavato kittisaddam ; uddham̉ pādatalā, adho kesamatthaka ;
-(f) denoting comparison (vibhatta), e.g., yato panitataro, yato visitthataro; the endings of the Sixth case are sometimes used: channavutīnam pāsaṇ̣̄̄nam dhammanam pavarami idarī Sugatavinayan;
-(g) denoting cessation (ārappayoga), e.g., gāmadhammā arati virati pativirati, pānātipātā veramanī ;
-(h) denoting purification (sudāh'attha), e.g., lobhanīyehi dhammehi suddho, mātito ca pitito ca suddho asamsattho anupakuttho agarahito ;
-(i) denoting liberation (pamocan'attha), e.g., parimutto dukkhasmā, mutto 'smi Māra. bandhana $\bar{a}$;
-(j) denoting reason or cause (hetv-attha), e.g., kasmä hetunā, kasmā tumhe dabarā na miyyatha, kasmä idh'eva maraṇaṁ bhavissati; sometimes the endings of the Second, Third and Fourth cases are used: kiṁ kāraṇaṁ (2nd), Kena kāraṇena (3rd), kissa (4th) ;
-(k) denoting separation (vivitt'attha), e.g., vivitto pāpakā dhammā, vivicc' eva kāmehi akusalehi dhammehi ;
-(l) denoting measure (pamān'attha), e.g., dighaso (i.e., dighappamānena) nava vidatthiyo ;
-( $m$ ) used with pubba ('before') (pubba-yoga), e.g., pubb'eva me bhikkhave sambodhā ;
-( $n$ ) denoting the act of binding or tying (bandhan' attha), e.g., satasmā bandho naro (also, sateña, with the ending of the Third case);
-(o) denoting attribute or quality (guna-vacana), e.g., paññāya sugatirn yanti, issariyā (i.e., issariyaguṇa-hetuto) rājā janarh rakkhati ;
-(p) left alone by the elision of verbal forms in -tvā, and in answer to a query (pañhe tvālope), e.g., Abhidhammā (originally, Abhidhammam் sutvā, or Abhidhamme thatvā) pucchanti; the Ablative here stands for the Accusative (Kamma) and Locative (Adhikaraṇa) constructions. Instead of the Fifth case-ending, those of the Second and the Third are also used: Abhidhammam, Abhidhammena pucchanti ; similarly, - Vinayā, Vinayari, Vinayena, etc. ;
-(q) denoting littleness (thok' attha), e.g., thok $\bar{a}$ muccati, appamattakā muccati, kicchā muccati; the endings of the Second and Third cases are also used: thokam, thokena, etc. ;
-(r) used in a non-subjective sense (a-kattari), e.g., katattā upacitattā ussannattā vipulattā uppannam̀ cakkhuviññānaṁ.]
+(a) denoting distance (dūra), e.g., kīvadūro ito Nalakāragāmo; sometimes the endings of the Second and Third cases are used: dūrato (also, dūraṁ and dūrena) āgamma, ārakā te imasmā dhammavinayā (also, imam dhammavinayaṁ, anena dhammavinayena);
+(b) denoting vicinity (antika), e.g., antikaṁ gāmā, āsannaṁ gāmā, samīpaṁ gāmā; the endings
+of the Second and Third cases may also be used: antikaṁ gāmaṁ or gāmena, etc.;
+(c) denoting space or time (addha-kāla), e.g., ito Mathurāya catūsu yojanesu Saṅkassa-nagaraṁ atthi (Space), ito ekanavuti-kappa-matthake (Time);
+(d) left alone by the elision of verbal forms in -tvā (tvā-lopa), e.g., pāsāda saṅkameyya (which originally stood as: pāsādaṁ abhirūhitvā saṅkameyya), āsanā vuṭṭhaheyya (which was: āsane nisīditvā vuṭṭhaheyya), pāsāda passati (which was: pāsādaṁ abhirūhitvā passati); the Ablative here represents Accusative (Kamma) and Locative (Adhikarana) constructions;
+(e) denoting direction (disā-yoga), e.g., Avicito upari; puratthimato, dakkhiṇato, pacchimato, uttarato; yato assosuṁ Bhagavato kittisaddaṁ; uddhaṁ pādatalā, adho kesamatthaka;
+(f) denoting comparison (vibhatta), e.g., yato paṇītataro, yato visiṭṭhataro; the endings of the Sixth case are sometimes used: channavutīnaṁ pāsaṇḍānaṁ dhammānaṁ pavaraṁ idaṁ Sugatavinayaṁ;
+(g) denoting cessation (ārappayoga), e.g., gāmadhammā arati virati paṭivirati, pānātipātā veramaṇī;
+(h) denoting purification (suddh'attha), e.g., lobhanīyehi dhammehi suddho, mātito ca pitito ca suddho asaṁsaṭṭho anupakkuṭṭho agarahito;
+(i) denoting liberation (pamocan'attha), e.g., parimutto dukkhasmā, mutto 'smi Māra-bandhanā;
+(j) denoting reason or cause (hetv-attha), e.g., kasmā hetunā, kasmā tumhe daharā na miyyatha, kasmā idh'eva maraṇaṁ bhavissati; sometimes the endings of the Second, Third and Fourth cases are used: kiṁ kāraṇaṁ (2nd), Kena kāraṇena (3rd), kissa (4th);
+(k) denoting separation (vivitt'attha), e.g., vivitto pāpakā dhammā, vivicc' eva kāmehi akusalehi dhammehi;
+(l) denoting measure (pamān'attha), e.g., dīghaso (i.e., dīghappamāṇena) nava vidatthiyo;
+(m) used with pubba ('before') (pubba-yoga), e.g., pubb'eva me bhikkhave sambodhā;
+(n) denoting the act of binding or tying (bandhan' attha), e.g., satasmā bandho naro (also, satena, with the ending of the Third case);
+(o) denoting attribute or quality (guna-vacana), e.g., paññāya sugatiṁ yanti, issariyā (i.e., issariyaguṇa-hetuto) rājā janaṁ rakkhati;
+(p) left alone by the elision of verbal forms in -tvā, and in answer to a query (pañhe tvālope), e.g., Abhidhammā (originally, Abhidhammaṁ sutvā, or Abhidhamme ṭhatvā) pucchanti; the Ablative here stands for the Accusative (Kamma) and Locative (Adhikaraṇa) constructions. Instead of the Fifth case-ending, those of the Second and the Third are also used: Abhidhammaṁ, Abhidhammena pucchanti; similarly, - Vinayā, Vinayaṁ, Vinayena, etc.;
+(q) denoting littleness (thok' attha), e.g., thokā muccati, appamattakā muccati, kicchā muccati; the endings of the Second and Third cases are also used: thokaṁ, thokena, etc.;
+(r) used in a non-subjective sense (a-kattari), e.g., katattā upacitattā ussannattā vipulattā uppannaṁ cakkhuviññāṇaṁ.]
 
-### 7. Yo 'dhāro tam̉ Okāsam̉.
+### 7. Yo 'dhāro taṁ Okāsaṁ.
 
 The place of an action is called the Okāsa or the Locative.
 
-* [See examples under under *Sattamī*, pp. 35-36.]
+* [See examples under *Sattamī*, pp. 35-36.]
 
 ## VIIIB VIBHATTI-BHEDA (Cases and Case-endings)
 
@@ -2169,15 +2168,15 @@ The place of an action is called the Okāsa or the Locative.
 
 ### Paṭhamā (The First Case)
 
-#### 1. Ling'atthe Paṭhamā.
+#### 1. Liṅg'atthe Paṭhamā.
 
-The endings of the First Case are used, when only the sense of the crude form (i.e., stem or nominal base) is spoken of :
+The endings of the First Case are used, when only the sense of the crude form (i.e., stem or nominal base) is spoken of:
 
-* Puriso, purisā ; eko, dve ; aham, etc.
+* Puriso, purisā; eko, dve; ahaṁ, etc.
 
 * The agent when in the Active Voice (Kartṛ-vācya) and the object when in the Passive (Karma-vācya) require the ending of the First Case, which is also used if a word is governed by some Indeclinables, e.g.,-
 
-* *Sudo* odanam pacati (Active), *Sūdena* odano paccate (Passive) ; similarly, - Buddho dhammaṁ desesi, Buddhena dhammo desito.
+* *Sūdo* odanaṁ pacati (Active), *Sūdena* odano paccate (Passive); similarly, - Buddho dhammaṁ desesi, Buddhena dhammo desito.
 
 * Nāgaseno nāma thero, *Sīhaseno* nāma putto (where "nāma," an Indeclinable, governs the Proper names).
 
@@ -2185,17 +2184,17 @@ The endings of the First Case are used, when only the sense of the crude form (i
 
 The endings of the First Case are also used to express the sense of addressing, coupled with the sense of the crude form:
 
-* Bho purisa, bhavanto purisā ; bho rāja, bhavanto rājāno; he sakhha, he sakhino. [In the Bālāvatāra these formations are allowed by the Sūtra "Liṅgatthe Paṭhamā," but Rule 2 occurs separately in Kaccāyana.
+* Bho purisa, bhavanto purisā; bho rāja, bhavanto rājāno; he sakha, he sakhino. [In the Bālāvatāra these formations are allowed by the Sūtra "Liṅgatthe Paṭhamā," but Rule 2 occurs separately in Kaccāyana.
 
 ### Dutiyā (the Second Case)
 
 #### 1. Kammatthe Dutiyā.
 
-The endings of the Second Case are used in denoting the object (in the *Kartṛ-vācya*), i.e., the Accusative :
+The endings of the Second Case are used in denoting the object (in the *Kartṛ-vācya*), i.e., the Accusative:
 
-* Buddhaṁ vande, ūnapattaṁ bhuñjati, kaṇṭakaṁ maddati, visaṁ gilati, rathaṁ karoti, dhammaṁ supāti, vācaṁ bhāsati, taṇḍulaṁ pacati, coraṁ ghāteṭi, gavaṁ hanati.
+* Buddhaṁ vande, ūnapattaṁ bhuñjati, kaṇṭakaṁ maddati, visaṁ gilati, rathaṁ karoti, dhammaṁ suṇāti, vācaṁ bhāsati, taṇḍulaṁ pacati, coraṁ ghāteti, gavaṁ hanati.
 
-#### 2. Kāladdhānamaccantasamṁyoge.
+#### 2. Kāladdhānamaccantasaṁyoge.
 
 The endings of the Second Case are added to words denoting time or space, which have immediate proximity (to any object, attribute or action):
 
@@ -2203,7 +2202,7 @@ The endings of the Second Case are added to words denoting time or space, which 
 * Saradaṁ ramaṇīyā nadī (where 'ramaṇīyatā' is an attribute of 'nadi,' which lasts throughout the season 'Sarada.' Here we have proximity of time with an attribute).
 * Māsaṁ sajjhāyati (where the action of 'sajjhāyana' continues throughout a 'māsa.' Here we have proximity of time with an action).
 * Yojanaṁ vanarāji (proximity of space, yojana, with an object, *vanarāji*).
-* Yojanam̉ dīgho pabbato (proximity of space with an attribute, *dīgha*).
+* Yojanaṁ dīgho pabbato (proximity of space with an attribute, *dīgha*).
 * Kosaṁ sajjhāyati (proximity of space with an action, *sajjhāyati*).
 
 #### 3. Kammappavacanīya-yutte.
@@ -2213,9 +2212,9 @@ The endings of the Second Case are added to words used in connection with terms 
 * Such terms are: *anu*, *pati*, *pari* and *abhi*.
 
 * Anu expresses the senses of (1) aiming at, (2) pervasion, (3) exception, (4) portion, (5) homogeneity, and (6) inferiority: e.g.,
-  1. Rukkhaṁ anu vijjotate cando (where the idea is that the moon is shining with the tree as its aim ; the act of 'aiming at' is expressed by the Kammappavacanīya 'anu' ; hence, *rukkhaṁ*, which it governs, takes the ending of the Second Case).
+  1. Rukkhaṁ anu vijjotate cando (where the idea is that the moon is shining with the tree as its aim; the act of 'aiming at' is expressed by the Kammappavacanīya 'anu'; hence, *rukkhaṁ*, which it governs, takes the ending of the Second Case).
   2. Rukkhaṁ rukkhaṁ anu vijjotate cando (where 'anu' expresses 'pervasion'; hence the repetition *rukkhaṁ rukkhaṁ* and the ending of the Second Case).
-  3. Sädhu Devadatto mātaraṁ anu (where the meaning is that Devadatta is not by nature good, but he is good towards his mother; hence, the Second Case-ending in mātaraṁ, which is governed by 'anu,' denoting 'exception').
+  3. Sādhu Devadatto mātaraṁ anu (where the meaning is that Devadatta is not by nature good, but he is good towards his mother; hence, the Second Case-ending in mātaraṁ, which is governed by 'anu,' denoting 'exception').
   4. Yad ettha maṁ anu siyā taṁ diyatu (which means: Give me that which is my portion; thus '*anu*' has the force of 'share or portion,' and accordingly *maṁ* has the Second Case-ending).
   5. Nadiṁ anvavasitā Bārāṇasī (where 'Bārāṇasī' together with 'nadi' makes one complete whole; therefore, 'anu' in anvavasita (anu + ava + sitā, Sk. sritā) denoting 'homogeneity,' *nadiṁ* has the Second Case-ending).
   6. Anu Sāriputtaṁ paññavā bhikkhu (which means that the bhikkhu is wise, but that he is inferior to Sāriputta in wisdom; hence, 'anu' having the force of 'inferiority,' *Sāriputtaṁ* has the Second Case-ending).
@@ -2226,99 +2225,99 @@ The endings of the Second Case are added to words used in connection with terms 
 
 #### 4. Gati-buddhi-bhuja-paṭha-hara-kara-sayādīnaṁ kārite vā.
 
-In the sense of causation ('kārite'), the endings of the Second Case are optionally used in connection with the roots denoting gati (motion) or buddhi (knowing) and with the roots *bhuja*, *patha*, *hara*, *kara*, *saya*, etc. :
+In the sense of causation ('kārite'), the endings of the Second Case are optionally used in connection with the roots denoting gati (motion) or buddhi (knowing) and with the roots *bhuja*, *paṭha*, *hara*, *kara*, *saya*, etc.:
 
-* Sāmī dāsam̉ gāmam̉ gamayati (also, dāsena), garu sissaṁ dhammaṁ bodhayati (also, sissena), upāsako bhikkhuṁ bhattaṁ bhojayati (also, bhikkhunā) ; ācariyo antevāsikaṁ Pāliṁ pāṭhayati (also, antevāsikena) ; hatthāroho hatthiṁ sāyayati (also, hatthinā).
+* Sāmī dāsaṁ gāmaṁ gamayati (also, dāsena), garu sissaṁ dhammaṁ bodhayati (also, sissena), upāsako bhikkhuṁ bhattaṁ bhojayati (also, bhikkhunā); ācariyo antevāsikaṁ Pāliṁ pāṭhayati (also, antevāsikena); hatthāroho hatthiṁ sāyayati (also, hatthinā).
 
 #### 5. Kvaci Dutiyā Chaṭṭhīnamatthe.
 
-The endings of the Second Case are sometimes used in denoting the sense of those of the Sixth :
+The endings of the Second Case are sometimes used in denoting the sense of those of the Sixth:
 
 * Taṁ kho pana Bhagavantaṁ kalyāṇa-kittisaddo abbhuggato (where taṁ Bhagavantaṁ means *tassa* Bhagavato).
 
-* So also in connection with the words *antarā*, *anto*, *tiro*, *abhito*, *parito*, *patibhā* etc.; e.g., antarā̄ ca Nālandaṁ antarā ca Rājagahaṁ ; anto ratthaṁ ; tiro rathhaṁ ; abhito gāmaṁ ; parito gāmaṁ ; upamā mam̀ paṭibhāti.
+* So also in connection with the words *antarā*, *anto*, *tiro*, *abhito*, *parito*, *paṭibhā* etc.; e.g., antarā ca Nālandaṁ antarā ca Rājagahaṁ; anto raṭṭhaṁ; tiro raṭṭhaṁ; abhito gāmaṁ; parito gāmaṁ; upamā maṁ paṭibhāti.
 
 #### 6. Tatiyā-Sattamīnañ ca.
 
 The endings of the Second Case are also sometimes used in denoting the sense of those of the Third and Seventh Cases:
 
-* Maṁ (i.e., mayā saha) nālapissati ; pubbaṇhasamayaṁ (i.e., samaye) nivāsetvā.
+* Maṁ (i.e., mayā saha) nālapissati; pubbaṇhasamayaṁ (i.e., samaye) nivāsetvā.
 
-* The endings of the Second Case are also sometimes used in the sense of those of the Seventh Case in connection with the following: upa + √vasa, anu + √vasa, adhi + √vasa, ā + √vasa ; adhi + √si ; adhi + √ṭhā ; adhi + √āsa ; abhi + ni + √visa ; e.g., gāmaṁ upavasati (i.e., gāme vasati) ; similarly, - gāmaṁ anuvasati, adhivasati, āvasati, adhisete, adhitiṭṭhati, ajjhāsayati, abhinivisati (i.e., gäme pavisati).
+* The endings of the Second Case are also sometimes used in the sense of those of the Seventh Case in connection with the following: upa + √vasa, anu + √vasa, adhi + √vasa, ā + √vasa; adhi + √si; adhi + √ṭhā; adhi + √āsa; abhi + ni + √visa; e.g., gāmaṁ upavasati (i.e., gāme vasati); similarly, - gāmaṁ anuvasati, adhivasati, āvasati, adhisete, adhitiṭṭhati, ajjhāsayati, abhinivisati (i.e., gāme pavisati).
 
-* Similarly, in connection with √pā (to drink) and √car (to go about) ; e.g., nadiṁ pivati (i.e., nadiyaṁ panīyaṁ pivati); gāmaṁ carati (i.e., gäme carati).
+* Similarly, in connection with √pā (to drink) and √car (to go about); e.g., nadiṁ pivati (i.e., nadiyaṁ pānīyaṁ pivati); gāmaṁ carati (i.e., gāme carati).
 
-* Also, in the sense of the endings of the Fourth Case ; e.g., paccārocemi taṁ (for *te*).
+* Also, in the sense of the endings of the Fourth Case; e.g., paccārocemi taṁ (for *te*).
 
-* And in the sense of the endings of the Fifth Case ; e.g., pubbena gāmaṁ (for gāmasmā).
+* And in the sense of the endings of the Fifth Case; e.g., pubbena gāmaṁ (for gāmasmā).
 
-* Also, adverbially ; e.g., sukhaṁ seti.
+* Also, adverbially; e.g., sukhaṁ seti.
 
 ### Tatiyā (the Third Case)
 
 #### 1. Karaṇe Tatiyā.
 
-The endings of the Third Case are used in denoting instrumentality :
+The endings of the Third Case are used in denoting instrumentality:
 
-* Dattena vīhīṁ lunāti (where an *external* act is being performed by means of a 'datta' - bāhira karaṇa); nettena candaṁ ikkhate (where the action is being done *inwardly* by means of the eye - ajjhattika karaṇa).
+* Dattena vīhiṁ lunāti (where an *external* act is being performed by means of a 'datta' - bāhira karaṇa); nettena candaṁ ikkhate (where the action is being done *inwardly* by means of the eye - ajjhattika karaṇa).
 
 #### 2. Sahādi-yoge ca.
 
-The endings of the Third Case are also used in connection with the words *saha*, *alaṁ*, *kiṁ*, etc., or in denoting the meanings thereof :
+The endings of the Third Case are also used in connection with the words *saha*, *alaṁ*, *kiṁ*, etc., or in denoting the meanings thereof:
 
-* Puttena saha vutti ; puttena saha thūlo ; puttena saha dhanaṁ; alaṁ te idha-vāsena; kiṁ te jaṭāhi. The endings of the Third Case would be used even without *saha*, only if the sense of *saha* be there: nisīdi Bhagavā saddhiṁ bhikkhu-saṅghena; sahassena samaṁ mitā ; piyehi manāpehi nānā-bhāvo ; piyehi manāpehi vinā-bhāvo.
+* Puttena saha vutti; puttena saha thūlo; puttena saha dhanaṁ; alaṁ te idha-vāsena; kiṁ te jaṭāhi. The endings of the Third Case would be used even without *saha*, only if the sense of *saha* be there: nisīdi Bhagavā saddhiṁ bhikkhu-saṅghena; sahassena samaṁ mitā; piyehi manāpehi nānā-bhāvo; piyehi manāpehi vinā-bhāvo.
 
 #### 3. Hetvatthe ca.
 
 In denoting cause and also in connection with the word 'hetu', the endings of the Third Case are used:
 
-* Annena vasati (because *anna* here is the 'cause'); kena hetuna (because used with the word 'hetu'). Similarly, dhammena vasati; vijjāya vasati ; na jaccā vasalo hoti ; dānena bhogavā hoti; ken'atthena so āgato.
+* Annena vasati (because *anna* here is the 'cause'); kena hetunā (because used with the word 'hetu'). Similarly, dhammena vasati; vijjāya vasati; na jaccā vasalo hoti; dānena bhogavā hoti; ken'atthena so āgato.
 
 #### 4. Sattamyatthe ca.
 
-The endings of the Third Case are used in the sense of the Seventh Case too :
+The endings of the Third Case are used in the sense of the Seventh Case too:
 
 * Pubbena gāmaṁ (=gāmasmā pubbasmiṁ); tena kālena (=tasmiṁ kāle). Similarly, tena kho samayena.
 
 #### 5. Yen'aṅgavikāro.
 
-The endings of the Third Case are added to the word which denotes that diseased member of the body whereby the whole appearance is affected :
+The endings of the Third Case are added to the word which denotes that diseased member of the body whereby the whole appearance is affected:
 
-* Akkhinā kāṇo ; sotena badhiro ; hatthena kuṇī ; pādena khañjo ; piṭṭhiyā khujjo.
+* Akkhinā kāṇo; sotena badhiro; hatthena kuṇī; pādena khañjo; piṭṭhiyā khujjo.
 
 #### 6. Visesane ca.
 
-The endings of the Third Case are also used in denoting a distinguishing attribute :
+The endings of the Third Case are also used in denoting a distinguishing attribute:
 
-* Gottena Gotamo ; tapasa uttamo.
+* Gottena Gotamo; tapasā uttamo.
 
 #### 7. Kattari ca.
 
-The endings of the Third Case are used in denoting the agent (in the *Kamma*- and *Bhāvavācyas*) :
+The endings of the Third Case are used in denoting the agent (in the *Kamma*- and *Bhāvavācyas*):
 
-* Sūdena odano paccate [see p. 94] ; pumunā puññaṁ kataṁ ; sūdajeṭṭhena sūdena odano pācāpiyate (here both the agents, the employer and the employed, are in the Third case).
+* Sūdena odano paccate [see p. 94]; pumunā puññaṁ kataṁ; sūdajeṭṭhena sūdena odano pācāpiyate (here both the agents, the employer and the employed, are in the Third case).
 
 ### Catutthī (the Fourth Case)
 
 #### 1. Sampadāne Catutthī.
 
-The endings of the Fourth Case are added to a word that denotes the recipient (i.e., the Dative) :
+The endings of the Fourth Case are added to a word that denotes the recipient (i.e., the Dative):
 
-* Samaṇassa cīvaraṁ dadāti (°ssa, because used with √dā) ; samarassa rocate saccaṁ (because used with √ruc) ; Yaññadattassa chattaṁ dhārayate (because used with √dhāri). [For the different conditions of Sampadāna, see pp. 85-88.]
+* Samaṇassa cīvaraṁ dadāti (°ssa, because used with √dā); samaṇassa rocate saccaṁ (because used with √ruc); Yaññadattassa chattaṁ dhārayate (because used with √dhāri). [For the different conditions of Sampadāna, see pp. 85-88.]
 
 #### 2. Namo-yogādisvapi ca.
 
 The endings of the Fourth Case are also used in connection with *namo* and similar words (i.e., forms of reverential address):
 
-* Namo te, namo karohi nāgassa; sotthi pajānaṁ ; sotthi te bhagini, sotthi gabbhassa; svāgataṁ te. With kiṁ also the Fourth Case is used: kiṁ vippaṭisārāya.
+* Namo te, namo karohi nāgassa; sotthi pajānaṁ; sotthi te bhagini, sotthi gabbhassa; svāgataṁ te. With kiṁ also the Fourth Case is used: kiṁ vippaṭisārāya.
 
 ### Pañcamī (the Fifth Case)
 
 #### 1. Apādāne Pañcamī.
 
-The endings of the Fifth Case are used in denoting the Ablative :
+The endings of the Fifth Case are used in denoting the Ablative:
 
-* Gāmā apenti ; corā bhāyanti ; upajjhāyā sikkhaṁ gaṇhāti ; upajjhāyamhā adhīyate (in the sense of 'receiving from') ; dhāvatā assā poso pate ; rukkha phalaṁ pate.-[For the different conditions of Apädāna, see pp. 88-93.]
+* Gāmā apenti; corā bhāyanti; upajjhāyā sikkhaṁ gaṇhāti; upajjhāyamhā adhīyate (in the sense of 'receiving from'); dhāvatā assā poso pate; rukkha phalaṁ pate.-[For the different conditions of Apādāna, see pp. 88-93.]
 
 ### Chaṭṭhī (the Sixth Case)
 
@@ -2326,79 +2325,79 @@ The endings of the Fifth Case are used in denoting the Ablative :
 
 The endings of the Sixth Case are added to the word that denotes the owner.
 
-According to Kaccāyaṇa, 2. 6. 18 (Yasвa vā pariggaho taṁ Sāmī), 'owner' means that which has a possessive relation (pariggaho) with something ; c.g., bhikkhuno cīvaraṁ, narānaṁ indo, nagarassa samīpaṁ, suvaṇṇassa rāsi, rukkhassa sākhā. - There are also other ways in which the Sixth Case is used.
+According to Kaccāyana, 2. 6. 18 (Yassa vā pariggaho taṁ Sāmī), 'owner' means that which has a possessive relation (pariggaho) with something; e.g., bhikkhuno cīvaraṁ, narānaṁ indo, nagarassa samīpaṁ, suvaṇṇassa rāsi, rukkhassa sākhā. - There are also other ways in which the Sixth Case is used.
 
 #### 2. Sāmi-'ssarādhipati-dāyāda-sakkhi-patibhū-pasūta-kusalehi ca.
 
-The endings of the Sixth Case as well as those of the Seventh are used in connection with the words *sāmi*, *issara*, *adhipati*, *dāyāda*, *sakkhi*, *patibhū*, *pasūta* and *kusala* :
+The endings of the Sixth Case as well as those of the Seventh are used in connection with the words *sāmi*, *issara*, *adhipati*, *dāyāda*, *sakkhi*, *patibhū*, *pasūta* and *kusala*:
 
-* Goṇānaṁ sāmī, goṇesu sāmī. Similarly, the remaining words will have goṇänaṁ (Sixth case) and goṇesu (Seventh case) each.
+* Goṇānaṁ sāmī, goṇesu sāmī. Similarly, the remaining words will have goṇānaṁ (Sixth case) and goṇesu (Seventh case) each.
 
-#### 3.
+#### 3. Niddhāraṇe ca.
 
-The endings of the Sixth Case as well as those of the Seventh are also used in denoting specification :
+The endings of the Sixth Case as well as those of the Seventh are also used in denoting specification:
 
-* Narānaṁ (also, naresu) khattiyo sūrataro, Kanhā gāvīnaṁ (also, gāvīsu) sampanna-khīratamā, Sāmā nārīnaṁ (also, nārīsu) dassanīyatamā, pathikānaṁ (also, pathikesu) dhāvaṁ sīghatamo, brāhmaṇānaṁ (also, brāhmaṇesu) Devadatto paṇḍito.
+* Narānaṁ (also, naresu) khattiyo sūrataro, Kaṇhā gāvīnaṁ (also, gāvīsu) sampanna-khīratamā, Sāmā nārīnaṁ (also, nārīsu) dassanīyatamā, pathikānaṁ (also, pathikesu) dhāvaṁ sīghatamo, brāhmaṇānaṁ (also, brāhmaṇesu) Devadatto paṇḍito.
 
-#### 4.
+#### 4. Anādare ca.
 
 The endings of the Sixth Case as well as those of the Seventh are also used in denoting neglect or contempt:
 
-* Rudato dārakassa pabbajī ; also, rudantasmiṁ dārake pabbajī.
+* Rudato dārakassa pabbajī; also, rudantasmiṁ dārake pabbajī.
 
 #### 5. Chaṭṭhī ca.
 
-The endings of the Sixth Case are sometimes used in denoting the sense of those of the Third and Seventh cases :
+The endings of the Sixth Case are sometimes used in denoting the sense of those of the Third and Seventh cases:
 
-* Pupphassa Buddhaṃ yajati (in the sense of 'pupphena'), ghatassa aggiṃ juhoti (for 'ghatena'), kiṃ tassa (in the sense of 'tena'), kusalā naccagītassa (in the sense of 'naccagīte'). Similarly, — kusalo tvaṁ rathassa aṅgapaccaṅgānaṁ (in the sense of '"paccaṅgesu').
+* Pupphassa Buddhaṁ yajati (in the sense of 'pupphena'), ghatassa aggiṁ juhoti (for 'ghatena'), kiṁ tassa (in the sense of 'tena'), kusalā naccagītassa (in the sense of 'naccagīte'). Similarly, — kusalo tvaṁ rathassa aṅgapaccaṅgānaṁ (in the sense of '"paccaṅgesu').
 
-#### 6. Dutiyā-Pañcaminañ ca.
+#### 6. Dutiyā-Pañcamīnañ ca.
 
 The endings of the Sixth Case are also sometimes used in denoting the sense of those of the Second and Fifth cases:
 
 * Kammassa kattāro, bhinnānaṁ sandhātā (in the sense of the Second Case); sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno (in the sense of the Fifth Case).
 
-### Sattami (the Seventh Case)
+### Sattamī (the Seventh Case)
 
 #### 1. Okāse Sattamī.
 
-The endings of the Seventh Case are used in denoting location (see pp. 35-36) :
+The endings of the Seventh Case are used in denoting location (see pp. 35-36):
 
 * Ghaṭesu vari, salile macchā, nadiyaṁ sassaṁ, tilesu telaṁ.
 
 #### 2. Kamma-Karaṇa-Nimittatthesu Sattamī.
 
-The endings of the Seventh Case are used in denoting the sense of the Accusative and the Instrumental as well as in signifying a motive :
+The endings of the Seventh Case are used in denoting the sense of the Accusative and the Instrumental as well as in signifying a motive:
 
 * Bāhāsu gahetvā, muddhani cumbitvā, bhikkhusu abhivādenti (all in the sense of the Accusative); pattesu piṇḍāya caranti (in the sense of the Instrumental = pattehi); kuñjaro dantesu' haññate (where 'dantesu'='dantakaraṇāya', signifying motive).
 
 #### 3. Sampadāne ca.
 
-The endings of the Seventh Case are also used in denoting the sense of the Dative :
+The endings of the Seventh Case are also used in denoting the sense of the Dative:
 
 * Saṅghe dinnaṁ (in the sense of 'Saṅghassa dinnaṁ').
 
 #### 4. Pañcamyatthe ca.
 
-The endings of the Seventh Case are also used in the sense of the Fifth :
+The endings of the Seventh Case are also used in the sense of the Fifth:
 
-* Kadalīsu (for 'kadalīhi ') gajamṁ rakkhati.
+* Kadalīsu (for 'kadalīhi ') gajaṁ rakkhati.
 
 #### 5. Kālabhāvesu ca.
 
-The endings of the Seventh Case are also used in denoting time as well as the sense of the Nominative Absolute :
+The endings of the Seventh Case are also used in denoting time as well as the sense of the Nominative Absolute:
 
-* Pubbapha-samaye gato (denoting time) ;
+* Pubbaṇha-samaye gato (denoting time);
 * Saṅghesu bhojiyamānesu, gato (in the sense of the Nominative Absolute). Similarly, - tasmiṁ gate, ahaṁ gamissāmi.
 
 #### 6. Upādhyadhik'-issaravacane.
 
-The endings of the Seventh Case are used in connection with *adhi* and *upa* to denote superiority :
+The endings of the Seventh Case are used in connection with *adhi* and *upa* to denote superiority:
 
-* Upa nikkhe (i.e., more than a nikkha) kahāpaṇaṁ ; similarly, - upa khāriyaṁ doṇo. Adhi devesu (i.e., superior to the devas) Buddho; similarly, - adhi Brahmadatte Pañcālā.
+* Upa nikkhe (i.e., more than a nikkha) kahāpaṇaṁ; similarly, - upa khāriyaṁ doṇo. Adhi devesu (i.e., superior to the devas) Buddho; similarly, - adhi Brahmadatte Pañcālā.
 
 #### 7. Maṇḍitussukkesu Tatiyā ca.
 
-The endings of the Third Case as well as those of the Seventh are used in connection with words denoting adornment and zeal :
+The endings of the Third Case as well as those of the Seventh are used in connection with words denoting adornment and zeal:
 
-* Ñānasmiṁ (also, ñānena) pasīdito (denoting adornment) ; ñānena (also, ñānasmiṁ) ussuko (denoting zeal).
+* Ñāṇasmiṁ (also, ñāṇena) pasīdito (denoting adornment); ñāṇena (also, ñāṇasmiṁ) ussuko (denoting zeal).
