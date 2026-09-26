@@ -13,7 +13,6 @@ A translation of the earliest available Pāli grammar into modern English.
 
 ```sh
 pnpm install
-pnpm exec playwright install
 pnpm astro check
 pnpm build
 ```
