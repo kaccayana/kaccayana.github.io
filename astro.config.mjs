@@ -1,26 +1,60 @@
 // @ts-check
-import { defineConfig } from "astro/config";
+import { defineConfig, fontProviders } from "astro/config";
 import starlight from "@astrojs/starlight";
-import rehypeMermaid from "rehype-mermaid";
-import remarkPlantUML from "@akebifiky/remark-simple-plantuml";
-import remarkAlerts from "remark-alerts";
-import astroExpressiveCode from "astro-expressive-code";
+import starlightGitHubAlerts from 'starlight-github-alerts';
 import starlightHeadingBadges from "starlight-heading-badges";
+import mermaid from 'astro-mermaid';
+import plantuml from "astro-plantuml";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://kaccayana.github.io",
-  integrations: [
-    astroExpressiveCode({
-      shiki: {
-        // Allow using the alias 'mjs' for the 'javascript' language
-        langAlias: {
-          plantuml: "txt",
+  fonts: [
+    {
+      provider: fontProviders.google(),
+      name: "Noto Sans",
+      cssVariable: "--sl-font",
+      weights: [400, 600, 700],
+      styles: ["normal"],
+      subsets: ["latin", "latin-ext"],
+    },
+    {
+      provider: fontProviders.google(),
+      name: "Noto Sans Mono",
+      cssVariable: "--sl-font-mono",
+      weights: [400],
+      styles: ["normal"],
+      subsets: ["latin", "latin-ext"],
+      fallbacks: ["monospace"],
+    },
+  ],
+  vite: {
+    build: {
+      chunkSizeWarningLimit: 1500,
+      rolldownOptions: {
+        onwarn(warning, defaultHandler) {
+          if (
+            warning.code === "MODULE_LEVEL_DIRECTIVE" &&
+            warning.message.includes('"use astro:head-inject"')
+          ) {
+            return;
+          }
+          defaultHandler(warning);
         },
       },
+    },
+  },
+  integrations: [
+    plantuml(),
+    mermaid({
+      theme: 'default',
+      autoTheme: true
     }),
     starlight({
       title: "Kaccāyana",
+      components: {
+        Head: "./src/components/Head.astro",
+      },
       social: [
         {
           icon: "github",
@@ -39,15 +73,15 @@ export default defineConfig({
         },
         {
           label: "Kaccāyana",
-          autogenerate: { directory: "kaccayana" },
+          items: [{ autogenerate: { directory: 'kaccayana' } }],
         },
         {
           label: "Bālāvatāra",
-          autogenerate: { directory: "balavatara" },
+          items: [{ autogenerate: { directory: 'balavatara' } }],
         },
         {
           label: "Reference",
-          autogenerate: { directory: "reference" },
+          items: [{ autogenerate: { directory: 'reference' } }],
         },
       ],
       customCss: [
@@ -55,10 +89,6 @@ export default defineConfig({
         "remark-alerts/styles/github-colors-light.css",
         "remark-alerts/styles/github-colors-dark-media.css",
         "remark-alerts/styles/github-base.css",
-        "@fontsource/noto-sans/400.css",
-        "@fontsource/noto-sans/600.css",
-        "@fontsource/noto-sans/700.css",
-        "@fontsource/noto-mono/400.css",
       ],
       logo: {
         src: "./src/assets/rosely.svg",
@@ -70,11 +100,7 @@ export default defineConfig({
           lang: "en",
         },
       },
-      plugins: [starlightHeadingBadges()],
-    }),
-  ],
-  markdown: {
-    remarkPlugins: [remarkAlerts, remarkPlantUML],
-    rehypePlugins: [rehypeMermaid],
-  },
+      plugins: [starlightHeadingBadges(), starlightGitHubAlerts()]
+    })
+  ]
 });

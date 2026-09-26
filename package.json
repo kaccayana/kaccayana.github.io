@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "clean": "rm -rf .astro dist node_modules",
+    "check": "tsc --noEmit --runExternalCode",
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
@@ -12,21 +13,21 @@
     "refresh": "pnpm dlx @astrojs/upgrade ; pnpm up -L"
   },
   "dependencies": {
-    "@akebifiky/remark-simple-plantuml": "^1.0.2",
-    "@astrojs/check": "^0.9.8",
-    "@astrojs/starlight": "^0.38.3",
-    "@fontsource/noto-mono": "^5.2.5",
-    "@fontsource/noto-sans": "^5.2.10",
-    "add": "^2.0.6",
-    "astro": "^6.1.5",
-    "astro-expressive-code": "^0.41.7",
-    "playwright": "^1.59.1",
-    "pnpm": "^10.33.0",
-    "rehype-mermaid": "^3.0.0",
+    "@astrojs/starlight": "^0.42.4",
+    "@mermaid-js/layout-elk": "^1.0.0",
+    "astro": "^7.3.5",
+    "astro-mermaid": "^2.1.0",
+    "astro-plantuml": "^1.0.1",
+    "mermaid": "^12.0.0",
+    "pnpm": "^12.6.0",
     "remark-alerts": "^0.0.1",
-    "sharp": "^0.34.5",
-    "starlight-heading-badges": "^0.7.0",
-    "typescript": "^6.0.2"
+    "sharp": "^0.35.4",
+    "starlight-github-alerts": "^0.4.0",
+    "starlight-heading-badges": "^0.8.0"
   },
-  "packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319"
+  "packageManager": "pnpm@12.6.0+sha512.3ef68f951cb111ac204b4a5a16f0b2ddf0da56a96e0413e81d855d9f0b55ef926714709028e1cd00c405c2c5fb7b9e8ec4dc46777c805d0373c2f2ff00fd20ec",
+  "devDependencies": {
+    "@astrojs/ts-content-mapper": "^0.2.0",
+    "typescript": "^7.1.0-dev.20260925.1"
+  }
 }
