@@ -7,8 +7,9 @@ sidebar:
   label: 0. Paṇāma
 ---
 
-> [!NOTE]
-> This translation merges my own rendering with machine translations by ChatGPT-4o, Claude 3.5 Sonnet and [MITRA-QWEN](https://dharmamitra.org), checked line by line against the Pāli.
+:::note
+This translation merges my own rendering with machine translations by ChatGPT-4o, Claude 3.5 Sonnet and [MITRA-QWEN](https://dharmamitra.org), checked line by line against the Pāli.
+:::
 
 ## Paṇāma (Salutation)
 

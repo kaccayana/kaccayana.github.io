@@ -17,12 +17,9 @@
     "@mermaid-js/layout-elk": "^1.0.0",
     "astro": "^7.3.5",
     "astro-mermaid": "^2.1.0",
-    "astro-plantuml": "^1.0.1",
     "mermaid": "^12.0.0",
     "pnpm": "^12.6.0",
-    "remark-alerts": "^0.0.1",
     "sharp": "^0.35.4",
-    "starlight-github-alerts": "^0.4.0",
     "starlight-heading-badges": "^0.8.0"
   },
   "packageManager": "pnpm@12.6.0+sha512.3ef68f951cb111ac204b4a5a16f0b2ddf0da56a96e0413e81d855d9f0b55ef926714709028e1cd00c405c2c5fb7b9e8ec4dc46777c805d0373c2f2ff00fd20ec",

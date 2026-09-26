@@ -1,10 +1,8 @@
 // @ts-check
 import { defineConfig, fontProviders } from "astro/config";
 import starlight from "@astrojs/starlight";
-import starlightGitHubAlerts from 'starlight-github-alerts';
 import starlightHeadingBadges from "starlight-heading-badges";
 import mermaid from 'astro-mermaid';
-import plantuml from "astro-plantuml";
 
 // https://astro.build/config
 export default defineConfig({
@@ -45,7 +43,6 @@ export default defineConfig({
     },
   },
   integrations: [
-    plantuml(),
     mermaid({
       theme: 'default',
       autoTheme: true
@@ -86,9 +83,6 @@ export default defineConfig({
       ],
       customCss: [
         "./src/styles/custom.css",
-        "remark-alerts/styles/github-colors-light.css",
-        "remark-alerts/styles/github-colors-dark-media.css",
-        "remark-alerts/styles/github-base.css",
       ],
       logo: {
         src: "./src/assets/rosely.svg",
@@ -100,7 +94,7 @@ export default defineConfig({
           lang: "en",
         },
       },
-      plugins: [starlightHeadingBadges(), starlightGitHubAlerts()]
+      plugins: [starlightHeadingBadges()]
     })
   ]
 });
