@@ -2,7 +2,6 @@
 import { defineConfig, fontProviders } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightHeadingBadges from "starlight-heading-badges";
-import mermaid from 'astro-mermaid';
 
 // https://astro.build/config
 export default defineConfig({
@@ -28,7 +27,6 @@ export default defineConfig({
   ],
   vite: {
     build: {
-      chunkSizeWarningLimit: 1500,
       rolldownOptions: {
         onwarn(warning, defaultHandler) {
           if (
@@ -43,10 +41,6 @@ export default defineConfig({
     },
   },
   integrations: [
-    mermaid({
-      theme: 'default',
-      autoTheme: true
-    }),
     starlight({
       title: "Kaccāyana",
       components: {
