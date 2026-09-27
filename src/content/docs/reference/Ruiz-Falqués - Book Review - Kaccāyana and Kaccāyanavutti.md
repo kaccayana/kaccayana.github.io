@@ -11,6 +11,8 @@ Aleix Ruiz Falqués, review of Ole Holten Pind (ed.), *Kaccāyana and Kaccāyana
 Society, 2013), *Orientalistische Literaturzeitung* 113.4–5 (2018), pp. 392–395,
 https://doi.org/10.1515/olzg-2018-0129. Reproduced from the author's copy of the published PDF; text,
 italics and footnotes checked against the original.
+
+The original is available here as a PDF: [Ruiz-Falqués 2018, review of Pind (0.1 MB)](/reference/ruiz-falques-2018-review-pind-olz.pdf).
 :::
 
 **Pind, Ole Holten (Hg.):** *Kaccāyana and Kaccāyanavutti.* Bristol: Pali Text Society 2013. XV, 326 S. 8°. Hartbd. ISBN 978-0-86013-490-9.

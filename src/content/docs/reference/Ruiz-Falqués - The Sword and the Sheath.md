@@ -11,6 +11,8 @@ Aleix Ruiz-Falqués, "The Sword and the Sheath. Three Notes on *Kaccāyana* 1: *
 Bimalendra Kumar and Ujjwal Kumar (eds.), *Dhamma-Anusīlana: Investigating Papers on Buddhist Studies*,
 New Delhi: Aditya Prakashan, 2021, pp. 373–400. Reproduced from the author's PDF; text, italics and
 footnotes checked against the original.
+
+The original is available here as a PDF: [Ruiz-Falqués 2021, The Sword and the Sheath (0.2 MB)](/reference/ruiz-falques-2021-sword-and-sheath.pdf).
 :::
 
 *A. Ruiz-Falqués*

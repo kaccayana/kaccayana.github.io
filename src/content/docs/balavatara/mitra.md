@@ -18,6 +18,10 @@ description: >
   (1935)
 ---
 
+:::note[Source]
+*Bālāvatāra: An Elementary Pali Grammar Abridged for the Under-graduate Course*, originally edited and translated by Satischandra Vidyabhusana and Punnananda Swami, revised and recast with additional matter by Sailendranath Mitra, University of Calcutta, 1935. Reproduced from a scan of the printed book, [available here as a PDF (3.6 MB)](/reference/balavatara-1935-mitra.pdf); the OCR errors of the scan have been corrected.
+:::
+
 An elementary Pali Grammar abridged for\
 the Under-graduate Course
 

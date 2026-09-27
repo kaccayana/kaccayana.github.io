@@ -8,6 +8,8 @@ sidebar:
 
 :::note[Source]
 A. Ruiz-Falqués, "On the Authorship of *Kaccāyana*, the Oldest Pāli Grammar", in Bimalendra Kumar and Ujjwal Kumar (eds.), *Pariyatti: Studies in Pāli Language and Literature*, New Delhi: Aditya Prakashan, 2017, pp. 251–268. Reproduced from the author's PDF; text, italics and footnotes checked against the original.
+
+The original is available here as a PDF: [Ruiz-Falqués 2017, On the Authorship of Kaccāyana (0.2 MB)](/reference/ruiz-falques-2017-authorship-of-kaccayana.pdf).
 :::
 
 **A. RUIZ-FALQUÉS**[^1]

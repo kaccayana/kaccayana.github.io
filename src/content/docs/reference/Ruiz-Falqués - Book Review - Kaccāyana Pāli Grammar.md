@@ -8,6 +8,8 @@ sidebar:
 
 :::note[Source]
 Aleix Ruiz-Falqués, "Book Review: Thitzana, Ashin U. *Kaccāyana Pāli Grammar, Translated into English with Additional Notes, Simple Explanations and Tables*, 2 vols. Pariyatti Press, Onalaska, 2016", *Journal of Ñāṇasaṃvara Centre for Buddhist Studies* I (2018), pp. 279–303. © 2018 Ñāṇasaṃvara Centre for Buddhist Studies, the Foundation of His Holiness Somdet Phra Ñāṇasaṃvara Centennial Commemoration under the Patronage of His Holiness the Supreme Patriarch. Reproduced from the publisher's PDF; text, italics and footnotes checked against the original.
+
+The original is available here as a PDF: [Ruiz-Falqués 2018, review of Thitzana (0.7 MB)](/reference/ruiz-falques-2018-review-thitzana.pdf).
 :::
 
 ## A Long Felt Need[^1]

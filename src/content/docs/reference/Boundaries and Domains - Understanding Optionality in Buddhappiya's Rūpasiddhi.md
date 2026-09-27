@@ -7,6 +7,8 @@ sidebar:
 
 :::note[Source]
 Aleix Ruiz-Falqués, "Boundaries and Domains: Understanding Optionality in Buddhappiya's *Rūpasiddhi*", *Journal of the Pali Text Society* XXXIV (2021), pp. 227–250. Reproduced from the author's PDF; text, italics and footnotes checked against the original.
+
+The original is available here as a PDF: [Ruiz-Falqués 2021, Boundaries and Domains (0.3 MB)](/reference/ruiz-falques-2021-boundaries-and-domains.pdf).
 :::
 
 Aleix Ruiz-Falqués[^1]

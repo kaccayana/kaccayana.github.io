@@ -32,3 +32,10 @@ sidebar:
   * [CHAPTER I SANDHI-KAPPA](https://archive.org/details/kaccayana-pali-sandhi)
   * [CHAPTER II NĀMA-KAPPA](https://archive.org/details/kaccayana-pali-vyakaran-nama-kappa-vol.-2)
 * A. Thitzana, *Kaccāyana Pāli Vyākaraṇaṁ* Volumes 1 and 2, Pariyatti Press (2016), available on [Pariyatti](https://store.pariyatti.org/kaccayana-pali-grammar-vol1-2)
+
+## Articles
+
+Six articles by Aleix Ruiz-Falqués are reproduced as pages in this section, each with a link to its PDF. Two more are available as PDFs only:
+
+* Aleix Ruiz-Falqués, "The Role of Pāli Grammar in Burmese Buddhism", *Journal of Burma Studies* 21.1 (2017), pp. 1–96 — [PDF (0.6 MB)](/reference/ruiz-falques-2017-pali-grammar-in-burmese-buddhism.pdf)
+* Aleix Ruiz-Falqués, "Silent Mastery: The Concealed Art of Buddhist Writing", *Numen* 71 (2024), pp. 303–314 — [PDF (0.2 MB)](/reference/ruiz-falques-2024-silent-mastery.pdf)

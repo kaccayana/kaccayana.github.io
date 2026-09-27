@@ -11,6 +11,8 @@ Aleix Ruiz-Falqués, "Two levels of optionality in the *Kaccāyana Vyākaraṇa*
 *Śabdānugamaḥ (शब्दानुगमः): Indian linguistic studies in honor of George Cardona*, vol. I: *Vyākaraṇa and
 Śābdabodha*, Providence: The Sanskrit Library, 2021, pp. 431–465. Reproduced from the published PDF; text,
 italics and footnotes checked against the original.
+
+The original is available here as a PDF: [Ruiz-Falqués 2021, Two levels of optionality (0.2 MB)](/reference/ruiz-falques-2021-two-levels-of-optionality.pdf).
 :::
 
 ## Abstract
