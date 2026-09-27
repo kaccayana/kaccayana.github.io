@@ -50,7 +50,66 @@ Padarūpasiddhi, clear and well divided into sections.
 `Byattaṃ` ("clear") and `sukaṇḍaṃ` ("well divided into sections") state the two aims Buddhappiya sets against the old vutti: a commentary that explains, and an order that teaches. Ruiz-Falqués (*Boundaries and Domains*, §1.4) reads the verse as the author's programme.
 :::
 
+## Reading the option markers
+
+:::note[Buddhappiya's two levels of optionality]
+The Analysis of every sutta reads its option marker in these terms, after Ruiz-Falqués, *Boundaries and Domains*, §2.3.
+
+```mermaid
+flowchart LR
+  O(["an option marker in the sutta"]) --> VA["vā, or"]
+  O --> KV["kvaci, in some places"]
+  O --> NV["navā, or not"]
+  O --> VB["vibhāsā, optionally"]
+  O --> CA["ca, tu, api, niccaṃ also control options"]
+  VA --> VK["vikappa: an open option<br/>both forms are good Pāli"]
+  VA --> VV["vavatthitavibhāsā: a restricted option<br/>Buddhappiya states its domain"]
+  VV --> N1["nicca: obligatory for these words"]
+  VV --> N2["anicca: optional for those"]
+  VV --> N3["asanta: never for the rest"]
+  KV --> KV1["an exception to a wider rule:<br/>the form occurs only in the words named"]
+  NV --> NV1["glossed as kvaci (Rūp 21)"]
+  VB --> VB1["glossed as vā (Rūp 360)"]
+```
+
+:::
+
 ## Table of Contents
+
+:::note[How the Rūpasiddhi rearranges Kaccāyana]
+Buddhappiya's seven sections set against the Kaccāyana chapters whose rules they take; a rule may be quoted in more than one place.
+
+```mermaid
+flowchart LR
+  subgraph K["Kaccāyana"]
+    K1["Sandhikappa §1–§51"]
+    K2["Nāmakappa §52–§270"]
+    K3["Kārakakappa §271–§315"]
+    K4["Samāsakappa §316–§343"]
+    K5["Taddhitakappa §344–§405"]
+    K6["Ākhyātakappa §406–§523"]
+    K7["Kibbidhānakappa §524–§623<br/>Uṇādikappa §624–§673"]
+  end
+  subgraph R["Padarūpasiddhi"]
+    R1["1. Sandhikaṇḍa 1–59"]
+    R2["2. Nāmakaṇḍa 60–282<br/>by stem, with paradigms"]
+    R3["3. Kārakakaṇḍa 283–329"]
+    R4["4. Samāsakaṇḍa 330–360"]
+    R5["5. Taddhitakaṇḍa 361–423"]
+    R6["6. Ākhyātakaṇḍa 424–544"]
+    R7["7. Kibbidhānakaṇḍa 545–684"]
+  end
+  K1 --> R1
+  K2 --> R2
+  K3 --> R3
+  K3 -. "the form rules, where a paradigm first needs them" .-> R2
+  K4 --> R4
+  K5 --> R5
+  K6 --> R6
+  K7 --> R7
+```
+
+:::
 
 <LinkCard
   title="1. Sandhikaṇḍa (Sandhi section)"

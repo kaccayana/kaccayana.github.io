@@ -500,6 +500,21 @@ Thus ends the first section of the sandhi chapter.
 
 ## Dutiyakaṇḍa (Second Section - Vowel Sandhi)
 
+:::note[How the vowel rules fit together]
+When a final vowel meets an initial vowel the section offers three routes: elide one of the two vowels, change the first into a consonant, or put a consonant between them. Each branch names the rule.
+
+```mermaid
+flowchart LR
+  A(["a vowel meets a vowel"]) --> B{"is a vowel elided?"}
+  B -- "the first, as a rule §12" --> C["the second vowel stands<br/>sometimes changed to another vaṇṇa §14<br/>sometimes lengthened §15"]
+  B -- "optionally the second, when unlike §13" --> D["the first vowel stands<br/>and may be lengthened §16"]
+  B -- "neither" --> E["the first vowel becomes a consonant<br/>e → y §17 · o, u → v §18<br/>an i-vowel → y, in a few words §21<br/>eva → riva, with the vowel before it short §22"]
+  B -- "neither" --> F["a consonant is put between them §35<br/>y v m d n t r l"]
+  C --> G["and a following ti may become cc §19<br/>dha → d §20"]
+```
+
+:::
+
 :::note
 This section describes `sarasandhi` (combination of vowels).
 :::
@@ -2517,6 +2532,27 @@ Thus ends the third section of the sandhi chapter.
 ---
 
 ## Catutthakaṇḍa (Fourth Section - `niggahita sandhi`)
+
+:::note[How the niggahīta rules fit together]
+What happens to a final `ṃ` depends on the sound that follows it; each branch names the rule that applies, and sometimes means the change is optional.
+
+```mermaid
+flowchart LR
+  A(["ṃ is followed by"]) --> V["a consonant of a vagga"]
+  A --> E["e or h"]
+  A --> Y["y"]
+  A --> S["a vowel"]
+  A --> K["any consonant"]
+  V --> V1["ṃ stays §30<br/>or becomes the nasal of that vagga §31"]
+  E --> E1["ṃ → ñ §32"]
+  Y --> Y1["ṃ + y → ññ §33"]
+  S --> S1["ṃ → m or d §34"]
+  S --> S2["sometimes ṃ is elided §38<br/>or the vowel is §40, and a conjunct then made single §41"]
+  K --> K1["sometimes ṃ is elided §39<br/>or becomes o §36"]
+  A --> N["ṃ is also inserted where there was none §37"]
+```
+
+:::
 
 <a name="m30"></a>
 

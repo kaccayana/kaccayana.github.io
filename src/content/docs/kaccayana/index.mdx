@@ -32,7 +32,47 @@ The text of Kaccāyana consists of a number of rules (`sutta`) divided into chap
   * `utsarga` (general rule) <Badge text="utsarga" variant="success" />
   * `apavāda` (exception) <Badge text="apavāda" variant="success" />
 
+:::note[The kinds of rule]
+The classification above as a tree; the badge on each sutta heading names its kind.
+
+```mermaid
+flowchart LR
+  S(["sutta"]) --> A["saññā<br/>technical term"]
+  S --> B["adhikāra<br/>domain"]
+  S --> C["paribhāsā<br/>metarule"]
+  S --> D["vidhi<br/>operation"]
+  A --> A1["anvattha<br/>meaningful"]
+  A --> A2["rūḷhī<br/>artificial"]
+  B --> B1["sīhagatika<br/>comprehensive"]
+  B --> B2["maṇḍūkagatika<br/>selective"]
+  B --> B3["yathānupubbika<br/>progressive"]
+  C --> C1["saññaṅga<br/>definition metarule"]
+  C --> C2["vidhyaṅga<br/>operational metarule"]
+  C --> C3["aññaṅga<br/>other metarule"]
+  D --> D1["utsarga<br/>general rule"]
+  D --> D2["apavāda<br/>exception"]
+```
+
+:::
+
 ## Table of Contents
+
+:::note[The eight chapters]
+The Kaccāyana's 673 suttas fall into eight chapters; the Chaṭṭha Saṅgāyana edition counts the third to fifth as further sections of the noun chapter and the eighth as a section of the seventh.
+
+```mermaid
+flowchart LR
+  T(["Kaccāyanabyākaraṇaṃ<br/>673 suttas"]) --> S1["1. Sandhikappa §1–§51<br/>letters, terms and the joining of sounds<br/>five sections"]
+  T --> S2["2. Nāmakappa §52–§270<br/>the inflection of nouns<br/>five sections"]
+  S2 --> S3["3. Kārakakappa §271–§315<br/>the seven forms and their meanings"]
+  S2 --> S4["4. Samāsakappa §316–§343<br/>compounds"]
+  S2 --> S5["5. Taddhitakappa §344–§405<br/>nouns made from nouns"]
+  T --> S6["6. Ākhyātakappa §406–§523<br/>the verb<br/>four sections"]
+  T --> S7["7. Kibbidhānakappa §524–§623<br/>words made from roots<br/>five sections"]
+  S7 --> S8["8. Uṇādikappa §624–§673<br/>the remaining primary suffixes"]
+```
+
+:::
 
 <LinkCard
   title="1. Sandhikappa (`sandhi` chapter)"
