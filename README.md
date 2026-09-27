@@ -6,7 +6,7 @@
 A translation of the earliest available Pāli grammar into modern English, together with Bālāvatāra, the fourteenth-century primer based on it.
 
 > [!IMPORTANT]
-> **Status.** The [Bālāvatāra](https://kaccayana.github.io/balavatara/) translation is complete. It was produced through a mix of hand translation, the [MITRA-QWEN](https://huggingface.co/buddhist-nlp/mitra-qwen35-translate) Pāli–English model from the [Dharmamitra](https://dharmamitra.org) project (run locally, as a literal crib) and Claude Fable 5.1 (Anthropic), which reworked the machine drafts into the style of the hand-translated chapters; the result was checked against the Pāli before publication. Of [Kaccāyana](https://kaccayana.github.io/kaccayana/) itself, the Sandhi and Nāma chapters are translated; the remaining chapters are still drafts.
+> **Status.** The [Bālāvatāra](https://kaccayana.github.io/balavatara/) translation is complete. It was produced through a mix of hand translation, the [MITRA-QWEN](https://huggingface.co/buddhist-nlp/mitra-qwen35-translate) Pāli–English model from the [Dharmamitra](https://dharmamitra.org) project (run locally, as a literal crib) and Claude Fable 5.1 (Anthropic), which reworked the machine drafts into the style of the hand-translated chapters; the result was checked against the Pāli before publication. All eight chapters of [Kaccāyana](https://kaccayana.github.io/kaccayana/) itself are translated the same way, each sutta with its analysis, the vutti, worked examples with Tipiṭaka citations and counter-examples.
 
 > [!NOTE]
 > This work is public domain using the CC0 licence and the source code is available on Github. If you like this work and wish to show your appreciation, please consider sponsoring me.
