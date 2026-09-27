@@ -3,7 +3,7 @@ categories: ["Kaccāyana", "introduction"]
 tags: ["introduction"]
 title: "Introduction"
 description: >
-  This section provides an overview of Kaccāyana in terms of context, structure, other available translations, motivation and reference sources.
+  The three classical Pāli grammars translated on this site and how they relate, the state of the translations and their collation against earlier ones, the approach to optionality and terminology, and an overview of Kaccāyana: its context, sources, structure, the anatomy of a sutta and the kinds of rule.
 sidebar:
   label: "Introduction"
   order: 1
@@ -11,7 +11,61 @@ sidebar:
 
 import { Badge } from '@astrojs/starlight/components';
 
-## Context
+## The three texts
+
+This site translates three related grammars of Pāli, the works of one school, into modern English.
+
+| Text | Author and date | Extent | Translation |
+| --- | --- | --- | --- |
+| **Kaccāyana** (`Kaccāyanabyākaraṇaṃ`) | ascribed to Mahākaccāyana; compiled around the sixth or seventh century CE, probably in India | 673 suttas in eight chapters, each with its `vutti` and examples | [Kaccāyana](/kaccayana/) |
+| **Padarūpasiddhi** | Buddhappiya, a Coḻa monk of the thirteenth century who calls himself a pupil of Ānanda | 684 suttas in seven sections, with Buddhappiya's own commentary | [Padarūpasiddhi](/rupasiddhi/) |
+| **Bālāvatāra** | Dhammakitti, Sri Lanka, fourteenth century | 269 paragraphs in four sections | [Bālāvatāra](/balavatara/) |
+
+**Kaccāyana** is the earliest Pāli grammar that survives: terse rules (`sutta`) with a short gloss (`vutti`) and examples, arranged by topic. **Buddhappiya's Padarūpasiddhi** takes over practically every sutta of Kaccāyana but replaces the old vutti with his own commentary and rearranges the rules into a teaching order: all the masculine stems in `a` together, with their full paradigm and the derivation of every form, then the other stems, and so on through the seven sections, so that a rule may be quoted more than once. It became the standard textbook of the Kaccāyana school. **Dhammakitti's Bālāvatāra** abridges the two for beginners and follows the Rūpasiddhi's arrangement; it stops at the secondary suffixes and has no chapter on the verb or on primary derivation.
+
+The three translations are made in one style and cross-referenced rule by rule. Every Rūpasiddhi sutta and every Bālāvatāra rule carries a card to the Kaccāyana sutta it is; the Kaccāyana headings give the Rūpasiddhi number of each rule in parentheses; and diagrams on the [Rūpasiddhi](/rupasiddhi/) and [Bālāvatāra](/balavatara/) pages map the later texts onto the Kaccāyana chapters.
+
+## Status
+
+All three translations are complete (September 2026): Kaccāyana §1–§673, the Padarūpasiddhi Rūp 1–684 and Bālāvatāra ¶1–¶269. They were produced through a mix of hand translation, the [MITRA-QWEN](https://huggingface.co/buddhist-nlp/mitra-qwen35-translate) Pāli–English model of the [Dharmamitra](https://dharmamitra.org) project, run locally as a literal crib, and Claude Fable 5.1 (Anthropic), which reworked the drafts into the house style of the hand-translated chapters; every sutta was checked against the Pāli before publication.
+
+Three earlier English translations are reproduced on this site as reference texts, and the new translations are being collated against them sutta by sutta:
+
+| Reference translation | Covers | Collation |
+| --- | --- | --- |
+| [U Nandisena, *Kaccāyanabyākaraṇaṃ* (2005)](/kaccayana/nandisena) | Kaccāyana | done; the footnotes of the Kaccāyana chapters record where the two readings differ |
+| [Phramaha Thiab Malai, *Kaccāyana-Vyākaraṇa: A Critical Study* (1997)](/malai/front-matter) | Kaccāyana, with a study of the tradition | in progress |
+| [Vidyabhusana, Punnananda Swami and Mitra, *Bālāvatāra* (1935)](/balavatara/mitra) | Bālāvatāra | to follow |
+
+Corrections and suggestions are welcome on [GitHub](https://github.com/kaccayana/kaccayana.github.io).
+
+## Approach
+
+### Optionality
+
+Kaccāyana hedges its rules with option markers, and a translation stands or falls by how it reads them. Following Aleix Ruiz-Falqués' studies of the question, [Two levels of optionality in the Kaccāyana Vyākaraṇa](/reference/two-levels-of-optionality-in-the-kaccāyana-vyākaraṇa) and [Boundaries and Domains](/reference/boundaries-and-domains---understanding-optionality-in-buddhappiyas-rūpasiddhi), the translation distinguishes two levels of option:
+
+* `vā` marks either an open option (`vikappa`), where both forms are good Pāli, or a restricted option (`vavatthitavibhāsā`), where the tradition fixes the domain in which the rule is obligatory (`nicca`), optional (`anicca`) or excluded (`asanta`);
+* `kvaci` marks an exception to a wider rule: the form occurs only in the words the examples name;
+* `navā` is glossed by the Rūpasiddhi as `kvaci`, and `vibhāsā` as `vā`; `ca`, `api`, `tu` and `niccaṃ` control options too.
+
+In the sutta headings `vā` is rendered "optionally", `kvaci` "sometimes" or "occasionally" and `navā` "rarely"; the Analysis under every sutta then states how the marker is read and, where Buddhappiya or the commentaries fix a domain, what that domain is.
+
+### Terminology
+
+The grammar is described in its own terms rather than through the categories of Latin grammar. An inflection is a `vibhatti`, and its seven forms are numbered ① to ⑦ in the traditional order (`paṭhamā` to `sattamī`), with ⓪ for the vocative, ⨀ for the singular and ⨂ for the plural; the words "case", "declension" and "indeclinable" are not used, and `aliṅga` is glossed as "without gender". In the glosses of the examples gender is marked 🚹 🚺 🚻 and person 👆 🤘 🤟. Stems are `liṅga`, suffixes `paccaya`, roots `dhātu`; Pāli technical terms are kept, set in `backticks`, and glossed on first use.
+
+### Examples, derivations and diagrams
+
+Every example the vutti gives is derived step by step, with `+` for the parts joined, `→` for a substitution and `~~x~~` for an elision, each step naming the rule that makes it; where an example is a quotation from the Tipiṭaka it is cited and linked to the [World Tipiṭaka Edition](https://tipitaka2500.github.io). Counter-examples are explained as well as translated. Diagrams are used for structure only, for the kinds of rule, the map of each text, the sandhi decision charts and the taxonomies of compounds, suffixes and model nouns, never for an individual derivation, which the notation already handles.
+
+### Sources
+
+The Pāli of all three texts is the **Chaṭṭha Saṅgāyana Tipiṭaka** edition (CST4) published by the [Vipassana Research Institute](https://www.vridhamma.org) at [tipitaka.org](https://tipitaka.org), also available on [GitHub](https://github.com/fsnow/cst): Kaccāyana with its vutti, Buddhappiya's Padarūpasiddhi and Bālāvatāra, whose complete text is reproduced on the [Bālāvatāra (CSCD4)](/balavatara/cscd4) page. The edition has misprints, and its Bālāvatāra and Rūpasiddhi files have a few paragraphs and numbers out of place; a reading is corrected where the rule itself requires it, every correction is footnoted with the edition's reading, and the suttas are numbered by their position in the text.
+
+The examples and counter-examples are usually taken from the Tipiṭaka and its commentaries. Where they could be identified they are cited from the [World Tipiṭaka Edition](https://tipitaka2500.github.io); some could not be found and may come from texts outside the canon.
+
+## Kaccāyana in context
 
 **Kaccāyana** is the oldest extant Pāli grammar, and was composed around the sixth century CE, most probably in India. It is partly based on **Pāṇini** and **Kātantra**:
 
@@ -30,44 +84,37 @@ According to the Thai monk Dhammakitti in *Saddhammasaṅgaha* (Saddhamma-s IX, 
 >*(SADDHĀNANDA, 1890: 63)*  
 >Kaccāyana composed the yoga [“rule”], Saṅghanandin the pavuttikā [“notes”], and Vimalabodhī the ṭīkā [“commentary”], and Brahmaputto the kāraka [“section on factor of action”].
 
-## Source of text
-
-I have sourced the text of Kaccāyana from **Chaṭṭha Saṅgāyana Tipiṭaka** available from the [Pāḷi Tipiṭaka web site]](https://tipitaka.org). This is based on the Chaṭṭha Saṅgāyana Tipiṭaka Version 4 (CST4) CD published by the [Vipassana Research Institute](https://www.vridhamma.org), available for download [on their website](https://tipitaka.org/cst4), and also available on [Github](https://github.com/fsnow/cst).
-
-Unfortunately, the version of Kaccāyana available above contain many spelling errors. I have taken the opportunity to correct these errors whenever I have encountered them, but it is possible I have not have identified all the errors and some errors remain which may impact the translation.
-
-The examples and counter-examples in the text are usually taken from the Pāḷi Tipiṭaka (and commentaries), In the translation, I have tried to identify the references where possible and cross referenced them against the [World Tipiṭaka Edition](https://tipitaka2500.github.io), but have not always succeeded. It is possible these examples are references to other text outside the canon.
-
 ## The structure of Kaccāyana
 
-There are 673 rules (`sutta`), depending on the edition, spread across the following chapters and sections:
+There are 673 rules (`sutta`), numbered §1–§673 throughout this site, spread across the following chapters (`kappa`) and sections (`kaṇḍa`). The Chaṭṭha Saṅgāyana edition counts the Kāraka, Samāsa and Taddhita chapters as the sixth to eighth sections of the noun chapter, and the Uṇādi chapter as the sixth section of the Kibbidhāna chapter.
 
-1. Sandhi
-   1. Definitions
-   2. Vowel sandhi
-   3. Consonant sandhi
-   4. niggahīta (ṃ) sandhi
-   5. Miscellanea
-2. Nāma
-   1. Definitions, Internal morphology, Default Inflections
-   2. Pronominal inflections, an-stems
-   3. Pronominal inflections continued, mano-gaṇa, an-stems, tar-stems.
-   4. an-stems cont., feminine stems, adv. pronouns, nta-stems
-   5. Adverbial affixes
-3. KĀRAKA
-4. SAMĀSA
-5. TADDHITA
-6. Ākhyāta
-   1. Definitions
-   2. Special stems, causatives, bhāva, vb. classes
-   3. Reduplication, Special stems
-   4. Special affixes and stems
-7. Kibbidhāna
-   1. Definition of kicca and kit affixes
-   2. Use of affixes with tenses, voices, etc.
-   3. niṭṭhā affixes
-   4. Modification of vb. stems in primary derivation
-8. UṆĀDI
+1. [Sandhikappa](/kaccayana/1-sandhikappa) (§1–§51)
+   1. Definitions (§1–§11)
+   2. Vowel sandhi (§12–§22)
+   3. Consonant sandhi (§23–§29)
+   4. Niggahīta (`ṃ`) sandhi (§30–§41)
+   5. Miscellanea (§42–§51)
+2. [Nāmakappa](/kaccayana/2-namakappa) (§52–§270)
+   1. Definitions, internal morphology, default inflections (§52–§119)
+   2. `amha` and `tumha`, the `ntu` stems, numerals, `rāja`, `puma`, `kamma` (§120–§160)
+   3. The pronouns, the `mano` group, `gacchanta`, `brahma`, `atta`, `sakha`, `rāja`, `satthu`, `pitu` (§161–§210)
+   4. `atta`, the neuter, the feminine stems, `kiṃ`, `ima` and `eta`, the feminine suffixes, the vocative (§211–§246)
+   5. The suffixes that stand for inflections (`to`, `tra`, `dā` …) and the comparatives (§247–§270)
+3. [Kārakakappa](/kaccayana/3-karakakappa) (§271–§315): the seven inflection forms and the relations they express
+4. [Samāsakappa](/kaccayana/4-samasakappa) (§316–§343): compounds
+5. [Taddhitakappa](/kaccayana/5-taddhitakappa) (§344–§405): nouns made from nouns
+6. [Ākhyātakappa](/kaccayana/6-akhyatakappa) (§406–§523)
+   1. The endings and their times (§406–§431)
+   2. Derived verbs, the passive, the eight classes of root (§432–§457)
+   3. Reduplication, special stems (§458–§481)
+   4. Special suffixes and stems (§482–§523)
+7. [Kibbidhānakappa](/kaccayana/7-kibbidhanakappa) (§524–§623)
+   1. The `kicca` and `kita` suffixes (§524–§549)
+   2. The suffixes by time: the past, the infinitive and absolutive, the participles (§550–§570)
+   3. The shapes of `ta` after each root (§571–§589)
+   4. Changes of the root before `ṇ`, `tave` and `tuna` (§590–§606)
+   5. Further changes of root and suffix (§607–§623)
+8. [Uṇādikappa](/kaccayana/8-unadikappa) (§624–§673): the remaining primary suffixes
 
 ## The structure of a sutta
 
@@ -263,9 +310,9 @@ Examples:
 
 ### Usage of rūḷhī
 
-In a sutta, a `rūḷhī` (artificial technical term) will have a case ending that matches the role/usage of the term within a rule. For example `jha` (used for masculine/neuter nominal bases ending with `i` or `ī`):
+In a sutta, a `rūḷhī` (artificial technical term) carries the inflection form that matches the role of the term within the rule. For example `jha` (used for masculine/neuter nominal bases ending with `i` or `ī`):
 
-| case | `jha` | usage |
+| form | `jha` | usage |
 | :-: | :-: | --- |
 | ① | `jho` | `i`/`ī` (*replacement) |
 | ② | `jhaṃ` | `i`/`ī` (substitute) |
@@ -365,7 +412,7 @@ Vibhatti endings are used to determine the various roles in the rule
 :::
 
 Most vidhi “operational” rules teach paccaya “affixation” or ādesa “replacement” using previous definitions (saññā-s). It is all about adding particles to a base, and then replacing them if/when needed.
-To understand vidhi-s, we should keep in mind the following code of case endings:
+To understand vidhi-s, we should keep in mind the following code of inflection forms:
 
 * ⑤ - “after X”
 * ⑥ - “instead of X”
@@ -375,14 +422,15 @@ To understand vidhi-s, we should keep in mind the following code of case endings
 
 ## Motivation
 
-I have decided to attempt a new translation of Kaccāyana's grammar, because of several reasons:
+I set out to translate Kaccāyana anew, and then the two grammars of its school that grew from it, for several reasons:
 
 * I am not entirely satisfied with the existing translations. Some of them seem to lack clarity (primarily due to the writing style). Others don't explain the examples well enough, and yet others are too verbose, inserting explanations not in the original text.
-* There are some spelling errors and mistakes in the edition published on [**Chaṭṭha Saṅgāyana Tipiṭaka**](https://tipitaka.org), some of which have been incorporated into existing translations. I have taken the opportunity to correct the mistakes, uncovered by scholars such as O. H. Pind and A. Ruiz-Falqués.
-* Unlike some translations, I am honouring the use of option markers in Kaccāyana, and in most cases am faithfully translating `vā` as "optionally", `kvaci` as "occasionally" and `navā` as "by exception."
-* I am also cross referencing the use of technical terms with other classical Pāli grammars.
+* There are some spelling errors and mistakes in the edition published on [**Chaṭṭha Saṅgāyana Tipiṭaka**](https://tipitaka.org), some of which have been incorporated into existing translations. I have taken the opportunity to correct the mistakes, uncovered by scholars such as O. H. Pind and A. Ruiz-Falqués, and to footnote every correction with the edition's reading.
+* Unlike some translations, I am honouring the use of option markers in Kaccāyana, and reading them as the tradition read them, after Ruiz-Falqués' two levels of optionality (see [Optionality](#optionality) above).
+* I describe the grammar in its own terms, with inflection forms rather than cases, and cross-reference the use of technical terms across the three classical Pāli grammars translated here.
+* Translating the Rūpasiddhi and Bālāvatāra alongside Kaccāyana shows how the school itself taught the rules: Buddhappiya's paradigms and derivations make explicit what Kaccāyana leaves to the reader, and Dhammakitti's abridgement shows what a beginner was expected to know.
 * It is a good way to further my understanding of Pāli.
-* It is also a good opportunity for me to introduce the Brahmi script. As we know, there are no surviving Buddhist texts written in Brahmi, so there is no need to learn this script, however, I like it due to it's elegance and simplicity.
+* It is also a good opportunity for me to introduce the [Brāhmī script](/reference/brahmi). As we know, there are no surviving Buddhist texts written in Brāhmī, so there is no need to learn this script, however, I like it due to its elegance and simplicity.
 * I wanted to augment the translations with diagrams, and incorporate worked through grammatical analysis and rule derivations in the examples.
 * In comparison with the other classical Pāli grammars, Kaccāyana is brief and succinct, minimising repetition. It was used as a standard textbook for teaching Pāli in countries such as Burma for many years, and often used in various monasteries as a Pāli reference text.
 * I prefer Kaccāyana to most English Pāli textbooks and grammar books, as it describes Pāli without the distorting lens of Western linguistics.
@@ -391,7 +439,14 @@ I have decided to attempt a new translation of Kaccāyana's grammar, because of 
 ## References
 
 * James D’Alwis, *An introduction to Kachchāyana's grammar of the Pāli language*, with an introduction, appendix, notes, etc., Williams and Norgate, London (1863)
-* Dhammakitti, Dr. Satischandra Vidyabhusana;  Punnananda Swami; Sailendranath Mitra, *Bālāvatārā* - an Elementary Pāli Grammar Abridged for the Undergraduate Course, University of Calcutta (1935)
-* Aleix Ruiz-Falqués, *On the Authorship of Kaccāyana, the Oldest Pāli Grammar*, Pariyatti: Studies In Pāli Language And Literature, Aditya Prakashan, New Dehli (2017)
+* Buddhappiya, *Padarūpasiddhi*, Chaṭṭha Saṅgāyana Tipiṭaka edition, Vipassana Research Institute; translated on this site as [Padarūpasiddhi](/rupasiddhi/)
+* Dhammakitti, Dr. Satischandra Vidyabhusana; Punnananda Swami; Sailendranath Mitra, *Bālāvatārā* - an Elementary Pāli Grammar Abridged for the Undergraduate Course, University of Calcutta (1935); reproduced as [Bālāvatāra (1935 Translation)](/balavatara/mitra)
+* U Nandisena, *Kaccāyanabyākaraṇaṃ*, translated into English, Myanmar (2005); first electronic edition, Instituto de Estudios Buddhistas Hispano (2017); reproduced as [Nandisena: Kaccāyana (2005)](/kaccayana/nandisena)
+* Phramaha Thiab Malai, *Kaccāyana-Vyākaraṇa: A Critical Study*, Ph.D. thesis, University of Pune (1997), two volumes; reproduced as [Thiab Malai (1997)](/malai/front-matter)
+* Aleix Ruiz-Falqués, *On the Authorship of Kaccāyana, the Oldest Pāli Grammar*, Pariyatti: Studies In Pāli Language And Literature, Aditya Prakashan, New Delhi (2017); [reproduced here](/reference/ruiz-falqués---on-the-authorship-of-kaccāyana-the-oldest-pāli-grammar)
 * Aleix Ruiz-Falqués, *A Short Introduction to the Pāli Kaccāyana Grammar*, Shan State Buddhist University, Taunggyi (Myanmar) (2020)
+* Aleix Ruiz-Falqués, "Two levels of optionality in the Kaccāyana Vyākaraṇa", in Peter M. Scharf (ed.), *Śabdānugamaḥ: Indian linguistic studies in honor of George Cardona*, vol. I, The Sanskrit Library, Providence (2021), pp. 431–465; [reproduced here](/reference/two-levels-of-optionality-in-the-kaccāyana-vyākaraṇa)
+* Aleix Ruiz-Falqués, "Boundaries and Domains: Understanding Optionality in Buddhappiya's Rūpasiddhi", *Journal of the Pali Text Society* XXXIV (2021), pp. 227–250; [reproduced here](/reference/boundaries-and-domains---understanding-optionality-in-buddhappiyas-rūpasiddhi)
 * Mahesh A. Deokar, *Technical Terms and Technique of The Pali and Sanskrit Grammars*, Central Institute of Higher Tibetan Studies, Sarnath, Varanasi (2008)
+
+Further articles and reviews by Aleix Ruiz-Falqués, and the other editions and translations consulted, are listed on the [Other editions and translations](/reference/other) page.

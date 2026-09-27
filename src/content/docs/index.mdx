@@ -1,49 +1,123 @@
 ---
 title: 𑀓𑀘𑁆𑀘𑀸𑀬𑀦 (Kaccāyana)
-description: A translation of the earliest available Pāli grammar into modern English, by Chris Tham (chris@christham.net)
+description: Modern English translations of three classical Pāli grammars, Kaccāyana, Buddhappiya's Padarūpasiddhi and Dhammakitti's Bālāvatāra, by Chris Tham (chris@christham.net)
 template: splash
 hero:
-  tagline: A translation of the earliest available Pāli grammar into modern English, by Chris Tham (chris@christham.net).
+  tagline: Modern English translations of three classical Pāli grammars, Kaccāyana, the earliest that survives, Buddhappiya's Padarūpasiddhi and Dhammakitti's Bālāvatāra, by Chris Tham (chris@christham.net).
   image:
     file: ../../assets/Kaccayana.jpg
   actions:
     - text: Introduction
       link: /introduction
       icon: document
-    - text: Read Kaccāyana
+    - text: Kaccāyana
       link: /kaccayana/
+      icon: open-book
+      variant: secondary
+    - text: Padarūpasiddhi
+      link: /rupasiddhi/
+      icon: open-book
+      variant: secondary
+    - text: Bālāvatāra
+      link: /balavatara/
       icon: open-book
       variant: secondary
 ---
 
 import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 
-:::caution
-The current status of this work is “Idea” - this is currently not in a form suitable for consumption, please ignore unless you will like to contribute to the translation project.
+:::note[Status]
+All three translations are complete: the eight chapters of Kaccāyana (§1–§673), the seven sections of the Padarūpasiddhi (Rūp 1–684) and the four sections of Bālāvatāra (¶1–¶269). They are now being collated sutta by sutta against the earlier English translations reproduced on this site: the collation with U Nandisena's Kaccāyana (2005) is finished, the collation with Phramaha Thiab Malai's study (1997) is in progress, and the 1935 Calcutta Bālāvatāra will follow. Corrections and suggestions are welcome on [GitHub](https://github.com/kaccayana/kaccayana.github.io).
 :::
 
 :::note
 The translations, notes and code of this site are public domain under the [CC0](https://creativecommons.org/public-domain/cc0/) dedication, and the source is on [GitHub](https://github.com/kaccayana/kaccayana.github.io). Some content is licensed separately: the reproduced texts, articles and images keep their own terms, which are noted on their pages and listed in the repository's [LICENSE](https://github.com/kaccayana/kaccayana.github.io/blob/main/LICENSE). If you like this work and wish to show your appreciation, please consider [sponsoring me](https://github.com/sponsors/hellotham).
 :::
 
-"Kaccāyana" is the earliest known Pāli Grammar, traditionally associated with the Buddha's disciple Mahā-Kaccāyana (6th-7th century C.E.). This website translates this seminal work into modern English.
+**Kaccāyana** is the earliest surviving Pāli grammar, traditionally ascribed to the Buddha's disciple Mahākaccāyana and compiled around the sixth or seventh century CE. Two later works of its school are translated alongside it: Buddhappiya's **Padarūpasiddhi** (thirteenth century), which recasts its rules in a teaching order with full paradigms and the derivation of every form, and Dhammakitti's **Bālāvatāra** (fourteenth century), the primer for beginners that abridges both. The three texts are translated in one style and cross-referenced rule by rule, so that a Kaccāyana sutta, Buddhappiya's treatment of it and Dhammakitti's abridgement are always a click apart.
 
 ## Features
 
 <CardGrid>
-	<Card title="Accurate" icon="pen">
-		The translation has been validated against existing translations.
+	<Card title="Three related texts" icon="open-book">
+		Kaccāyana, its thirteenth-century recast and its fourteenth-century primer, translated in one consistent style, with every later rule linked to the Kaccāyana sutta it is.
 	</Card>
-	<Card title="Easy to Understand" icon="translate">
-		The translation is in modern, natural English. Technical or linguistic terminology are fully explained.
+	<Card title="Modern terminology" icon="translate">
+		The grammar is described in its own terms, in modern natural English: inflection forms ①…⑦ with ⨀ singular and ⨂ plural rather than Latin cases and declensions, and every technical term kept in Pāli and explained.
 	</Card>
-	<Card title="Examples" icon="list-format">
-		All examples are dissected step by step and linked to [tipitaka2500.github.io](https://tipitaka2500.github.io).
+	<Card title="Optionality as the tradition read it" icon="pen">
+		Every `vā`, `kvaci`, `navā` and `vibhāsā` is analysed after Aleix Ruiz-Falqués' account of the two levels of optionality: an open option, or one restricted to a stated domain.
 	</Card>
-	<Card title="Fully Researched" icon="open-book">
-		The translation is based on the latest research and has a consistent approach to the use of option markers.
+	<Card title="Worked examples" icon="list-format">
+		Every example is derived step by step, rule by rule, and its Tipiṭaka source is cited and linked to [tipitaka2500.github.io](https://tipitaka2500.github.io); counter-examples explain what a rule does not do.
+	</Card>
+	<Card title="Cross-checked" icon="approve-check">
+		The translations are collated against the earlier English translations reproduced here: Nandisena (done), Malai (in progress) and the 1935 Calcutta Bālāvatāra (to follow).
+	</Card>
+	<Card title="Structure made visible" icon="document">
+		Diagrams of the kinds of rule, maps of each text onto Kaccāyana's chapters, decision charts for sandhi, and taxonomies of compounds, suffixes and model nouns.
 	</Card>
 </CardGrid>
+
+## The translations
+
+<LinkCard
+  title="Kaccāyana"
+  href="/kaccayana/"
+  description="The 673 suttas in eight chapters, each with its analysis, the vutti translated sentence by sentence, worked examples with Tipiṭaka citations, and counter-examples."
+/>
+
+<LinkCard
+  title="Padarūpasiddhi"
+  href="/rupasiddhi/"
+  description="Buddhappiya's 684 suttas in seven sections, each linked to the Kaccāyana rule it is, with his commentary, paradigms, derivations and verses."
+/>
+
+<LinkCard
+  title="Bālāvatāra"
+  href="/balavatara/"
+  description="Dhammakitti's primer in four sections, with every rule glossed, its commentary translated and every example derived."
+/>
+
+## Reference translations
+
+<LinkCard
+  title="Nandisena: Kaccāyana (2005)"
+  href="/kaccayana/nandisena"
+  description="U Nandisena's English translation of Kaccāyana with its vutti and examples (Myanmar 2005; electronic edition IEBH 2017, CC BY-NC-ND 4.0). The collation of this site's Kaccāyana against it is complete."
+/>
+
+<LinkCard
+  title="Thiab Malai (1997)"
+  href="/malai/front-matter"
+  description="Phramaha Thiab Malai's Pune thesis, a critical study and translation of Kaccāyana, as a cleaned reading edition. Collation in progress."
+/>
+
+<LinkCard
+  title="Bālāvatāra (1935 Translation)"
+  href="/balavatara/mitra"
+  description="The University of Calcutta translation by Vidyabhusana, Punnananda Swami and Mitra, with a scan of the printed book. Collation to follow."
+/>
+
+## Research
+
+<LinkCard
+  title="Ruiz-Falqués: Two levels of optionality"
+  href="/reference/two-levels-of-optionality-in-the-kaccāyana-vyākaraṇa"
+  description="The study of vā, kvaci and navā in Kaccāyana that the Analysis of every sutta follows."
+/>
+
+<LinkCard
+  title="Ruiz-Falqués: Boundaries and Domains"
+  href="/reference/boundaries-and-domains---understanding-optionality-in-buddhappiyas-rūpasiddhi"
+  description="How Buddhappiya restricts an option to a domain (vavatthitavibhāsā); the framework of the Rūpasiddhi pages."
+/>
+
+<LinkCard
+  title="Other editions and translations"
+  href="/reference/other"
+  description="Further articles and reviews by Aleix Ruiz-Falqués, and the other editions and translations consulted."
+/>
 
 ## Related websites
 

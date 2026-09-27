@@ -1,8 +1,8 @@
 kaccayana.github.io - Licence
 =============================
 
-The original work in this repository - the English translations of Kaccāyana
-and Bālāvatāra, the commentary and notes, the diagrams, the site code and its
+The original work in this repository - the English translations of Kaccāyana,
+the Padarūpasiddhi and Bālāvatāra, the commentary and notes, the diagrams, the site code and its
 configuration - is dedicated to the public domain under the Creative Commons
 CC0 1.0 Universal dedication, whose legal code follows this notice.
 
@@ -13,8 +13,9 @@ allows.
 
 1. Pāli source texts
 
-   The Pāli text of Kaccāyana and of Bālāvatāra quoted throughout the site,
-   and the complete Bālāvatāra text in src/content/docs/balavatara/cscd4.md,
+   The Pāli text of Kaccāyana, of Buddhappiya's Padarūpasiddhi and of Bālāvatāra
+   quoted throughout the site, and the complete Bālāvatāra text in
+   src/content/docs/balavatara/cscd4.md,
    come from the Chaṭṭha Saṅgāyana Tipiṭaka edition published by the
    Vipassana Research Institute at https://tipitaka.org. The Institute
    publishes these texts without a stated licence and asks that its site be
@@ -45,7 +46,14 @@ allows.
    edition). Use of this material must follow that licence: credit the
    translator and IEBH, no commercial use, no derivative works.
 
-4. Articles and reviews by Aleix Ruiz-Falqués
+4. Phramaha Thiab Malai, Kaccāyana-Vyākaraṇa: A Critical Study (1997)
+
+   Ph.D. thesis, University of Pune, 1997, two volumes, reproduced from the
+   scans on archive.org as a cleaned reading edition in src/content/docs/malai/
+   (typing errors corrected and listed on its Corrections page). Copyright
+   remains with the author; no licence is granted here.
+
+5. Articles and reviews by Aleix Ruiz-Falqués
 
    Reproduced for study as pages in src/content/docs/reference/ (with their
    figures) and as PDF files in public/reference/. Copyright in each remains
@@ -83,7 +91,7 @@ allows.
      Ruiz-Falqués 2024, published with licence by Koninklijke Brill NV.
      PDF only.
 
-5. Images
+6. Images
 
    - src/assets/Brahmi_pillar_inscription_in_Sarnath.jpg: photograph by Laura
      Solà, from Wikimedia Commons, licensed CC BY-SA 3.0 Unported (also GNU
@@ -96,7 +104,7 @@ allows.
      plates by James Prinsep (1834, 1838), public domain by age, from
      Wikimedia Commons.
 
-6. Other files kept for reference
+7. Other files kept for reference
 
    src/assets/Brahmi.pdf, "Brahmi: Rediscovering the Lost Script" by Ankita
    Roy, is a working reference that the site does not publish; rights remain
