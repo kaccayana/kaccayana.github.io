@@ -94,6 +94,14 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'balavatara' } }],
         },
         {
+          label: "Rūpasiddhi",
+          items: [{ autogenerate: { directory: 'rupasiddhi' } }],
+        },
+        {
+          label: "Thiab Malai (1997)",
+          items: [{ autogenerate: { directory: 'malai' } }],
+        },
+        {
           label: "Reference",
           items: [{ autogenerate: { directory: 'reference' } }],
         },
