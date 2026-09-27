@@ -18,6 +18,42 @@ This is a translation of Bālāvatāra into English. If you spot any errors, let
 The translation was completed through a mix of hand translation and machine assistance. The initial incomplete hand translation was compared against [MITRA-QWEN](https://huggingface.co/buddhist-nlp/mitra-qwen35-translate) Buddhist text model from the [Dharmamitra](https://dharmamitra.org) project, converted to MLX and running locally on my Mac Studio, and then reworked by Claude Fable 5.1 (Anthropic) into the same instructional style as the hand-translation, with each example word worked out as a derivation and glosses checked against the [Digital Pāḷi Dictionary](https://dpdict.net) and the Kaccāyana chapters on this site. Two reference texts sit alongside the chapters: the [Chaṭṭha Saṅgāyana text](/balavatara/cscd4) and the [1935 translation and textbook](/balavatara/mitra) by Vidyabhusana and Punnananda, revised by S. Mitra, transcribed from the scanned edition.
 :::
 
+:::note[Numbering and headings]
+The Chaṭṭha Saṅgāyana edition numbers its paragraphs 1–269 straight through the text, and those numbers appear in the chapters as ¶1, ¶2 and so on, at the start of the quoted Pāli and of the matching English, or as a badge on a rule's heading when the number sits on the rule itself. They locate a passage in the [source text](/balavatara/cscd4); they are not rule numbers, since a paragraph may carry a rule, a lead-in or a verse, and most rules have no number of their own. Where a rule is one of Kaccāyana's suttas, its Kaccāyana number §N is given in a reference card.
+
+The section headings are supplied by the translation. The edition's own headings are few and sit in the wrong places: its `Pulliṅga` heading precedes the rules common to every gender, and its `Pumitthiliṅga` heading covers everything from nouns of two genders to the particles. The sections here follow the text's own announcements, such as `Saṅkhyā vuccate`, "the numerals are described", and the traditional names where they fit.
+:::
+
+:::note[How Bālāvatāra reorders Kaccāyana]
+The Kaccāyana chapters on this site set against the four kaṇḍas of the Chaṭṭha Saṅgāyana Bālāvatāra text. Solid lines show where a chapter's rules reappear; the seven meanings of the inflection forms are the only Kāraka material Bālāvatāra keeps, and the chapters on verbs and primary derivation have no counterpart in this text.
+
+```mermaid
+flowchart LR
+  subgraph K["Kaccāyana"]
+    K1["Sandhikappa §1–51"]
+    K2["Nāmakappa §52–270"]
+    K3["Kārakakappa §271–315"]
+    K4["Samāsakappa §316–343"]
+    K5["Taddhitakappa §344–405"]
+    K6["Ākhyātakappa §406–523<br/>Kibbidhānakappa §524–623<br/>Uṇādikappa §624–673"]
+  end
+  subgraph V["Bālāvatāra"]
+    V1["1. Sandhi ¶2–46"]
+    V2["2. Nāma ¶47–201"]
+    V3["3. Samāsa ¶202–231"]
+    V4["4. Taddhita ¶232–269"]
+    V5["no counterpart in this text"]
+  end
+  K1 --> V1
+  K2 --> V2
+  K3 -. "① to ⑦ only" .-> V2
+  K4 --> V3
+  K5 --> V4
+  K6 -.-> V5
+```
+
+:::
+
 Dhammakitti was a renowned scholar and author of several important works on Pāli grammar and Buddhist philosophy, including Saddhammalahkara, Jinabodhavali, Samkhepa, Nikaya-sangraha, and Bālāvatāra.
 
 He succeeded his master in the office of Sangharaja. He was also called Devarakkhita or Jayabahu Maha-thera, and lived in the reigns of Bhuvaneka-bahu V and Vira-bahu III (1372-1410).[^1]

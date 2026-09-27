@@ -1,14 +1,14 @@
 ---
 draft: false
-title: "0 Paṇāma (Salutation)"
+title: "0. Paṇāma (Salutation)"
 description: >
-  𑀦𑀫𑁄 𑀢𑀲𑁆𑀲 𑀪𑀕𑀯𑀢𑁄 𑀅𑀭𑀳𑀢𑁄 𑀲𑀫𑁆𑀫𑀸𑀲𑀫𑁆𑀩𑀼𑀤𑁆𑀥𑀲𑁆𑀲 (Homage to the Blessed One, the Worthy One, the Fully Enlightened One). The eight salutation verses that open the text, in which the author pays homage to the Triple Gem and to his teachers, names his sources, and states his purpose, with an English translation.
+  𑀦𑀫𑁄 𑀢𑀲𑁆𑀲 𑀪𑀕𑀯𑀢𑁄 𑀅𑀭𑀳𑀢𑁄 𑀲𑀫𑁆𑀫𑀸𑀲𑀫𑁆𑀩𑀼𑀤𑁆𑀥𑀲𑁆𑀲 (Homage to the Blessed One, the Worthy One, the Fully Enlightened One). The eight verses that open the Chaṭṭha Saṅgāyana text, in which the author of the Bālāvatāra-gaṇṭhipada, a commentary on the Bālāvatāra, venerates the Triple Gem and his teachers, names his sources, and states his purpose and his wish for his readers; then the Bālāvatāra's own opening verse. With a plain English translation.
 sidebar:
   label: 0. Paṇāma
 ---
 
 :::note
-This translation merges my own rendering with machine translations by ChatGPT-4o, Claude 3.5 Sonnet and [MITRA-QWEN](https://dharmamitra.org), checked line by line against the Pāli.
+Verses Ka to Ja are the opening of the Bālāvatāra-gaṇṭhipada, a commentary on the Bālāvatāra, which the edition prints before the text; the verse under Homage is the Bālāvatāra's own.
 :::
 
 ## Paṇāma (Salutation)
@@ -20,10 +20,12 @@ This translation merges my own rendering with machine translations by ChatGPT-4o
 > Dhammaṃ vimuttisukhadaṃ vihatāghasaṃghaṃ,\
 > Saṃghaṃ ca niccamabhivandiya dakkhiṇeyyaṃ.
 
-To the fully Awakened One, who has gone beyond the whole domain of language,\
-the Buddha, ornament of the three worlds, destroyer of evil states;\
-to the Dhamma, giver of the bliss of liberation, dispeller of the mass of ills;\
-and to the Saṅgha, worthy of offerings — having always paid homage,
+The one who has personally understood[^1] the fullest extent of language,\
+the Buddha, ornament of the three worlds, who has destroyed evil nature;\
+the Dhamma, giving the ease of liberation, destroying the mass of ills,\
+and the Saṅgha, always worthy of the highest respect and offerings.
+
+[^1]: `sabuddhaṃ`. The metre does not allow `sambuddhaṃ`, "fully awakened"; the prefix `sa-` may mean "self-", giving "understood by himself".
 
 ### Kha
 
@@ -32,10 +34,12 @@ and to the Saṅgha, worthy of offerings — having always paid homage,
 > Nissāyevā tipemā paṇamiya sirasā niccamesaṃ saritvā,\
 > Pādambhoje guṇagge hataduritamalo ānubhāvena tassā.
 
-dull-witted though I am, I have attained growth through my excellent teachers, resplendent with virtue, wisdom and the rest,\
-pure as the moon and the sun, shining in the sky of the Dispensation established by the supreme Conqueror;\
-relying on them alone, with deep affection, bowing my head and ever remembering them,\
-at their lotus feet, the summit of virtues — the stain of my faults destroyed by their power;
+I, who have grown up ignorant, shine in virtue, wisdom and the rest through my excellent teachers,\
+like the moon and the sun, satisfied with the recollection of the pure teachings of the excellent Conqueror;\
+having recalled them, I continually bow with my head down and with great love relying on them exclusively,\
+at their supreme virtuous lotus feet, I am pure and devoid of sins by the power of that recollection.[^2]
+
+[^2]: `tassā`, "of that", is feminine singular and points back to the recollection of the teaching in the second line, `abbhe`.
 
 ### Ga
 
@@ -44,10 +48,12 @@ at their lotus feet, the summit of virtues — the stain of my faults destroyed 
 > Aññañca nekavidha sakkata saddasatthaṃ,\
 > Pāramparābhata matañca nisamma sammā.
 
-the ancient Sinhala rulings on the meanings of words,\
-the whole esteemed method of Māgadha grammar,\
-the many other treatises on Sanskrit grammar,\
-and the views handed down by tradition — having weighed them all with care,
+The ancient Sinhala interpretation of the meanings of words,\
+even the exalted entire approach of the language of Māgadha;\
+and other kinds of esteemed[^3] grammar,\
+and traditional views, I have carefully and completely considered (all of these).
+
+[^3]: `sakkata` is literally "honoured", the past participle of `sakkaroti`; taken so, the line means the other Pāli grammars. The word is also a Pāli name for Sanskrit, more often spelt `sakkaṭa`, and Kaccāyana's vutti to [§9 (11): Parasamaññā payoge](/kaccayana/1-sandhikappa#m9) uses `sakkataganthesu` for "Sanskrit books"; read that way, the line would name Sanskrit grammars, set against the Māgadha approach of the line before. The plain sense is adopted here and in Ṅa.
 
 ### Gha
 
@@ -56,24 +62,24 @@ and the views handed down by tradition — having weighed them all with care,
 > Atthāya ādhunika bālaparamparāya,\
 > Bālāvatāra varagaṇṭhipadaṃ karissaṃ.
 
-in the Bālāvatāra, that excellent grammar of Māgadha,\
-hard to understand for its rulings on the meanings of many words,\
-for the benefit of the present-day lineage of beginners\
-I shall compose the Bālāvatāra-gaṇṭhipada, an excellent guide to its knotty words.
+The excellent Māgadha grammar, the Bālāvatāra,\
+is considered to have many hard-to-understand meanings of words;\
+for the benefit of the present-day line of beginners,\
+I will produce the Bālāvatāra-gaṇṭhipada, a comprehensive commentary.
 
 ### Ṅa
 
 > Niccaṃ ye mettha bālā varahadayayutā suṭṭhu nikkhittanettā,\
 > Puṇṇe nānānayānaṃ suratarusadise dhīrapāsaṃsiye ve;\
 > Gambhīraṃ duttaraṃ te jinavacanudadhiṃ tiṇṇathāmā bhaveyyuṃ,\
-> Laddhopāyā ca chandaṃ[^1] taditarapacuraṃ sakkataṃ sotukāmā.
+> Laddhopāyā ca chandaṃ[^4] taditarapacuraṃ sakkataṃ sotukāmā.
 
-[^1]: CST4 reads `candaṃ` (moon). `chandaṃ` (prosody) is adopted here: `sotukāmā` ("desirous of hearing") wants a subject of study as its object, and `sakkataṃ` then keeps its plain sense of Sanskrit, as in Ga — the line becomes a list of the sciences a beginner goes on to.
+By my regard, the beginners who, devoted with excellent hearts, always keep their eyes well placed,\
+full of various techniques, like the tree of the gods, truly praiseworthy to the wise;\
+may they have the strength to cross the deep, hard-to-cross ocean of the Conqueror's word,\
+and, having obtained the means, they want to hear esteemed prosody and much else besides.
 
-May those beginners who here, always, with excellent hearts, fix their eyes well\
-upon this work — full of manifold methods, like a wish-granting tree, praised by the wise —\
-gain the strength to cross the deep and hard-to-cross ocean of the Conqueror's word,\
-and, having found the means, be eager to hear prosody, Sanskrit, and the many other sciences besides.
+[^4]: CST4 reads `candaṃ`, "moon". `chandaṃ`, "prosody", is adopted: `sotukāmā`, "desirous of hearing", needs a subject of study as its object, and the line then lists what a beginner goes on to after this grammar.
 
 ### Ca
 
@@ -81,30 +87,32 @@ and, having found the means, be eager to hear prosody, Sanskrit, and the many ot
 > Jānanti kusalā dhīrā, nekasatthantarādisu;\
 > Ganthesu guṇadosampi, teyeva vidurā sadā.
 
-The remaining difficulties of bringing a book to completion, as they truly are,\
-the skilled and wise understand; in the many other treatises and the like,\
-and in books, the merits and the faults — they alone are ever the discerning ones.
+Completing the remainder of the text — the difficulty is the essence;\
+the skilled and wise know, starting from the many types of grammar;\
+even the good and bad parts in the text, only the wise persevere.
 
 ### Cha
 
 > Tasmā ettha pamādādi – dosaleso bhave yadi;\
 > Porāṇāceraladdhīhi, vilomaṃ vā bhaveyya ce.
 
-Therefore, if here there should be even a trace of fault, such as negligence,\
-or if anything should run contrary to the tenets of the ancient teachers,
+Therefore, if here there should be a slight fault such as carelessness;\
+or if there should be something contrary to the views of the ancient teachers.
 
 ### Ja
 
 > Ganthantaraṃ vigāhetvā, vicāretvā punappunaṃ;\
 > Yuttimeva ca gaṇhantu, hutvā vīmaṃsabuddhikāti.
 
-let them plunge into other books and examine the matter again and again,\
-and, having become of inquiring mind, accept only what is sound.
+Having plunged into other books, having examined again and again;\
+and may they take only what is suitable, having become inquiring minds.
 
 ## Homage
 
-### 1. Buddhaṃ tidhā bhivanditvā, buddhambuja vilocanaṃ (Having praised the Buddha three times, the lotus-eyed Buddha)
-
+> ¶1 Buddhaṃ tidhā bhivanditvā, buddhambuja vilocanaṃ.\
 > Bālāvatāraṃ bhāsissaṃ, bālānaṃ buddhivuddhiyā.
 
-I will explain the "Bālāvatāra", an introduction for beginners, for the development of understanding.
+Having venerated the lotus-eyed Buddha in three ways.[^5]\
+I will articulate the Bālāvatāra for the growth of understanding of beginners.
+
+[^5]: `tidhā`, "in three ways": by body, speech and mind.
