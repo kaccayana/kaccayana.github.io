@@ -1,3 +1,111 @@
+kaccayana.github.io - Licence
+=============================
+
+The original work in this repository - the English translations of Kaccāyana
+and Bālāvatāra, the commentary and notes, the diagrams, the site code and its
+configuration - is dedicated to the public domain under the Creative Commons
+CC0 1.0 Universal dedication, whose legal code follows this notice.
+
+The material listed below is reproduced from other sources. It is NOT covered
+by the CC0 dedication: each item stays under the terms stated for it, and
+nothing in this file grants any right in it beyond what its rights holder
+allows.
+
+1. Pāli source texts
+
+   The Pāli text of Kaccāyana and of Bālāvatāra quoted throughout the site,
+   and the complete Bālāvatāra text in src/content/docs/balavatara/cscd4.md,
+   come from the Chaṭṭha Saṅgāyana Tipiṭaka edition published by the
+   Vipassana Research Institute at https://tipitaka.org. The Institute
+   publishes these texts without a stated licence and asks that its site be
+   cited; they are reproduced here with that attribution.
+
+2. Bālāvatāra, 1935 University of Calcutta translation
+
+   "Bālāvatāra: An Elementary Pali Grammar Abridged for the Under-graduate
+   Course", originally edited and translated by Satischandra Vidyabhusana and
+   Punnananda Swami, revised and recast by Sailendranath Mitra, University of
+   Calcutta, 1935. Transcribed in src/content/docs/balavatara/mitra.md; a scan
+   of the printed book is served as public/reference/balavatara-1935-mitra.pdf.
+   Reproduced as a historical text; any copyright that still subsists remains
+   with its holders.
+
+3. U Nandisena, Kaccāyanabyākaraṇaṃ (2005, 2017)
+
+   "Kaccāyanabyākaraṇaṃ", translated into English by U Nandisena. First
+   published in Myanmar in 2005; first electronic version 2017, Copyright
+   © 2017 Instituto de Estudios Buddhistas Hispano (IEBH), publication
+   IEBH: 20170116-BN-T0100, admin@iebh.org. Licensed by IEBH under the
+   Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+   licence (CC BY-NC-ND 4.0), https://creativecommons.org/licenses/by-nc-nd/4.0/.
+   Reproduced as the page src/content/docs/kaccayana/nandisena.md and as the
+   PDF files public/reference/nandisena-2005-kaccayanabyakaranam-text.pdf (the
+   translator's 2005 text) and
+   public/reference/nandisena-2017-kaccayanabyakaranam-scan.pdf (the 2017
+   edition). Use of this material must follow that licence: credit the
+   translator and IEBH, no commercial use, no derivative works.
+
+4. Articles and reviews by Aleix Ruiz-Falqués
+
+   Reproduced for study as pages in src/content/docs/reference/ (with their
+   figures) and as PDF files in public/reference/. Copyright in each remains
+   with the author and the publisher named; no licence is granted here.
+
+   - "On the Authorship of Kaccāyana, the Oldest Pāli Grammar", in
+     Bimalendra Kumar and Ujjwal Kumar (eds.), Pariyatti: Studies in Pāli
+     Language and Literature, New Delhi: Aditya Prakashan, 2017, pp. 251-268.
+     Copyright © 2017 Editors.
+   - "The Role of Pāli Grammar in Burmese Buddhism", Journal of Burma Studies
+     21.1 (2017), pp. 1-96, Northern Illinois University Press,
+     https://doi.org/10.1353/jbs.2017.0001. © 2017 Center for Burma Studies,
+     Northern Illinois University. PDF only.
+   - Review of Ole Holten Pind (ed.), Kaccāyana and Kaccāyanavutti,
+     Orientalistische Literaturzeitung 113.4-5 (2018), pp. 392-395, Walter de
+     Gruyter, https://doi.org/10.1515/olzg-2018-0129.
+   - Review of Ashin U Thitzana, Kaccāyana Pāli Grammar (2016), Journal of
+     Ñāṇasaṃvara Centre for Buddhist Studies I (2018), pp. 279-303. © 2018
+     Ñāṇasaṃvara Centre for Buddhist Studies, the Foundation of His Holiness
+     Somdet Phra Ñāṇasaṃvara Centennial Commemoration under the Patronage of
+     His Holiness the Supreme Patriarch.
+   - "Boundaries and Domains: Understanding Optionality in Buddhappiya's
+     Rūpasiddhi", Journal of the Pali Text Society XXXIV (2021), pp. 227-250.
+     Pali Text Society.
+   - "The Sword and the Sheath. Three Notes on Kaccāyana 1: Attho
+     Akkharasaññāto", in Bimalendra Kumar and Ujjwal Kumar (eds.),
+     Dhamma-Anusīlana: Investigating Papers on Buddhist Studies, New Delhi:
+     Aditya Prakashan, 2021, pp. 373-400.
+   - "Two levels of optionality in the Kaccāyana Vyākaraṇa", in Peter M.
+     Scharf (ed.), Śabdānugamaḥ: Indian linguistic studies in honor of George
+     Cardona, vol. I, Providence: The Sanskrit Library, 2021, pp. 431-465.
+     Copyright © 2021 by The Sanskrit Library, all rights reserved.
+   - "Silent Mastery: The Concealed Art of Buddhist Writing", Numen 71 (2024),
+     pp. 303-314, https://doi.org/10.1163/15685276-20240007. © Aleix
+     Ruiz-Falqués 2024, published with licence by Koninklijke Brill NV.
+     PDF only.
+
+5. Images
+
+   - src/assets/Brahmi_pillar_inscription_in_Sarnath.jpg: photograph by Laura
+     Solà, from Wikimedia Commons, licensed CC BY-SA 3.0 Unported (also GNU
+     Free Documentation License 1.2 or later). Reuse requires attribution and
+     the same licence.
+   - src/assets/Ashoka_Lauriya_Areraj_inscription.jpg: photograph by Sachin
+     kumar tiwary, from Wikimedia Commons, licensed CC BY-SA 3.0 Unported.
+   - src/assets/Brahmi_script_consonants_according_to_James_Prinsep_March_1838.jpg
+     and src/assets/Classification_of_Brahmi_characters_by_James_Prinsep,_March_1834,_Journal_of_the_Asiatic_Society_of_Bengal_Volume_3_(March1834).jpg:
+     plates by James Prinsep (1834, 1838), public domain by age, from
+     Wikimedia Commons.
+
+6. Other files kept for reference
+
+   src/assets/Brahmi.pdf, "Brahmi: Rediscovering the Lost Script" by Ankita
+   Roy, is a working reference that the site does not publish; rights remain
+   with its author.
+
+The CC0 1.0 Universal legal code follows.
+
+-----------------------------------------------------------------------------
+
 Creative Commons Legal Code
 
 CC0 1.0 Universal

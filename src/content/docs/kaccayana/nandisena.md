@@ -11,6 +11,8 @@ U Nandisena, *Kaccāyanabyākaraṇaṃ*, an English translation of the Kaccāya
 
 The title page, copyright page, preface and contents below are taken from the 2017 electronic edition, a scan of the printed book whose text layer covers only the copyright page and the preface. The translation itself is taken from the translator's own file of the 2005 text, a Word document printed to PDF in 2006, because that file carries the complete text as typed. Its legacy Pāli font has been mapped back to Unicode and the four-fold overprinting that stood for bold type has been collapsed. The translator's footnotes are kept as footnotes; the review comments embedded in that document appear as footnotes marked "Translator's comment". Each rule carries three numbers as printed: the sutta's sequence number, the traditional number of the Chaṭṭha Saṅgāyana edition, and a third number in parentheses from the source. The Mātikā, the eighteen-page index of suttas that opens the book, is not reproduced.
 
+The printed book was set from a later state of the text than the translator's file, and the two differ in the Sandhi chapter. The print's additions have been adopted here: a page on the uses of `ca` and on `kvaci`, `vā`, `navā` and `vibhāsā` at the end of the chapter (book p. 48), the revised wording of the closing question in §2–§9, and short explanatory notes and derivation steps in §10, 12, 20, 26, 29, 31, 33, 35, 36, 37, 47 and 51. The fourteen "(check)" flags the translator left in the file have been dropped. Chapters 2–7 are the same text in both.
+
 Both files are available here: the [2017 electronic edition, the scan of the printed book (PDF, 92 MB)](/reference/nandisena-2017-kaccayanabyakaranam-scan.pdf) and the [translator's file of the 2005 text (PDF, 1.4 MB)](/reference/nandisena-2005-kaccayanabyakaranam-text.pdf).
 :::
 
@@ -89,7 +91,7 @@ The printed contents give the Samāsa chapter as suttas 216–243 and the Taddhi
 
 <!-- p. 20 -->
 
-(a) Having saluted the excellent, honored by the three worlds, the highest Buddha, together with the pure Dhamma, and the noble Sangha, I will expound here the good chapter on sandhi in accordance with the Discourses to know well the noble meaning of the word of the Teacher. (b) The wise ones get better by the way preached by the Victorious One, by knowing well the meaning of His word and by non-confusion of the meaning among letters and words. Therefore, let the one who wishes to excel listen to the various words. (check)
+(a) Having saluted the excellent, honored by the three worlds, the highest Buddha, together with the pure Dhamma, and the noble Sangha, I will expound here the good chapter on sandhi in accordance with the Discourses to know well the noble meaning of the word of the Teacher. (b) The wise ones get better by the way preached by the Victorious One, by knowing well the meaning of His word and by non-confusion of the meaning among letters and words. Therefore, let the one who wishes to excel listen to the various words.
 
 ## 1. Sandhikappa (Sandhi Chapter) (1–51)
 
@@ -117,7 +119,7 @@ And these letters which are forty one beginning with ‘a’ are very useful in 
 
 Which are these? a ā i ī u ū e o; ka kha ga gha ṅa; ca cha ja jha ña; ṭa ṭha ḍa ḍha ṇa; ta tha da dha na; pa pha ba bha ma; ya ra la va sa ha ḷa aṃ. These are called ‘letters’(akkharā).
 
-What is the need of that (saying letters)? The meaning is known by letters (see §1).
+What is the benefit of that (calling them ‘letters’)? It is beneficial in suttas such as ‘Attho akkharasaññāto’ (§1). [I.e., we know that akkhara in that sutta means the fourty-one letters.]
 
 <a name="m3"></a>
 
@@ -135,7 +137,7 @@ Among those letters, the eight letters beginning with ‘a’ and ending with �
 
 Which are these? a ā i ī u ū e o. These are called ‘vowels’ (sarā).
 
-What is the need of that (saying vowels)? Vowels because of a vowel (come to) elision (see §12)..
+What is the benefit of that (calling them ‘vowels’)? It is beneficial in suttas such as ‘Sarā sare lopaṃ’ (§12).
 
 <a name="m4"></a>
 
@@ -151,7 +153,7 @@ Among the eight vowels, the three light-measured are called ‘short’.
 
 Which are these? a i u. These are called ‘short’ (rassā).
 
-What is the need of that (saying short)? Corta (see §26).
+What is the benefit of that (calling them ‘short’)? It is beneficial in suttas such as ‘Rassaṃ’ (§26).
 
 <a name="m5"></a>
 
@@ -167,7 +169,7 @@ Among the eight vowels, the five other vowels apart from the shorts (vowels) are
 
 Which are these? ā ī ū e o. These are called ‘long’ (dīghā).
 
-What is the need of that (saying long)? Long (see §25).
+What is the benefit of that (calling them ‘long’)? It is beneficial in suttas such as ‘Dīghaṃ’ (§25).
 
 <!-- p. 22 -->
 
@@ -185,7 +187,7 @@ Apart from the eight vowels, the remaining letters beginning with ‘k’ and en
 
 Which are these? ka kha ga gha ṅa; ca cha ja jha ña; ṭa ṭha ḍa ḍha ṇa; ta tha da dha na; pa pha ba bha ma; ya ra la va sa ha ḷa aṃ. These are called ‘consonants’ (byañjanā).
 
-What is the need of that (saying consonants)? Vowels because of consonants remain natural (unchanged) (see §23).
+What is the benefit of that (calling them ‘consonants’)? It is beneficial in suttas such as ‘Sarā pakati byañjane’ (§23).
 
 <a name="m7"></a>
 
@@ -197,11 +199,11 @@ What is the need of that (saying consonants)? Vowels because of consonants remai
 
 > Tena kvattho? Vaggantaṃ vā vagge[^9].
 
-Of those consonants, the five groups of five (twenty five) belonging to the letters beginning with ‘k’ and ending with ‘m’ are called ‘grouped’.
+Of those consonants, the letters beginning with ‘k’ and ending with ‘m’ that are divided into five groups of five letters are called ‘grouped’.
 
 Which are these? ka kha ga gha ṅa; ca cha ja jha ña; ṭa ṭha ḍa ḍha ṇa; ta tha da dha na; pa pha ba bha ma. These are called ‘grouped’ (vaggā).
 
-What is the need of that (saying grouped)? (The niggahita) sometimes (when followed by a) grouped (consonant) (becomes) the last letter of the group (see §31).
+What is the benefit of that (calling them ‘grouped’)? It is beneficial in suttas such as ‘Vaggantaṃ vā vagge’ (§31).
 
 <!-- p. 23 -->
 
@@ -213,9 +215,9 @@ What is the need of that (saying grouped)? (The niggahita) sometimes (when follo
 
 > Tena kvattho? Aṃ byañjane niggahitaṃ[^10].
 
-‘Ṃ’ is called niggahita. (check)
+‘Ṃ’ is called niggahita.
 
-What is the need of that (saying niggahita)? When there a consonant (follows) there is niggahita which is ‘ṃ’ (see §30). (check)
+What is the benefit of that (calling it ‘niggahita’)? It is beneficial in suttas such as ‘Aṃ byañjane niggahitaṃ’ (§30).
 
 <a name="m9"></a>
 
@@ -231,7 +233,7 @@ Those terms (found) in the Sanskrit books such as ‘voiced’ or ‘voiceless�
 
 Among them, the voiced are: ga gha ṅ; ja jha ña; ḍa ḍha ṇa; da dha na; ba bha ma; ya ra la va ha ḷa. These are called ‘voiced’ (ghosā). The voiceless are: ka kha; ca cha; ṭa ṭha; ta tha; pa pha; sa. These are called ‘voiceless’ (aghosā).
 
-What is the need of that (saying voiced and voiceless)? Among the grouped (consonants) there is (substitution) of the voiced or voiceless (consonants) by the first and the third (of the group) (see §30).
+What is the benefit of that (calling them ‘voiced’ and ‘voiceless’)? It is beneficial in suttas such as ‘Vagge ghosāghosānaṃ tatiya-paṭhamā’ (§30).
 
 <a name="m10"></a>
 
@@ -243,7 +245,7 @@ What is the need of that (saying voiced and voiceless)? Among the grouped (conso
 
 <!-- p. 24 -->
 
-Herein, the student who wants to do joining of words should, after making the previous consonant that lies (lit. sits) below<sup>1</sup>, free from the vowel and putting the vowel above<sup>1</sup>, separate the consonant from the vowel. Example: Tatrāyamādi.
+Herein, the student who wants to do joining of words should, after making the previous consonant that lies (lit. sits) below<sup>1</sup>, free from the vowel and putting the vowel above<sup>1</sup>, separate the consonant from the vowel. Example: Tatrāyamādi. should separate the consonant making the previous consonant lie below<sup>1</sup>, and devoid of a vowel, and placing the vowel (that is devoid of consonant) above<sup>1</sup>.
 
 'Below' means on the left, and 'above' means on the right. What has been read was called in ancient times "below', and what has not been read but about to be read is called 'above'. See §13 for formal formation of the word.
 
@@ -285,7 +287,7 @@ Vowels come to elision because of a vowel. \* There is elision of vowels when th
 
 Formation of words in combinations (sandhi) previous suttas:
 
-1. Tatrāyamādi: In order to form this word, first the word must be written down as 'tatra ayamādi'. Then by §10 the consonant (here conjunct consonant) 'tr' is seperated from the vowel 'a', and put on the left (tatr a ayamādi); by §12 the 'a' is elided because of the following vowel 'a' (tatr ayamādi); by §15 the 'a' of ayamādi is made long (tatr āyamādi); now the consonant 'tr' is carried to (or combined with) the following 'ā' by §11. The word 'tatrāyamādi' is finished. \* The formation of the word given above is the traditional method of forming words. Students have to follow this procedure when they study Pāḷi grammar and form words. Every example in the book has to be formed formally in this way. In oriental scripts, consonants and vowels are written in such a way that they do not appear seperately as in Roman script. Therefore in order to do something to the consonant and also the vowel, they have to be seperated first and written seperately. Only then can one do whatever is appropriate. But in Roman script there is no need to seperate them as they stand seperately and not one on top of the other or the two blended together. 2. 'Tatrābhiratimiccheyya' should be treated the same way as 'tatrāyamādi'. Sequence: tatra abhiratimiccheyya; ābhiratimiccheyya; tatrābhiratimiccheyya. 3. Yassindriyāni: In order to form this word, first the word must be written down as 'yassa indriyāni'. Then by §10 the consonant (here conjunct consonant) 'ss' is seperated from the vowel 'a', and is put on the left (yass a indriyāna); by §12 the 'a' is elided because of the following vowel 'i' (yass indriyāni); now the consonant 'ss' is carried to (combined with) the following 'i' by §11. The word 'yassindriyāni' is finished. 4. No hetaṃ: Sequence: no hi etaṃ ; no h i etaṃ (10); no h etaṃ (12); nohetaṃ (11). 5. Sametāyasmā: sametu āyasmā; samet u āyasmā (10); samet āyasmā (12); sametāyasmā (11).
+1. Tatrāyamādi: In order to form this word (actually a combination of two words), first the word must be separated as 'tatra ayamādi'. Then by §10 the consonant (here conjunct consonant) 'tr' is seperated from the vowel 'a', and put on the left (tatr a ayamādi); by §12 the 'a' is elided because of the following vowel 'a' (tatr ayamādi); by §15 the 'a' of ayamādi is made long (tatr āyamādi); now the consonant 'tr' is carried to (or combined with) the following 'ā' by §11. The word 'tatrāyamādi' is finished. \* The formation of the word given above is the traditional method of forming words. Students have to follow this procedure when they study Pāḷi grammar and form words. Every example in the book has to be formed formally in this way. In oriental scripts, consonants and vowels are written in such a way that they do not appear seperately as in Roman script. Therefore in order to do something to the consonant and also the vowel, they have to be seperated first and written seperately. Only then can one do whatever is appropriate. But in Roman script there is no need to seperate the consonant from the vowel since they stand seperately and not one on top of the other or the two blended together. The combined words should, however, be separated into two by inserting a space. 2. 'Tatrābhiratimiccheyya' should be treated the same way as 'tatrāyamādi'. Sequence: tatra abhiratimiccheyya; tatr a abhiratimiccheyya (§10); tatr abhiratimiccheyya (§12); tatr ābhiratimiccheyya (§15); tatrābhiratimiccheyya (§11). 3. Yassindriyāni: In order to form this word, first the word must be written down as 'yassa indriyāni'. Then by §10 the consonant (here conjunct consonant) 'ss' is seperated from the vowel 'a', and is put on the left (yass a indriyāna); by §12 the 'a' is elided because of the following vowel 'i' (yass indriyāni); now the consonant 'ss' is carried to (combined with) the following 'i' by §11. The word 'yassindriyāni' is finished. 4. No hetaṃ: Sequence: no hi etaṃ ; no h i etaṃ (10); no h etaṃ (12); nohetaṃ (11). 5. Sametāyasmā: sametu āyasmā; samet u āyasmā (10); samet āyasmā (12); sametāyasmā (11).
 
 <a name="m13"></a>
 
@@ -361,13 +363,13 @@ Counter examples.
 
 When the following vowel has been elided, the previous vowel sometimes becomes long.
 
-> Examples. 1. kiṃsūdha: kiṃsu idha; kiṃs u idha (10); kiṃs u dha (13); kiṃs ū dha (16); kiṃsūdha (11). (check) 2. sādhūti: sādhu iti; sādh u iti (10); sādh u ti (13); sādh ū ti (16); sādhūti (11). (check)
+> Examples. 1. kiṃsūdha: kiṃsu idha; kiṃs u idha (10); kiṃs u dha (13); kiṃs ū dha (16); kiṃsūdha (11). 2. sādhūti: sādhu iti; sādh u iti (10); sādh u ti (13); sādh ū ti (16); sādhūti (11).
 
 Why say ‘sometimes’? To prevent the operation of this rule in the following:
 
 > Iti 'ssa muhuttam pi.
 
-Counter examples. Itissa: iti assa; it i assa (10); it i ssa (13); itissa (11). (check)
+Counter examples. Itissa: iti assa; it i assa (10); it i ssa (13); itissa (11).
 
 <a name="m17"></a>
 
@@ -423,7 +425,7 @@ Why say ‘sometimes’? To prevent the operation of this rule in the following:
 
 When a vowel follows, the syllable ‘ti’ sometimes becomes ‘c’.
 
-> Examples. 1. iccetaṃ: iti etaṃ; i ti etaṃ (10); i c etaṃ (19); i cc etaṃ (28); iccetaṃ (11). (check) 2. iccassa: iti assa; i ti assa (10); i c assa (19); i cc assa (28); iccassa (11). 3. paccuttaritvā: pati uttaritvā; pa ti uttaritvā (10); pa c uttaritvā (19); pa cc uttaritvā (28); paccuttaritvā (11). 4. paccāharati: pati āharati; pa ti āharati (10); pa c āharati (19); pa cc āharati (28); paccāharati (11).
+> Examples. 1. iccetaṃ: iti etaṃ; i ti etaṃ (10); i c etaṃ (19); i cc etaṃ (28); iccetaṃ (11). 2. iccassa: iti assa; i ti assa (10); i c assa (19); i cc assa (28); iccassa (11). 3. paccuttaritvā: pati uttaritvā; pa ti uttaritvā (10); pa c uttaritvā (19); pa cc uttaritvā (28); paccuttaritvā (11). 4. paccāharati: pati āharati; pa ti āharati (10); pa c āharati (19); pa cc āharati (28); paccāharati (11).
 
 Why say ‘sometimes’? To prevent the operation of this rule in the following:
 
@@ -441,9 +443,9 @@ Counter example. 1. itissa: iti assa: it i assa (10); it i ssa (13); itissa (11)
 
 > Kvacī ti kasmā? Idh' eva maraṇaṃ bhavissati (Vin. i, 15).
 
-When a vowel follows, ‘dha’ sometimes is substituted by ‘da’.
+When a vowel follows, ‘dha’ *also* (for ‘ca’ in the Sutta) is sometimes substituted by ‘da’ *also* (for ‘ca’ in the Sutta).
 
-> Examples. 1. idāhaṃ: idha ahaṃ; i dha ahaṃ (10); i da ahaṃ (20); i d ahaṃ (12); i d āhaṃ (15); idāhaṃ (11). (check)
+> Examples. 1. idāhaṃ: idha ahaṃ; i dha ahaṃ (10); i da ahaṃ (20); i d ahaṃ (12); i d āhaṃ (15); idāhaṃ (11).
 
 Why say ‘sometimes’? To prevent the operation of this rule in the following: Idh' eva maraṇaṃ bhavissati.
 
@@ -453,7 +455,7 @@ Counter examples. 1. idheva: idha eva; idh a eva (10); idh eva (12); idheva (11)
 
 > Caggahaṇena dhakārassa hakārādeso hoti. Sāhu dassanam ariyānaṃ (Khu. i, 34).
 
-By taking ‘ca’ there is substitution of ‘dha’ for ‘ha’. \* ‘Ca’ in this sutta means that this rule has further applications such as the[^c2] substitution of ‘dha’ for ‘ha’. Example: sāhu: sādhu; sā dhu (10); sāhu (20).
+By taking ‘ca’ (or by the power of ‘ca’) there is substitution of ‘dha’ by ‘ha’. \* ‘Ca’ in this sutta means that this rule has further applications such as the[^c2] substitution of ‘dha’ for ‘ha’. Example: sāhu: sādhu; sā dhu (10); sāhu (20).
 
 > Suttavibhāgena bahudhā siyā:
 
@@ -485,11 +487,11 @@ To dassa, yathā? Sugato (Vin. i, 1).
 
 > Kho kassa, yathā? Nikkhamati. Icc' evamādī yojetabbā.
 
-According to the Discourses there are many: ‘d’ is changed to ‘t’ as in Sugato (Sugado → Sugato); ‘t’ to ‘ṭ’ as in dukkaṭaṃ (dukkataṃ→ dukkaṭaṃ); ‘t’ to ‘dh’ as in gandhabbo (gantabbo gandhabbo); ‘tt’ to ‘tr’ as in atrajo (attajo → atrajo); ‘g’ to ‘k’ as in kulūpako (kulūpago → kulūpako); ‘r’ to ‘l’ as in mahāsālo (mahāsāro mahāsālo);
+By breaking the Sutta (here, making similar suttas) there are many applications: ‘d’ is changed to ‘t’ as in Sugato (Sugado → Sugato); ‘t’ to ‘ṭ’ as in dukkaṭaṃ (dukkataṃ→ dukkaṭaṃ); ‘t’ to ‘dh’ as in gandhabbo (gantabbo gandhabbo); ‘tt’ to ‘tr’ as in atrajo (attajo → atrajo); ‘g’ to ‘k’ as in kulūpako (kulūpago → kulūpako); ‘r’ to ‘l’ as in mahāsālo (mahāsāro mahāsālo);
 
 <!-- p. 32 -->
 
-‘y’ to ‘j’ as in gavajo (gavayo → gavajo); ‘vv’ to ‘bb’ as in kubbato (kuvvato → kubbato); ‘y’ to ‘k’ as in sake (saye sake); ‘j’ to ‘y’ as niyaṃ (nijaṃ niyaṃ); ‘t’ to ‘k’ as in niyako (niyato → niyako); ‘tt’ to ‘cc’ as in bhacco (bhatto → bhacco); ‘p’ to ‘ph’ as in nipphatti (nippatti nipphatti); ‘k’ to ‘kh’ as in nikkhamati (nikkamati → nikkhamati). Beginning thus they should be formed. (check)
+‘y’ to ‘j’ as in gavajo (gavayo → gavajo); ‘vv’ to ‘bb’ as in kubbato (kuvvato → kubbato); ‘y’ to ‘k’ as in sake (saye sake); ‘j’ to ‘y’ as niyaṃ (nijaṃ niyaṃ); ‘t’ to ‘k’ as in niyako (niyato → niyako); ‘tt’ to ‘cc’ as in bhacco (bhatto → bhacco); ‘p’ to ‘ph’ as in nipphatti (nippatti nipphatti); ‘k’ to ‘kh’ as in nikkhamati (nikkamati → nikkhamati). Other examples beginning with these should be formed.
 
 <a name="m21"></a>
 
@@ -607,7 +609,7 @@ When a consonant follows, vowels sometimes become short.
 
 Why say ‘sometimes’? To prevent the operation of this rule in the following: Sammā samādhi, sāvittī chandaso mukhaṃ, upanīyati jīvitam appam āyu.
 
-Counter examples. 1. sammā samādhi. Here and in the following counter example the final vowels do not become short. 2. sāvittī chandaso. 3. upanīyati jīvitaṃ. Here the final ‘i’ of upanīyati is already naturally short. (check)
+Counter examples. 1. sammā samādhi. Here and in the following counter example the final vowels do not become short. 2. sāvittī chandaso. 3. upanīyati. Here the ‘ī’ of upanīyati does not become short. (This is not a satisfactory example.)
 
 <a name="m27"></a>
 
@@ -641,7 +643,7 @@ Counter examples. 1. so muni. Here and in the other counter examples there is no
 
 In some places, after a vowel, there is doubling of the following consonant.
 
-Examples. 1. idhappamādo: idha pamādo; idha ppamādo (28); idhappamādo (11). (check) 2. purisassa. Here there is the insertion of ‘s’ after the stem ‘purisa’ before the inflection ‘sa’ (fourth and sixth inflection masculine singular). See §61. 3. pabbajjaṃ: pa bajjaṃ; pa bbajjaṃ (28); pabbajjaṃ (11). 4. cātuddasiṃ: cātu dasiṃ; cātu ddasiṃ (28); cātuddasiṃ (11). 5. pañcaddasiṃ: pañca dasiṃ; pañca ddasiṃ (28); pañcaddasiṃ (11). 6. abhikkantataro: abhi kantataro; abhi kkantataro (28); abhikkantataro (11).
+Examples. 1. idhappamādo: idha pamādo; idha ppamādo (28); idhappamādo (11). 2. purisassa. Here there is the insertion of ‘s’ after the stem ‘purisa’ before the inflection ‘sa’ (fourth and sixth inflection masculine singular). See §61. 3. pabbajjaṃ: pa bajjaṃ; pa bbajjaṃ (28); pabbajjaṃ (11). 4. cātuddasiṃ: cātu dasiṃ; cātu ddasiṃ (28); cātuddasiṃ (11). 5. pañcaddasiṃ: pañca dasiṃ; pañca ddasiṃ (28); pañcaddasiṃ (11). 6. abhikkantataro: abhi kantataro; abhi kkantataro (28); abhikkantataro (11).
 
 <!-- p. 37 -->
 
@@ -659,9 +661,9 @@ Counter examples. 1. idha modati pecca modati. Here there is no doubling of ‘m
 
 > Ṭhāne āne ti kasmā? Idha cetaso daḷhaṃ gaṇhāti thāmasā.
 
-In some places, the first and third letters become the double of the second and fourth letters (voiceless and voiced) respectively of that group when they are preceded by a vowel. (check)
+In appropriate places, the first and third letters become the double of the second and fourth letters (voiceless and voiced) respectively of that group when they are preceded by a vowel. (I.e., the second letter is doubled as first-second, and the fourth is doubled as third-fourth.)
 
-> Examples. 1. cajjhānapphalo: ca jhānapphalo; ca jjhānapphalo (29); cajjhānapphalo. 2. yatraṭṭhitaṃ: yatra ṭhitaṃ; yatra ṭṭhitaṃ (29); yatraṭṭhitaṃ. 3. nappasaheyya: na pasaheyya; na ppasaheyya (28); nappasaheyya. 4. pabbatamuddhaniṭṭhito: pabbatamuddhani ṭhito; pabbatamuddhani ṭṭhito (29); pabbatamuddhaniṭṭhito. 5. cattāriṭṭhānāni: cattāri ṭhānāni; cattāri ṭṭhānāni (29); cattāriṭṭhānāni.
+> Examples. 1. cajjhānapphalo: ca jhānapphalo; ca jjhānapphalo (29); cajjhānapphalo. (Jhānapphalo can also be an example: jhānapphalo; jhāna phalo; jhānapphalo (29); jhānapphalo.) 2. yatraṭṭhitaṃ: yatra ṭhitaṃ; yatra ṭṭhitaṃ (29); yatraṭṭhitaṃ. 3. nappasaheyya: na pasaheyya; na ppasaheyya (28); nappasaheyya. 4. pabbatamuddhaniṭṭhito: pabbatamuddhani ṭhito; pabbatamuddhani ṭṭhito (29); pabbatamuddhaniṭṭhito. 5. cattāriṭṭhānāni: cattāri ṭhānāni; cattāri ṭṭhānāni (29); cattāriṭṭhānāni.
 
 Why say ‘in some places’? To prevent the operation of this rule in the following: Idha cetaso daḷhaṃ gaṇhāti thāmasā.
 
@@ -709,7 +711,7 @@ When a grouped consonant follows, the (previous) niggahita optionally becomes th
 
 <!-- p. 39 -->
 
-By taking ‘optionally’ there is substitution of the niggahita for ‘l’. Example, puggalaṃ: puggaṃ aṃ; puggalaṃ. (check)
+By taking ‘optionally’ there is substitution of the niggahita by ‘l’. Example, puggalaṃ: puggaṃ aṃ; puggal aṃ (by ‘vā’ in 31); puggalaṃ (11). (According to Nyāsa. But this is not a satisfactory example. See the footnote to ‘Puggalaṃ’ above.)
 
 Why say ‘optionally’? To prevent the operation of this rule in the following: Na taṃ kammaṃ kataṃ sādhu.
 
@@ -751,7 +753,7 @@ When the letter ‘y’ follows, the niggahita together with the letter ‘y’ 
 
 Why say ‘optionally’? To prevent the operation of this rule in the following: Saṃyogo, saṃyuttaṃ.
 
-> Counter examples. 1. saṃyogo. 2. saṃyuttaṃ.
+Counter examples. 1. saṃyogo. (There are two choices, saññogo and saṃyogo: but here the speaker chooses to say ‘saṃyogo’. Therefore ‘ṃ’ together with ‘y’ is not changed to ‘ñ’.) 2. saṃyuttaṃ. (To be understood similarly.)
 
 <a name="m34"></a>
 
@@ -791,7 +793,7 @@ Why say ‘optionally’? To prevent the operation of this rule in the following
 
 When a vowel follows, optionally there are these insertions: ‘y’, ‘v’, ‘m’, ‘d’, ‘n’, ‘t’, ‘r’, and ‘l’.
 
-> Examples. 1. na-y-imassa. 2. yatha-y-idaṃ. 3. bhantā-v-udikkhati. 4. lahu-m-essati. 5. garum-m-essati. 6. kasā-m-iva. 7. samma-d-aññā. 8. manasā-d-aññā. 9. atta-d-attham. 10. ciraṃ-n-āyati. 11. ito-n-āyati. 12. yasmā-t-iha. 13. tasmā-t-iha. 14. ajja-t-agge. 15. sabbhi-r-eva. 16. āragge-r-iva. 17. sāsapo-r-iva.
+> Examples. 1. na-y-imassa. 2. yatha-y-idaṃ: yathā idaṃ; yathā y idaṃ (35); yatha y idaṃ (26); yathayidaṃ (11). 3. bhantā-v-udikkhati. 4. lahu-m-essati. 5. garum-m-essati. 6. kasā-m-iva. 7. samma-d-aññā: sammā aññā; sammā d aññā (35); samma d aññā (26); sammadaññā (11). 8. manasā-d-aññā. 9. atta-d-attham. 10. ciraṃ-n-āyati. 11. ito-n-āyati. 12. yasmā-t-iha. 13. tasmā-t-iha. 14. ajja-t-agge. 15. sabbhi-r-eva. 16. āragge-r-iva. 17. sāsapo-r-iva.
 
 <!-- p. 42 -->
 
@@ -799,9 +801,9 @@ When a vowel follows, optionally there are these insertions: ‘y’, ‘v’, �
 
 Why say ‘optionally’? To prevent the operation of this rule in the following: Evaṃ mahiddhiyā esā, akkocchi maṃ, avadhi maṃ, ajini maṃ ahāsi me, ajeyyo anugāmiko.
 
-> Counter examples. 1. mahiddhiyā esā. 2. akkocchi maṃ, avadhi maṃ, ajini maṃ ahāsi me.[^c4] 3. ajeyyo anugāmiko.
+> Counter examples. 1. mahiddhiyā esā. 2. akkocchi maṃ, avadhi maṃ, ajini maṃ ahāsi me. (Nothing inserted after ‘ṃ’s.)[^c4] 3. ajeyyo anugāmiko.
 
-By taking ‘ca’ here there are the following substitutions: ‘m’ for ‘p’, ‘k’ for ‘d’ and ‘d’ for ‘t’. Example. 1. cirappavāsiṃ: ciraṃ pavāsiṃ; ciram pavāsiṃ (31); cirap pavāsiṃ (35); cirappavāsiṃ. 2. sadatthapasuto: saka atthapasuto; sak a atthapasuto (10); sak atthapasuto (12); sad atthapasuto (35); sadatthapasuto (11). 3. sugato: sugado; sugato (35).
+By taking ‘ca’ here there are the following substitutions: ‘m’ for ‘p’, ‘k’ for ‘d’ and ‘d’ for ‘t’. Example. 1. cirappavāsiṃ: ciraṃ pavāsiṃ; ciram pavāsiṃ (31); cirap pavāsiṃ (‘ca’ of 35); cirappavāsiṃ. 2. sadatthapasuto: saka atthapasuto; sak a atthapasuto (10); sak atthapasuto (12); sad atthapasuto (‘ca’ of 35); sadatthapasuto (11). 3. sugato: sugado; sugato (‘ca’ of 35).
 
 <a name="m36"></a>
 
@@ -819,11 +821,11 @@ Examples. 1. atippagokho: atippa kho; atippa g kho (by ‘ca’ of sutta 35); at
 
 Why say ‘sometimes’? To prevent the operation of this rule in the following: Etha passath' imaṃ lokaṃ, andhībhūto ayaṃ loko.
 
-> Counter examples. 1. etha passath' imaṃ lokaṃ.
+> Counter examples. 1. etha passath' (imaṃ lokaṃ).
 
 <!-- p. 43 -->
 
-> 2. andhībhūto ayaṃ loko.[^c5]
+> 2. andhībhūto ayaṃ loko. (Here counter example should be ‘andhībhūto ayaṃ’ and not ‘ayaṃ loko’. See Kaccāyana Bhāsāṭīkā.)[^c5]
 
 <a name="m37"></a>
 
@@ -839,13 +841,13 @@ Why say ‘sometimes’? To prevent the operation of this rule in the following:
 
 When a vowel or a consonant follows, sometimes there is the insertion of the niggahita.
 
-> Examples. 1. cakkhuṃ udapādi: cakkhu udapādi; cakkhu ṃ udapādi (37); cakkhuṃ udapādi. 2. avaṃsiro: ava siro; ava ṃ siro (37); avaṃsiro. 3. yāvañcidha: yāva ca idha; yāva c a idha (10); yāva c idha (12); yāva ṃ c idha (37); yāva ñ c idha (31); yāvañcidha (11). 4. aṇuṃthūlāni: aṇu thūlāni; aṇu ṃ thūlāni (37); aṇuṃthūlāni. 5. manopubbaṅgamā: manopubba gamā; manopubba ṃ gamā (37); manopubba ṅ gamā (31); manopubbaṅgamā.
+> Examples. 1. cakkhuṃ udapādi: cakkhu udapādi; cakkhu ṃ udapādi (37); cakkhuṃ udapādi. 2. avaṃsiro: ava siro; ava ṃ siro (37); avaṃsiro. 3. yāvañcidha: yāva ca idha; yāva c a idha (10); yāva c idha (12); yāva ṃ c idha (37); yāva ñ c idha (31); yāvañcidha (11). 4. purimaṃ jātiṃ: this example is problematic. See Kaccāyana Bhāsāṭīkā. 5. aṇuṃthūlāni: aṇu thūlāni; aṇu ṃ thūlāni (37); aṇuṃthūlāni. 6. manopubbaṅgamā: manopubba gamā; manopubba ṃ gamā (37); manopubba ṅ gamā (31); manopubbaṅgamā.
 
 Why say ‘sometimes’? To prevent the operation of this rule in the following: Idh' eva naṃ pasaṃsanti, pecca sagge pamodati; na hi etehi yānehi, gaccheyya agataṃ disaṃ.
 
-Counter examples. Please explain which are the counter examples?
+Counter examples. Please explain which are the counter examples? 1. idheva: idha eva; no application of this sutta; idh a eva (10); idh eva (12); idheva (11). 2. pecca sagge. 3. hi etehi.
 
-By taking ‘ca’ there is also ‘pa’ of ‘vi’. Pacesssati, vicessati vā.
+By taking ‘ca’ there is also ‘pa’ of ‘vi’. Pacesssati, vicessati vā. Example: pacessati. Counter example for ‘ca’: vicessati.
 
 <a name="m38"></a>
 
@@ -917,7 +919,7 @@ Why say ‘optionally’? To prevent the operation of this rule in the following
 
 > Caggahaṇena tiṇṇaṃ byañjanānam antare ye sarūpā, tesam pi lopo hoti. Agyāgāraṃ (Vin. ii, 145); paṭisanthāravuty assa (Khu. i, 67).
 
-When the vowel that follows the niggahita is elided, if the syllable has a conjunct consonant, it becomes single consonant. (check)
+When the vowel that follows the niggahita is elided, if the syllable has a conjunct consonant, it becomes single consonant.
 
 > Examples. 1. evaṃsa: evaṃ assa; evaṃ ssa (40); evaṃ sa (41); evaṃsa. 2. pupphaṃsā: pupphaṃ assā; pupphaṃ ssā (40); pupphaṃ sā (41); pupphaṃsā.
 
@@ -1025,7 +1027,7 @@ Why say ‘optionally’? To allow the operation of this rule in the following: 
 
 When the letters ‘i’ and ‘ī’ follow, the said form (sutta 19) “sabbo caṃ ti” does not apply to the end syllable ‘ti’ of ‘ati’.
 
-> Examples. 1. atīsigaṇo: ati isi gaṇo; at i isi gaṇo (10); at isi gaṇo (12); at īsi gaṇo (15); atīsigaṇo (11). 2. atīritaṃ: ati īritaṃ; atīritaṃ.
+> Examples. 1. atīsigaṇo: ati isi gaṇo; at i isi gaṇo (10); at isi gaṇo (12); at īsi gaṇo (15); atīsigaṇo (11). 2. atīritaṃ: ati īritaṃ; at i īritaṃ (10); at īritaṃ (12); atīritaṃ (11).
 
 Why say ‘letters ‘i’ and ‘ī’? To allow the operation of this rule in the following: accantaṃ.
 
@@ -1101,21 +1103,49 @@ Counter examples. 1. avasussatu. Here there is no substitution of ‘ava’ for 
 
 <!-- p. 51 -->
 
-Those words with prefixes and particles, whose formations have not been shown, should be formed according to usage by the vowel-sandhi, consonant-sandhi or verse-sandhi according to usage. (check)
+Those forms of prefixes and particles, whose formations have not been shown, should be formed by the rules of vowel-sandhi, consonant-sandhi or verse-sandhi that have been mentioned before.
 
-Examples. When a vowel follows. 1. pāpanaṃ: pa āpanaṃ; p a āpanaṃ (10); p āpanaṃ (12); pāpanaṃ (11). 2. parāyaṇaṃ: parā ayaṇaṃ; par ā ayaṇaṃ (10); par ayaṇaṃ (12); par āyaṇaṃ (15); parāyaṇaṃ (11).[^c6] 3. upāyanaṃ: upa ayanaṃ; up a ayanaṃ (10); up ayanaṃ (12); up āyanaṃ (15); upāyanaṃ (11). 4. upāhanaṃ: upa āhanaṃ; up a āhanaṃ (10); up āhanaṃ (12); upāhanaṃ (11). 5. nyāyogo: ni āyogo; ny āyogo (21); nyāyogo. 6. nirupadhi: ni upadhi; ni r upadhi (35); nirupadhi. 7. anubodho: anu bodho (23). 8. duvūpasantaṃ: du upasantaṃ; du v upasantaṃ (35); du v ūpasantaṃ (25); duvūpasantaṃ. 9. suvūpasantaṃ: su upasantaṃ; su v upasantaṃ (35); su v ūpasantaṃ (25); suvūpasantaṃ. 10. dvālayo: du ālayo; dv ālayo (18); dvālayo. 11. svālayo: su ālayo; sv ālayo (18); svālayo. 12. durākhyātaṃ: du ākhyātaṃ; du r ākhyātaṃ (35); durākhyātaṃ. 13. svākhyāto: su ākhyāto; sv ākhyāto (18); svākhyāto. 14. udīritaṃ: u īritaṃ; u r īritaṃ (35); udīritaṃ. 15. samuddiṭṭhaṃ: saṃ uddiṭṭhaṃ; sam uddiṭṭhaṃ (34); samuddiṭṭhaṃ. 16. viyaggaṃ: vi aggaṃ; vi y aggaṃ (35); viyaggaṃ. 17. vijjhaggaṃ: vi adhi aggaṃ; vi ajjh aggaṃ (42); vijjhaggaṃ. 18. byaggaṃ = viyaggaṃ. 19. avayāgamanaṃ: ava āgamanaṃ; ava y āgamanaṃ (35); avayāgamanaṃ. 20. anveti: anu eti; anv eti (18); anveti. 21. anupaghāto: na upaghāto; an upaghāto (334); anupaghāto. 22. anacchariyaṃ: na acchariyaṃ; an acchariyaṃ (334); anacchariyaṃ. 23. pariyesanā: pari esanā; pari y esanā (35); pariyesanā. 24. parāmāso: pari āmāso; par i āmāso (10); par āmāso (12); parāmāso[^c7] (11).
+Examples. When a vowel follows. 1. pāpanaṃ: pa āpanaṃ; p a āpanaṃ (10); p āpanaṃ (12); pāpanaṃ (11). 2. parāyaṇaṃ: parā ayaṇaṃ; par ā ayaṇaṃ (10); par ayaṇaṃ (12); par āyaṇaṃ (15); par āyaṇaṃ (‘ca’ of 20); parāyaṇaṃ (11). Some teachers separate this as paraṃ ayanaṃ.[^c6] 3. upāyanaṃ: upa ayanaṃ; up a ayanaṃ (10); up ayanaṃ (12); up āyanaṃ (15); upāyanaṃ (11). 4. upāhanaṃ: upa āhanaṃ; up a āhanaṃ (10); up āhanaṃ (12); upāhanaṃ (11). 5. nyāyogo: ni āyogo; ny āyogo (21); nyāyogo. 6. nirupadhi: ni upadhi; ni r upadhi (35); nirupadhi. 7. anubodho: anu bodho (23). 8. duvūpasantaṃ: du upasantaṃ; du v upasantaṃ (35); du v ūpasantaṃ (25); duvūpasantaṃ. 9. suvūpasantaṃ: su upasantaṃ; su v upasantaṃ (35); su v ūpasantaṃ (25); suvūpasantaṃ. 10. dvālayo: du ālayo; dv ālayo (18); dvālayo. 11. svālayo: su ālayo; sv ālayo (18); svālayo. 12. durākhyātaṃ: du ākhyātaṃ; du r ākhyātaṃ (35); durākhyātaṃ. 13. svākhyāto: su ākhyāto; sv ākhyāto (18); svākhyāto. 14. udīritaṃ: u īritaṃ; u r īritaṃ (35); udīritaṃ. 15. samuddiṭṭhaṃ: saṃ uddiṭṭhaṃ; sam uddiṭṭhaṃ (34); samuddiṭṭhaṃ. 16. viyaggaṃ: vi aggaṃ; vi y aggaṃ (35); viyaggaṃ. 17. vijjhaggaṃ: vi adhi aggaṃ; vi ajjh aggaṃ (42); vijjhaggaṃ. 18. byaggaṃ: vi aggaṃ; v i aggaṃ (10); v y aggaṃ (21); b y aggaṃ (‘ca’ of 20); byaggaṃ. 19. avayāgamanaṃ: ava āgamanaṃ; ava y āgamanaṃ (35); avayāgamanaṃ. 20. anveti: anu eti; anv eti (18); anveti. 21. anūpaghāto: anu upaghāto; an upaghāto (12); an ūpaghāto (15); anūpaghāto. 22. anacchariyaṃ: anu acchariyaṃ; an acchariyaṃ (12); anacchariyaṃ. See Nyāsa also. 23. pariyesanā: pari esanā; pari y esanā (35); pariyesanā. 24. parāmāso: pari āmāso; par i āmāso (10); par āmāso (12); parāmāso[^c7] (11).
 
 When a consonat follows. 1. pariggaho: pari gaho; pari ggaho (28); pariggaho. 2. paggaho: pa gaho; pa ggaho (28); paggaho. 3. pakkamo: pa kamo; pa kkamo (28); pakkamo. 4. parakkamo: para kamo; para kkamo (28); parakkamo. 5. nikkamo: ni kamo; ni kkamo (28); nikkamo. 6. nikkasāvo: ni kasāvo; ni kkasāvo (28); nikkasāvo.
 
 <!-- p. 52 -->
 
-> 7. nillayanaṃ: ni layanaṃ; ni llayanaṃ (28); nillayanaṃ. 8. dullayanaṃ: du layanaṃ; du llayanaṃ (28); dullayanaṃ. 9. dubbhikkhaṃ: du bhikkhaṃ; du bbhikkhaṃ (29); dubbhikkhaṃ. 10. dubbuttaṃ: du uttaṃ; du v uttaṃ (35); du vv uttaṃ (28); du bb uttaṃ (20); dubbuttaṃ. 11. sandiṭṭhaṃ: saṃ diṭṭhaṃ; san diṭṭhaṃ (31); sandiṭṭhaṃ. 12. duggaho: du gaho; du ggaho (28); duggaho. 13. viggaho: vi gaho; vi ggaho (28); viggaho. 14. niggato: ni gato; ni ggato (28); niggato. 15. abhikkamo: abhi kamo; abhi kkamo (28); abhikkamo. 16. paṭikkamo: paṭi kamo; paṭi kkamo (28); paṭikkamo.
+> 7. nillayanaṃ: ni layanaṃ; ni llayanaṃ (28); nillayanaṃ. 8. dullayanaṃ: du layanaṃ; du llayanaṃ (28); dullayanaṃ. 9. dubbhikkhaṃ: du bhikkhaṃ; du bbhikkhaṃ (29); dubbhikkhaṃ. 10. dubbuttaṃ: du uttaṃ; du v uttaṃ (35); du vv uttaṃ (28); du bb uttaṃ (‘ca’ of 20); dubbuttaṃ. 11. sandiṭṭhaṃ: saṃ diṭṭhaṃ; san diṭṭhaṃ (31); sandiṭṭhaṃ. 12. duggaho: du gaho; du ggaho (28); duggaho. 13. viggaho: vi gaho; vi ggaho (28); viggaho. 14. niggato: ni gato; ni ggato (28); niggato. 15. abhikkamo: abhi kamo; abhi kkamo (28); abhikkamo. 16. paṭikkamo: paṭi kamo; paṭi kkamo (28); paṭikkamo.
 
 > Iti sandhi-kappe pañcamo kaṇḍo
 
 Thus ends the fifth section of the chapter on sandhi
 
 Sandhi-kappo niṭṭhito End of the Sandhi Chapter
+
+<!-- 2005 print, p. 48: this page is not in the translator's file -->
+
+The applications of ‘ca’ in Kaccāyana:
+
+1. Dragging (anukaḍḍhana),
+   1. Dragging so that the word follows to the sutta, e.g., Ādito o ca (69). Here ‘ca’ drags the two kāriyas, ‘aṃ’ and ‘ā’, so that they follow to this sutta 69; otherwise they will not follow to this sutta because there is the ‘o’ already which is the kāriya.
+   2. Dragging so that the word dragged does not transport to following sutta/s; e.g., Pubbo ca (16). Here ‘ca’ drags or restrains the ‘lutte’ and ‘dīghaṃ’ so that they do not follow to following sutts/a.
+2. Collecting (sampiṇḍana), like English ‘and’. This ‘ca’ usually is employed in the second sentence when there are two sentences, e.g., Evādissa ri, pubbo ca rasso (22) = the beginning of ‘eva’ is changed to ‘ri’, and the previous vowel is shortened. Here ‘ca’ dose not add anything to the statement.
+3. Accumulating (samuccaya), like English ‘and also’. Here ‘ca’ indicates some addition to the statement. e.g., Do dhassa ca (20) = ‘dha’ is changed to ‘da’, and also ‘dha’ to ‘ha’ and so on.
+4. Delimiting (avadhāraṇa),
+   1. To make the application firm, see, e.g., suttas 84, 114.
+   2. To limit the application, to debar some application, see, e.g., suttas 79, 83, 89.
+5. Smoothness of speech (vācāsiliṭṭha), no extra meaning, but speech sounds good with it according to usage. I cannot give an example for this right now.
+
+kvaci, vā, navā, vibhāsā:
+
+‘kvaci’ shows that the application of the sutta is not very often; it is only sometimes that the application is made. For example, changing the later vowel to ‘asavaṇṇa’ when the previous vowel is elided (by 14) is done only in a few cases; cases where this application is not done are many: yassindriyāni, tathūpamaṃ, yassadāni, saṇṇāiti, chāyāva, mātupaṭṭhānaṃ, madhūdakaṃ, etc. (Kaccāyana Bhāsāṭīkā.)
+
+‘navā’ is said to be the same as ‘kvaci’. And it is said that ‘kvaci’ allows only one form, and no alternative form. E.g., n+upeti bevomes nopeti and not nopeti and nupeti.
+
+‘vā’ and ‘vibhāsā’ are also said to be the same. They show that there can be two forms, one where the application is made and the other where it is not made, unlike ‘kvaci’, and ‘navā’ which allow only one form. E.g., tanniccutaṃ, tan niccutaṃ; dhammañcare, dhammaṃ care, etc.
+
+> ‘Kvaci’ ‘navā’ ca ekatthā, yebhuyyen’ ekarūpakā,\
+> ‘Vā’ ‘vibhāsā’ samānatthā, pāyen’ obhayarūpakā.\
+> (Kaccāyanavaṇṇanā.)
+
+‘Kvaci’ and ‘navā’ have one (the same) meaning; they generally have or show one form. ‘Vā’ and ‘vibhāsā’ have the same meaning; they generally have or show two forms.
 
 > 2-NĀMA-KAPPA 2-Noun Chapter
 
@@ -7715,7 +7745,7 @@ It is fourth (catuttho) with a half (aḍḍhena),[^132] (it is called) three an
 
 <a name="m388"></a>
 
-#### 388. 68. Sarūpānam ekasesv asakiṃ(820-3).
+#### 388. 68. Sarūpānam ekasesv asakiṃ (820-3).
 
 > Sarūpānaṃ padabyañjanānaṃ ekaseso hoti asakiṃ.
 
@@ -8509,9 +8539,7 @@ Why it is said "sattamī"? For the use of the word "sattamī" in the sutta "Anum
 
 <a name="m426"></a>
 
-#### 426. 459. Parokkhā a u, e ttha, aṃ mha[^164]; ttha re, ttho vho, iṃ mhe[^165]
-
-(899).
+#### 426. 459. Parokkhā a u, e ttha, aṃ mha[^164]; ttha re, ttho vho, iṃ mhe[^165] (899).
 
 > Parokkhā icc' esā saññā hoti a u, e ttha, aṃ mha[^166], ttha re, ttho vho, iṃ mhe[^167] icc' etesaṃ dvādasannaṃ padānaṃ.
 
@@ -10385,7 +10413,7 @@ After the roots "visa", "ruja", "pada", and others, there is the suffix "ṇa".[
 
 <a name="m529"></a>
 
-#### 529. 580. Bhāve ca (1).
+#### 529. 580. Bhāve ca (1111).
 
 > Bhāvatthābhidheyye[^234] sabbadhātūhi ṇapaccayo hoti.
 

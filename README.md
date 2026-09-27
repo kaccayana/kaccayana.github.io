@@ -9,7 +9,15 @@ A translation of the earliest available Pāli grammar into modern English, toget
 > **Status.** The [Bālāvatāra](https://kaccayana.github.io/balavatara/) translation is complete. It was produced through a mix of hand translation, the [MITRA-QWEN](https://huggingface.co/buddhist-nlp/mitra-qwen35-translate) Pāli–English model from the [Dharmamitra](https://dharmamitra.org) project (run locally, as a literal crib) and Claude Fable 5.1 (Anthropic), which reworked the machine drafts into the style of the hand-translated chapters; the result was checked against the Pāli before publication. All eight chapters of [Kaccāyana](https://kaccayana.github.io/kaccayana/) itself are translated the same way, each sutta with its analysis, the vutti, worked examples with Tipiṭaka citations and counter-examples.
 
 > [!NOTE]
-> This work is public domain using the CC0 licence and the source code is available on Github. If you like this work and wish to show your appreciation, please consider sponsoring me.
+> **Licence.** The translations, commentary, notes, diagrams and code in this repository are dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Material reproduced from other sources is **not** covered by that dedication and keeps its own terms; the full list, with credits, is in [LICENSE](LICENSE):
+>
+> - The Pāli text of Kaccāyana and Bālāvatāra is the Chaṭṭha Saṅgāyana edition published by the [Vipassana Research Institute](https://tipitaka.org), reproduced with attribution.
+> - The 1935 University of Calcutta translation of Bālāvatāra (Vidyabhusana, Punnananda Swami and Mitra) is reproduced as a historical text; any copyright that still subsists remains with its holders.
+> - U Nandisena's English translation of Kaccāyana (2005; electronic edition © 2017 Instituto de Estudios Buddhistas Hispano) is licensed [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/): attribution, no commercial use, no derivatives.
+> - The articles and reviews by Aleix Ruiz-Falqués in the reference section remain © the author and their publishers (Aditya Prakashan, Northern Illinois University Press, De Gruyter, the Ñāṇasaṃvara Centre for Buddhist Studies, the Pali Text Society, The Sanskrit Library, Brill); no licence is granted.
+> - Photographs from Wikimedia Commons are CC BY-SA 3.0 and are credited in LICENSE.
+>
+> If you like this work and wish to show your appreciation, please consider sponsoring me.
 
 ```sh
 pnpm install
