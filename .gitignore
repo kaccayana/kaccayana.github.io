@@ -21,3 +21,6 @@ pnpm-debug.log*
 .DS_Store
 
 *.workspace
+# local dictionary database (Digital Pāḷi Dictionary, SQLite)
+dpd.db
+dpd.db-*
