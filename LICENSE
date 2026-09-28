@@ -53,7 +53,15 @@ allows.
    (typing errors corrected and listed on its Corrections page). Copyright
    remains with the author; no licence is granted here.
 
-5. Articles and reviews by Aleix Ruiz-Falqués
+5. James D'Alwis, An Introduction to Kachchāyana's Grammar of the Pāli
+   Language (1863)
+
+   Colombo: Williams and Norgate, 1863. Public domain by age. Reproduced as a
+   reading edition in src/content/docs/kaccayana/alwis.md from a scan of the
+   University of California copy (digitised by Microsoft, via archive.org),
+   which is served as public/reference/alwis.pdf.
+
+6. Articles and reviews by Aleix Ruiz-Falqués
 
    Reproduced for study as pages in src/content/docs/reference/ (with their
    figures) and as PDF files in public/reference/. Copyright in each remains
@@ -91,7 +99,7 @@ allows.
      Ruiz-Falqués 2024, published with licence by Koninklijke Brill NV.
      PDF only.
 
-6. Images
+7. Images
 
    - src/assets/Brahmi_pillar_inscription_in_Sarnath.jpg: photograph by Laura
      Solà, from Wikimedia Commons, licensed CC BY-SA 3.0 Unported (also GNU
@@ -104,7 +112,7 @@ allows.
      plates by James Prinsep (1834, 1838), public domain by age, from
      Wikimedia Commons.
 
-7. Other files kept for reference
+8. Other files kept for reference
 
    src/assets/Brahmi.pdf, "Brahmi: Rediscovering the Lost Script" by Ankita
    Roy, is a working reference that the site does not publish; rights remain

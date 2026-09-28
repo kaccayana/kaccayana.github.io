@@ -22,7 +22,7 @@ sidebar:
 * Kaccâyana et al littérature grammaticale du pâli, available on [archive.org](https://archive.org/details/kaccyanaetallitt00kacc)
 * Káchcháyano's Páli Grammar, by Francis Mason, available on [archive.org](https://archive.org/details/pligrammar00masogoog)
 * A Pali Grammar, on the basis of Káchcháyano, by Francis Mason, available on [archive.org](https://archive.org/details/apaligrammaronb00kaccgoog)
-* An Introduction to Kachchàyana's Grammar of the Pàli Language, by James D'Alwis, available on [archive.org](https://archive.org/details/anintroductiont00kaccgoog) and [alternate](https://archive.org/details/introductiontoka00kaccrich/page/n7/mode/2up)
+* An Introduction to Kachchàyana's Grammar of the Pàli Language, by James D'Alwis, available on [archive.org](https://archive.org/details/anintroductiont00kaccgoog) and [alternate](https://archive.org/details/introductiontoka00kaccrich/page/n7/mode/2up); reproduced on this site as a reading edition, [D'Alwis: Kaccāyana (1863)](/kaccayana/alwis).
 * Satis Chandra Acharyva, Widyabhusana, *Kaccayana's Pali Grammar*, The Mahabodhi Society, Calcutta (1901), available on [archive.org](https://archive.org/details/in.ernet.dli.2015.345183)
 * Phramaha Thiab Malai, *Kaccāyana-Vyākarana: A Critical Study*, Department of Sanskrit and Pali Studies, University of Pune (1997)
   * [Volume 1](https://archive.org/details/thiab-malai-1997-thesis)
