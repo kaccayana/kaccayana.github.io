@@ -28,6 +28,7 @@ sidebar:
   * [Volume 1](https://archive.org/details/thiab-malai-1997-thesis)
   * [Volume 2](https://archive.org/details/thiab-malai-1997-thesis-vol.-2)
 * U Silananda, U Nandisena, *Kaccāyanabyākaraṇaṁ*, Institudo de Estudios Buddhistas Hispano (IEBH) (2005, 2017), available on [archive.org](https://archive.org/details/Kaccayana)
+* Phramaha Sriporn Rachiwong, *Rūpasiddhi: A Study of Some Aspects*, Ph.D. thesis, University of Pune (1995): a study of Buddhappiya's Padarūpasiddhi with an English translation of its Nāmakaṇḍa, Samāsakaṇḍa and Ākhyātakaṇḍa; reproduced on this site as a reading edition, [Rachiwong: Rūpasiddhi (1995)](/rupasiddhi/rachiwong).
 * KACCĀYANA VYĀKARAṆAṀ (Kaccāyana’s Pāḷi Grammar) by Ven. Kaccāyana Mahāthera, Department of Pali International Theravada Buddhist Missionary University Yangon, Myanmar May 25, 2007
   * [CHAPTER I SANDHI-KAPPA](https://archive.org/details/kaccayana-pali-sandhi)
   * [CHAPTER II NĀMA-KAPPA](https://archive.org/details/kaccayana-pali-vyakaran-nama-kappa-vol.-2)

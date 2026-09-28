@@ -61,7 +61,14 @@ allows.
    University of California copy (digitised by Microsoft, via archive.org),
    which is served as public/reference/alwis.pdf.
 
-6. Articles and reviews by Aleix Ruiz-Falqués
+6. Phramaha Sriporn Rachiwong, Rūpasiddhi: A Study of Some Aspects (1995)
+
+   Ph.D. thesis (Pāli), University of Pune, 1995. Reproduced from a scan of the
+   typescript as a reading edition in src/content/docs/rupasiddhi/rachiwong.md;
+   the scan is served as public/reference/rupasiddhi-1995-rachiwong.pdf.
+   Copyright remains with the author; no licence is granted here.
+
+7. Articles and reviews by Aleix Ruiz-Falqués
 
    Reproduced for study as pages in src/content/docs/reference/ (with their
    figures) and as PDF files in public/reference/. Copyright in each remains
@@ -99,7 +106,7 @@ allows.
      Ruiz-Falqués 2024, published with licence by Koninklijke Brill NV.
      PDF only.
 
-7. Images
+8. Images
 
    - src/assets/Brahmi_pillar_inscription_in_Sarnath.jpg: photograph by Laura
      Solà, from Wikimedia Commons, licensed CC BY-SA 3.0 Unported (also GNU
@@ -112,7 +119,7 @@ allows.
      plates by James Prinsep (1834, 1838), public domain by age, from
      Wikimedia Commons.
 
-8. Other files kept for reference
+9. Other files kept for reference
 
    src/assets/Brahmi.pdf, "Brahmi: Rediscovering the Lost Script" by Ankita
    Roy, is a working reference that the site does not publish; rights remain
