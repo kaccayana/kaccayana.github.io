@@ -53,7 +53,7 @@ even the exalted entire approach of the language of Māgadha;\
 and other kinds of esteemed[^3] grammar,\
 and traditional views, I have carefully and completely considered (all of these).
 
-[^3]: `sakkata` is literally "honoured", the past participle of `sakkaroti`; taken so, the line means the other Pāli grammars. The word is also a Pāli name for Sanskrit, more often spelt `sakkaṭa`, and Kaccāyana's vutti to [§9 (11): Parasamaññā payoge](/kaccayana/1-sandhikappa#m9) uses `sakkataganthesu` for "Sanskrit books"; read that way, the line would name Sanskrit grammars, set against the Māgadha approach of the line before. The plain sense is adopted here and in Ṅa.
+[^3]: `sakkata` is literally "honoured", the past participle of `sakkaroti`; taken so, the line means the other Pāḷi grammars. The word is also a Pāḷi name for Sanskrit, more often spelt `sakkaṭa`, and Kaccāyana's vutti to [§9 (11): Parasamaññā payoge](/kaccayana/1-sandhikappa#m9) uses `sakkataganthesu` for "Sanskrit books"; read that way, the line would name Sanskrit grammars, set against the Māgadha approach of the line before. The plain sense is adopted here and in Ṅa.
 
 ### Gha
 
