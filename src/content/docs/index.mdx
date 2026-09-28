@@ -28,15 +28,17 @@ import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
 
 **Kaccāyana** is the earliest surviving Pāli grammar, traditionally ascribed to the Buddha's disciple Mahākaccāyana and compiled around the sixth or seventh century CE. Two later works of its school are translated alongside it: Buddhappiya's **Padarūpasiddhi** (thirteenth century), which recasts its rules in a teaching order with full paradigms and the derivation of every form, and Dhammakitti's **Bālāvatāra** (fourteenth century), the primer for beginners that abridges both. The three texts are translated in one style and cross-referenced rule by rule, so that a Kaccāyana sutta, Buddhappiya's treatment of it and Dhammakitti's abridgement are always a click apart.
 
-:::note[Status]
-The three translations are essentially complete — Kaccāyana §1–§673, the Padarūpasiddhi Rūp 1–684 and Bālāvatāra ¶1–¶269 — and have been validated against a range of reference sources: the Chaṭṭha Saṅgāyana text itself, whose misprints are corrected and footnoted; the Tipiṭaka, from which every example that could be traced is cited; the five earlier English translations reproduced on this site, each collated sutta by sutta, together with the readings of the Thai, Burmese and Sinhalese editions and of the commentaries (the Nyāsa, the Padarūpasiddhi-ṭīkā, the Saddanīti) that they report; and the studies of Aleix Ruiz-Falqués on optionality, which the analysis of every sutta follows. Where a reading or a construal differs, a footnote says so.
+The aim of this site is a **literal, word-for-word translation** of these core texts of the classical Pāli grammatical tradition: the rule and its commentary are rendered as the Pāli states them, straightforwardly and accurately, with nothing added by way of explanation and nothing left out. Their accuracy has been checked rigorously: every sutta was read against the Pāli, cross-checked with the earlier human translations reproduced on this site, and checked again with two language models, the [MITRA-QWEN](https://huggingface.co/buddhist-nlp/mitra-qwen35-translate) Pāli–English model of the [Dharmamitra](https://dharmamitra.org) project and Anthropic's Claude Fable; where a reading or a construal differs, a footnote says so.
+
+:::note[Review Draft]
+The three translations are essentially complete — Kaccāyana §1–§673, the Padarūpasiddhi Rūp 1–684 and Bālāvatāra ¶1–¶269 — and every page has been through the checks above; the [Introduction](/introduction#status) gives the details, and each section's index page lists the reference translations it was cross-checked with.
 :::
 
 ## Features
 
 <CardGrid>
-	<Card title="Three related texts" icon="open-book">
-		Kaccāyana, its twelfth- or thirteenth-century recast and its fourteenth-century primer, translated in one consistent style, with every later rule linked to the Kaccāyana sutta it is.
+	<Card title="Literal, word for word" icon="open-book">
+		Each sutta and its commentary are translated as the Pāli states them, straightforwardly and accurately, with nothing added by way of explanation; analysis is kept to the exceptions and commentary to the footnotes.
 	</Card>
 	<Card title="Modern terminology" icon="translate">
 		The grammar is described in its own terms, in modern natural English: inflection forms ①…⑦ with ⨀ singular and ⨂ plural rather than Latin cases and declensions, and every technical term kept in Pāli and explained.
@@ -48,7 +50,7 @@ The three translations are essentially complete — Kaccāyana §1–§673, the 
 		Every example is derived step by step, rule by rule, and its Tipiṭaka source is cited and linked to [tipitaka2500.github.io](https://tipitaka2500.github.io); counter-examples explain what a rule does not do.
 	</Card>
 	<Card title="Cross-checked" icon="approve-check">
-		Validated against a range of reference sources: collated sutta by sutta with the five earlier English translations reproduced here (Nandisena, Malai, D'Alwis, Rachiwong and the 1935 Calcutta Bālāvatāra) and with the editions and commentaries they report; where a reading or a construal differs, a footnote says so.
+		Every sutta read against the Pāli, cross-checked with the earlier human translations reproduced on this site and with the editions and commentaries they report, and checked again with the MITRA-QWEN and Claude Fable models; where a reading or a construal differs, a footnote says so.
 	</Card>
 	<Card title="Structure made visible" icon="document">
 		Diagrams of the kinds of rule, maps of each text onto Kaccāyana's chapters, decision charts for sandhi, and taxonomies of compounds, suffixes and model nouns.
@@ -75,64 +77,24 @@ The three translations are essentially complete — Kaccāyana §1–§673, the 
   description="Dhammakitti's primer in four sections, with every rule glossed, its commentary translated and every example derived."
 />
 
-## Reference translations
-
-<LinkCard
-  title="Nandisena: Kaccāyana (2005)"
-  href="/kaccayana/nandisena"
-  description="U Nandisena's English translation of Kaccāyana with its vutti and examples (Myanmar 2005; electronic edition IEBH 2017, CC BY-NC-ND 4.0). The collation of this site's Kaccāyana against it is complete."
-/>
-
-<LinkCard
-  title="Thiab Malai (1997)"
-  href="/malai/front-matter"
-  description="Phramaha Thiab Malai's Pune thesis, a critical study and translation of Kaccāyana, as a cleaned reading edition. The collation of this site's Kaccāyana against it is complete."
-/>
-
-<LinkCard
-  title="D'Alwis: Kaccāyana (1863)"
-  href="/kaccayana/alwis"
-  description="James D'Alwis's Introduction to Kachchāyana's Grammar of the Pāli Language, the earliest English translation of any part of Kaccāyana (the chapter on verbs), with his study of the Pāli language and its grammars. The collation of the verb chapter against it is complete."
-/>
-
-<LinkCard
-  title="Rachiwong: Rūpasiddhi (1995)"
-  href="/rupasiddhi/rachiwong"
-  description="Phramaha Sriporn Rachiwong's Pune thesis, a study of the Rūpasiddhi with an English translation of its noun, compound and verb sections, as a reading edition; the Rūpasiddhi's noun, compound and verb pages have been collated with it."
-/>
-
-<LinkCard
-  title="Bālāvatāra (1935 Translation)"
-  href="/balavatara/mitra"
-  description="The University of Calcutta translation by Vidyabhusana, Punnananda Swami and Mitra, with a scan of the printed book. The collation of this site's Bālāvatāra against it is complete."
-/>
-
-## Research
-
-<LinkCard
-  title="Ruiz-Falqués: Two levels of optionality"
-  href="/reference/two-levels-of-optionality-in-the-kaccāyana-vyākaraṇa"
-  description="The study of vā, kvaci and navā in Kaccāyana that the Analysis of every sutta follows."
-/>
-
-<LinkCard
-  title="Ruiz-Falqués: Boundaries and Domains"
-  href="/reference/boundaries-and-domains---understanding-optionality-in-buddhappiyas-rūpasiddhi"
-  description="How Buddhappiya restricts an option to a domain (vavatthitavibhāsā); the framework of the Rūpasiddhi pages."
-/>
-
-<LinkCard
-  title="Other editions and translations"
-  href="/reference/other"
-  description="Further articles and reviews by Aleix Ruiz-Falqués, and the other editions and translations consulted."
-/>
-
 ## Related websites
 
 <LinkCard
   title="tipitaka2500.github.io"
   href="https://tipitaka2500.github.io"
-  description="The World Tipiṭaka Edition - “The Buddhist Era 2500 Great International Council Pāḷi Tipiṭaka, Roman Script 2005” (Mahāsaṅgīti Tipiṭaka Buddhavasse 2500)"
+  description="The World Tipiṭaka Edition — “The Buddhist Era 2500 Great International Council Pāḷi Tipiṭaka, Roman Script 2005” (Mahāsaṅgīti Tipiṭaka Buddhavasse 2500), the edition every example on this site is cited from."
+/>
+
+<LinkCard
+  title="christham.net/buddhavacana"
+  href="https://christham.net/buddhavacana"
+  description="𑀩𑀼𑀤𑁆𑀥𑀯𑀘𑀦 (buddhavacana), “thus heard by me”: a study of the Buddha's words in their languages — readings of the early discourses, Pāḷi lessons and translations of canonical texts."
+/>
+
+<LinkCard
+  title="tidipa.github.io"
+  href="https://tidipa.github.io"
+  description="Tidipa, “what the Buddha understood”: a new, open-source and independent English translation of selections from the Pāḷi Tipiṭaka, with the Pāḷi text alongside."
 />
 
 :::note
