@@ -24,3 +24,7 @@ pnpm-debug.log*
 # local dictionary database (Digital Pāḷi Dictionary, SQLite)
 dpd.db
 dpd.db-*
+
+# DPD deconstructor output and its local index
+deconstructor_output.json
+deconstructor.sqlite
