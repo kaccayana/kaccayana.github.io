@@ -1,6 +1,6 @@
 ---
 title: "2. Nāmakaṇḍa (Noun section)"
-description: "Buddhappiya's Nāmakaṇḍa: the inflection of nouns, stem by stem, with full paradigms — masculine, feminine, neuter, pronouns, numerals — then the suffixes that stand for inflections, prefixes and particles."
+description: "Buddhappiya's Nāmakaṇḍa: the inflection of nouns, lemma by lemma, with full paradigms — masculine, feminine, neuter, pronouns, numerals — then the suffixes that stand for inflections, prefixes and particles."
 sidebar:
   label: 2. Nāmakaṇḍa
 ---
@@ -8,7 +8,7 @@ sidebar:
 import { LinkCard } from "@astrojs/starlight/components";
 
 :::note
-Where Kaccāyana orders his noun rules by operation, Buddhappiya orders them by stem: the masculine stems in `a`, `ā`, `i`, `ī`, `u`, `ū`, `o`, each with its paradigm (`padamālā`) and the derivation of every form; then the feminine and neuter stems, the pronouns (`sabbanāma`), the genderless words (numerals), the suffixes that take the place of an inflection (`to`, `tra`, `dā` …), the prefixes and the particles. Kaccāyana's rules are quoted where each form needs them, so a rule may appear more than once; the paradigms are set out as inflection tables.
+Where Kaccāyana orders his noun rules by operation, Buddhappiya orders them by lemma: the masculine lemmas in `a`, `ā`, `i`, `ī`, `u`, `ū`, `o`, each with its paradigm (`padamālā`) and the derivation of every form; then the feminine and neuter lemmas, the pronouns (`sabbanāma`), the genderless words (numerals), the suffixes that take the place of an inflection (`to`, `tra`, `dā` …), the prefixes and the particles. Kaccāyana's rules are quoted where each form needs them, so a rule may appear more than once; the paradigms are set out as inflection tables.
 
 :::
 
@@ -17,7 +17,7 @@ This section is one of the three that Phramaha Sriporn Rachiwong translated in h
 :::
 
 :::note[Buddhappiya's order of the nouns]
-The Nāmakaṇḍa proceeds by gender and by the final of the stem, giving each model noun its paradigm; the ranges are Rūpasiddhi numbers.
+The Nāmakaṇḍa proceeds by gender and by the final of the lemma, giving each model noun its paradigm; the ranges are Rūpasiddhi numbers.
 
 ```mermaid
 flowchart LR
@@ -54,7 +54,7 @@ It is of four kinds, by way of a genus (`sāmañña`), a quality (`guṇa`), an 
 
 > Aṭṭhavidhaṃ avaṇṇivaṇṇuvaṇṇokāraniggahītantapakatibhedena.
 
-It is of eight kinds by the division of its stems (`pakati`), which end in the `a`-sounds (`a`, `ā`), the `i`-sounds (`i`, `ī`), the `u`-sounds (`u`, `ū`), `o`, and the niggahīta.
+It is of eight kinds by the division of its lemmas (`pakati`), which end in the `a`-sounds (`a`, `ā`), the `i`-sounds (`i`, `ī`), the `u`-sounds (`u`, `ū`), `o`, and the niggahīta.
 
 ## Pulliṅga (Masculine nouns)
 
@@ -88,13 +88,22 @@ Now a governing rule is of three kinds: `sīhagatika` (proceeding like a lion), 
 
 > Sakkatavisadisaṃ katvā jinavacanānurūpavasena pakatiṭṭhapanatthaṃ paribhāsamāha.
 
-In order to set up the stems (`pakati`) in conformity with the Conqueror's word, making them unlike Sanskrit, he states an interpretive rule (`paribhāsā`):
+In order to set up the lemmas (`pakati`) in conformity with the Conqueror's word, making them unlike Sanskrit, he states an interpretive rule (`paribhāsā`):
 
 :::tip[Example]
 
 | lemma | inflected | meaning |
 | ----- | --------- | ------- |
-| 🚹①⨀(purisa) | puriso | a man — the Māgadhī stem `purisa`, not the Sanskrit `puruṣa` |
+| 🚹①⨀(purisa) | puriso | a man — the Māgadhī lemma `purisa`, not the Sanskrit `puruṣa` |
+
+|     | purisa + si (①⨀)       | rule |
+| --- | ---------------------- | ---- |
+| →   | purisa                 | §52, §53 (the lemma set up in conformity with the Conqueror's word) |
+| →   | purisa + si            | §54, §55, §284 |
+| →   | purisa + (si→o)        | §104 |
+| →   | puris + (~~a~~ + o)    | §83  |
+| →   | puriso                 | §11  |
+| →   | **puriso**             |      |
 
 :::
 
@@ -110,7 +119,7 @@ In order to set up the stems (`pakati`) in conformity with the Conqueror's word,
 
 > Liṅgaṃ pāṭipadikaṃ, yathā yathā jinavacanayuttañhi liṅgaṃ, tathā tathā idha liṅgaṃ nipaccate ṭhapīyati. Ca saddena dhātavo cāti jinavacanānurūpato ‘‘purisa’’iti liṅge ṭhapite tato tassa dhātuppaccayavibhattivajjitassa atthavato saddassa ‘‘parasamaññā payoge’’ti paribhāsato liṅgasaññāyaṃ –
 
-`liṅga` is the nominal stem (`pāṭipadika`). In whatever way a stem is suited to the Conqueror's word, in that way the stem is here `nipaccate`: it is set up. By the word `ca`, roots too. When, in conformity with the Conqueror's word, the stem `purisa` has been set up, then — that meaningful word, free of root, suffix and inflection, receiving the name `liṅga` by the interpretive rule [§9 (11): Parasamaññā payoge](/kaccayana/1-sandhikappa#m9) —
+`liṅga` is the nominal lemma (`pāṭipadika`). In whatever way a lemma is suited to the Conqueror's word, in that way the lemma is here `nipaccate`: it is set up. By the word `ca`, roots too. When, in conformity with the Conqueror's word, the lemma `purisa` has been set up, then — that meaningful word, free of root, suffix and inflection, receiving the name `liṅga` by the interpretive rule [§9 (11): Parasamaññā payoge](/kaccayana/1-sandhikappa#m9) —
 
 > Ito paraṃ vibhattippaccayādividhāne sabbattha liṅga ggahaṇamanuvattate.
 
@@ -120,7 +129,7 @@ from here on, in the prescription of inflections, suffixes and the like, the wor
 
 | lemma | inflected | meaning |
 | ----- | --------- | ------- |
-| 🚹(purisa) | purisa | a man — the stem set up before any inflection is added |
+| 🚹(purisa) | purisa | a man — the lemma set up before any inflection is added |
 
 :::
 
@@ -136,7 +145,7 @@ from here on, in the prescription of inflections, suffixes and the like, the wor
 
 > Tato jinavacanayuttehi liṅgehi parā vibhattiyo honti. Ca saddaggahaṇena tavetunādipaccayantanipātatopi. Kammādivasena, ekattādivasena ca liṅgatthaṃ vibhajantīti vibhattiyo.
 
-After those stems suited to the Conqueror's word come the inflections (`vibhatti`). By the mention of `ca`, also after words ending in the suffixes `tave`, `tuna`[^1] and the like, and after particles. They divide (`vibhajanti`) the meaning of the stem by way of the object and the rest and by way of oneness and the rest: hence `vibhatti`.
+After those lemmas suited to the Conqueror's word come the inflections (`vibhatti`). By the mention of `ca`, also after words ending in the suffixes `tave`, `tuna`[^1] and the like, and after particles. They divide (`vibhajanti`) the meaning of the lemma by way of the object and the rest and by way of oneness and the rest: hence `vibhatti`.
 
 > Kā ca pana tā vibhattiyo? ‘‘Vibhattiyo’’ti adhikāro.
 
@@ -146,9 +155,55 @@ And what, then, are those inflections? `vibhattiyo` is the governing word (`adhi
 
 | lemma | inflected | meaning |
 | ----- | --------- | ------- |
-| 🔼(kātave) | kātave | to do (a `tave` infinitive, an uninflected word) |
-| 🔽(katvā) | katvā | having done (a `tvā` absolutive) |
+| 🔼(√kara + tave) | kātave | to do (a `tave` infinitive, an uninflected word) |
+| 🔼(√kara + tuṃ) | kātuṃ | to do (a `tuṃ` infinitive) |
+| 🔽(√kara + tuna) | kātuna | having done (a `tuna` absolutive) |
+| 🔽(√kara + tvāna) | katvāna | having done (a `tvāna` absolutive) |
+| 🔽(√kara + tvā) | katvā | having done (a `tvā` absolutive) |
 | 🔼(ca) | ca | and (a particle) |
+
+The words ending in the suffixes "`tave`, `tuna` and the like" (`tavetunādi`), from `kātave` to `katvā`, each take an inflection by this rule and lose it again as particles:
+
+|     | kara + tave                   | rule |
+| --- | ----------------------------- | ---- |
+| →   | (kara→kā) + tave              | §595 |
+| →   | kātave + si                   | §54  |
+| →   | kātave + (~~si~~)             | §221 |
+| →   | **kātave**                    |      |
+
+|     | kara + tuṃ                    | rule |
+| --- | ----------------------------- | ---- |
+| →   | (kara→kā) + tuṃ               | §595 (or kat + tuṃ, `kattuṃ`, §620) |
+| →   | kātuṃ + si                    | §54  |
+| →   | kātuṃ + (~~si~~)              | §221 |
+| →   | **kātuṃ**                     |      |
+
+|     | kara + tuna                   | rule |
+| --- | ----------------------------- | ---- |
+| →   | (kara→kā) + tuna              | §595 (or kat + tuna, `kattuna`, §620) |
+| →   | kātuna + si                   | §54  |
+| →   | kātuna + (~~si~~)             | §221 |
+| →   | **kātuna**                    |      |
+
+|     | kara + tvāna                  | rule |
+| --- | ----------------------------- | ---- |
+| →   | ka + (~~ra~~) + tvāna         | §587 |
+| →   | katvāna + si                  | §54  |
+| →   | katvāna + (~~si~~)            | §221 |
+| →   | **katvāna**                   |      |
+
+|     | kara + tvā                    | rule |
+| --- | ----------------------------- | ---- |
+| →   | ka + (~~ra~~) + tvā           | §587 |
+| →   | katvā + si                    | §54  |
+| →   | katvā + (~~si~~)              | §221 |
+| →   | **katvā**                     |      |
+
+|     | ca                            | rule |
+| --- | ----------------------------- | ---- |
+| →   | ca + si                       | §54  |
+| →   | ca + (~~si~~)                 | §221 |
+| →   | **ca**                        |      |
 
 :::
 
@@ -212,7 +267,7 @@ And [60 (§52): Jinavacanayuttañhi](/rupasiddhi/2-namakanda#r60) and [61 (§53)
 
 > Yathā yathā tesaṃ jinavacanānaṃ uparodho na hoti, tathā tathā idha liṅgaṃ, ca saddenākhyātañca nipaccate, nipphādīyatīti attho. Teneva idha ca ākhyāte ca dvivacanāggahaṇaṃ, sakkatavisadisato vibhattippaccayādividhānañca katanti daṭṭhabbaṃ.
 
-In whatever way there is no obstruction of those words of the Conqueror, in that way the stem — and, by the word `ca`, the verb (`ākhyāta`) too — is here `nipaccate`; the meaning is: is formed. For that very reason it is to be seen that here and among verbs the dual is not admitted, and the prescription of inflections, suffixes and the rest is made in a way unlike Sanskrit.
+In whatever way there is no obstruction of those words of the Conqueror, in that way the lemma — and, by the word `ca`, the verb (`ākhyāta`) too — is here `nipaccate`; the meaning is: is formed. For that very reason it is to be seen that here and among verbs the dual is not admitted, and the prescription of inflections, suffixes and the rest is made in a way unlike Sanskrit.
 
 > Tattha avisesena sabbasyādivibhattippasaṅge ‘‘vatticchānupubbikā saddappavattī’’ti vatticchāvasā –
 
@@ -230,15 +285,15 @@ There, when all the inflections `si` and the rest would apply without distinctio
 
 <a name="r65"></a>
 
-### 65 (§284): Liṅgatthe paṭhamā (the first form ① for the bare meaning of the stem) :badge[utsarga]{variant=success}
+### 65 (§284): Liṅgatthe paṭhamā (the first form ① for the bare meaning of the lemma) :badge[utsarga]{variant=success}
 
 :::tip[Kaccāyana]
-<LinkCard title="§284 (283): Liṅgatthe paṭhamā" href="/kaccayana/3-karakakappa#m284" description="the first form ① for the bare meaning of the stem" />
+<LinkCard title="§284 (283): Liṅgatthe paṭhamā" href="/kaccayana/3-karakakappa#m284" description="the first form ① for the bare meaning of the lemma" />
 :::
 
 > Liṅgatthābhidhānamatte paṭhamāvibhatti hotīti paṭhamā. Tatthāpi aniyamenekavacanabahuvacanappasaṅge ‘‘ekamhī vattabbe ekavacana’’nti paribhāsato liṅgatthassekattavacanicchāyaṃ paṭhamekavacanaṃ si.
 
-In the mere expression of the meaning of the stem (`liṅgattha`) the first inflection ① is used: hence the first. There too, when singular and plural would apply without restriction, by the interpretive rule "when one is to be expressed, the singular", when there is the wish to express the singleness of the stem's meaning, [the inflection is] the first-form singular `si`.
+In the mere expression of the meaning of the lemma (`liṅgattha`) the first inflection ① is used: hence the first. There too, when singular and plural would apply without restriction, by the interpretive rule "when one is to be expressed, the singular", when there is the wish to express the singleness of the lemma's meaning, [the inflection is] the first-form singular `si`.
 
 > ‘‘Ato nenā’’ti ito ‘‘ato’’ti vattate, liṅga ggahaṇañca.
 
@@ -264,7 +319,7 @@ From [79 (§103): Ato nena](/rupasiddhi/2-namakanda#r79) the word `ato` ("after 
 
 > Si, oiti dvipadamidaṃ. Liṅgassa a kārato parassa si vacanassa o kāro hoti.
 
-This is two words: `si` and `o`. The inflection `si` following the `a` of the stem becomes the letter `o`.
+This is two words: `si` and `o`. The inflection `si` following the `a` of the lemma becomes the letter `o`.
 
 > Suttesu hi paṭhamāniddiṭṭhassa kāriyino chaṭṭhīvipariṇāmena vivaraṇaṃ ādesāpekkhanti daṭṭhabbaṃ.
 
@@ -314,7 +369,7 @@ the word `ādi` is for the augments in verbs and in `kita` words.
 > Paccayasāhacariyā, cādeso pakatīparo; \
 > Padantassaralopo na, tena’bbhāhādike pare.
 
-And by its company with `paccaya`, the replacement is one that follows a stem; \
+And by its company with `paccaya`, the replacement is one that follows a lemma; \
 hence a word-final vowel is not elided before `abbha`, `āha` and the like.
 
 > Tu ggahaṇaṃ bhikkhunī ādīsu saralopanivattanatthaṃ, ‘‘naye paraṃ yutte’’ti paraṃ netabbaṃ. Puriso tiṭṭhati.
@@ -365,7 +420,7 @@ there is optionally an `ekasesa` of unlike forms, as in `pitūnaṃ` and the lik
 
 > Tattheva liṅgatthassa ba huttavacanicchāyaṃ ‘‘bahumhi vattabbe bahuvacana’’nti paṭhamābahuvacanaṃ yo, purisa yo itīdha ‘‘ato, vā’’ti ca vattate.
 
-In that very [stem],[^4] when there is the wish to express the plurality of the stem's meaning, by [the maxim] "when many are to be expressed, the plural", [the inflection is] the first-form plural `yo`; and here, in `purisa` + `yo`, `ato` and `vā` continue.
+In that very [lemma],[^4] when there is the wish to express the plurality of the lemma's meaning, by [the maxim] "when many are to be expressed, the plural", [the inflection is] the first-form plural `yo`; and here, in `purisa` + `yo`, `ato` and `vā` continue.
 
 :::tip[Examples]
 
@@ -395,7 +450,7 @@ In that very [stem],[^4] when there is the wish to express the plurality of the 
 
 > A kārantato liṅgamhā paresaṃ sabbesaṃ paṭhamāyonīnaṃ, dutiyāyonīnañca yayākkamaṃ ākārekārādesā honti vāti ā kāro, sabba ggahaṇaṃ sabbādesatthaṃ, saralopādi purimasadisameva, purisā tiṭṭhanti.
 
-After a stem ending in `a`, all the `yo` inflections of the first form ① and the `yo` inflections of the second form ② are optionally replaced by `ā` and `e` respectively; hence [here] `ā`. The word `sabba` ("all") is so that the whole [inflection] is replaced. The vowel elision and the rest are just as before: `purisā tiṭṭhanti`.
+After a lemma ending in `a`, all the `yo` inflections of the first form ① and the `yo` inflections of the second form ② are optionally replaced by `ā` and `e` respectively; hence [here] `ā`. The word `sabba` ("all") is so that the whole [inflection] is replaced. The vowel elision and the rest are just as before: `purisā tiṭṭhanti`.
 
 > Vā icceva rūpā rūpāni, aggayo, munayo.
 
@@ -409,11 +464,11 @@ This word `vā` has the sense of a `vavatthitavibhāsā` (restricted option); an
 > Asantaṃ jhe katatte tu, vidhiṃ dīpeti vā suti.
 
 obligatory indeed in the masculine, and not obligatory in the neuter, \
-but inapplicable for a `jha` stem made to end in `a`: such is the operation the word `vā` shows.
+but inapplicable for a `jha` lemma made to end in `a`: such is the operation the word `vā` shows.
 
 > Tatthevālapanavacanicchāyaṃ ‘‘liṅgatthe paṭhamā’’ti vattate.
 
-In that very [stem], when there is the wish to express address, [65 (§284): Liṅgatthe paṭhamā](/rupasiddhi/2-namakanda#r65) continues.
+In that very [lemma], when there is the wish to express address, [65 (§284): Liṅgatthe paṭhamā](/rupasiddhi/2-namakanda#r65) continues.
 
 :::tip[Examples]
 
@@ -421,7 +476,7 @@ In that very [stem], when there is the wish to express address, [65 (§284): Li�
 | ----- | --------- | ------- |
 | 🚹①⨂(purisa) | purisā tiṭṭhanti | the men stand (`nicca`) |
 | 🚻①⨂(rūpa) | rūpā, rūpāni | forms (`anicca`) |
-| 🚹①⨂(aggi) | aggayo | fires (`asanta`: the `a` of `agga` + `yo` is not a stem's `a`) |
+| 🚹①⨂(aggi) | aggayo | fires (`asanta`: the `a` of `agga` + `yo` is not a lemma's `a`) |
 | 🚹①⨂(muni) | munayo | sages (`asanta`) |
 
 |     | purisa + yo (①⨂)       | rule |
@@ -446,7 +501,7 @@ In that very [stem], when there is the wish to express address, [65 (§284): Li�
 
 > A bhimukhaṃ katvā lapanaṃ ālapanaṃ, sambodhanaṃ. Tasmiṃ ālapanatthādhike liṅgatthābhidhānamatte ca paṭhamāvibhatti hoti. Pure viya ekavacanādi.
 
-Speaking (`lapana`) having turned face to face (`abhimukhaṃ katvā`) is `ālapana`, address (`sambodhana`). In the mere expression of the stem's meaning with that sense of address added, too, the first inflection ① is used. The singular and the rest as before.
+Speaking (`lapana`) having turned face to face (`abhimukhaṃ katvā`) is `ālapana`, address (`sambodhana`). In the mere expression of the lemma's meaning with that sense of address added, too, the first inflection ① is used. The singular and the rest as before.
 
 > Purisa si iccatra –
 
@@ -500,7 +555,7 @@ The `si` prescribed in the sense of address is named `ga`; so, [the `si`] being 
 
 > Liṅgassa sambandhī a kāro ca pitusatthu iccevamādīnamanto ca ā kārattamāpajjate ge pare.
 
-The `a` belonging to the stem, and the final of `pitu`, `satthu` and the like, become the letter `ā` when `ga` follows.
+The `a` belonging to the lemma, and the final of `pitu`, `satthu` and the like, become the letter `ā` when `ga` follows.
 
 > ‘‘Ge, rassa’’miti ca vattate.
 
@@ -533,7 +588,7 @@ The `a` belonging to the stem, and the final of `pitu`, `satthu` and the like, b
 
 > Liṅgassa sambandhī ā kāro rassamāpajjate ge pare vikappena, adūraṭṭhassālapanevāyaṃ.
 
-The `ā` belonging to the stem becomes short when `ga` follows, optionally (`vikappena`); and this [shortening] is only in addressing one who is not far off.
+The `ā` belonging to the lemma becomes short when `ga` follows, optionally (`vikappena`); and this [shortening] is only in addressing one who is not far off.
 
 :::tip[Examples]
 
@@ -561,7 +616,7 @@ The `ā` belonging to the stem becomes short when `ga` follows, optionally (`vik
 
 > ‘‘Siṃ, so, syā ca, sakhato gasse vā, ghate cā’’ti evamādīhi niddiṭṭhehi añño seso nāma, tato sesato liṅgamhā gasi iccete lopamāpajjante.
 
-What is other than [the stems] specified by [§219 (195): Siṃ](/kaccayana/2-namakappa#m219), [§104 (66): So](/kaccayana/2-namakappa#m104), [§189 (113): Syā ca](/kaccayana/2-namakappa#m189), [§113 (132): Sakhato gasse vā](/kaccayana/2-namakappa#m113), [§114 (178): Ghate ca](/kaccayana/2-namakappa#m114) and the like is called the rest (`sesa`); after such a remaining stem, `ga` and `si` are elided.
+What is other than [the lemmas] specified by [§219 (195): Siṃ](/kaccayana/2-namakappa#m219), [§104 (66): So](/kaccayana/2-namakappa#m104), [§189 (113): Syā ca](/kaccayana/2-namakappa#m189), [§113 (132): Sakhato gasse vā](/kaccayana/2-namakappa#m113), [§114 (178): Ghate ca](/kaccayana/2-namakappa#m114) and the like is called the rest (`sesa`); after such a remaining lemma, `ga` and `si` are elided.
 
 > Api ggahaṇaṃ dutiyatthasampiṇḍanatthaṃ, ettha ca satipi si ggahaṇe ga[^6] iti vacanameva ñāpakamaññatthāpi si ggahaṇe ālapanāggahaṇassa. Keci ālapanābhibyattiyā bhavanta saddaṃ vā he saddaṃ vā payujjante. Bho purisa tiṭṭha, he purisā vā.
 
@@ -573,7 +628,7 @@ In the plural there is no difference: `bhavanto purisā tiṭṭhatha` ("stand, 
 
 > Tattheva kammatthavacanicchāyaṃ ‘‘vā’’ti[^7] vattate.
 
-In that very [stem], when there is the wish to express the sense of the object (`kamma`), `vā` continues.
+In that very [lemma], when there is the wish to express the sense of the object (`kamma`), `vā` continues.
 
 :::tip[Examples]
 
@@ -646,7 +701,7 @@ In the plural, `e` for the inflection `yo` by [§107 (69): Sabbayonīnamāe](/ka
 
 > Tattheva kattuvacanicchāyaṃ –
 
-In that very [stem], when there is the wish to express the agent —
+In that very [lemma], when there is the wish to express the agent —
 
 :::tip[Examples]
 
@@ -735,7 +790,7 @@ For the agent `kāraka` too the third inflection ③ is used; so [the inflection
 
 > Enā ti avibhattikaniddeso. A kārantato liṅgamhā parassa nā vacanassa enā deso hoti, saralopādi, purisena kataṃ.
 
-`Enā` is a citation without inflection (`avibhattikaniddesa`).[^8] The inflection `nā` following a stem ending in `a` is replaced by `ena`; the vowel elision and the rest: `purisena kataṃ` ("done by the man").
+`Enā` is a citation without inflection (`avibhattikaniddesa`).[^8] The inflection `nā` following a lemma ending in `a` is replaced by `ena`; the vowel elision and the rest: `purisena kataṃ` ("done by the man").
 
 > Bahuvacanamhi –
 
@@ -769,7 +824,7 @@ In the plural —
 
 > Su, hi iccetesu vibhattirūpesu paresu liṅgassa sambandhī a kāro e ttamāpajjate.
 
-When the inflection-shapes `su` and `hi` follow, the `a` belonging to the stem becomes `e`.
+When the inflection-shapes `su` and `hi` follow, the `a` belonging to the lemma becomes `e`.
 
 :::tip[Examples]
 
@@ -797,11 +852,11 @@ When the inflection-shapes `su` and `hi` follow, the `a` belonging to the stem b
 
 > Sabbato liṅgamhā smā hi smiṃ iccetesaṃ yathākkamaṃ mhā, bhi, mhi iccete ādesā honti vā, purisehi, purisebhi kataṃ.
 
-After every stem, `smā`, `hi` and `smiṃ` are optionally replaced by `mhā`, `bhi` and `mhi` respectively: `purisehi`, `purisebhi kataṃ` ("done by the men").
+After every lemma, `smā`, `hi` and `smiṃ` are optionally replaced by `mhā`, `bhi` and `mhi` respectively: `purisehi`, `purisebhi kataṃ` ("done by the men").
 
 > Tattheva karaṇavacanicchāyaṃ –
 
-In that very [stem], when there is the wish to express the instrument —
+In that very [lemma], when there is the wish to express the instrument —
 
 :::tip[Examples]
 
@@ -860,7 +915,7 @@ For the instrument `kāraka` the third inflection ③ is used; the rest is the s
 
 > Tattheva sampadānavacanicchāyaṃ –
 
-In that very [stem], when there is the wish to express the recipient —
+In that very [lemma], when there is the wish to express the recipient —
 
 :::tip[Examples]
 
@@ -936,7 +991,7 @@ For the recipient `kāraka` the fourth inflection ④ is used; so [the inflectio
 
 > Sabbato liṅgamhā sa kārāgamo hoti se vibhattimhi pare. Purisassa dhanaṃ dadāti.
 
-After every stem the augment `s` is inserted when the inflection `sa` follows: `purisassa dhanaṃ dadāti` ("he gives wealth to the man").
+After every lemma the augment `s` is inserted when the inflection `sa` follows: `purisassa dhanaṃ dadāti` ("he gives wealth to the man").
 
 > Bahuvacanamhi ‘‘dīgha’’nti vattate.
 
@@ -969,11 +1024,11 @@ In the plural, `dīghaṃ` ("long") continues.[^11]
 
 > Su naṃ hi iccetesu paresu liṅgassa antabhūtā sabbe rassasarā dīghamāpajjante, ca ggahaṇamikārukārānaṃ kvaci nivattanatthaṃ. Purisānaṃ.
 
-When `su`, `naṃ` or `hi` follows, all short vowels standing at the end of a stem become long; the word `ca` is to block [the lengthening] of `i` and `u` in some places. `purisānaṃ`.
+When `su`, `naṃ` or `hi` follows, all short vowels standing at the end of a lemma become long; the word `ca` is to block [the lengthening] of `i` and `u` in some places. `purisānaṃ`.
 
 > Tatthevāpādānavacanicchāyaṃ –
 
-In that very [stem], when there is the wish to express the point of departure —
+In that very [lemma], when there is the wish to express the point of departure —
 
 :::tip[Examples]
 
@@ -1055,7 +1110,7 @@ For the point-of-departure `kāraka` the fifth inflection ⑤ is used; so [the i
 
 > A kārantato liṅgamhā sabbesaṃ smā smiṃ iccetesaṃ yathākkamaṃ ākārekārādesā honti vā, aññattha mhā deso. Purisā apeti, purisamhā, purisasmā.
 
-After a stem ending in `a`, the whole of `smā` and `smiṃ` are optionally replaced by `ā` and `e` respectively; elsewhere [there is] the replacement `mhā`. `purisā apeti` ("he goes away from the man"), `purisamhā`, `purisasmā`.
+After a lemma ending in `a`, the whole of `smā` and `smiṃ` are optionally replaced by `ā` and `e` respectively; elsewhere [there is] the replacement `mhā`. `purisā apeti` ("he goes away from the man"), `purisamhā`, `purisasmā`.
 
 > Bahuvacane sabbattha tatiyāsamaṃ, hi ssa bhi ādeso hoti. Purisehi, purisebhi apeti.
 
@@ -1063,7 +1118,7 @@ In the plural, everywhere the same as the third form; `hi` is replaced by `bhi`.
 
 > Tattheva sāmivacanicchāyaṃ –
 
-In that very [stem], when there is the wish to express the owner —
+In that very [lemma], when there is the wish to express the owner —
 
 :::tip[Examples]
 
@@ -1124,7 +1179,7 @@ For the owner the sixth inflection ⑥ is used. Except for the replacement `āya
 
 > Tattheva okāsavacanicchāyaṃ –
 
-In that very [stem], when there is the wish to express the location —
+In that very [lemma], when there is the wish to express the location —
 
 :::tip[Examples]
 
@@ -1337,7 +1392,7 @@ The group beginning with `mano`[^12] is the `manogaṇa`; after the `mano`-group
 
 > Eteheva manogaṇādīhi sare pare sā gamo hoti vā. Manasā, manena.
 
-After these same stems of the `mano`-group and the like, when a vowel follows, the augment `s` is optionally inserted: `manasā`, `manena`.
+After these same lemmas of the `mano`-group and the like, when a vowel follows, the augment `s` is optionally inserted: `manasā`, `manena`.
 
 > Vavatthitavibhāsatthoyaṃ vā saddo, tena ‘‘mano manā manaṃ mane manaāyatana’’ntiādīsu na hoti. ‘‘Mānasikaṃ, cetasika’’ntiādīsu niccaṃ. Manehi, manebhi.
 
@@ -2584,7 +2639,7 @@ The final of the word `brahma` becomes `u` before the inflections `sa` and `nā`
 
 > Sa smiṃ u tte kate ‘‘ivaṇṇuvaṇṇā jhalā’’ti la saññāyaṃ –
 
-Before `sa`, when the `u` has been made, [the stem] being named `la` by [§58 (29): Ivaṇṇuvaṇṇā jhalā](/kaccayana/2-namakappa#m58) —
+Before `sa`, when the `u` has been made, [the lemma] being named `la` by [§58 (29): Ivaṇṇuvaṇṇā jhalā](/kaccayana/2-namakappa#m58) —
 
 :::tip[Examples]
 
@@ -2612,7 +2667,7 @@ Before `sa`, when the `u` has been made, [the stem] being named `la` by [§58 (2
 
 > Jhala saññehi ivaṇṇuvaṇṇehi parassa sa iccetassa vacanassa no iccādeso hoti vā. Brahmuno brahmassa, brahmānaṃ brahmūnaṃ vā, utta miti yogavibhāgena aññatthāpi uttaṃ.
 
-After [stems in] the `i`-sounds and `u`-sounds named `jha` and `la`, the inflection `sa` is optionally replaced by `no`: `brahmuno`, `brahmassa`; `brahmānaṃ` or `brahmūnaṃ` — by splitting the rule [123] as `uttaṃ`, the `u` also [occurs] elsewhere.
+After [lemmas in] the `i`-sounds and `u`-sounds named `jha` and `la`, the inflection `sa` is optionally replaced by `no`: `brahmuno`, `brahmassa`; `brahmānaṃ` or `brahmūnaṃ` — by splitting the rule [123] as `uttaṃ`, the `u` also [occurs] elsewhere.
 
 > Pañcamiyaṃ nābhāvātideso. Brahmunā, brahmehi brahmebhi, brahmuno brahmassa, brahmānaṃ brahmūnaṃ vā.
 
@@ -2965,7 +3020,7 @@ In address, when [`si`] has been named `ga` —
 
 > Sakha to ga ssa a kāra ā kāra i kāra īkārae kārādesā honti. Vā saddena aññasmāpi kvaci e kāro. Yathā – bhaddante ise iti.
 
-After `sakha` the `ga` is replaced by the letters `a`, `ā`, `i`, `ī` and `e`. By the word `vā` there is `e` after other [stems] too, in some places; for example `bhaddante` (venerable sir) and `ise` (O seer).
+After `sakha` the `ga` is replaced by the letters `a`, `ā`, `i`, `ī` and `e`. By the word `vā` there is `e` after other [lemmas] too, in some places; for example `bhaddante` (venerable sir) and `ise` (O seer).
 
 > A ca ā ca i ca ī ca e cātipi e, pubbassarānaṃ kamena lopo.
 
@@ -3396,7 +3451,7 @@ By the word `ca`, the final of `yuva`, `maghava` and the like is optionally repl
 
 > Jhala iccetehi smā vacanassa nā hoti. Ca ggahaṇaṃ kvaci nivattanatthaṃ. Pumānā pumunā pumā pumasmā pumamhā, pumānehi pumānebhi pumehi pumebhi, pumuno pumassa, pumānaṃ.
 
-After the `jha` and `la` [stems] the inflection `smā` becomes `nā`. The mention of `ca` is for cancelling [the `nā`] in some places. `pumānā`, `pumunā`, `pumā`, `pumasmā`, `pumamhā` (⑤⨀); `pumānehi`, `pumānebhi`, `pumehi`, `pumebhi` (⑤⨂); `pumuno`, `pumassa` (⑥⨀); `pumānaṃ` (⑥⨂).
+After the `jha` and `la` [lemmas] the inflection `smā` becomes `nā`. The mention of `ca` is for cancelling [the `nā`] in some places. `pumānā`, `pumunā`, `pumā`, `pumasmā`, `pumamhā` (⑤⨀); `pumānehi`, `pumānebhi`, `pumehi`, `pumebhi` (⑤⨂); `pumuno`, `pumassa` (⑥⨀); `pumānaṃ` (⑥⨂).
 
 :::tip[Examples]
 
@@ -3536,7 +3591,7 @@ The forms of `puma` (male) gathered from Rūp 136–143:
 
 > _Akārantaṃ._
 
-Thus stems ending in `a`.
+Thus lemmas ending in `a`.
 
 ---
 > Ā kāranto pulliṅgo sā saddo.
@@ -3563,7 +3618,7 @@ In the plural —
 
 > Gha saññakaā kāravajjito liṅgassanto saro rassamāpajjate ekavacanesu yo su ca paresūti rassattaṃ. Api ggahaṇaṃ si mhi nivattanatthaṃ. Sesaṃ neyyaṃ.
 
-The final vowel of a stem, excepting the `ā` that bears the name `gha`, becomes short when a singular [inflection] or a `yo` follows — hence the shortening. The mention of `api` is for excluding [the shortening] before `si`. The rest is to be inferred.
+The final vowel of a lemma, excepting the `ā` that bears the name `gha`, becomes short when a singular [inflection] or a `yo` follows — hence the shortening. The mention of `api` is for excluding [the shortening] before `si`. The rest is to be inferred.
 
 > Sā tiṭṭhanti, he sa he sā, he sā, saṃ, se, sena, sāhi sābhi, sassa sāya, sānaṃ, sā sasmā samhā, sāhi sābhi, sassa, sānaṃ, se sasmiṃ samhi, sāsu.
 
@@ -3620,7 +3675,7 @@ In the same way `paccakkhadhammā` (one who has seen the Dhamma for himself), `g
 
 > _Ākārantaṃ._
 
-Thus stems ending in `ā`.
+Thus lemmas ending in `ā`.
 
 ---
 > I kāranto pulliṅgo aggi saddo. Syā dyuppatti, aggi si,
@@ -3651,7 +3706,7 @@ In the plural, when [the final] has been named `jha` or `la` by [§58 (29): Iva�
 
 > ‘‘Jhalato, vā’’ti ca vattate.
 
-"`jhalato`" (after a `jha` or `la` [stem]) and "`vā`" continue [from [§117 (124): Jhalato sassano vā](/kaccayana/2-namakappa#m117)].
+"`jhalato`" (after a `jha` or `la` [lemma]) and "`vā`" continue [from [§117 (124): Jhalato sassano vā](/kaccayana/2-namakappa#m117)].
 
 :::tip[Examples]
 
@@ -3684,7 +3739,7 @@ In the plural, when [the final] has been named `jha` or `la` by [§58 (29): Iva�
 
 > Ghapa saññehi itthivācakehi ākārivaṇṇuvaṇṇehi, jhala saññehi ca paresaṃ yo vacanānaṃ lopo hoti vā. Vavatthitavibhāsāyaṃ.
 
-After [stems ending in] `ā`, `i`, `ī`, `u`, `ū` that denote the feminine and bear the names `gha` and `pa`, and after those named `jha` and `la`, the `yo` inflections are optionally elided.[^28] [This is] a `vavatthitavibhāsā` (restricted option).
+After [lemmas ending in] `ā`, `i`, `ī`, `u`, `ū` that denote the feminine and bear the names `gha` and `pa`, and after those named `jha` and `la`, the `yo` inflections are optionally elided.[^28] [This is] a `vavatthitavibhāsā` (restricted option).
 
 :::tip[Examples]
 
@@ -3714,7 +3769,7 @@ After [stems ending in] `ā`, `i`, `ī`, `u`, `ū` that denote the feminine and 
 
 > Liṅgassantabhūtā sabbe rassasarā yo su katanikāralopesu dīghamāpajjante. Katā ni kāralopā yesaṃ te katanikāralopā. Aggī.
 
-All short vowels that are the final of a stem become long before the `yo`s whose replacement by `ni` or elision has been made. Those of which the replacement by the letter `ni` or the elision (`lopa`) has been made (`kata`) are `katanikāralopa`.[^29] `aggī`.
+All short vowels that are the final of a lemma become long before the `yo`s whose replacement by `ni` or elision has been made. Those of which the replacement by the letter `ni` or the elision (`lopa`) has been made (`kata`) are `katanikāralopa`.[^29] `aggī`.
 
 > ‘‘Pañcādīnamatta’’nti ito ‘‘atta’’miti vattate.
 
@@ -3803,7 +3858,7 @@ By saying `jho` (a `jha` [final]) the rule does not apply to the feminine `i`.
 
 > Jhalapa iccetehi parassa aṃ vacanassa, ma kārassa ca niggahītaṃ ādeso hoti. Aggiṃ.
 
-After [stems] named `jha`, `la` and `pa`, the inflection `aṃ`, and the letter `m`, are replaced by niggahīta. `aggiṃ`.
+After [lemmas] named `jha`, `la` and `pa`, the inflection `aṃ`, and the letter `m`, are replaced by niggahīta. `aggiṃ`.
 
 > Aggī aggayo, agginā, aggīhi aggībhi, ‘‘sunaṃhisu cā’’ti ettha ca ggahaṇena katthaci dīghābhāvo. Aggihi aggibhi.
 
@@ -3918,7 +3973,7 @@ The paradigm of `aggi` (fire), 🚹(aggi), gathered from Rūp 145–149:
 
 > _Ikārantaṃ._
 
-Thus stems ending in `i`.
+Thus lemmas ending in `i`.
 
 ---
 > Ī kāranto pulliṅgo da ṇḍīsaddo.
@@ -3949,7 +4004,7 @@ With "`rassaṃ`" (short) continuing —
 
 > Si smiṃ napuṃsakavajjitāni liṅgāni na rassamāpajjanteti rassattābhāvo, si lopo. Daṇḍī tiṭṭhati.
 
-Before `si`, stems other than neuters do not become short — hence there is no shortening; `si` is elided. `daṇḍī tiṭṭhati` (the staff-bearer stands).
+Before `si`, lemmas other than neuters do not become short — hence there is no shortening; `si` is elided. `daṇḍī tiṭṭhati` (the staff-bearer stands).
 
 > Anapuṃsakānī ti kiṃ? Sukhakāri dānaṃ.
 
@@ -4028,7 +4083,7 @@ All the `yo`s, including that of address, that follow a `jha` [final] made short
 
 By splitting the rule to read "`yonaṃ` \
 `no`" without the governing word [`katarassā`], \
-in some places `no` [stands] even after [a stem] not made short, \
+in some places `no` [stands] even after [a lemma] not made short, \
 as in `sāramatino`.
 
 > Ālapane ‘‘ge’’ti vattate.
@@ -4264,7 +4319,7 @@ The paradigm of `daṇḍī` (staff-bearer), 🚹(daṇḍī), gathered from Rū
 
 > _Īkārantaṃ._
 
-Thus stems ending in `ī`.
+Thus lemmas ending in `ī`.
 
 ---
 > U kāranto pulliṅgo bhikkhu saddo.
@@ -4962,7 +5017,7 @@ In the same way `bhātā`, `bhātaro` (brother) and so on.
 
 > _Ukārantaṃ._
 
-Thus stems ending in `u`.
+Thus lemmas ending in `u`.
 
 ---
 > Ū kāranto pulliṅgo abhibhū saddo.
@@ -5025,7 +5080,7 @@ In the same way `maggaññū` (knower of the path), `dhammaññū` (knower of th
 
 > _Ūkārantaṃ._
 
-Thus stems ending in `ū`.
+Thus lemmas ending in `ū`.
 
 ---
 > E kāranto appasiddho.
@@ -5336,7 +5391,7 @@ The paradigm of `go` (cow, ox), 🚹(go), gathered from Rūp 169–175:
 
 > _Okārantaṃ._
 
-Thus stems ending in `o`.
+Thus lemmas ending in `o`.
 
 ---
 > Puriso guṇavā rājā, sā’ggi daṇḍī ca bhikkhu ca; \
@@ -5355,7 +5410,7 @@ The masculine gender is finished.
 
 > Atha itthiliṅgāni vuccante.
 
-Now the feminine [stems] are stated.[^40]
+Now the feminine [lemmas] are stated.[^40]
 
 > A kāranto itthiliṅgasaddo appasiddho.
 
@@ -5363,7 +5418,7 @@ A feminine word ending in `a` is not well known.
 
 > Ā kāranto itthiliṅgo kaññā saddo. ‘‘Kañña’’iti ṭhite –
 
-A feminine ending in `ā` is the word `kaññā` (girl). When `kañña` stands [as the stem] —
+A feminine ending in `ā` is the word `kaññā` (girl). When `kañña` stands [as the lemma] —
 
 [^40]: The Thai and Sinhalese editions read by [Rachiwong (1995)](/rupasiddhi/rachiwong) have `itthīliṅgāni` for the CST's `itthiliṅgāni`, and `itthī-` likewise elsewhere; the CST is kept.
 
@@ -5379,7 +5434,7 @@ A feminine ending in `ā` is the word `kaññā` (girl). When `kañña` stands [
 
 > Itthiyaṃ vattamānā a kārantato liṅgamhā paro ā ppaccayo hoti.
 
-After a stem ending in `a` that is used in the feminine, the suffix `ā` is added.
+After a lemma ending in `a` that is used in the feminine, the suffix `ā` is added.
 
 > Pakatyatthajotakā itthi-ppaccayā syādayo viya; \
 > Ṇādayo paccayatthassa, sakatthassāpi vācakā.
@@ -5426,7 +5481,7 @@ In the plural, "`sañño`" (named) continues from [§57 (71): Ālapane si ga sa�
 
 > Liṅgassanto ā kāro yadā itthikhyo, tadā gha sañño hotīti gha saññāyaṃ ‘‘ghapato ca yonaṃ lopo’’ti vikappena yo lopo. Tā kaññā kaññāyo.
 
-The final letter `ā` of a stem, when it designates the feminine, is named `gha`; when it has received the name `gha`, `yo` is elided by option by [§118 (146): Ghapato ca yonaṃ lopo](/kaccayana/2-namakappa#m118). `tā kaññā`, `kaññāyo` (the girls).
+The final letter `ā` of a lemma, when it designates the feminine, is named `gha`; when it has received the name `gha`, `yo` is elided by option by [§118 (146): Ghapato ca yonaṃ lopo](/kaccayana/2-namakappa#m118). `tā kaññā`, `kaññāyo` (the girls).
 
 > Ālapane ‘‘sakhato gasse vā’’ti ito ‘‘gassā’’ti vattate.
 
@@ -5506,7 +5561,7 @@ In the third form and the rest, "`āyo`" and "`ekavacanānaṃ`" (of the singula
 
 > Gha saññato liṅgassākārā paresaṃ nā dīnaṃ smiṃ pariyantānaṃ ekavacanānaṃ vibhattigaṇānaṃ āyā deso hoti. Saralopaparanayanāni. Kaññāya, kaññāhi kaññābhi, kaññāya, kaññānaṃ, kaññāya, kaññāhi kaññābhi, kaññāya, kaññānaṃ.
 
-After the letter `ā` of a stem that is named `gha`, the group of singular inflections beginning with `nā` and ending with `smiṃ` is replaced by `āya`. Elision of the vowel and joining on of the following. `kaññāya` (③⨀); `kaññāhi`, `kaññābhi` (③⨂); `kaññāya` (④⨀); `kaññānaṃ` (④⨂); `kaññāya` (⑤⨀); `kaññāhi`, `kaññābhi` (⑤⨂); `kaññāya` (⑥⨀); `kaññānaṃ` (⑥⨂).
+After the letter `ā` of a lemma that is named `gha`, the group of singular inflections beginning with `nā` and ending with `smiṃ` is replaced by `āya`. Elision of the vowel and joining on of the following. `kaññāya` (③⨀); `kaññāhi`, `kaññābhi` (③⨂); `kaññāya` (④⨀); `kaññānaṃ` (④⨂); `kaññāya` (⑤⨀); `kaññāhi`, `kaññābhi` (⑤⨂); `kaññāya` (⑥⨀); `kaññānaṃ` (⑥⨂).
 
 > Smiṃ mhi –
 
@@ -5722,7 +5777,7 @@ The forms of `ammā`, `annā`, `ambā` (mother), 🚺(ammā):
 
 > _Ākārantaṃ._
 
-Thus stems ending in `ā`.
+Thus lemmas ending in `ā`.
 
 ---
 > I kāranto itthiliṅgo ratti saddo; \
@@ -5747,7 +5802,7 @@ In the plural, "`saññā`" (named) and "`ivaṇṇuvaṇṇā`" (the vowels `i`
 
 > Itthiyā ākhyā saññā itthikhyā, liṅgassantā te ivaṇṇuvaṇṇā yadā itthikhyā, tadā pa saññā hontīti pa saññāyaṃ ‘‘ghapato cā’’tiādinā yo lopo, ‘‘yosu kata’’iccādinā dīgho. Rattī rattiyo ratyo vā, he ratti, he rattī he rattiyo.
 
-`itthikhyā` is the designation (`ākhyā`), the name, of the feminine (`itthī`): those vowels `i` and `u` that are the final of a stem, when they designate the feminine, are named `pa`. When [the final] has received the name `pa`, `yo` is elided by [§118 (146): Ghapato ca yonaṃ lopo](/kaccayana/2-namakappa#m118) and [the final] lengthened by [§88 (147): Yosu katanikāralopesu dīghaṃ](/kaccayana/2-namakappa#m88). `rattī`, `rattiyo`, or `ratyo` (①⨂); `he ratti` (⓪⨀); `he rattī`, `he rattiyo` (⓪⨂).
+`itthikhyā` is the designation (`ākhyā`), the name, of the feminine (`itthī`): those vowels `i` and `u` that are the final of a lemma, when they designate the feminine, are named `pa`. When [the final] has received the name `pa`, `yo` is elided by [§118 (146): Ghapato ca yonaṃ lopo](/kaccayana/2-namakappa#m118) and [the final] lengthened by [§88 (147): Yosu katanikāralopesu dīghaṃ](/kaccayana/2-namakappa#m88). `rattī`, `rattiyo`, or `ratyo` (①⨂); `he ratti` (⓪⨀); `he rattī`, `he rattiyo` (⓪⨂).
 
 > ‘‘Aṃmo’’tiādinā niggahītaṃ, rattiṃ, rattī rattiyo; \
 > Tatiyādīsu ‘‘ekavacanānaṃ, nādīna’’nti ca vattate.
@@ -6004,14 +6059,14 @@ The paradigm of `ratti` (night), 🚺(ratti), gathered from Rūp 182–186:
 
 > _Ikārantaṃ._
 
-Thus stems ending in `i`.
+Thus lemmas ending in `i`.
 
 ---
 > Ī kāranto itthiliṅgo itthī saddo; \
 > ‘‘Ittha’’itīdha ‘‘itthiyaṃ, paccayo’’ti ca vattate.
 
 A feminine ending in `ī` is the word `itthī` (woman); \
-here, with `ittha` [as the stem], "`itthiyaṃ`" (in the feminine) and "`paccayo`" (suffix) continue [from [§237 (176): Itthīyamato āpaccayo](/kaccayana/2-namakappa#m237)].
+here, with `ittha` [as the lemma], "`itthiyaṃ`" (in the feminine) and "`paccayo`" (suffix) continue [from [§237 (176): Itthīyamato āpaccayo](/kaccayana/2-namakappa#m237)].
 
 ---
 
@@ -6025,7 +6080,7 @@ here, with `ittha` [as the stem], "`itthiyaṃ`" (in the feminine) and "`paccayo
 
 > Nadā dito vā anadā dito vā itthiyaṃ vattamānā liṅgamhā īppaccayo hoti. Vā ggahaṇamanadā disampiṇḍanatthaṃ, tena puthugavā dito ca ī.
 
-After a stem used in the feminine, whether of the `nadī` class or not of the `nadī` class, the suffix `ī` is added. The mention of `vā` is for adding in [the stems] not of the `nadī` class; by it there is `ī` after `puthu`, `go` and the like as well.
+After a lemma used in the feminine, whether of the `nadī` class or not of the `nadī` class, the suffix `ī` is added. The mention of `vā` is for adding in [the lemmas] not of the `nadī` class; by it there is `ī` after `puthu`, `go` and the like as well.
 
 > Saralope ‘‘kvacāsavaṇṇaṃ lutte’’ti asavaṇṇe sampatte pakatibhāvo nāmabyapadeso, syā dyuppatti. Itthī, itthī ‘‘agho rassa’’ntiādinā rassattaṃ, itthiyo. Sambodhane ‘‘jhalapā rassa’’nti rassattaṃ. Bhoti itthi, bhotiyo itthī itthiyo.
 
@@ -6223,7 +6278,7 @@ The final of `mātula`, `ayyaka`, `varuṇa` and the like becomes `āna` when th
 
 > Anadā dīsu puthu saddato īppaccayo. ‘‘O sare cā’’ti ettha ca saddena u kārassa avā deso. Puthavī, puthaviyo. Sasmā smiṃ su puthabyā puthaviyā, puthabyā puthaviyā, puthabyaṃ puthaviyaṃ puthaviyā iccādi.
 
-Among [stems] not of the `nadī` class, the suffix `ī` after the word `puthu` (broad). By the word `ca` in [§78 (31): O sare ca](/kaccayana/2-namakappa#m78) the letter `u` is replaced by `ava`. `puthavī` (earth), `puthaviyo`. Before `sa`, `smā` and `smiṃ`: `puthabyā`, `puthaviyā` (④ and ⑥); `puthabyā`, `puthaviyā` (⑤); `puthabyaṃ`, `puthaviyaṃ`, `puthaviyā` (⑦) and so on.
+Among [lemmas] not of the `nadī` class, the suffix `ī` after the word `puthu` (broad). By the word `ca` in [§78 (31): O sare ca](/kaccayana/2-namakappa#m78) the letter `u` is replaced by `ava`. `puthavī` (earth), `puthaviyo`. Before `sa`, `smā` and `smiṃ`: `puthabyā`, `puthaviyā` (④ and ⑥); `puthabyā`, `puthaviyā` (⑤); `puthabyaṃ`, `puthaviyaṃ`, `puthaviyā` (⑦) and so on.
 
 > Go saddato ‘‘nadādito vā ī’’ti īppaccayo. Mahāvuttinā vā ‘‘gāva se’’ti ettha gāva iti yogavibhāgena vā o kārassa āvā deso. Gāvī, gāvī gāviyo iccādi itthī saddasamaṃ.
 
@@ -6278,7 +6333,7 @@ Here, with `mānava` (young man), "`itthiyaṃ`", "`vā`" and "`ī`" continue.
 
 > Ṇava ṇika ṇeyya ṇantu ppaccayantehi itthiyaṃ vattamānehi liṅgehi īppaccayo hoti. Vā dhikāro katthaci nivattanattho, saralopādi. Mānavī, evaṃ nāvikī, venateyyī, gotamī.
 
-After stems ending in the suffixes `ṇava`, `ṇika`, `ṇeyya`, `ṇa` and `ntu` that are used in the feminine, the suffix `ī` is added. The governance of `vā` is for withdrawing [the `ī`] in some places; elision of the vowel and so on. `mānavī` (young woman), and likewise `nāvikī` (boatwoman), `venateyyī` (female descendant of Vinatā), `gotamī` (woman of the Gotama clan).
+After lemmas ending in the suffixes `ṇava`, `ṇika`, `ṇeyya`, `ṇa` and `ntu` that are used in the feminine, the suffix `ī` is added. The governance of `vā` is for withdrawing [the `ī`] in some places; elision of the vowel and so on. `mānavī` (young woman), and likewise `nāvikī` (boatwoman), `venateyyī` (female descendant of Vinatā), `gotamī` (woman of the Gotama clan).
 
 > ‘‘Guṇavantu ī’’itīdha ‘‘vā’’ti vattate.
 
@@ -6387,15 +6442,15 @@ Here, with `bhikkhu`, "`itthiyaṃ`" (in the feminine) continues, and "`vā`" as
 
 <a name="r193"></a>
 
-### 193 (§240): Patibhikkhurājīkārantehi inī (`inī` after `pati`, `bhikkhu`, `rāja` and stems in `ī`) :badge[apavada]{variant=success}
+### 193 (§240): Patibhikkhurājīkārantehi inī (`inī` after `pati`, `bhikkhu`, `rāja` and lemmas in `ī`) :badge[apavada]{variant=success}
 
 :::tip[Kaccāyana]
-<LinkCard title="§240 (193): Pati bhikkhurājīkārantehi inī" href="/kaccayana/2-namakappa#m240" description="`inī` after `pati`, `bhikkhu`, `rāja` and stems in `ī`" />
+<LinkCard title="§240 (193): Pati bhikkhurājīkārantehi inī" href="/kaccayana/2-namakappa#m240" description="`inī` after `pati`, `bhikkhu`, `rāja` and lemmas in `ī`" />
 :::
 
 > Pati bhikkhu rāja iccetehi ī kārantehi ca itthiyaṃ vattamānehi liṅgehi inī ppaccayo hoti.
 
-After the stems `pati`, `bhikkhu`, `rāja`, and after those ending in the letter `ī`, when used in the feminine, the suffix `inī` is added.
+After the lemmas `pati`, `bhikkhu`, `rāja`, and after those ending in the letter `ī`, when used in the feminine, the suffix `inī` is added.
 
 > ‘‘Saralopo’mādesa’’iccādisutte tu ggahaṇena kvaci pubbalopassa nisedhanato ‘‘vā paro asarūpā’’ti saralopo. Bhikkhunī, bhikkhunī bhikkhuniyo iccādi.
 
@@ -6442,7 +6497,7 @@ The final of the word `pati` becomes `a` when the suffix `inī` follows. In the 
 
 > Tatheva rāja saddato inī, saralopapakatibhāvā, rājinī. Ī kārantesu daṇḍī saddato inī, saralopādi, daṇḍinī, daṇḍinī daṇḍiniyo, evaṃ hatthinī, medhāvinī, tapassinī, piyabhāṇinī iccādi.
 
-In the same way `inī` after the word `rāja`; by the elision of the vowel and the unchanged state, `rājinī` (queen). Among the stems in `ī`, `inī` after the word `daṇḍī`; elision of the vowel and so on: `daṇḍinī` (staff-bearing woman); `daṇḍinī`, `daṇḍiniyo`; likewise `hatthinī` (she-elephant), `medhāvinī` (wise woman), `tapassinī` (female ascetic), `piyabhāṇinī` (woman of pleasant speech) and so on.
+In the same way `inī` after the word `rāja`; by the elision of the vowel and the unchanged state, `rājinī` (queen). Among the lemmas in `ī`, `inī` after the word `daṇḍī`; elision of the vowel and so on: `daṇḍinī` (staff-bearing woman); `daṇḍinī`, `daṇḍiniyo`; likewise `hatthinī` (she-elephant), `medhāvinī` (wise woman), `tapassinī` (female ascetic), `piyabhāṇinī` (woman of pleasant speech) and so on.
 
 > ‘‘Pokkharinī’’ itīdha ‘‘tesu vuddhī’’tiādinā i kārana kārānaṃ a kāraṇa kārādesā, pokkharaṇī, pokkharaṇī. ‘‘Tato yonamo tū’’ti sutte tu ggahaṇena yonamokāro ca, ī kārassa ya kāro, ‘‘yavata’’miccādisutte kāra ggahaṇena ṇya ssa ña kāro, dvittaṃ. Pokkharañño pokkharaṇiyo vā iccādi.
 
@@ -6505,7 +6560,7 @@ The governance of `vā` is for gathering in what is not stated; by it `inī` is 
 
 > _Īkārantaṃ._
 
-Thus stems ending in `ī`.
+Thus lemmas ending in `ī`.
 
 ---
 > U kāranto itthiliṅgo yāgu saddo.
@@ -6569,7 +6624,7 @@ In the same way `dhītā`, `dhītaro` (daughter), `duhitā`, `duhitaro` (daughte
 
 > _Ukārantaṃ._
 
-Thus stems ending in `u`.
+Thus lemmas ending in `u`.
 
 ---
 > Ū kāranto itthiliṅgo jambū saddo.
@@ -6596,7 +6651,7 @@ Likewise `vadhū` (young wife) and `sarabhū` (the Sarabhū river), `sarabū` (l
 
 > _Ūkārantaṃ._
 
-Thus stems ending in `ū`.
+Thus lemmas ending in `ū`.
 
 ---
 > O kāranto itthiliṅgo go saddo.
@@ -6617,11 +6672,11 @@ Its pattern of forms is just that of the masculine word `go`.
 
 > Atha napuṃsakaliṅgāni vuccante.
 
-Now the neuter stems are stated.
+Now the neuter lemmas are stated.
 
 > A kāranto napuṃsakaliṅgo citta saddo.
 
-The neuter stem ending in `a` is the word `citta` ("mind").
+The neuter lemma ending in `a` is the word `citta` ("mind").
 
 > Pure viya syā dyuppatti, ‘‘citta si’’ itīdha –
 
@@ -6649,19 +6704,19 @@ As before, the inflections `si` and the rest are added; here, with `citta` + `si
 
 > Si, aṃ iti dvipadamidaṃ. A kārantehi napuṃsakaliṅgehi parassa si vacanassa aṃ hoti niccaṃ. Saralopapakatibhāvādi, cittaṃ.
 
-This [sutta] is two words, `si` and `aṃ`. After neuter stems ending in `a`, the inflection `si` (①⨀) always becomes `aṃ`. Elision of the vowel, the unchanged state and the rest: `cittaṃ`.
-
-|     | citta + si (🚻①⨀)     | rule |
-| --- | --------------------- | ---- |
-| →   | citta + (si→aṃ)       | §219 |
-| →   | citt + (~~a~~ + aṃ)   | §83  |
-| →   | **cittaṃ**            |      |
+This [sutta] is two words, `si` and `aṃ`. After neuter lemmas ending in `a`, the inflection `si` (①⨀) always becomes `aṃ`. Elision of the vowel, the unchanged state and the rest: `cittaṃ`.
 
 :::tip[Example]
 
 | lemma | inflected | meaning |
 | ----- | --------- | ------- |
 | 🚻①⨀(citta) | cittaṃ | mind |
+
+|     | citta + si (🚻①⨀)     | rule |
+| --- | --------------------- | ---- |
+| →   | citta + (si→aṃ)       | §219 |
+| →   | citt + (~~a~~ + aṃ)   | §83  |
+| →   | **cittaṃ**            |      |
 
 :::
 
@@ -6681,20 +6736,7 @@ In the plural, "`Yonaṃ ni napuṃsakehi`" ([199 (§217): Yonaṃ ni napuṃsak
 
 > A kārantehi napuṃsakaliṅgehi yo naṃ niccaṃ ni hoti. ‘‘Sabbayonīnamāe’’ti ni ssa vā ā kāro. Aññattha ‘‘yosu kata’’iccādinā dīgho. Cittā cittāni.
 
-After neuter stems ending in `a`, the `yo` [inflections] (①⨂, ②⨂) always become `ni`. By [§107 (69): Sabbayonīnamāe](/kaccayana/2-namakappa#m107) the `ni` optionally becomes `ā`. Elsewhere, lengthening by [§88 (147): Yosu katanikāralopesu dīghaṃ](/kaccayana/2-namakappa#m88) and the rest: `cittā`, `cittāni`.
-
-|     | citta + yo (🚻①⨂)     | rule |
-| --- | --------------------- | ---- |
-| →   | citta + (yo→ni)       | §218 |
-| →   | citt + (a→ā) + ni     | §88  |
-| →   | **cittāni**           |      |
-
-|     | citta + yo (🚻①⨂)     | rule |
-| --- | --------------------- | ---- |
-| →   | citta + (yo→ni)       | §218 |
-| →   | citta + (ni→ā)        | §107 |
-| →   | citt + (~~a~~ + ā)    | §83  |
-| →   | **cittā**             |      |
+After neuter lemmas ending in `a`, the `yo` [inflections] (①⨂, ②⨂) always become `ni`. By [§107 (69): Sabbayonīnamāe](/kaccayana/2-namakappa#m107) the `ni` optionally becomes `ā`. Elsewhere, lengthening by [§88 (147): Yosu katanikāralopesu dīghaṃ](/kaccayana/2-namakappa#m88) and the rest: `cittā`, `cittāni`.
 
 > Yonaṃ nibhāve cāette, siddhepi avisesato; \
 > ‘‘Ato nicca’’nti ārambhā, āettaṃ kvacidevidha.
@@ -6729,11 +6771,36 @@ The inflection of 🚻(citta); the rows from ③ onwards are those of `purisa`:
 | 🚻②⨂(citta) | citte | minds (by §107, occasionally) |
 | 🚻②⨂(citta) | cittāni | minds |
 
+|     | citta + yo (🚻①⨂)     | rule |
+| --- | --------------------- | ---- |
+| →   | citta + (yo→ni)       | §218 |
+| →   | citt + (a→ā) + ni     | §88  |
+| →   | **cittāni**           |      |
+
+|     | citta + yo (🚻①⨂)     | rule |
+| --- | --------------------- | ---- |
+| →   | citta + (yo→ni)       | §218 |
+| →   | citta + (ni→ā)        | §107 |
+| →   | citt + (~~a~~ + ā)    | §83  |
+| →   | **cittā**             |      |
+
+|     | citta + ga (🚻⓪⨀)     | rule |
+| --- | --------------------- | ---- |
+| →   | citta + ~~ga~~        | §220 |
+| →   | **he citta**          |      |
+
+|     | citta + yo (🚻②⨂)     | rule |
+| --- | --------------------- | ---- |
+| →   | citta + (yo→ni)       | §218 |
+| →   | citta + (ni→e)        | §107 |
+| →   | citt + (~~a~~ + e)    | §83  |
+| →   | **citte**             |      |
+
 :::
 
 > Evamaññānipi –
 
-In the same way other [neuter stems in `a`] too —
+In the same way other [neuter lemmas in `a`] too —
 
 > Puñña pāpa phala rūpa sādhanaṃ, \
 > Sota ghāna sukha dukkha kāraṇaṃ; \
@@ -6811,46 +6878,13 @@ And "`vā`", "`u`", "`nāmhi`" and "`ca`" continue.
 
 The final of the word `kamma` ("action") is optionally replaced by `u` and by `a` when the inflection `nā` (③⨀) follows. By the mention of `anta` ("final"), the final of `thāma` ("strength"), `addhā` ("road; time") and the like also becomes `u`. By the mention of the word `ca`, the final of `yuva` ("youth") and `maghava` ("Maghavā") becomes `ā` in some places (`kvaci`) before `nā` and `su`. `kammunā`, `kammanā`, or `kammena`; `kammehi`, `kammebhi`.
 
-|     | kamma + nā (🚻③⨀)      | rule |
-| --- | ---------------------- | ---- |
-| →   | kamm + (a→u) + nā      | §160 |
-| →   | **kammunā**            |      |
-
-|     | kamma + nā (🚻③⨀)      | rule |
-| --- | ---------------------- | ---- |
-| →   | kamm + (a→a) + nā      | §160 |
-| →   | **kammanā**            |      |
-
-|     | kamma + nā (🚻③⨀)      | rule |
-| --- | ---------------------- | ---- |
-| →   | kamma + (nā→ena)       | §103 |
-| →   | kamm + (~~a~~ + ena)   | §83  |
-| →   | **kammena**            |      |
-
 > Sasmā su ‘‘u nāmhi cā’’ti ettha ca saddena puma kammathāma ntassa cukāro vā sasmā sūti u ttaṃ. Kammuno kammassa, kammānaṃ, kammunā kammā kammamhā kammasmā, kammehi kammebhi, kammuno kammassa, kammānaṃ.
 
 Before `sa` and `smā`: by the word `ca` in [§159 (139): Unāmhi ca](/kaccayana/2-namakappa#m159) — "the final of `puma`, `kamma` and `thāma` optionally becomes `u` before `sa` and `smā` too" — there is the change to `u`. `kammuno`, `kammassa`; `kammānaṃ`; `kammunā`, `kammā`, `kammamhā`, `kammasmā`; `kammehi`, `kammebhi`; `kammuno`, `kammassa`; `kammānaṃ`.
 
-|     | kamma + sa (🚻④⨀)      | rule |
-| --- | ---------------------- | ---- |
-| →   | kamm + (a→u) + sa      | §159 |
-| →   | kammu + (sa→no)        | §117 |
-| →   | **kammuno**            |      |
-
-|     | kamma + smā (🚻⑤⨀)     | rule |
-| --- | ---------------------- | ---- |
-| →   | kamm + (a→u) + smā     | §159 |
-| →   | kammu + (smā→nā)       | §215 |
-| →   | **kammunā**            |      |
-
 > Smiṃ vacane ‘‘brahmato tu smiṃnī’’ti ettha tu saddena kvaci ni hoti. Kammani kamme kammamhi kammasmiṃ, kammesu.
 
 For the inflection `smiṃ`: by the word `tu` in [§197 (125): Brahmato tu smiṃ ni](/kaccayana/2-namakappa#m197), `ni` occurs in some places (`kvaci`). `kammani`, `kamme`, `kammamhi`, `kammasmiṃ`; `kammesu`.
-
-|     | kamma + smiṃ (🚻⑦⨀)    | rule |
-| --- | ---------------------- | ---- |
-| →   | kamma + (smiṃ→ni)      | §197 |
-| →   | **kammani**            |      |
 
 The inflection of 🚻(kamma):
 
@@ -6883,6 +6917,39 @@ In the same way `thāmunā`, `thāmena`, or `thāmasā`; `thāmuno`, `thāmassa`
 | 🚹③⨀(addhā) | addhunā | by the road; by time |
 | 🚹④⨀(addhā) | addhuno | to the road; to time |
 
+|     | kamma + nā (🚻③⨀)      | rule |
+| --- | ---------------------- | ---- |
+| →   | kamm + (a→u) + nā      | §160 |
+| →   | **kammunā**            |      |
+
+|     | kamma + nā (🚻③⨀)      | rule |
+| --- | ---------------------- | ---- |
+| →   | kamm + (a→a) + nā      | §160 |
+| →   | **kammanā**            |      |
+
+|     | kamma + nā (🚻③⨀)      | rule |
+| --- | ---------------------- | ---- |
+| →   | kamma + (nā→ena)       | §103 |
+| →   | kamm + (~~a~~ + ena)   | §83  |
+| →   | **kammena**            |      |
+
+|     | kamma + sa (🚻④⨀)      | rule |
+| --- | ---------------------- | ---- |
+| →   | kamm + (a→u) + sa      | §159 |
+| →   | kammu + (sa→no)        | §117 |
+| →   | **kammuno**            |      |
+
+|     | kamma + smā (🚻⑤⨀)     | rule |
+| --- | ---------------------- | ---- |
+| →   | kamm + (a→u) + smā     | §159 |
+| →   | kammu + (smā→nā)       | §215 |
+| →   | **kammunā**            |      |
+
+|     | kamma + smiṃ (🚻⑦⨀)    | rule |
+| --- | ---------------------- | ---- |
+| →   | kamma + (smiṃ→ni)      | §197 |
+| →   | **kammani**            |      |
+
 :::
 
 > Guṇavantu si, ‘‘savibhattissa, ntussa, simhī’’ti ca vattate.
@@ -6907,16 +6974,31 @@ In the same way `thāmunā`, `thāmena`, or `thāmasā`; `thāmuno`, `thāmassa`
 
 > Napuṃsake vattamānassa liṅgassa sambandhino ntu ppaccayassa savibhattissa aṃ hoti si mhi vibhattimhi. Guṇavaṃ cittaṃ.
 
-The suffix `ntu` belonging to a stem used in the neuter, together with its inflection, becomes `aṃ` when the inflection `si` (①⨀) follows: `guṇavaṃ cittaṃ` ("a virtuous mind").
+The suffix `ntu` belonging to a lemma used in the neuter, together with its inflection, becomes `aṃ` when the inflection `si` (①⨀) follows: `guṇavaṃ cittaṃ` ("a virtuous mind").
+
+> Yo mhi ‘‘ntussanto yosu cā’’ti a ttaṃ, i kāro ca. Guṇavanti, guṇavantāni, sesaṃ ñeyyaṃ.
+
+Before `yo`, by [§92 (100): Ntussanto yosuca](/kaccayana/2-namakappa#m92) there is the change to `a`, and the letter `i`: `guṇavanti`, `guṇavantāni`; the rest is to be understood.
+
+> Gacchanta si, ‘‘simhi gacchantādīnaṃ ntasaddo a’’miti aṃ. Gacchaṃ gacchantaṃ, gacchantā gacchantāni.
+
+`gacchanta` + `si`: by [§186 (107): Simhigacchantādīnaṃ ntasaddo aṃ](/kaccayana/2-namakappa#m186) there is `aṃ`: `gacchaṃ`, `gacchantaṃ` ("going"); `gacchantā`, `gacchantāni`.
+
+:::tip[Examples]
+
+| lemma | inflected | meaning |
+| ----- | --------- | ------- |
+| 🚻①⨀(guṇavantu) | guṇavaṃ cittaṃ | a virtuous mind |
+| 🚻①⨂(guṇavantu) | guṇavanti | virtuous (things) |
+| 🚻①⨂(guṇavantu) | guṇavantāni | virtuous (things) |
+| 🚻①⨀(gacchanta) | gacchaṃ | going |
+| 🚻①⨀(gacchanta) | gacchantaṃ | going (when the `vā` of §186 is not taken) |
+| 🚻①⨂(gacchanta) | gacchantā, gacchantāni | going (things) |
 
 |     | guṇavantu + si (🚻①⨀)      | rule |
 | --- | -------------------------- | ---- |
 | →   | guṇava + (ntu + si → aṃ)   | §125 |
 | →   | **guṇavaṃ**                |      |
-
-> Yo mhi ‘‘ntussanto yosu cā’’ti a ttaṃ, i kāro ca. Guṇavanti, guṇavantāni, sesaṃ ñeyyaṃ.
-
-Before `yo`, by [§92 (100): Ntussanto yosuca](/kaccayana/2-namakappa#m92) there is the change to `a`, and the letter `i`: `guṇavanti`, `guṇavantāni`; the rest is to be understood.
 
 |     | guṇavantu + yo (🚻①⨂)      | rule |
 | --- | -------------------------- | ---- |
@@ -6932,10 +7014,6 @@ Before `yo`, by [§92 (100): Ntussanto yosuca](/kaccayana/2-namakappa#m92) there
 | →   | guṇavant + (a→ā) + ni      | §88  |
 | →   | **guṇavantāni**            |      |
 
-> Gacchanta si, ‘‘simhi gacchantādīnaṃ ntasaddo a’’miti aṃ. Gacchaṃ gacchantaṃ, gacchantā gacchantāni.
-
-`gacchanta` + `si`: by [§186 (107): Simhigacchantādīnaṃ ntasaddo aṃ](/kaccayana/2-namakappa#m186) there is `aṃ`: `gacchaṃ`, `gacchantaṃ` ("going"); `gacchantā`, `gacchantāni`.
-
 |     | gacchanta + si (🚻①⨀)      | rule |
 | --- | -------------------------- | ---- |
 | →   | gaccha + (nta→aṃ) + si     | §186 |
@@ -6949,33 +7027,22 @@ Before `yo`, by [§92 (100): Ntussanto yosuca](/kaccayana/2-namakappa#m92) there
 | →   | gacchant + (~~a~~ + aṃ)    | §83  |
 | →   | **gacchantaṃ**             |      |
 
-:::tip[Examples]
-
-| lemma | inflected | meaning |
-| ----- | --------- | ------- |
-| 🚻①⨀(guṇavantu) | guṇavaṃ cittaṃ | a virtuous mind |
-| 🚻①⨂(guṇavantu) | guṇavanti | virtuous (things) |
-| 🚻①⨂(guṇavantu) | guṇavantāni | virtuous (things) |
-| 🚻①⨀(gacchanta) | gacchaṃ | going |
-| 🚻①⨀(gacchanta) | gacchantaṃ | going (when the `vā` of §186 is not taken) |
-| 🚻①⨂(gacchanta) | gacchantā, gacchantāni | going (things) |
-
 :::
 
 ---
 
 > _Akārantaṃ._
 
-Thus stems ending in `a`.
+Thus lemmas ending in `a`.
 
 ---
 > Ā kāranto napuṃsakaliṅgo assaddhā saddo.
 
-The neuter stem ending in `ā` is the word `assaddhā` ("faithless").
+The neuter lemma ending in `ā` is the word `assaddhā` ("faithless").
 
 > ‘‘Assaddhā’’iti ṭhite –
 
-When `assaddhā` stands [as the stem] —
+When `assaddhā` stands [as the lemma] —
 
 > ‘‘Samāsassā’’ti adhikicca ‘‘saro rasso napuṃsake’’ti samāsantassa rassattaṃ, samāsattā nāmabyapadeso, syā dyuppatti. Sesaṃ citta samaṃ.
 
@@ -6998,12 +7065,12 @@ Likewise the word `mukhanāsikā` ("mouth and nose"). Because it is a `dvanda` [
 
 > _Ākārantaṃ._
 
-Thus stems ending in `ā`.
+Thus lemmas ending in `ā`.
 
 ---
 > I kāranto napuṃsakaliṅgo aṭṭhi saddo.
 
-The neuter stem ending in `i` is the word `aṭṭhi` ("bone").
+The neuter lemma ending in `i` is the word `aṭṭhi` ("bone").
 
 > Syā dyuppatti, si lopo, aṭṭhi.
 
@@ -7025,23 +7092,11 @@ The inflections `si` and the rest are added; `si` is elided: `aṭṭhi`.
 
 > Napuṃsakaliṅgehi paresaṃ sabbesaṃ yonaṃ ni hoti vā.
 
-After neuter stems, all the `yo` [inflections] optionally become `ni`.[^55]
+After neuter lemmas, all the `yo` [inflections] optionally become `ni`.[^55]
 
 > Aṭṭhīni, aññattha niccaṃ yo lopo, dīgho ca, aṭṭhī, tathā he aṭṭhi, he aṭṭhī aṭṭhīni, aṭṭhiṃ, aṭṭhī aṭṭhīni, aṭṭhinā iccādi aggi saddasamaṃ.
 
 `aṭṭhīni`; elsewhere the `yo` is always elided, and lengthening: `aṭṭhī`. Likewise `he aṭṭhi`; `he aṭṭhī`, `he aṭṭhīni`; `aṭṭhiṃ`; `aṭṭhī`, `aṭṭhīni`; `aṭṭhinā` and so on, the same as the word `aggi`.
-
-|     | aṭṭhi + yo (🚻①⨂)     | rule |
-| --- | --------------------- | ---- |
-| →   | aṭṭhi + (yo→ni)       | §217 |
-| →   | aṭṭh + (i→ī) + ni     | §88  |
-| →   | **aṭṭhīni**           |      |
-
-|     | aṭṭhi + yo (🚻①⨂)     | rule |
-| --- | --------------------- | ---- |
-| →   | aṭṭhi + ~~yo~~        | §118 |
-| →   | aṭṭh + (i→ī)          | §88  |
-| →   | **aṭṭhī**             |      |
 
 The inflection of 🚻(aṭṭhi); the rows from ③ onwards are those of `aggi`:
 
@@ -7070,18 +7125,30 @@ In the same way `satthi` (thigh), `dadhi` (curds), `vāri` (water), `akkhi` (eye
 | 🚻②⨀(aṭṭhi) | aṭṭhiṃ | bone |
 | 🚻③⨀(aṭṭhi) | aṭṭhinā | by a bone |
 
+|     | aṭṭhi + yo (🚻①⨂)     | rule |
+| --- | --------------------- | ---- |
+| →   | aṭṭhi + (yo→ni)       | §217 |
+| →   | aṭṭh + (i→ī) + ni     | §88  |
+| →   | **aṭṭhīni**           |      |
+
+|     | aṭṭhi + yo (🚻①⨂)     | rule |
+| --- | --------------------- | ---- |
+| →   | aṭṭhi + ~~yo~~        | §118 |
+| →   | aṭṭh + (i→ī)          | §88  |
+| →   | **aṭṭhī**             |      |
+
 :::
 
 ---
 
 > _Ikārantaṃ._
 
-Thus stems ending in `i`.
+Thus lemmas ending in `i`.
 
 ---
 > Ī kāranto napuṃsakaliṅgo sukhakārī saddo.
 
-The neuter stem ending in `ī` is the word `sukhakārī` ("bringing happiness").
+The neuter lemma ending in `ī` is the word `sukhakārī` ("bringing happiness").
 
 > ‘‘Sukhakārī si’’[^56] itīdha anapuṃsakattābhāvā si smimpi ‘‘agho rassa’’miccādinā rassattaṃ, si lopo. Sukhakāri dānaṃ, sukhakārī sukhakārīni, he sukhakāri, he sukhakārī he sukhakārīni, sukhakārinaṃ sukhakāriṃ, sukhakārī sukhakārīni.
 
@@ -7105,12 +7172,12 @@ The rest is the same as the word `daṇḍī`. In the same way `sīghayāyī` ("
 
 > _Īkārantaṃ._
 
-Thus stems ending in `ī`.
+Thus lemmas ending in `ī`.
 
 ---
 > U kāranto napuṃsakaliṅgo āyu saddo. Tassa aṭṭhi saddasseva rūpanayo.
 
-The neuter stem ending in `u` is the word `āyu` ("life"). The course of its forms is just that of the word `aṭṭhi`.
+The neuter lemma ending in `u` is the word `āyu` ("life"). The course of its forms is just that of the word `aṭṭhi`.
 
 > Āyu, āyū āyūni, he āyu, he āyū he āyūni, āyuṃ, āyū āyūni, āyunā āyusāti manogaṇādittā siddhaṃ. Āyūhi āyūbhi, āyuno āyussa, āyūnamiccādi.
 
@@ -7138,12 +7205,12 @@ In the same way `cakkhu` (eye), `vasu` (wealth), `dhanu` (bow), `dāru` (wood), 
 
 > _Ukārantaṃ._
 
-Thus stems ending in `u`.
+Thus lemmas ending in `u`.
 
 ---
 > Ū kāranto na puṃsakaliṅgo gotrabhū saddo.
 
-The neuter stem ending in `ū` is the word `gotrabhū` ("become of the lineage").
+The neuter lemma ending in `ū` is the word `gotrabhū` ("become of the lineage").
 
 > Gotrabhū si, napuṃsakattā rassattaṃ, si lopo. Gotrabhu cittaṃ, gotrabhū gotrabhūni, he gotrabhu, he gotrabhū he gotrabhūni, gotrabhuṃ, gotrabhū gotrabhūni, gotrabhunā iccādi pulliṅge abhibhū saddasamaṃ.
 
@@ -7162,12 +7229,12 @@ In the same way `abhibhū` (overlord), `sayambhū` (self-existent), `dhammaññ�
 
 > _Ūkārantaṃ._
 
-Thus stems ending in `ū`.
+Thus lemmas ending in `ū`.
 
 ---
 > O kāranto napuṃsakaliṅgo cittagosa ddo.
 
-The neuter stem ending in `o` is the word `cittago` ("having brindled cows").
+The neuter lemma ending in `o` is the word `cittago` ("having brindled cows").
 
 > ‘‘Cittā gāvo assa kulassā’’ti atthe bahubbīhisamāse kate ‘‘saro rasso napuṃsake’’ti okārassa ṭhānappayatanāsannattā rassattamukāro, syā dyuppatti, si lopo. Cittagu kulaṃ, cittagū cittagūni iccādi āyu saddasamaṃ.
 
@@ -7181,7 +7248,7 @@ When the `bahubbīhi` compound has been made in the sense "this family's cows ar
 
 > _Okārantaṃ._
 
-Thus stems ending in `o`.
+Thus lemmas ending in `o`.
 
 ---
 > Cittaṃ kammañca assaddha-mathaṭṭhi sukhakāri ca; \
@@ -7196,7 +7263,7 @@ The neuter gender is finished.
 
 [^55]: [Rachiwong (1995)](/rupasiddhi/rachiwong) renders `sabbesaṃ` as "entire"; it is "of all [the `yo`s]".
 
-[^56]: CST4 prints `Sukhabhārī si`; the stem is `sukhakārī`, as the forms that follow show, so the Thai edition read by [Rachiwong (1995)](/rupasiddhi/rachiwong).
+[^56]: CST4 prints `Sukhabhārī si`; the lemma is `sukhakārī`, as the forms that follow show, so the Thai edition read by [Rachiwong (1995)](/rupasiddhi/rachiwong).
 
 [^57]: The text printed by [Rachiwong (1995)](/rupasiddhi/rachiwong) has `siṅgu` for the CST's `siggu`; the CST is kept.
 
@@ -7236,19 +7303,19 @@ In the plural, when we have `sabba` + `yo`, by [§9 (11): Parasamaññā payoge]
 
 > Sabbesaṃ itthipumanapuṃsakānaṃ nāmāni sabbanāmāni, tesaṃ sabbesaṃ sabbanāmasaññānaṃ liṅgānaṃ a kārato paro paṭhamo yo e ttamāpajjate. Sabbe purisā.
 
-The names of all [things] — feminine, masculine and neuter — are `sabbanāma` ("pronouns"). After the final `a` of all those stems that bear the name `sabbanāma`, the first `yo` (①⨂) becomes `e`: `sabbe purisā` ("all men").
-
-|     | sabba + yo (🚹①⨂)     | rule |
-| --- | --------------------- | ---- |
-| →   | sabba + (yo→e)        | §164 |
-| →   | sabb + (~~a~~ + e)    | §83  |
-| →   | **sabbe**             |      |
+The names of all [things] — feminine, masculine and neuter — are `sabbanāma` ("pronouns"). After the final `a` of all those lemmas that bear the name `sabbanāma`, the first `yo` (①⨂) becomes `e`: `sabbe purisā` ("all men").
 
 :::tip[Example]
 
 | lemma | inflected | meaning |
 | ----- | --------- | ------- |
 | 🚹①⨂(sabba) | sabbe purisā | all men |
+
+|     | sabba + yo (🚹①⨂)     | rule |
+| --- | --------------------- | ---- |
+| →   | sabba + (yo→e)        | §164 |
+| →   | sabb + (~~a~~ + e)    | §83  |
+| →   | **sabbe**             |      |
 
 :::
 
@@ -7297,11 +7364,6 @@ The three replacements are those of [69 (§107): Sabbayonīnamāe](/rupasiddhi/2
 
 After pronouns ending in `a`, these replacements — `ā` and `e` for `smā` and `smiṃ`, and `āya` for the fourth form singular — do not occur at all; hence there is no replacement by `āya`. The mention of `ca` is for cancelling the prohibition in some places; hence after `pubba` and the like `ā` and `e` do occur for `smā` and `smiṃ`. `sabbassa` ("of all; to all").
 
-|     | sabba + sa (🚹④⨀)     | rule |
-| --- | --------------------- | ---- |
-| →   | sabba + (s) + sa      | §61  |
-| →   | **sabbassa**          |      |
-
 :::tip[Examples]
 
 | lemma | inflected | meaning |
@@ -7309,6 +7371,11 @@ After pronouns ending in `a`, these replacements — `ā` and `e` for `smā` and
 | 🚹④⨀(sabba) | sabbassa | to all (not `sabbāya`) |
 | 🚹⑤⨀(pubba) | pubbā | from the former (by the `ca`, §108) |
 | 🚹⑦⨀(pubba) | pubbe | in the former (by the `ca`, §108) |
+
+|     | sabba + sa (🚹④⨀)     | rule |
+| --- | --------------------- | ---- |
+| →   | sabba + (s) + sa      | §61 (the `āya` of §109 denied by §110) |
+| →   | **sabbassa**          |      |
 
 :::
 
@@ -7343,6 +7410,11 @@ The final `a` of all pronouns becomes `e` when the inflection `naṃ` (④⨂, �
 | 🚹④⨂(sabba) | sabbesaṃ | to all (with the `saṃ` of the next rule) |
 | 🚹④⨂(sabba) | sabbesānaṃ | to all (with the `sānaṃ` of the next rule) |
 
+|     | sabba + naṃ (🚹④⨂)      | rule |
+| --- | ----------------------- | ---- |
+| →   | sabb + (a→e) + naṃ      | §102 |
+| →   | sabbe + naṃ             | (the `naṃ` is replaced under 203) |
+
 :::
 
 > ‘‘Sabbanāmato’’ti ca vattate.
@@ -7362,18 +7434,6 @@ And "`sabbanāmato`" (after a pronoun) continues.
 > Sabbato sabbanāmato parassa naṃ vacanassa saṃ sānaṃ iccete ādesā honti.
 
 After every pronoun, the inflection `naṃ` (④⨂, ⑥⨂) is replaced by `saṃ` and `sānaṃ`.
-
-|     | sabba + naṃ (🚹④⨂)      | rule |
-| --- | ----------------------- | ---- |
-| →   | sabb + (a→e) + naṃ      | §102 |
-| →   | sabbe + (naṃ→saṃ)       | §168 |
-| →   | **sabbesaṃ**            |      |
-
-|     | sabba + naṃ (🚹④⨂)      | rule |
-| --- | ----------------------- | ---- |
-| →   | sabb + (a→e) + naṃ      | §102 |
-| →   | sabbe + (naṃ→sānaṃ)     | §168 |
-| →   | **sabbesānaṃ**          |      |
 
 > Sabbesaṃ sabbesānaṃ, sabbasmā sabbamhā, sabbehi sabbebhi, sabbassa, sabbesaṃ sabbesānaṃ, sabbasmiṃ sabbamhi, sabbesu.
 
@@ -7398,6 +7458,24 @@ The inflection of 🚹(sabba):
 | 🚹⑤⨀(sabba) | sabbasmā, sabbamhā | from all (no `sabbā`, by 201) |
 | 🚹⑦⨀(sabba) | sabbasmiṃ, sabbamhi | in all (no `sabbe`, by 201) |
 | 🚺①⨀(sabba) | sabbā pajā | all people |
+
+|     | sabba + naṃ (🚹④⨂)      | rule |
+| --- | ----------------------- | ---- |
+| →   | sabb + (a→e) + naṃ      | §102 |
+| →   | sabbe + (naṃ→saṃ)       | §168 |
+| →   | **sabbesaṃ**            |      |
+
+|     | sabba + naṃ (🚹④⨂)      | rule |
+| --- | ----------------------- | ---- |
+| →   | sabb + (a→e) + naṃ      | §102 |
+| →   | sabbe + (naṃ→sānaṃ)     | §168 |
+| →   | **sabbesānaṃ**          |      |
+
+|     | sabba + ā + si (🚺①⨀)    | rule |
+| --- | ------------------------ | ---- |
+| →   | sabb + (~~a~~ + ā) + si  | §237, §83 |
+| →   | sabbā + ~~si~~           | §220 |
+| →   | **sabbā**                |      |
 
 :::
 
@@ -7432,6 +7510,16 @@ After every pronoun that bears the name `gha` or `pa`, the inflections `smiṃ` 
 | 🚺⑦⨀(sabba) | sabbassaṃ | in all (women); completed at 207 |
 | 🚺⑦⨀(sabba) | sabbāyaṃ | in all (women), by §216 |
 
+|     | sabbā + sa (🚺④⨀)      | rule |
+| --- | ---------------------- | ---- |
+| →   | sabbā + (sa→sā)        | §179 |
+| →   | sabbā + sā             | (continued under 205 and 206) |
+
+|     | sabbā + smiṃ (🚺⑦⨀)    | rule |
+| --- | ---------------------- | ---- |
+| →   | sabbā + (smiṃ→saṃ)     | §179 |
+| →   | sabbā + saṃ            | (continued under 205 and 207) |
+
 :::
 
 > ‘‘Saṃsāsvekavacanesu cā’’ti vattate.
@@ -7459,6 +7547,18 @@ The `ā` that bears the name `gha` is shortened when the singular replacements o
 | 🚺⑥⨀(sabba) | sabbassā | of all (women): `sabbā` shortened before `sā` |
 | 🚺⑦⨀(sabba) | sabbassaṃ | in all (women): `sabbā` shortened before `saṃ` |
 
+|     | sabbā + sa (🚺④⨀)      | rule |
+| --- | ---------------------- | ---- |
+| →   | sabbā + (sa→sā)        | §179 |
+| →   | sabb + (ā→a) + sā      | §66  |
+| →   | sabba + sā             | (the `s` is added under 206) |
+
+|     | sabbā + smiṃ (🚺⑦⨀)    | rule |
+| --- | ---------------------- | ---- |
+| →   | sabbā + (smiṃ→saṃ)     | §179 |
+| →   | sabb + (ā→a) + saṃ     | §66  |
+| →   | sabba + saṃ            | (the `s` is added under 206; finished under 207) |
+
 :::
 
 > ‘‘Sāgamo’’ti vattate.
@@ -7483,23 +7583,11 @@ The `ā` that bears the name `gha` is shortened when the singular replacements o
 
 > Saṃ sā iccetesu ekavacanaṭṭhānasambhūtesu vibhattādesesu paresu liṅgamhā sa kārāgamo hoti.
 
-When the replacements of inflections `saṃ` and `sā`, arisen in the place of a singular inflection, follow, the augment `s` is [inserted] after the stem.
+When the replacements of inflections `saṃ` and `sā`, arisen in the place of a singular inflection, follow, the augment `s` is [inserted] after the lemma.
 
 > Sabbassā sabbāya, sabbāsaṃ sabbāsānaṃ, sabbāya, sabbāhi sabbābhi, sabbassā sabbāya, sabbāsaṃ sabbāsānaṃ.
 
 `sabbassā`, `sabbāya`; `sabbāsaṃ`, `sabbāsānaṃ`; `sabbāya`; `sabbāhi`, `sabbābhi`; `sabbassā`, `sabbāya`; `sabbāsaṃ`, `sabbāsānaṃ`.
-
-|     | sabbā + sa (🚺④⨀)      | rule |
-| --- | ---------------------- | ---- |
-| →   | sabbā + (sa→sā)        | §179 |
-| →   | sabb + (ā→a) + sā      | §66  |
-| →   | sabba + (s) + sā       | §62  |
-| →   | **sabbassā**           |      |
-
-|     | sabbā + naṃ (🚺④⨂)     | rule |
-| --- | ---------------------- | ---- |
-| →   | sabbā + (naṃ→saṃ)      | §168 |
-| →   | **sabbāsaṃ**           |      |
 
 :::tip[Examples]
 
@@ -7511,6 +7599,24 @@ When the replacements of inflections `saṃ` and `sā`, arisen in the place of a
 | 🚺⑤⨂(sabba) | sabbāhi, sabbābhi | from all (women) |
 | 🚺⑥⨀(sabba) | sabbassā, sabbāya | of all (women) |
 | 🚺⑥⨂(sabba) | sabbāsaṃ, sabbāsānaṃ | of all (women) |
+
+|     | sabbā + sa (🚺④⨀)      | rule |
+| --- | ---------------------- | ---- |
+| →   | sabbā + (sa→sā)        | §179 |
+| →   | sabb + (ā→a) + sā      | §66  |
+| →   | sabba + (s) + sā       | §62  |
+| →   | **sabbassā**           |      |
+
+|     | sabbā + sa (🚺④⨀)      | rule |
+| --- | ---------------------- | ---- |
+| →   | sabbā + (sa→āya)       | §111 |
+| →   | sabb + (~~ā~~ + āya)   | §83  |
+| →   | **sabbāya**            |      |
+
+|     | sabbā + naṃ (🚺④⨂)     | rule |
+| --- | ---------------------- | ---- |
+| →   | sabbā + (naṃ→saṃ)      | §168 |
+| →   | **sabbāsaṃ**           |      |
 
 :::
 
@@ -7536,18 +7642,6 @@ After these pronouns that bear the names `gha` and `pa`, the inflection `smiṃ`
 
 The replacements `saṃ` and `yaṃ`: `sabbassaṃ`, `sabbāyaṃ`; `sabbāsu`.[^58]
 
-|     | sabbā + smiṃ (🚺⑦⨀)    | rule |
-| --- | ---------------------- | ---- |
-| →   | sabbā + (smiṃ→saṃ)     | §179 |
-| →   | sabb + (ā→a) + saṃ     | §66  |
-| →   | sabba + (s) + saṃ      | §62  |
-| →   | **sabbassaṃ**          |      |
-
-|     | sabbā + smiṃ (🚺⑦⨀)    | rule |
-| --- | ---------------------- | ---- |
-| →   | sabbā + (smiṃ→yaṃ)     | §216 |
-| →   | **sabbāyaṃ**           |      |
-
 The inflection of 🚺(sabbā):
 
 | | ⨀ | ⨂ |
@@ -7570,6 +7664,24 @@ The inflection of 🚺(sabbā):
 | 🚺⑦⨀(dakkhiṇa) | dakkhiṇāya | in the south (the `āya` admitted `kvaci`) |
 | 🚺⑦⨀(uttara) | uttarāya | in the north (the `āya` admitted `kvaci`) |
 | 🚺⑦⨂(sabba) | sabbāsu | in all (women) |
+
+|     | sabbā + smiṃ (🚺⑦⨀)    | rule |
+| --- | ---------------------- | ---- |
+| →   | sabbā + (smiṃ→saṃ)     | §179 |
+| →   | sabb + (ā→a) + saṃ     | §66  |
+| →   | sabba + (s) + saṃ      | §62  |
+| →   | **sabbassaṃ**          |      |
+
+|     | sabbā + smiṃ (🚺⑦⨀)    | rule |
+| --- | ---------------------- | ---- |
+| →   | sabbā + (smiṃ→yaṃ)     | §216 |
+| →   | **sabbāyaṃ**           |      |
+
+|     | dakkhiṇā + smiṃ (🚺⑦⨀)   | rule |
+| --- | ------------------------ | ---- |
+| →   | dakkhiṇā + (smiṃ→āya)    | §111 (the `āya` admitted `kvaci` by the governing `vā`) |
+| →   | dakkhiṇ + (~~ā~~ + āya)  | §83  |
+| →   | **dakkhiṇāya**           |      |
 
 :::
 
@@ -7629,18 +7741,6 @@ And "`yo`" and "`Sabbanāmakārate paṭhamo`" ([200 (§164): Sabbanāmakārate 
 
 After the final `a` of a pronoun standing in a `dvanda` compound, the first `yo` (①⨂) optionally becomes `e`. "Which of two and which of many?" — `katarakatame`, or `katarakatamā`, and so on.
 
-|     | katarakatama + yo (🚹①⨂)    | rule |
-| --- | --------------------------- | ---- |
-| →   | katarakatama + (yo→e)       | §165 |
-| →   | katarakatam + (~~a~~ + e)   | §83  |
-| →   | **katarakatame**            |      |
-
-|     | katarakatama + yo (🚹①⨂)    | rule |
-| --- | --------------------------- | ---- |
-| →   | katarakatama + (yo→ā)       | §107 |
-| →   | katarakatam + (~~a~~ + ā)   | §83  |
-| →   | **katarakatamā**            |      |
-
 > Pubbā dayo disādivavatthānavacanā.
 
 `pubba` and the rest denote the fixing of direction and the like.
@@ -7666,6 +7766,35 @@ The inflection of 🚹(pubba):
 
 By [§108 (90): Smāsmiṃnaṃ vā](/kaccayana/2-namakappa#m108) there are optionally `ā` and `e`.
 
+:::tip[Examples]
+
+| lemma | inflected | meaning |
+| ----- | --------- | ------- |
+| 🚹①⨂(katara + katama) | katarakatame | which of two and which of many? |
+| 🚹①⨂(katara + katama) | katarakatamā | which of two and which of many? (by §107) |
+| 🚹①⨀(pubba) | pubbo kālo | the former time |
+| 🚹①⨂(pubba) | pubbe, pubbā | the former (ones) |
+| 🚹⑤⨀(pubba) | pubbā, pubbasmā, pubbamhā | from the former |
+| 🚹⑦⨀(pubba) | pubbe, pubbasmiṃ, pubbamhi | in the former |
+
+|     | katarakatama + yo (🚹①⨂)    | rule |
+| --- | --------------------------- | ---- |
+| →   | katarakatama + (yo→e)       | §165 |
+| →   | katarakatam + (~~a~~ + e)   | §83  |
+| →   | **katarakatame**            |      |
+
+|     | katarakatama + yo (🚹①⨂)    | rule |
+| --- | --------------------------- | ---- |
+| →   | katarakatama + (yo→ā)       | §107 |
+| →   | katarakatam + (~~a~~ + ā)   | §83  |
+| →   | **katarakatamā**            |      |
+
+|     | pubba + si (🚹①⨀)           | rule |
+| --- | --------------------------- | ---- |
+| →   | pubba + (si→o)              | §104 |
+| →   | pubb + (~~a~~ + o)          | §83  |
+| →   | **pubbo**                   |      |
+
 |     | pubba + smā (🚹⑤⨀)      | rule |
 | --- | ----------------------- | ---- |
 | →   | pubba + (smā→ā)         | §108 |
@@ -7677,17 +7806,6 @@ By [§108 (90): Smāsmiṃnaṃ vā](/kaccayana/2-namakappa#m108) there are opti
 | →   | pubba + (smiṃ→e)        | §108 |
 | →   | pubb + (~~a~~ + e)      | §83  |
 | →   | **pubbe**               |      |
-
-:::tip[Examples]
-
-| lemma | inflected | meaning |
-| ----- | --------- | ------- |
-| 🚹①⨂(katara + katama) | katarakatame | which of two and which of many? |
-| 🚹①⨂(katara + katama) | katarakatamā | which of two and which of many? (by §107) |
-| 🚹①⨀(pubba) | pubbo kālo | the former time |
-| 🚹①⨂(pubba) | pubbe, pubbā | the former (ones) |
-| 🚹⑤⨀(pubba) | pubbā, pubbasmā, pubbamhā | from the former |
-| 🚹⑦⨀(pubba) | pubbe, pubbasmiṃ, pubbamhi | in the former |
 
 :::
 
@@ -7717,17 +7835,6 @@ And "`sabbanāmato`" and "`dvandaṭṭhā`" continue.
 
 After a pronoun standing in a `dvanda`, apart from the change of the inflection `yo` to `e`, no other pronominal operation takes place; hence there is no replacement by `saṃ` and `sānaṃ`: `pubbāparānaṃ` ("of the former and the latter"), `pubbuttarānaṃ` ("of the east and the north"), `adharuttarānaṃ` ("of the lower and the upper"). By applying "`Nāññaṃ sabbanāmikaṃ`" without its governing word, in a compound of the third form too: `māsapubbāya` ("of the one a month senior"), `māsapubbānaṃ`.[^60]
 
-|     | pubbāpara + naṃ (🚹⑥⨂)      | rule |
-| --- | --------------------------- | ---- |
-| →   | pubbāpar + (a→ā) + naṃ      | §89  |
-| →   | **pubbāparānaṃ**            |      |
-
-|     | māsapubbā + sa (🚺⑥⨀)       | rule |
-| --- | --------------------------- | ---- |
-| →   | māsapubbā + (sa→āya)        | §111 |
-| →   | māsapubb + (~~ā~~ + āya)    | §83  |
-| →   | **māsapubbāya**             |      |
-
 :::tip[Examples]
 
 | lemma | inflected | meaning |
@@ -7737,6 +7844,28 @@ After a pronoun standing in a `dvanda`, apart from the change of the inflection 
 | 🚹⑥⨂(adhara + uttara) | adharuttarānaṃ | of the lower and the upper |
 | 🚺⑥⨀(māsa + pubba) | māsapubbāya | of the woman a month senior |
 | 🚺⑥⨂(māsa + pubba) | māsapubbānaṃ | of the women a month senior |
+
+|     | pubba + apara + naṃ (🚹⑥⨂)            | rule |
+| --- | ------------------------------------- | ---- |
+| →   | pubb + (~~a~~ + a) + para + naṃ       | §12  |
+| →   | pubb + (a→ā) + para + naṃ             | §15  |
+| →   | pubbāpara + naṃ (no `saṃ`, `sānaṃ`)   | §166 |
+| →   | pubbāpar + (a→ā) + naṃ                | §89  |
+| →   | **pubbāparānaṃ**                      |      |
+
+|     | pubba + uttara + naṃ (🚹⑥⨂)           | rule |
+| --- | ------------------------------------- | ---- |
+| →   | pubb + (~~a~~ + u) + ttara + naṃ      | §12  |
+| →   | pubbuttara + naṃ (no `saṃ`, `sānaṃ`)  | §166 |
+| →   | pubbuttar + (a→ā) + naṃ               | §89  |
+| →   | **pubbuttarānaṃ**                     |      |
+
+|     | māsapubbā + sa (🚺⑥⨀)       | rule |
+| --- | --------------------------- | ---- |
+| →   | māsapubbā + sa (no `sā`)    | §166 |
+| →   | māsapubbā + (sa→āya)        | §111 |
+| →   | māsapubb + (~~ā~~ + āya)    | §83  |
+| →   | **māsapubbāya**             |      |
 
 :::
 
@@ -7768,13 +7897,6 @@ By the mention of the word `ca`, for pronouns with the sense of a direction the 
 
 A `bahubbīhi` in the sense "the [direction] that lies between the south and the east": `dakkhiṇapubbassaṃ` ("in the south-east"), `dakkhiṇapubbassā` ("of the south-east"); in the same way `uttarapubbassaṃ`, `uttarapubbassā` ("north-east") and so on.
 
-|     | dakkhiṇapubbā + smiṃ (🚺⑦⨀)     | rule |
-| --- | ------------------------------- | ---- |
-| →   | dakkhiṇapubbā + (smiṃ→saṃ)      | §179 |
-| →   | dakkhiṇapubb + (ā→a) + saṃ      | §66  |
-| →   | dakkhiṇapubba + (s) + saṃ       | §62  |
-| →   | **dakkhiṇapubbassaṃ**           |      |
-
 :::tip[Examples]
 
 | lemma | inflected | meaning |
@@ -7786,6 +7908,32 @@ A `bahubbīhi` in the sense "the [direction] that lies between the south and the
 | 🚺⑥⨀(dakkhiṇa + pubba) | dakkhiṇapubbassā | of the south-east |
 | 🚺⑦⨀(uttara + pubba) | uttarapubbassaṃ | in the north-east |
 | 🚺⑥⨀(uttara + pubba) | uttarapubbassā | of the north-east |
+
+|     | piyapubbā + sa (🚺⑥⨀)           | rule |
+| --- | ------------------------------- | ---- |
+| →   | piyapubbā + sa (no `sā`)        | §167 |
+| →   | piyapubbā + (sa→āya)            | §111 |
+| →   | piyapubb + (~~ā~~ + āya)        | §83  |
+| →   | **piyapubbāya**                 |      |
+
+|     | piyapubbā + naṃ (🚺⑥⨂)              | rule |
+| --- | ----------------------------------- | ---- |
+| →   | piyapubbā + naṃ (no `saṃ`, `sānaṃ`) | §167 |
+| →   | **piyapubbānaṃ**                    |      |
+
+|     | piyapubba + smiṃ (🚹⑦⨀)                 | rule |
+| --- | --------------------------------------- | ---- |
+| →   | piyapubba + smiṃ (not barred by §110)   | §167 |
+| →   | piyapubba + (smiṃ→e)                    | §108 |
+| →   | piyapubb + (~~a~~ + e)                  | §83  |
+| →   | **piyapubbe**                           |      |
+
+|     | dakkhiṇapubbā + smiṃ (🚺⑦⨀)     | rule |
+| --- | ------------------------------- | ---- |
+| →   | dakkhiṇapubbā + (smiṃ→saṃ)      | §179 |
+| →   | dakkhiṇapubb + (ā→a) + saṃ      | §66  |
+| →   | dakkhiṇapubba + (s) + saṃ       | §62  |
+| →   | **dakkhiṇapubbassaṃ**           |      |
 
 :::
 
@@ -7834,18 +7982,18 @@ The word `ta` differs. When we have `ta` + `si` —
 
 The `t` of `eta` and `ta`, when they are not neuter, becomes `s` when the inflection `si` (①⨀) follows: `so puriso` ("that man").[^61]
 
+:::tip[Example]
+
+| lemma | inflected | meaning |
+| ----- | --------- | ------- |
+| 🚹①⨀(ta) | so puriso | that man |
+
 |     | ta + si (🚹①⨀)        | rule |
 | --- | --------------------- | ---- |
 | →   | (t→s) + a + si        | §174 |
 | →   | sa + (si→o)           | §104 |
 | →   | s + (~~a~~ + o)       | §83  |
 | →   | **so**                |      |
-
-:::tip[Example]
-
-| lemma | inflected | meaning |
-| ----- | --------- | ------- |
-| 🚹①⨀(ta) | so puriso | that man |
 
 :::
 
@@ -7869,13 +8017,6 @@ The mention of `sabbanāma` and, from here on, the mention of `ta` continue.
 
 The `t` of the pronoun `ta` optionally becomes `n`, everywhere — in all genders: `ne`, `te`; `naṃ`, `taṃ`; `ne`, `te`; `nena`, `tena`; `nehi`, `nebhi`, `tehi`, `tebhi`.
 
-|     | ta + yo (🚹①⨂)        | rule |
-| --- | --------------------- | ---- |
-| →   | (t→n) + a + yo        | §175 |
-| →   | na + (yo→e)           | §164 |
-| →   | n + (~~a~~ + e)       | §83  |
-| →   | **ne**                |      |
-
 :::tip[Examples]
 
 | lemma | inflected | meaning |
@@ -7885,6 +8026,19 @@ The `t` of the pronoun `ta` optionally becomes `n`, everywhere — in all gender
 | 🚹②⨂(ta) | ne, te | them |
 | 🚹③⨀(ta) | nena, tena | by him |
 | 🚹③⨂(ta) | nehi, nebhi, tehi, tebhi | by them |
+
+|     | ta + yo (🚹①⨂)        | rule |
+| --- | --------------------- | ---- |
+| →   | (t→n) + a + yo        | §175 |
+| →   | na + (yo→e)           | §164 |
+| →   | n + (~~a~~ + e)       | §83  |
+| →   | **ne**                |      |
+
+|     | ta + aṃ (🚹②⨀)        | rule |
+| --- | --------------------- | ---- |
+| →   | (t→n) + a + aṃ        | §175 |
+| →   | n + (~~a~~ + aṃ)      | §83  |
+| →   | **naṃ**               |      |
 
 :::
 
@@ -7912,24 +8066,42 @@ And "`sabbassa`" and "`tassa vā sabbattha`" continue.
 
 The whole of the pronoun `ta` optionally becomes `a` before the inflections `sa`, `smā`, `smiṃ` and [the replacements] `saṃ`, `sā`, in all genders: `assa`, `nassa`, `tassa`; `nesaṃ`, `tesaṃ`, `nesānaṃ`, `tesānaṃ`.
 
-|     | ta + sa (🚹④⨀)        | rule |
-| --- | --------------------- | ---- |
-| →   | (ta→a) + sa           | §176 |
-| →   | a + (s) + sa          | §61  |
-| →   | **assa**              |      |
-
-|     | ta + naṃ (🚹④⨂)       | rule |
-| --- | --------------------- | ---- |
-| →   | t + (a→e) + naṃ       | §102 |
-| →   | te + (naṃ→saṃ)        | §168 |
-| →   | **tesaṃ**             |      |
-
 :::tip[Examples]
 
 | lemma | inflected | meaning |
 | ----- | --------- | ------- |
 | 🚹④⨀(ta) | assa, nassa, tassa | to him |
 | 🚹④⨂(ta) | nesaṃ, tesaṃ, nesānaṃ, tesānaṃ | to them |
+
+|     | ta + sa (🚹④⨀)        | rule |
+| --- | --------------------- | ---- |
+| →   | (ta→a) + sa           | §176 |
+| →   | a + (s) + sa          | §61  |
+| →   | **assa**              |      |
+
+|     | ta + sa (🚹④⨀)        | rule |
+| --- | --------------------- | ---- |
+| →   | (t→n) + a + sa        | §175 |
+| →   | na + (s) + sa         | §61  |
+| →   | **nassa**             |      |
+
+|     | ta + sa (🚹④⨀)        | rule |
+| --- | --------------------- | ---- |
+| →   | ta + (s) + sa         | §61  |
+| →   | **tassa**             |      |
+
+|     | ta + naṃ (🚹④⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | (t→n) + a + naṃ       | §175 |
+| →   | n + (a→e) + naṃ       | §102 |
+| →   | ne + (naṃ→saṃ)        | §168 |
+| →   | **nesaṃ**             |      |
+
+|     | ta + naṃ (🚹④⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | t + (a→e) + naṃ       | §102 |
+| →   | te + (naṃ→saṃ)        | §168 |
+| →   | **tesaṃ**             |      |
 
 :::
 
@@ -7950,12 +8122,6 @@ From [§99 (81): Smāhismiṃnaṃ mhābhimhi vā](/kaccayana/2-namakappa#m99) "
 > Ta ima iccetehi katākārehi paresaṃ smāsmiṃ naṃ mhā mhi iccete ādesā na honti.
 
 After `ta` and `ima` that have become `a`, the replacements `mhā` and `mhi` for `smā` and `smiṃ` do not occur.
-
-|     | ta + smā (🚹⑤⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | (ta→a) + smā          | §176 |
-| →   | a + smā (no `mhā`)    | §100 |
-| →   | **asmā**              |      |
 
 > Asmā nasmā tasmā namhā tamhā, nehi nebhi tehi tebhi, assa nassa tassa, nesaṃ tesaṃ nesānaṃ tesānaṃ, asmiṃ nasmiṃ tasmiṃ namhi tamhi, nesu tesu.
 
@@ -7980,6 +8146,18 @@ The inflection of 🚹(ta); there is no vocative:
 | 🚹⑦⨀(ta) | asmiṃ | in that (no `amhi`) |
 | 🚹⑦⨀(ta) | nasmiṃ, tasmiṃ, namhi, tamhi | in that |
 | 🚹⑦⨂(ta) | nesu, tesu | in them |
+
+|     | ta + smā (🚹⑤⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | (ta→a) + smā          | §176 |
+| →   | a + smā (no `mhā`)    | §100 |
+| →   | **asmā**              |      |
+
+|     | ta + smiṃ (🚹⑦⨀)      | rule |
+| --- | --------------------- | ---- |
+| →   | (ta→a) + smiṃ         | §176 |
+| →   | a + smiṃ (no `mhi`)   | §100 |
+| →   | **asmiṃ**             |      |
 
 :::
 
@@ -8039,51 +8217,9 @@ After those — `tā`, `etā`, `imā` — the inflection `sa` (④⨀, ⑥⨀) i
 
 The final of `tā`, used in the feminine, optionally becomes `i` before the singular replacements of inflections `saṃ` and `sā`: `tissāya`, `tassāya`, `assāya`, `nassāya`, `assā`, `nassā`, `tissā`, `tassā`, `nāya`, `tāya`; `nāsaṃ`, `tāsaṃ`.
 
-|     | tā + sa (🚺④⨀)        | rule |
-| --- | --------------------- | ---- |
-| →   | t + (ā→i) + sa        | §64  |
-| →   | ti + (sa→ssāya)       | §65  |
-| →   | **tissāya**           |      |
-
-|     | tā + sa (🚺④⨀)        | rule |
-| --- | --------------------- | ---- |
-| →   | tā + (sa→sā)          | §179 |
-| →   | t + (ā→i) + sā        | §64  |
-| →   | ti + (s) + sā         | §62  |
-| →   | **tissā**             |      |
-
-|     | tā + sa (🚺④⨀)        | rule |
-| --- | --------------------- | ---- |
-| →   | tā + (sa→sā)          | §179 |
-| →   | t + (ā→a) + sā        | §66  |
-| →   | ta + (s) + sā         | §62  |
-| →   | **tassā**             |      |
-
-|     | tā + sa (🚺④⨀)        | rule |
-| --- | --------------------- | ---- |
-| →   | tā + (sa→sā)          | §179 |
-| →   | t + (ā→a) + sā        | §66  |
-| →   | ta + (s) + sā         | §62  |
-| →   | (ta→a) + ssā          | §176 |
-| →   | **assā**              |      |
-
-|     | tā + sa (🚺④⨀)        | rule |
-| --- | --------------------- | ---- |
-| →   | (t→n) + ā + sa        | §175 |
-| →   | nā + (sa→āya)         | §111 |
-| →   | n + (~~ā~~ + āya)     | §83  |
-| →   | **nāya**              |      |
-
 > Pañcamīchaṭṭhīsu tatiyācatutthīsamaṃ. Sattamiyaṃ assaṃ nassaṃ tissaṃ tassaṃ nāyaṃ tāyaṃ, nāsu tāsu.
 
 In the fifth and sixth forms, the same as the third and fourth. In the seventh: `assaṃ`, `nassaṃ`, `tissaṃ`, `tassaṃ`, `nāyaṃ`, `tāyaṃ`; `nāsu`, `tāsu`.
-
-|     | tā + smiṃ (🚺⑦⨀)      | rule |
-| --- | --------------------- | ---- |
-| →   | tā + (smiṃ→saṃ)       | §179 |
-| →   | t + (ā→i) + saṃ       | §64  |
-| →   | ti + (s) + saṃ        | §62  |
-| →   | **tissaṃ**            |      |
 
 The inflection of 🚺(tā); there is no vocative:
 
@@ -8107,6 +8243,61 @@ The inflection of 🚺(tā); there is no vocative:
 | 🚺④⨀(ta) | nāya, tāya | to her (by §111) |
 | 🚺⑦⨀(ta) | tissaṃ, tassaṃ, assaṃ, nassaṃ | in her |
 | 🚺⑦⨀(ta) | nāyaṃ, tāyaṃ | in her (by §216) |
+
+|     | tā + sa (🚺④⨀)        | rule |
+| --- | --------------------- | ---- |
+| →   | t + (ā→i) + sa        | §64  |
+| →   | ti + (sa→ssāya)       | §65  |
+| →   | **tissāya**           |      |
+
+|     | tā + sa (🚺④⨀)        | rule |
+| --- | --------------------- | ---- |
+| →   | tā + (sa→sā)          | §179 |
+| →   | t + (ā→i) + sā        | §64  |
+| →   | ti + (s) + sā         | §62  |
+| →   | **tissā**             |      |
+
+|     | tā + sa (🚺④⨀)        | rule |
+| --- | --------------------- | ---- |
+| →   | t + (ā→a) + sa        | §66  |
+| →   | ta + (sa→ssāya)       | §65  |
+| →   | **tassāya**           |      |
+
+|     | tā + sa (🚺④⨀)        | rule |
+| --- | --------------------- | ---- |
+| →   | tā + (sa→sā)          | §179 |
+| →   | t + (ā→a) + sā        | §66  |
+| →   | ta + (s) + sā         | §62  |
+| →   | **tassā**             |      |
+
+|     | tā + sa (🚺④⨀)        | rule |
+| --- | --------------------- | ---- |
+| →   | t + (ā→a) + sa        | §66  |
+| →   | ta + (sa→ssāya)       | §65  |
+| →   | (ta→a) + ssāya        | §176 |
+| →   | **assāya**            |      |
+
+|     | tā + sa (🚺④⨀)        | rule |
+| --- | --------------------- | ---- |
+| →   | tā + (sa→sā)          | §179 |
+| →   | t + (ā→a) + sā        | §66  |
+| →   | ta + (s) + sā         | §62  |
+| →   | (ta→a) + ssā          | §176 |
+| →   | **assā**              |      |
+
+|     | tā + sa (🚺④⨀)        | rule |
+| --- | --------------------- | ---- |
+| →   | (t→n) + ā + sa        | §175 |
+| →   | nā + (sa→āya)         | §111 |
+| →   | n + (~~ā~~ + āya)     | §83  |
+| →   | **nāya**              |      |
+
+|     | tā + smiṃ (🚺⑦⨀)      | rule |
+| --- | --------------------- | ---- |
+| →   | tā + (smiṃ→saṃ)       | §179 |
+| →   | t + (ā→i) + saṃ       | §64  |
+| →   | ti + (s) + saṃ        | §62  |
+| →   | **tissaṃ**            |      |
 
 :::
 
@@ -8147,26 +8338,6 @@ But for `sa` and `smiṃ`, "`Saṃsāsvekavacanesu ca`" ([206 (§62): Saṃsāsv
 
 The sixth form is said with reference to the final: the final vowel of `etā` and `imā` becomes `i` when the singular replacements of inflections `saṃ` and `sā` follow. Because the replacement `ssāya` goes the way of `sā`, before the replacement `ssāya` too. By the governing word `ca`, also for the final of `aññā`, `ekā` and the like.
 
-|     | etā + sa (🚺④⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | et + (ā→i) + sa       | §63  |
-| →   | eti + (sa→ssāya)      | §65  |
-| →   | **etissāya**          |      |
-
-|     | etā + sa (🚺④⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | etā + (sa→sā)         | §179 |
-| →   | et + (ā→i) + sā       | §63  |
-| →   | eti + (s) + sā        | §62  |
-| →   | **etissā**            |      |
-
-|     | etā + smiṃ (🚺⑦⨀)     | rule |
-| --- | --------------------- | ---- |
-| →   | etā + (smiṃ→saṃ)      | §179 |
-| →   | et + (ā→i) + saṃ      | §63  |
-| →   | eti + (s) + saṃ       | §62  |
-| →   | **etissaṃ**           |      |
-
 > Etissāya etissā etāya, etāsaṃ etāsānaṃ, etāya, etāhi etābhi, etissāya etissā etāya, etāsaṃ etāsānaṃ, etissaṃ etāyaṃ, etāsu.
 
 The inflection of 🚺(etā); there is no vocative:
@@ -8199,6 +8370,32 @@ By the word `ca`: `aññissā`, `aññāya`; `aññissaṃ`, `aññāyaṃ` ("an
 | 🚺⑦⨀(eka) | ekissaṃ, ekāyaṃ | in one (woman) |
 | 🚺⑥⨀(itara) | itarissā, itarāya | of the other (woman) |
 | 🚺⑦⨀(itara) | itarissaṃ, itarāyaṃ | in the other (woman) |
+
+|     | etā + sa (🚺④⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | et + (ā→i) + sa       | §63  |
+| →   | eti + (sa→ssāya)      | §65  |
+| →   | **etissāya**          |      |
+
+|     | etā + sa (🚺④⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | etā + (sa→sā)         | §179 |
+| →   | et + (ā→i) + sā       | §63  |
+| →   | eti + (s) + sā        | §62  |
+| →   | **etissā**            |      |
+
+|     | etā + sa (🚺④⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | etā + (sa→āya)        | §111 |
+| →   | et + (~~ā~~ + āya)    | §83  |
+| →   | **etāya**             |      |
+
+|     | etā + smiṃ (🚺⑦⨀)     | rule |
+| --- | --------------------- | ---- |
+| →   | etā + (smiṃ→saṃ)      | §179 |
+| →   | et + (ā→i) + saṃ      | §63  |
+| →   | eti + (s) + saṃ       | §62  |
+| →   | **etissaṃ**           |      |
 
 :::
 
@@ -8236,12 +8433,6 @@ The word `ima` differs. `ima` + `si` —
 
 The whole of the word `ima`, when not neuter, is replaced by `ayaṃ` when the inflection `si` (①⨀) follows; the `si` is elided: `ayaṃ puriso` ("this man"); `ime`; `imaṃ`; `ime`.
 
-|     | ima + si (🚹①⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | (ima→ayaṃ) + si       | §172 |
-| →   | ayaṃ + ~~si~~         | §220 |
-| →   | **ayaṃ**              |      |
-
 :::tip[Examples]
 
 | lemma | inflected | meaning |
@@ -8250,6 +8441,12 @@ The whole of the word `ima`, when not neuter, is replaced by `ayaṃ` when the i
 | 🚹①⨂(ima) | ime | these |
 | 🚹②⨀(ima) | imaṃ | this |
 | 🚹②⨂(ima) | ime | these |
+
+|     | ima + si (🚹①⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | (ima→ayaṃ) + si       | §172 |
+| →   | ayaṃ + ~~si~~         | §220 |
+| →   | **ayaṃ**              |      |
 
 :::
 
@@ -8267,6 +8464,13 @@ The whole of the word `ima`, when not neuter, is replaced by `ayaṃ` when the i
 
 The whole of the word `ima` is replaced by `ana` and `imi` when the inflection `nā` (③⨀) follows. This applies only to the non-feminine: `anena`, `iminā` ("by this").
 
+:::tip[Examples]
+
+| lemma | inflected | meaning |
+| ----- | --------- | ------- |
+| 🚹③⨀(ima) | anena | by this |
+| 🚹③⨀(ima) | iminā | by this |
+
 |     | ima + nā (🚹③⨀)       | rule |
 | --- | --------------------- | ---- |
 | →   | (ima→ana) + nā        | §171 |
@@ -8278,13 +8482,6 @@ The whole of the word `ima` is replaced by `ana` and `imi` when the inflection `
 | --- | --------------------- | ---- |
 | →   | (ima→imi) + nā        | §171 |
 | →   | **iminā**             |      |
-
-:::tip[Examples]
-
-| lemma | inflected | meaning |
-| ----- | --------- | ------- |
-| 🚹③⨀(ima) | anena | by this |
-| 🚹③⨀(ima) | iminā | by this |
 
 :::
 
@@ -8315,12 +8512,19 @@ The whole of the word `ima` optionally becomes `e` when the inflections `su`, `n
 > Āppaccayantāniddesā, sabbatthāti avuttato; \
 > Anitthiliṅgassevettha, gahaṇañhi imassiti.
 
-Because no [stem] ending in the suffix `ā` is indicated, and because `sabbattha` is not said, \
+Because no [lemma] ending in the suffix `ā` is indicated, and because `sabbattha` is not said, \
 here indeed the word `ima` is taken only in the non-feminine.
 
 > Ehi ebhi imehi imebhi.
 
 `ehi`, `ebhi`, `imehi`, `imebhi` ("by these").
+
+:::tip[Examples]
+
+| lemma | inflected | meaning |
+| ----- | --------- | ------- |
+| 🚹③⨂(ima) | ehi, ebhi | by these |
+| 🚹③⨂(ima) | imehi, imebhi | by these (by §101) |
 
 |     | ima + hi (🚹③⨂)       | rule |
 | --- | --------------------- | ---- |
@@ -8329,21 +8533,14 @@ here indeed the word `ima` is taken only in the non-feminine.
 
 |     | ima + hi (🚹③⨂)       | rule |
 | --- | --------------------- | ---- |
-| →   | im + (a→e) + hi       | §101 |
-| →   | **imehi**             |      |
-
-|     | ima + hi (🚹③⨂)       | rule |
-| --- | --------------------- | ---- |
 | →   | (ima→e) + hi          | §170 |
 | →   | e + (hi→bhi)          | §99  |
 | →   | **ebhi**              |      |
 
-:::tip[Examples]
-
-| lemma | inflected | meaning |
-| ----- | --------- | ------- |
-| 🚹③⨂(ima) | ehi, ebhi | by these |
-| 🚹③⨂(ima) | imehi, imebhi | by these (by §101) |
+|     | ima + hi (🚹③⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | im + (a→e) + hi       | §101 |
+| →   | **imehi**             |      |
 
 :::
 
@@ -8364,24 +8561,6 @@ And "`sabbassa`", "`vā`", "`sabbattha`" and "`Sasmāsmiṃsaṃsāsvattaṃ`" (
 > Ima saddassa ca sabbasseva a ttaṃ hoti vā sa smā smiṃsaṃ sā iccetesu vacanesu sabbattha liṅgesu.
 
 And the whole of the word `ima` optionally becomes `a` before the inflections `sa`, `smā`, `smiṃ` and [the replacements] `saṃ`, `sā`, in all genders.
-
-|     | ima + sa (🚹④⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | (ima→a) + sa          | §177 |
-| →   | a + (s) + sa          | §61  |
-| →   | **assa**              |      |
-
-|     | ima + naṃ (🚹④⨂)      | rule |
-| --- | --------------------- | ---- |
-| →   | (ima→e) + naṃ         | §170 |
-| →   | e + (naṃ→saṃ)         | §168 |
-| →   | **esaṃ**              |      |
-
-|     | ima + naṃ (🚹④⨂)      | rule |
-| --- | --------------------- | ---- |
-| →   | im + (a→e) + naṃ      | §102 |
-| →   | ime + (naṃ→saṃ)       | §168 |
-| →   | **imesaṃ**            |      |
 
 > Assa imassa, esaṃ esānaṃ imesaṃ imesānaṃ, asmā imasmā imamhā, ehi ebhi imehi imebhi, assa imassa, esaṃ esānaṃ imesaṃ imesānaṃ, asmiṃ imasmiṃ imamhi, esu imesu.
 
@@ -8417,6 +8596,53 @@ The inflection of 🚺(imā); there is no vocative:
 | ⑥ | assāya, imissāya, assā, imissā, imāya | imāsaṃ, imāsānaṃ |
 | ⑦ | assaṃ, imissaṃ, imissā, imāyaṃ | imāsu |
 
+:::tip[Examples]
+
+| lemma | inflected | meaning |
+| ----- | --------- | ------- |
+| 🚹④⨀(ima) | assa, imassa | to this |
+| 🚹④⨂(ima) | esaṃ, esānaṃ, imesaṃ, imesānaṃ | to these |
+| 🚹⑤⨀(ima) | asmā, imasmā, imamhā | from this (no `amhā`, by 214) |
+| 🚹⑦⨀(ima) | asmiṃ, imasmiṃ, imamhi | in this (no `amhi`, by 214) |
+| 🚺①⨀(ima) | ayaṃ kaññā | this girl |
+| 🚺④⨀(ima) | assāya, imissāya, assā, imissā, imāya | to this (woman) |
+| 🚺⑦⨀(ima) | assaṃ, imissaṃ, imissā, imāyaṃ | in this (woman) |
+
+|     | ima + sa (🚹④⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | (ima→a) + sa          | §177 |
+| →   | a + (s) + sa          | §61  |
+| →   | **assa**              |      |
+
+|     | ima + sa (🚹④⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | ima + sa (no `a`)     | §177 (`vā`) |
+| →   | ima + (s) + sa        | §61  |
+| →   | **imassa**            |      |
+
+|     | ima + naṃ (🚹④⨂)      | rule |
+| --- | --------------------- | ---- |
+| →   | (ima→e) + naṃ         | §170 |
+| →   | e + (naṃ→saṃ)         | §168 |
+| →   | **esaṃ**              |      |
+
+|     | ima + naṃ (🚹④⨂)      | rule |
+| --- | --------------------- | ---- |
+| →   | im + (a→e) + naṃ      | §102 |
+| →   | ime + (naṃ→saṃ)       | §168 |
+| →   | **imesaṃ**            |      |
+
+|     | ima + smā (🚹⑤⨀)      | rule |
+| --- | --------------------- | ---- |
+| →   | (ima→a) + smā         | §177 |
+| →   | a + smā (no `mhā`)    | §100 |
+| →   | **asmā**              |      |
+
+|     | ima + smā (🚹⑤⨀)      | rule |
+| --- | --------------------- | ---- |
+| →   | ima + smā (no `a`)    | §177 (`vā`) |
+| →   | **imasmā**            |      |
+
 |     | imā + sa (🚺④⨀)       | rule |
 | --- | --------------------- | ---- |
 | →   | im + (ā→i) + sa       | §63  |
@@ -8444,18 +8670,6 @@ The inflection of 🚺(imā); there is no vocative:
 | →   | im + (ā→i) + sā       | §63  |
 | →   | imi + (s) + sā        | §62  |
 | →   | **imissā**            |      |
-
-:::tip[Examples]
-
-| lemma | inflected | meaning |
-| ----- | --------- | ------- |
-| 🚹④⨀(ima) | assa, imassa | to this |
-| 🚹④⨂(ima) | esaṃ, esānaṃ, imesaṃ, imesānaṃ | to these |
-| 🚹⑤⨀(ima) | asmā, imasmā, imamhā | from this (no `amhā`, by 214) |
-| 🚹⑦⨀(ima) | asmiṃ, imasmiṃ, imamhi | in this (no `amhi`, by 214) |
-| 🚺①⨀(ima) | ayaṃ kaññā | this girl |
-| 🚺④⨀(ima) | assāya, imissāya, assā, imissā, imāya | to this (woman) |
-| 🚺⑦⨀(ima) | assaṃ, imissaṃ, imissā, imāyaṃ | in this (woman) |
 
 :::
 
@@ -8485,17 +8699,6 @@ In the neuter, `ima` + `si`: and "`savibhattissa`" (together with its inflection
 
 The whole of the word `ima` used in the neuter, together with its inflection, optionally becomes `idaṃ` when `aṃ` (②⨀) and `si` (①⨀) follow.
 
-|     | ima + si (🚻①⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | (ima + si → idaṃ)     | §129 |
-| →   | **idaṃ**              |      |
-
-|     | ima + si (🚻①⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | ima + (si→aṃ)         | §219 |
-| →   | im + (~~a~~ + aṃ)     | §83  |
-| →   | **imaṃ**              |      |
-
 > Idaṃ cittaṃ virocati, imaṃ, imāni, idaṃ pupphaṃ passasi, imaṃ, imāni, anena iminā, ehi ebhi imehi imebhi iccādi pulliṅge viya ñeyyaṃ.
 
 `idaṃ cittaṃ virocati` ("this mind shines"), `imaṃ`; `imāni`; `idaṃ pupphaṃ passasi` ("you see this flower"), `imaṃ`; `imāni`; `anena`, `iminā`; `ehi`, `ebhi`, `imehi`, `imebhi`, and so on, to be understood as in the masculine.
@@ -8515,6 +8718,17 @@ The whole of the word `ima` used in the neuter, together with its inflection, op
 | 🚻②⨀(ima) | idaṃ pupphaṃ passasi | you see this flower |
 | 🚻②⨀(ima) | imaṃ | this |
 | 🚻①⨂(ima) | imāni | these |
+
+|     | ima + si (🚻①⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | (ima + si → idaṃ)     | §129 |
+| →   | **idaṃ**              |      |
+
+|     | ima + si (🚻①⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | ima + (si→aṃ)         | §219 |
+| →   | im + (~~a~~ + aṃ)     | §83  |
+| →   | **imaṃ**              |      |
 
 :::
 
@@ -8540,17 +8754,17 @@ And "`vā`", "`anapuṃsakassa`" and "`simhi`" continue.
 
 The `m` of the word `amu` ("that yonder"), when not neuter, optionally becomes `s` when `si` (①⨀) follows: `asu rājā` ("that king yonder").
 
-|     | amu + si (🚹①⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | a + (m→s) + u + si    | §173 |
-| →   | asu + ~~si~~          | §220 |
-| →   | **asu**               |      |
-
 :::tip[Example]
 
 | lemma | inflected | meaning |
 | ----- | --------- | ------- |
 | 🚹①⨀(amu) | asu rājā | that king yonder |
+
+|     | amu + si (🚹①⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | a + (m→s) + u + si    | §173 |
+| →   | asu + ~~si~~          | §220 |
+| →   | **asu**               |      |
 
 :::
 
@@ -8576,30 +8790,9 @@ After every pronoun the augment `ka` is optionally [inserted]. By the repeated m
 
 `asuko`, `asukā`, `asukaṃ` ("that one yonder"). Without the replacement by `s`: `amuko`, `amukā`, `amukaṃ`, and so on.
 
-|     | amu + si (🚹①⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | amu + (ka) + si       | §178 |
-| →   | a + (m→s) + uka + si  | §173 |
-| →   | asuka + (si→o)        | §104 |
-| →   | asuk + (~~a~~ + o)    | §83  |
-| →   | **asuko**             |      |
-
-|     | amu + si (🚹①⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | amu + (ka) + si       | §178 |
-| →   | amuka + (si→o)        | §104 |
-| →   | amuk + (~~a~~ + o)    | §83  |
-| →   | **amuko**             |      |
-
 > Bahuvacane ‘‘lato vokāro cā’’ti sutte anuvattamānavā ggahaṇena vo kāro na hoti, niccaṃ yo lopo, dīgho ca.
 
 In the plural, by the mention of the `vā` that continues into the sutta [§119 (155): Lato vokāro ca](/kaccayana/2-namakappa#m119), the letter `vo` does not occur; the `yo` is always elided, and lengthening.
-
-|     | amu + yo (🚹①⨂)       | rule |
-| --- | --------------------- | ---- |
-| →   | amu + ~~yo~~          | §118 |
-| →   | am + (u→ū)            | §88  |
-| →   | **amū**               |      |
 
 > Amū purisā, amuṃ, amū, amunā, amūhi amūbhi amuhi amubhi, amussa. ‘‘Amussādu’’nti vinādhikārena yogena aduṃ ādeso, adussa, amūsaṃ amūsānaṃ amusaṃ amusānaṃ, amusmā amumhā, amūhi amūbhi amuhi amubhi, amussa adussa, amūsaṃ amūsānaṃ amusaṃ amusānaṃ, amusmiṃ amumhi, amūsu amusu.
 
@@ -8616,12 +8809,6 @@ The inflection of 🚹(amu); there is no vocative:
 | ⑦ | amusmiṃ, amumhi | amūsu, amusu |
 
 By applying "`Amussāduṃ`" ([225 (§130): Amussāduṃ](/rupasiddhi/2-namakanda#r225)) without its governing word, the replacement `aduṃ`: `adussa`.
-
-|     | amu + sa (🚹④⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | (amu→adu) + sa        | §130 |
-| →   | adu + (s) + sa        | §61  |
-| →   | **adussa**            |      |
 
 > Itthiyaṃ si mhi sā desādi.
 
@@ -8641,23 +8828,6 @@ The inflection of 🚺(amu); there is no vocative:
 | ⑥ | amussā, amuyā | amūsaṃ, amūsānaṃ |
 | ⑦ | amussaṃ, amuyaṃ, amuyā | amūsu |
 
-|     | amu + sa (🚺④⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | amu + (sa→sā)         | §179 |
-| →   | amu + (s) + sā        | §62  |
-| →   | **amussā**            |      |
-
-|     | amu + smiṃ (🚺⑦⨀)     | rule |
-| --- | --------------------- | ---- |
-| →   | amu + (smiṃ→saṃ)      | §179 |
-| →   | amu + (s) + saṃ       | §62  |
-| →   | **amussaṃ**           |      |
-
-|     | amu + sa (🚺④⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | amu + (sa→yā)         | §112 |
-| →   | **amuyā**             |      |
-
 :::tip[Examples]
 
 | lemma | inflected | meaning |
@@ -8671,6 +8841,67 @@ The inflection of 🚺(amu); there is no vocative:
 | 🚹④⨂(amu) | amūsaṃ, amūsānaṃ, amusaṃ, amusānaṃ | to those yonder |
 | 🚺④⨀(amu) | amussā, amuyā | to that (woman) yonder |
 | 🚺⑦⨀(amu) | amussaṃ, amuyaṃ, amuyā | in that (woman) yonder |
+
+|     | amu + si (🚹①⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | amu + (ka) + si       | §178 |
+| →   | a + (m→s) + uka + si  | §173 |
+| →   | asuka + (si→o)        | §104 |
+| →   | asuk + (~~a~~ + o)    | §83  |
+| →   | **asuko**             |      |
+
+|     | amu + si (🚹①⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | amu + (ka) + si       | §178 |
+| →   | amuka + (si→o)        | §104 |
+| →   | amuk + (~~a~~ + o)    | §83  |
+| →   | **amuko**             |      |
+
+|     | amu + si (🚺①⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | amu + (ka) + si       | §178 |
+| →   | a + (m→s) + uka + si  | §173 (or, without it, `amukā`) |
+| →   | asuka + (ā) + si      | §237 |
+| →   | asuk + (~~a~~ + ā) + si | §83 |
+| →   | asukā + ~~si~~        | §220 |
+| →   | **asukā**             |      |
+
+|     | amu + si (🚻①⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | amu + (ka) + si       | §178 |
+| →   | a + (m→s) + uka + si  | §173 (or, without it, `amukaṃ`) |
+| →   | asuka + (si→aṃ)       | §219 |
+| →   | asuk + (~~a~~ + aṃ)   | §83  |
+| →   | **asukaṃ**            |      |
+
+|     | amu + yo (🚹①⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | amu + ~~yo~~          | §118 |
+| →   | am + (u→ū)            | §88  |
+| →   | **amū**               |      |
+
+|     | amu + sa (🚹④⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | (amu→adu) + sa        | §130 |
+| →   | adu + (s) + sa        | §61  |
+| →   | **adussa**            |      |
+
+|     | amu + sa (🚺④⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | amu + (sa→sā)         | §179 |
+| →   | amu + (s) + sā        | §62  |
+| →   | **amussā**            |      |
+
+|     | amu + sa (🚺④⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | amu + (sa→yā)         | §112 |
+| →   | **amuyā**             |      |
+
+|     | amu + smiṃ (🚺⑦⨀)     | rule |
+| --- | --------------------- | ---- |
+| →   | amu + (smiṃ→saṃ)      | §179 |
+| →   | amu + (s) + saṃ       | §62  |
+| →   | **amussaṃ**           |      |
 
 :::
 
@@ -8694,11 +8925,6 @@ In the neuter, `amu` + `si`: "`savibhattissa`" and, from [222 (§129): Imassidam
 
 The whole of the word `amu` used in the neuter, together with its inflection, becomes `aduṃ` when `aṃ` (②⨀) and `si` (①⨀) follow: `aduṃ pupphaṃ` ("that flower yonder"); `amū`, `amūni`; `aduṃ`; `amū`, `amūni`; `amunā`, and so on, the same as the masculine.
 
-|     | amu + si (🚻①⨀)       | rule |
-| --- | --------------------- | ---- |
-| →   | (amu + si → aduṃ)     | §130 |
-| →   | **aduṃ**              |      |
-
 | | ⨀ | ⨂ |
 | --- | --- | --- |
 | ① | aduṃ | amū, amūni |
@@ -8712,6 +8938,23 @@ The whole of the word `amu` used in the neuter, together with its inflection, be
 | 🚻①⨀(amu) | aduṃ pupphaṃ | that flower yonder |
 | 🚻①⨂(amu) | amū, amūni | those (things) yonder |
 | 🚻②⨀(amu) | aduṃ | that (thing) yonder |
+
+|     | amu + si (🚻①⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | (amu + si → aduṃ)     | §130 |
+| →   | **aduṃ**              |      |
+
+|     | amu + yo (🚻①⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | amu + ~~yo~~          | §118 |
+| →   | am + (u→ū)            | §88  |
+| →   | **amū**               |      |
+
+|     | amu + yo (🚻①⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | amu + (yo→ni)         | §217 |
+| →   | am + (u→ū) + ni       | §88  |
+| →   | **amūni**             |      |
 
 :::
 
@@ -8737,6 +8980,48 @@ From [270 (§227): Kissa ka ve ca](/rupasiddhi/2-namakanda#r270) "`kissa`" (of `
 
 The word `ka` is the replacement of `kiṃ` in the remaining kinds of inflection, other than the suffix `va`.[^66] And here, since by the word `ca` in the sutta [§227 (270): Kissa ka ve ca](/kaccayana/2-namakappa#m227) the suffixes other than `va` — `thaṃ` and the rest — are taken, by the mention of `sesa` ("the remaining") only the inflections are taken. The mention of `ca` is for cancelling in some places; hence `kissa`, `kismiṃ` and the like are also established. By [66 (§104): So](/rupasiddhi/2-namakanda#r66) the `si` becomes `o`; elision of the vowel and the rest.
 
+> Ko eso, ke, kaṃ, ke, kena, kehi kebhi, kassa kissa, niggahītalopādi, kesaṃ kesānaṃ, kasmā kamhā, kehi kebhi, kassa kissa, kesaṃ kesānaṃ, kasmiṃ kismiṃ kamhi kimhi, kesu.
+
+The inflection of 🚹(kiṃ); there is no vocative. In `kissa`, elision of the niggahīta and the rest:
+
+| | ⨀ | ⨂ |
+| --- | --- | --- |
+| ① | ko eso | ke |
+| ② | kaṃ | ke |
+| ③ | kena | kehi, kebhi |
+| ④ | kassa, kissa | kesaṃ, kesānaṃ |
+| ⑤ | kasmā, kamhā | kehi, kebhi |
+| ⑥ | kassa, kissa | kesaṃ, kesānaṃ |
+| ⑦ | kasmiṃ, kismiṃ, kamhi, kimhi | kesu |
+
+> Itthiyaṃ ‘‘kiṃ si’’itīdha ‘‘sesesu cā’’ti vibhattiyaṃ parāyaṃ kā dese kate ‘‘itthiyamato āppaccayo’’ti majjhe ā ppaccayo, si lopo.
+
+In the feminine, when we have `kiṃ` + `si`: once the replacement `ka` has been made by "`Sesesu ca`" with the inflection following, the suffix `ā` [is added] in the middle by [§237 (176): Itthīyamato āpaccayo](/kaccayana/2-namakappa#m237); `si` is elided.
+
+> Kā esā kaññā, kā kāyo, kaṃ, kā kāyo iccādi sabbā saddasamaṃ.
+
+`kā esā kaññā` ("who is this girl?"); `kā`, `kāyo`; `kaṃ`; `kā`, `kāyo`, and so on, the same as the word `sabbā`.
+
+> Napuṃsake kiṃ si, lopavidhissa balavatarattā paṭhamaṃ si lope kate puna vibhattiparattābhāvā, ‘‘tadanuparodhenā’’ti paribhāsato vā kā desābhāvo. Kiṃ etaṃ, kāni.
+
+In the neuter, `kiṃ` + `si`: because the rule of elision is the stronger, the `si` is elided first, and then, as no inflection follows, there is no replacement by `ka` — or there is none by the `paribhāsā` [§56 (64): Tadanuparodhena](/kaccayana/2-namakappa#m56): `kiṃ etaṃ` ("what is this?"); `kāni`.
+
+> Dutiyekavacane ‘‘kvaci lopa’’nti niggahītalope kate ‘‘aṃmo niggahītaṃ jhalapehī’’ti niggahītaṃ. Kiṃ, kāni iccādi pulliṅgasamaṃ.
+
+In the second form singular, once the niggahīta has been elided by [§38 (53): Kvaci lopaṃ](/kaccayana/1-sandhikappa#m38), the niggahīta by [§82 (149): Aṃmo niggahitaṃ jhalapehi](/kaccayana/2-namakappa#m82): `kiṃ`; `kāni`, and so on, the same as the masculine.
+
+:::tip[Examples]
+
+| lemma | inflected | meaning |
+| ----- | --------- | ------- |
+| 🚹①⨀(kiṃ) | ko eso | who is this? |
+| 🚹④⨀(kiṃ) | kassa, kissa | to whom? |
+| 🚹⑦⨀(kiṃ) | kasmiṃ, kismiṃ, kamhi, kimhi | in what? |
+| 🚺①⨀(kiṃ) | kā esā kaññā | who is this girl? |
+| 🚻①⨀(kiṃ) | kiṃ etaṃ | what is this? |
+| 🚻②⨀(kiṃ) | kiṃ | what? |
+| 🚻①⨂(kiṃ) | kāni | which (things)? |
+
 |     | kiṃ + si (🚹①⨀)       | rule |
 | --- | --------------------- | ---- |
 | →   | (kiṃ→ka) + si         | §229 |
@@ -8757,23 +9042,16 @@ The word `ka` is the replacement of `kiṃ` in the remaining kinds of inflection
 | →   | ki + (s) + sa         | §61  |
 | →   | **kissa**             |      |
 
-> Ko eso, ke, kaṃ, ke, kena, kehi kebhi, kassa kissa, niggahītalopādi, kesaṃ kesānaṃ, kasmā kamhā, kehi kebhi, kassa kissa, kesaṃ kesānaṃ, kasmiṃ kismiṃ kamhi kimhi, kesu.
+|     | kiṃ + smiṃ (🚹⑦⨀)     | rule |
+| --- | --------------------- | ---- |
+| →   | (kiṃ→ka) + smiṃ       | §229 |
+| →   | **kasmiṃ**            |      |
 
-The inflection of 🚹(kiṃ); there is no vocative. In `kissa`, elision of the niggahīta and the rest:
-
-| | ⨀ | ⨂ |
-| --- | --- | --- |
-| ① | ko eso | ke |
-| ② | kaṃ | ke |
-| ③ | kena | kehi, kebhi |
-| ④ | kassa, kissa | kesaṃ, kesānaṃ |
-| ⑤ | kasmā, kamhā | kehi, kebhi |
-| ⑥ | kassa, kissa | kesaṃ, kesānaṃ |
-| ⑦ | kasmiṃ, kismiṃ, kamhi, kimhi | kesu |
-
-> Itthiyaṃ ‘‘kiṃ si’’itīdha ‘‘sesesu cā’’ti vibhattiyaṃ parāyaṃ kā dese kate ‘‘itthiyamato āppaccayo’’ti majjhe ā ppaccayo, si lopo.
-
-In the feminine, when we have `kiṃ` + `si`: once the replacement `ka` has been made by "`Sesesu ca`" with the inflection following, the suffix `ā` [is added] in the middle by [§237 (176): Itthīyamato āpaccayo](/kaccayana/2-namakappa#m237); `si` is elided.
+|     | kiṃ + smiṃ (🚹⑦⨀)     | rule |
+| --- | --------------------- | ---- |
+| →   | kiṃ + smiṃ (no `ka`)  | §229 (`ca`) |
+| →   | ki + ~~ṃ~~ + smiṃ     | §38  |
+| →   | **kismiṃ**            |      |
 
 |     | kiṃ + si (🚺①⨀)       | rule |
 | --- | --------------------- | ---- |
@@ -8783,35 +9061,16 @@ In the feminine, when we have `kiṃ` + `si`: once the replacement `ka` has been
 | →   | kā + ~~si~~           | §220 |
 | →   | **kā**                |      |
 
-> Kā esā kaññā, kā kāyo, kaṃ, kā kāyo iccādi sabbā saddasamaṃ.
-
-`kā esā kaññā` ("who is this girl?"); `kā`, `kāyo`; `kaṃ`; `kā`, `kāyo`, and so on, the same as the word `sabbā`.
-
-> Napuṃsake kiṃ si, lopavidhissa balavatarattā paṭhamaṃ si lope kate puna vibhattiparattābhāvā, ‘‘tadanuparodhenā’’ti paribhāsato vā kā desābhāvo. Kiṃ etaṃ, kāni.
-
-In the neuter, `kiṃ` + `si`: because the rule of elision is the stronger, the `si` is elided first, and then, as no inflection follows, there is no replacement by `ka` — or there is none by the `paribhāsā` [§56 (64): Tadanuparodhena](/kaccayana/2-namakappa#m56): `kiṃ etaṃ` ("what is this?"); `kāni`.
-
-> Dutiyekavacane ‘‘kvaci lopa’’nti niggahītalope kate ‘‘aṃmo niggahītaṃ jhalapehī’’ti niggahītaṃ. Kiṃ, kāni iccādi pulliṅgasamaṃ.
-
-In the second form singular, once the niggahīta has been elided by [§38 (53): Kvaci lopaṃ](/kaccayana/1-sandhikappa#m38), the niggahīta by [§82 (149): Aṃmo niggahitaṃ jhalapehi](/kaccayana/2-namakappa#m82): `kiṃ`; `kāni`, and so on, the same as the masculine.
+|     | kiṃ + si (🚻①⨀)       | rule |
+| --- | --------------------- | ---- |
+| →   | kiṃ + ~~si~~ (elided first, as the stronger rule: no `ka`) | §220 |
+| →   | **kiṃ**               |      |
 
 |     | kiṃ + aṃ (🚻②⨀)       | rule |
 | --- | --------------------- | ---- |
 | →   | ki + ~~ṃ~~ + aṃ       | §38  |
 | →   | ki + (aṃ→ṃ)           | §82  |
 | →   | **kiṃ**               |      |
-
-:::tip[Examples]
-
-| lemma | inflected | meaning |
-| ----- | --------- | ------- |
-| 🚹①⨀(kiṃ) | ko eso | who is this? |
-| 🚹④⨀(kiṃ) | kassa, kissa | to whom? |
-| 🚹⑦⨀(kiṃ) | kasmiṃ, kismiṃ, kamhi, kimhi | in what? |
-| 🚺①⨀(kiṃ) | kā esā kaññā | who is this girl? |
-| 🚻①⨀(kiṃ) | kiṃ etaṃ | what is this? |
-| 🚻②⨀(kiṃ) | kiṃ | what? |
-| 🚻①⨂(kiṃ) | kāni | which (things)? |
 
 :::
 
@@ -8857,12 +9116,6 @@ When we have `ubha` + `yo`, by the mention of `tu` in [§205 (160): Tato yonamo 
 
 After `ubha` and the like, the inflection `naṃ` (④⨂, ⑥⨂) becomes `innaṃ`.
 
-|     | ubha + naṃ (🚹④⨂)      | rule |
-| --- | ---------------------- | ---- |
-| →   | ubha + (naṃ→innaṃ)     | §86  |
-| →   | ubh + (~~a~~ + innaṃ)  | §83  |
-| →   | **ubhinnaṃ**           |      |
-
 > Ubhinnaṃ, ubhohi ubhobhi ubhehi ubhebhi, ubhinnaṃ, ubhosu ubhesu.
 
 The inflection of ⚧️(ubha), plural only:
@@ -8883,6 +9136,18 @@ The inflection of ⚧️(ubha), plural only:
 | ----- | --------- | ------- |
 | ⚧️④⨂(ubha) | ubhinnaṃ | to both |
 | ⚧️⑦⨂(ubha) | ubhosu, ubhesu | in both |
+
+|     | ubha + naṃ (🚹④⨂)      | rule |
+| --- | ---------------------- | ---- |
+| →   | ubha + (naṃ→innaṃ)     | §86  |
+| →   | ubh + (~~a~~ + innaṃ)  | §83  |
+| →   | **ubhinnaṃ**           |      |
+
+|     | ubha + su (⚧️⑦⨂)      | rule |
+| --- | --------------------- | ---- |
+| →   | ubh + (a→e) + su      | §101 |
+| →   | ubh + (e→o) + su      | §404 (or, without it, `ubhesu`) |
+| →   | **ubhosu**            |      |
 
 :::
 
@@ -8908,16 +9173,6 @@ When we have `dvi` + `yo`, "`savibhattissa`" (together with its inflection) and 
 
 The numeral `dvi` ("two"), used in the feminine, masculine and neuter, together with its inflection, is replaced by `dve` when the `yo` inflections follow. By the word `ca`, `duve` too; and in some places `duvi` before `naṃ`. The plural wording is to make known that after the word `dvi` there is the plural only. `dve dhammā` ("two things"), `dve itthiyo` ("two women"), `dve rūpāni` ("two forms"), or `duve`; likewise in the second form too; `dvīhi`, `dvībhi`.
 
-|     | dvi + yo (⚧️①⨂)       | rule |
-| --- | --------------------- | ---- |
-| →   | (dvi + yo → dve)      | §132 |
-| →   | **dve**               |      |
-
-|     | dvi + hi (⚧️③⨂)       | rule |
-| --- | --------------------- | ---- |
-| →   | dv + (i→ī) + hi       | §89  |
-| →   | **dvīhi**             |      |
-
 :::tip[Examples]
 
 | lemma | inflected | meaning |
@@ -8927,6 +9182,21 @@ The numeral `dvi` ("two"), used in the feminine, masculine and neuter, together 
 | ⚧️①⨂(dvi) | dve rūpāni | two forms |
 | ⚧️①⨂(dvi) | duve | two (by the `ca`) |
 | ⚧️③⨂(dvi) | dvīhi, dvībhi | by two |
+
+|     | dvi + yo (⚧️①⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | (dvi + yo → dve)      | §132 |
+| →   | **dve**               |      |
+
+|     | dvi + yo (⚧️①⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | (dvi + yo → duve)     | §132 (`ca`) |
+| →   | **duve**              |      |
+
+|     | dvi + hi (⚧️③⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | dv + (i→ī) + hi       | §89  |
+| →   | **dvīhi**             |      |
 
 :::
 
@@ -8948,17 +9218,6 @@ Before `naṃ`, when the lengthening would apply —
 
 After the numerals `dvi` and the rest, the augment `n` [is inserted] when the inflection `naṃ` follows. By the mention of the word `ca`, in the feminine the augment `ssa` too [is inserted] after the words `ti` and `catu` when the inflection `naṃ` follows. `dvinnaṃ`, or `duvinnaṃ`; `dvīhi`, `dvībhi`; `dvinnaṃ`, `duvinnaṃ`; `dvīsu`.
 
-|     | dvi + naṃ (⚧️④⨂)      | rule |
-| --- | --------------------- | ---- |
-| →   | dvi + (n) + naṃ       | §67  |
-| →   | **dvinnaṃ**           |      |
-
-|     | dvi + naṃ (⚧️④⨂)      | rule |
-| --- | --------------------- | ---- |
-| →   | (dvi→duvi) + naṃ      | §132 (`ca`, `kvaci`) |
-| →   | duvi + (n) + naṃ      | §67  |
-| →   | **duvinnaṃ**          |      |
-
 The inflection of ⚧️(dvi), plural only:
 
 | | ⨂ |
@@ -8977,6 +9236,22 @@ The inflection of ⚧️(dvi), plural only:
 | ----- | --------- | ------- |
 | ⚧️④⨂(dvi) | dvinnaṃ, duvinnaṃ | to two |
 | ⚧️⑦⨂(dvi) | dvīsu | in two |
+
+|     | dvi + naṃ (⚧️④⨂)      | rule |
+| --- | --------------------- | ---- |
+| →   | dvi + (n) + naṃ       | §67  |
+| →   | **dvinnaṃ**           |      |
+
+|     | dvi + naṃ (⚧️④⨂)      | rule |
+| --- | --------------------- | ---- |
+| →   | (dvi→duvi) + naṃ      | §132 (`ca`, `kvaci`) |
+| →   | duvi + (n) + naṃ      | §67  |
+| →   | **duvinnaṃ**          |      |
+
+|     | dvi + su (⚧️⑦⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | dv + (i→ī) + su       | §89  |
+| →   | **dvīsu**             |      |
 
 :::
 
@@ -9006,11 +9281,6 @@ when the elision of `yo` would apply —
 
 The numerals `ti` ("three") and `catu` ("four"), used in the feminine, masculine and neuter, together with their inflection, are replaced respectively by `tisso`, `catasso` [feminine], `tayo`, `cattāro` [masculine], `tīṇi`, `cattāri` [neuter] when the `yo` inflections follow: `tayo purisā` ("three men"), `tayo purise passa` ("see the three men"); `tīhi`, `tībhi`.
 
-|     | ti + yo (🚹①⨂)        | rule |
-| --- | --------------------- | ---- |
-| →   | (ti + yo → tayo)      | §133 |
-| →   | **tayo**              |      |
-
 :::tip[Examples]
 
 | lemma | inflected | meaning |
@@ -9018,6 +9288,16 @@ The numerals `ti` ("three") and `catu` ("four"), used in the feminine, masculine
 | 🚹①⨂(ti) | tayo purisā | three men |
 | 🚹②⨂(ti) | tayo purise passa | see the three men |
 | ⚧️③⨂(ti) | tīhi, tībhi | by three |
+
+|     | ti + yo (🚹①⨂)        | rule |
+| --- | --------------------- | ---- |
+| →   | (ti + yo → tayo)      | §133 |
+| →   | **tayo**              |      |
+
+|     | ti + hi (⚧️③⨂)        | rule |
+| --- | --------------------- | ---- |
+| →   | t + (i→ī) + hi        | §89  |
+| →   | **tīhi**              |      |
 
 :::
 
@@ -9039,21 +9319,9 @@ The numerals `ti` ("three") and `catu` ("four"), used in the feminine, masculine
 
 After the numeral `ti`, the inflection `naṃ` is replaced by `iṇṇaṃ` and `iṇṇannaṃ`; elision of the vowel and the rest: `tiṇṇaṃ`, `tiṇṇannaṃ`; `tīhi`, `tībhi`; `tiṇṇaṃ`, `tiṇṇannaṃ`; `tīsu`.
 
-|     | ti + naṃ (🚹④⨂)       | rule |
-| --- | --------------------- | ---- |
-| →   | ti + (naṃ→iṇṇaṃ)      | §87  |
-| →   | t + (~~i~~ + iṇṇaṃ)   | §83  |
-| →   | **tiṇṇaṃ**            |      |
-
 > Itthiyaṃ tisso itthiyo, tisso, tīhi tībhi, naṃ mhi ssa ñcāgamo, tissannaṃ, ssaṃ byavadhānato iṇṇā bhāvo, sesaṃ samaṃ.
 
 In the feminine: `tisso itthiyo` ("three women"); `tisso`; `tīhi`, `tībhi`; before `naṃ` the augment `ssa` too: `tissannaṃ` — because of the intervening `ssa` there is no `iṇṇaṃ`; the rest is the same.
-
-|     | ti + naṃ (🚺④⨂)       | rule |
-| --- | --------------------- | ---- |
-| →   | ti + (ssa) + naṃ      | §67 (`ca`) |
-| →   | tissa + (n) + naṃ     | §67  |
-| →   | **tissannaṃ**         |      |
 
 > Napuṃsake tīṇi, tīṇi. Sesaṃ pulliṅgasamaṃ.
 
@@ -9075,27 +9343,9 @@ The inflection of `ti` in the three genders, plural only:
 
 Likewise for the word `catu` too, before `yo` the replacement as stated by [230 (§133): Ti catunnaṃ tisso catasso tayocattārotīṇi cattāri](/rupasiddhi/2-namakanda#r230) and the rest; and by the word `tu` in [§205 (160): Tato yonamo tu](/kaccayana/2-namakappa#m205), `o` in some places (`kvaci`): `cattāro`, or `caturo`; `cattāro`, `caturo`; `catūhi`, `catūbhi`, `catubbhi`; `catunnaṃ` — the augment `n`; `catūhi`, `catūbhi`, `catubbhi`; `catunnaṃ`; `catūsu`.
 
-|     | catu + yo (🚹①⨂)      | rule |
-| --- | --------------------- | ---- |
-| →   | catu + (yo→o)         | §205 |
-| →   | catu + (r) + o        | (the `r` is not accounted for) |
-| →   | **caturo**            |      |
-
-|     | catu + naṃ (🚹④⨂)     | rule |
-| --- | --------------------- | ---- |
-| →   | catu + (n) + naṃ      | §67  |
-| →   | **catunnaṃ**          |      |
-
 > Itthiyaṃ catasso, catasso, naṃ mhi ssa ñcāgamo, ‘‘tesu vuddhī’’tiādinā caturukārassa a kāro. Catassannaṃ. Sesaṃ samaṃ.
 
 In the feminine: `catasso`; `catasso`; before `naṃ` the augment `ssa` too, and by [§404 (370): Tesu vuddhilopāgamavikāraviparītādesā ca](/kaccayana/5-taddhitakappa#m404) and the rest the `u` of `catu` becomes `a`: `catassannaṃ`. The rest is the same.
-
-|     | catu + naṃ (🚺④⨂)     | rule |
-| --- | --------------------- | ---- |
-| →   | catu + (ssa) + naṃ    | §67 (`ca`) |
-| →   | catussa + (n) + naṃ   | §67  |
-| →   | cat + (u→a) + ssannaṃ | §404 |
-| →   | **catassannaṃ**       |      |
 
 > Napuṃsake cattāri, cattāri. Sesaṃ pulliṅgasamaṃ.
 
@@ -9126,6 +9376,57 @@ The inflection of `catu` in the three genders, plural only:
 | 🚺①⨂(catu) | catasso | four (women) |
 | 🚺④⨂(catu) | catassannaṃ | to four (women) |
 | 🚻①⨂(catu) | cattāri | four (things) |
+
+|     | ti + naṃ (🚹④⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | ti + (naṃ→iṇṇaṃ)      | §87  |
+| →   | t + (~~i~~ + iṇṇaṃ)   | §83  |
+| →   | **tiṇṇaṃ**            |      |
+
+|     | ti + naṃ (🚹④⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | ti + (naṃ→iṇṇannaṃ)   | §87  |
+| →   | t + (~~i~~ + iṇṇannaṃ) | §83 |
+| →   | **tiṇṇannaṃ**         |      |
+
+|     | ti + yo (🚺①⨂)        | rule |
+| --- | --------------------- | ---- |
+| →   | (ti + yo → tisso)     | §133 |
+| →   | **tisso**             |      |
+
+|     | ti + naṃ (🚺④⨂)       | rule |
+| --- | --------------------- | ---- |
+| →   | ti + (ssa) + naṃ      | §67 (`ca`) |
+| →   | tissa + (n) + naṃ     | §67  |
+| →   | **tissannaṃ**         |      |
+
+|     | ti + yo (🚻①⨂)        | rule |
+| --- | --------------------- | ---- |
+| →   | (ti + yo → tīṇi)      | §133 |
+| →   | **tīṇi**              |      |
+
+|     | catu + yo (🚹①⨂)      | rule |
+| --- | --------------------- | ---- |
+| →   | (catu + yo → cattāro) | §133 |
+| →   | **cattāro**           |      |
+
+|     | catu + yo (🚹①⨂)      | rule |
+| --- | --------------------- | ---- |
+| →   | catu + (yo→o)         | §205 |
+| →   | catu + (r) + o        | (the `r` is not accounted for) |
+| →   | **caturo**            |      |
+
+|     | catu + naṃ (🚹④⨂)     | rule |
+| --- | --------------------- | ---- |
+| →   | catu + (n) + naṃ      | §67  |
+| →   | **catunnaṃ**          |      |
+
+|     | catu + naṃ (🚺④⨂)     | rule |
+| --- | --------------------- | ---- |
+| →   | catu + (ssa) + naṃ    | §67 (`ca`) |
+| →   | catussa + (n) + naṃ   | §67  |
+| →   | cat + (u→a) + ssannaṃ | §404 |
+| →   | **catassannaṃ**       |      |
 
 :::
 
@@ -10741,7 +11042,7 @@ In the sense of `purisasmā` ("from the man") or `purisehi` ("from the men") —
 
 > Sabbasmā suddhanāmato, sabbanāmato ca liṅgamhā kvaci to paccayo hoti pañcamyatthe.
 
-After every stem, whether a plain noun (`suddhanāma`) or a pronoun (`sabbanāma`), the suffix `to` is used in some places (`kvaci`) in the sense of the fifth form ⑤.
+After every lemma, whether a plain noun (`suddhanāma`) or a pronoun (`sabbanāma`), the suffix `to` is used in some places (`kvaci`) in the sense of the fifth form ⑤.
 
 :::tip[Example]
 
@@ -11150,6 +11451,11 @@ After `sabba` the suffix `dhi` is used, in some places (`kvaci`), in the sense o
 | ----- | --------- | ------- |
 | ⚧️⑦⨀(sabba + dhi) | sabbadhi | everywhere, in every respect |
 
+|     | sabba + dhi                   | rule |
+| --- | ----------------------------- | ---- |
+| →   | sabba + dhi                   | §250 |
+| →   | **sabbadhi**                  |      |
+
 > `sucetaso sabbadhi vippamutto` \
 > [(12S1 1.1.9: Mānakāmasutta)](https://tipitaka2500.github.io/tipitaka/12S1/1/1.1/1.1.9#30) \
 🚹①⨀(sucetasa) ⚧️⑦⨀(sabba + dhi) 🚹①⨀(vippamutta) \
@@ -11177,7 +11483,11 @@ After `kiṃ` the suffix `va` is used, in some places, in the sense of the seven
 | ----- | --------- | ------- |
 | ⚧️⑦⨀(kiṃ + va) | kva | where? |
 
-The form is derived under [270 (§227): Kissa ka ve ca](/rupasiddhi/2-namakanda#r270).
+|     | kiṃ + va                      | rule |
+| --- | ----------------------------- | ---- |
+| →   | (kiṃ → ka) + va               | §227 |
+| →   | k + (~~a~~ + va)              | §404 |
+| →   | **kva**                       |      |
 
 :::
 
@@ -11242,7 +11552,20 @@ After `kiṃ` the suffixes `hiṃ`, `haṃ` and `hiñcanaṃ` are used, in some 
 | ⚧️⑦⨀(kiṃ + haṃ) | kuhaṃ | where? |
 | ⚧️⑦⨀(kiṃ + hiñcanaṃ) | kuhiñcanaṃ | anywhere |
 
-The forms are derived under [272 (§228): Ku hiṃhaṃsu ca](/rupasiddhi/2-namakanda#r272).
+|     | kiṃ + hiṃ                     | rule |
+| --- | ----------------------------- | ---- |
+| →   | (kiṃ → ku) + hiṃ              | §228 |
+| →   | **kuhiṃ**                     |      |
+
+|     | kiṃ + haṃ                     | rule |
+| --- | ----------------------------- | ---- |
+| →   | (kiṃ → ku) + haṃ              | §228 |
+| →   | **kuhaṃ**                     |      |
+
+|     | kiṃ + hiñcanaṃ                | rule |
+| --- | ----------------------------- | ---- |
+| →   | (kiṃ → ku) + hiñcanaṃ         | §228 (`ca`) |
+| →   | **kuhiñcanaṃ**                |      |
 
 :::
 
@@ -11315,6 +11638,16 @@ And after the pronoun `ta` the suffixes `hiṃ` and `haṃ` are used, in some pl
 | ⚧️⑦⨀(ta + hiṃ) | tahiṃ | there |
 | ⚧️⑦⨀(ta + haṃ) | tahaṃ | there |
 
+|     | ta + hiṃ                      | rule |
+| --- | ----------------------------- | ---- |
+| →   | ta + hiṃ                      | §253 |
+| →   | **tahiṃ**                     |      |
+
+|     | ta + haṃ                      | rule |
+| --- | ----------------------------- | ---- |
+| →   | ta + haṃ                      | §253 |
+| →   | **tahaṃ**                     |      |
+
 > `santhatāni tahaṃ tahaṃ ujjhitāni` \
 > [(1V 1.4.2.5: Nisīdanasanthatasikkhāpada)](https://tipitaka2500.github.io/tipitaka/1V/1/1.4/1.4.2/1.4.2.5#2163) \
 🚻①⨂(santhata) ⚧️⑦⨀(ta + haṃ) ⚧️⑦⨀(ta + haṃ) 🚻①⨂(ujjhita) \
@@ -11374,6 +11707,11 @@ After the pronoun `ya` the suffix `hiṃ` is used, in some places, in the sense 
 | lemma | inflected | meaning |
 | ----- | --------- | ------- |
 | ⚧️⑦⨀(ya + hiṃ) | yahiṃ | where, wherever |
+
+|     | ya + hiṃ                      | rule |
+| --- | ----------------------------- | ---- |
+| →   | ya + hiṃ                      | §255 |
+| →   | **yahiṃ**                     |      |
 
 > `yattha vā brahmā yena vā brahmā yahiṃ vā brahmā` \
 > [(6D 11.4: Bhūtanirodhesakabhikkhuvatthu)](https://tipitaka2500.github.io/tipitaka/6D/11/11.4#851) \
@@ -11501,6 +11839,16 @@ After the pronoun `ta` the suffixes `dāni` and `dā` are used, in some places, 
 | ----- | --------- | ------- |
 | ⚧️⑦⨀(ta + dāni) | tadāni | then, at that time |
 | ⚧️⑦⨀(ta + dā) | tadā | then |
+
+|     | ta + dāni                     | rule |
+| --- | ----------------------------- | ---- |
+| →   | ta + dāni                     | §258 |
+| →   | **tadāni**                    |      |
+
+|     | ta + dā                       | rule |
+| --- | ----------------------------- | ---- |
+| →   | ta + dā                       | §258 |
+| →   | **tadā**                      |      |
 
 > `yadā sakkosi tadā` \
 > [(1V 1.1.2: Dutiyapārājikasikkhāpada)](https://tipitaka2500.github.io/tipitaka/1V/1/1.1/1.1.2#267) \
@@ -11952,7 +12300,7 @@ range over many meanings, not one alone" — so the etymologists (`neruttika`) h
 
 > Tattha upasaggānaṃ nāmākhyātavisesakattā liṅgasaññāyaṃ aniyamena syādimhi sampatte tesaṃ saṅkhyākammādibhedābhāvā tehi paṭhamekavacanameva bhavati.
 
-Among these, since the prefixes qualify nouns and verbs, they receive the name `liṅga` (stem); and when the inflections `si` and the rest would be added to them without restriction[^84], then, because they have no distinctions of number or of object and the rest, only the first form singular is used after them.
+Among these, since the prefixes qualify nouns and verbs, they receive the name `liṅga` (lemma); and when the inflections `si` and the rest would be added to them without restriction[^84], then, because they have no distinctions of number or of object and the rest, only the first form singular is used after them.
 
 > ‘‘Lopa’’nti vattamāne
 
@@ -11968,7 +12316,7 @@ While `lopaṃ` ("elision") continues —
 
 [^83]: Under `saññā` the Thai edition read by [Rachiwong (1995)](/rupasiddhi/rachiwong) has `upaddavo, upasaggo` for the CST's `upadhā upasaggo`; the CST is kept. She renders `saññā` "feeling" and `upa khāriyaṃ doṇo` "Doṇa is more than khārī"; here `saññā` is the technical name and the `doṇa` the excess over the `khārī`.
 
-[^84]: [Rachiwong (1995)](/rupasiddhi/rachiwong) renders the clause "They have no specific genders", attaching `aniyamena` to `liṅgasaññāyaṃ`; here `aniyamena` goes with `syādimhi sampatte` and `liṅgasaññā` is the name "stem".
+[^84]: [Rachiwong (1995)](/rupasiddhi/rachiwong) renders the clause "They have no specific genders", attaching `aniyamena` to `liṅgasaññāyaṃ`; here `aniyamena` goes with `syādimhi sampatte` and `liṅgasaññā` is the name "lemma".
 
 ---
 

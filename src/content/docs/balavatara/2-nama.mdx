@@ -9,7 +9,7 @@ sidebar:
 import { LinkCard } from "@astrojs/starlight/components";
 
 :::note[Noun types in this chapter]
-Paragraphs ¶47–58 set out the seven inflection forms and what each is used for, with `buddha` as the example. Almost everything after that is worked examples: one model noun for each gender and stem ending, with every inflected form derived step by step and gathered in a summary section. A noun with the same gender and ending as a model is inflected in the same way.
+Paragraphs ¶47–58 set out the seven inflection forms and what each is used for, with `buddha` as the example. Almost everything after that is worked examples: one model noun for each gender and lemma ending, with every inflected form derived step by step and gathered in a summary section. A noun with the same gender and ending as a model is inflected in the same way.
 
 Kaccāyana gives short names to the classes of nominal base that share rules, and Bālāvatāra uses them from ¶79 on:
 
@@ -106,6 +106,8 @@ A `liṅga` (nominal base, or lemma) is a meaningful word-form with its root (`d
 
 ¶48 Consider the nominal base `buddha` (the Buddha; the one who has understood).
 
+* buddha — "the Buddha" (the lemma set up, before any inflection is added; it takes `si` by the next rule)
+
 :::note
 `buddha` is a masculine base ending in `a`, and the model for the largest class of Pāḷi nouns: every regular masculine noun in `a` is inflected the same way. The irregular ones, `atta`, `rāja`, `brahma` and `sakha`, follow from ¶60.
 :::
@@ -115,6 +117,8 @@ A `liṅga` (nominal base, or lemma) is a meaningful word-form with its root (`d
 > Tasmā liṅgā parā vibhattiyo honti. Cakārena tāsaṃ ekavacanādipaṭhamādisaññā ca.
 
 The `vibhatti` (inflection suffixes) come after the nominal base. The word `ca` (and) adds that they are also named by number — `ekavacana` (⨀ singular) and `bahuvacana` (⨂ plural) — and by inflection form — `paṭhamā` (① first) and so on.
+
+* buddha + si = buddha + (si→o) = buddh + (~~a~~ + o) = buddho — "the Buddha" (⨀①; `si` follows the lemma by this rule, becomes `o` by "So", the `a` is elided by "Saralopo mādesappaccayādimhi saralope tu pakati", and the `o` is attached by "Naye paraṃ yutte")
 
 :::tip[Kaccāyana Reference]
 <LinkCard title="§54 (62): Tato ca vibhattiyo" href="/kaccayana/2-namakappa#m54" description="And their inflections" />
@@ -154,7 +158,7 @@ The subject of an active verb is a `liṅgattha` and stands in ①: in `buddho s
 :::
 
 :::tip[Kaccāyana Reference]
-<LinkCard title="§284 (283): Liṅgatthe paṭhamā" href="/kaccayana/3-karakakappa#m284" description="the first form ① for the bare meaning of the stem" />
+<LinkCard title="§284 (283): Liṅgatthe paṭhamā" href="/kaccayana/3-karakakappa#m284" description="the first form ① for the bare meaning of the lemma" />
 :::
 
 > Atotveva.
@@ -935,6 +939,14 @@ The next rule also concerns the `nta` of `gacchanta` and the like.
 
 Apart from the instance just given, before all other suffixes the `nta` of `gacchanta` and the like is treated as `ntu`: `gacchanto`, `gacchantā`, and so on.
 
+Examples:
+
+* gacchanta + yo = gaccha + (nta→ntu) + yo = gaccha + (ntu + yo→nto) = gacchanto — "those going" (⨂①, by "Ntussa nto")
+* gacchanta + yo = gaccha + (nta→ntu) + yo = gacchant + (u→a) + yo = gacchant + (~~a~~ + yo→ā) = gacchantā (⨂①, by "Ntussanto yosu ca" and "Sabbayonīnamāe")
+* gacchanta + nā = gaccha + (nta→ntu) + nā = gaccha + (ntu + nā→tā) = gacchatā — "by the one going" (⨀③)
+* gacchanta + sa = gaccha + (nta→ntu) + sa = gaccha + (ntu + sa→to) = gacchato — "of the one going" (⨀④, ⨀⑥)
+* gacchanta + smiṃ = gaccha + (nta→ntu) + smiṃ = gaccha + (ntu + smiṃ→ti) = gacchati — "in the one going" (⨀⑦)
+
 :::tip[Kaccāyana Reference]
 <LinkCard title="§187 (108): Sesesu ntuva" href="/kaccayana/2-namakappa#m187" description="in the remaining [inflections], like `ntu`" />
 :::
@@ -987,6 +999,12 @@ Consider optional rules after `jha` and `la` bases.
 > Ghapajhalato yonaṃ lopo vā hoti.
 
 After `gha`, `pa`, `jha` and `la` bases, the suffix `yo` (⨂①, ⨂②) is optionally elided. `gha` and `pa` are the feminine bases in `ā` and in `i`, `ī`, `u`, `ū`, treated in the Itthiliṅga section.
+
+Examples:
+
+* kaññā + yo = kaññā + ~~yo~~ = kaññā, or kaññāyo — "girls" (⨂①, ⨂②; `gha`)
+* itthī + yo = itthī + ~~yo~~ = itthī, or itth + (ī→i) + yo = itthiyo — "women" (⨂①, ⨂②; `pa`, shortened before the `yo` that stays by "Agho rassamekavacanayosvapi ca" under ¶86)
+* yāgu + yo = yāg + (u→ū + ~~yo~~) = yāgū, or yāguyo — "rice gruel" (⨂①, ⨂②; `pa`, lengthened by the next rule)
 
 :::tip[Kaccāyana Reference]
 <LinkCard title="§118 (146): Ghapato ca yonaṃ lopo" href="/kaccayana/2-namakappa#m118" description="And `gha`, `pa`: elision of `yo`" />
@@ -1122,6 +1140,14 @@ Kaccāyana's rule "Agho rassaṃ…" would shorten the final vowel here, but [§
 > Ekavacanayosu jhalapā rassaṃ yanti.
 
 Before the singular suffixes and before `yo`, a long `jha`, `la` or `pa` base is shortened.
+
+Examples:
+
+* daṇḍī + yo = daṇḍ + (ī→i) + yo = daṇḍi + yo (⨂①, `jha`; the `yo` not elided, completed as `daṇḍino` by the next rule)
+* itthī + aṃ = itth + (ī→i) + aṃ = itthi + (aṃ→ṃ) = itthiṃ — "the woman" (⨀②, `pa`; `ṃ` by "Aṃ mo niggahītaṃ jhalapehi")
+* itthī + yo = itth + (ī→i) + yo = itthiyo — "women" (⨂①, `pa`)
+* sayambhū + nā = sayambh + (ū→u) + nā = sayambhunā — "by the Creator" (⨀③, `la`)
+* sayambhū + yo = sayambh + (ū→u) + yo = sayambhu + (yo→vo) = sayambhuvo — "Creators" (⨂①, `la`; `vo` by "Lato vokāro ca" under ¶92; "Vevosu lo ca" not applied, the base being shortened)
 
 :::tip[Kaccāyana Reference]
 <LinkCard title="§84 (144): Agho rassamekavacanayosvapi ca" href="/kaccayana/2-namakappa#m84" description="And not `gha` [vowels become] short in singular `yo` [inflections]" />
@@ -1331,6 +1357,12 @@ The next rules also concern `satthu`, `pitu` and the like.
 > Sitoññesu satthādyantassa āro hoti.
 
 Before suffixes other than `si`, the final of `satthu` and the like becomes `āra`.
+
+Examples:
+
+* satthu + aṃ = satth + (u→āra) + aṃ = satthāra + aṃ (⨀②; `satthāraṃ` under ¶98)
+* satthu + nā = satth + (u→āra) + nā = satthāra + nā (⨀③; `satthārā` by "Nā ā" under ¶99)
+* satthu + hi = satth + (u→āra) + hi = satthāra + hi (⨂③; `satthārehi` by "Suhisvakāro e" under ¶99)
 
 :::tip[Kaccāyana Reference]
 <LinkCard title="§200 (159): Aññesvārattaṃ" href="/kaccayana/2-namakappa#m200" description="`āra` in the other inflections" />
@@ -1833,7 +1865,7 @@ The ending `nta` is treated as `ntu`: `mahatī`, `mahantī` (great).
 In the feminine, the suffix `inī` is added after `pati` (lord), `bhikkhu` (monk), `rāja` (king) and after bases ending in `ī`.
 
 :::tip[Kaccāyana Reference]
-<LinkCard title="§240 (193): Pati bhikkhurājīkārantehi inī" href="/kaccayana/2-namakappa#m240" description="`inī` after `pati`, `bhikkhu`, `rāja` and stems in `ī`" />
+<LinkCard title="§240 (193): Pati bhikkhurājīkārantehi inī" href="/kaccayana/2-namakappa#m240" description="`inī` after `pati`, `bhikkhu`, `rāja` and lemmas in `ī`" />
 :::
 
 > ‘‘Patissinīmhī’’ti patyantassa atte saralopādo tukārena lopābhāvo. ‘‘Vā paro asarūpā’’ti ilopo, dīgho ca. Gahapatānī, bhikkhunī, rājinī, medhāvinī, tapassinī, dhammacāriṇī, bhayadassāvinī, bhuttāvinītyādi.
@@ -1922,6 +1954,11 @@ Consider optional forms of `nā`.
 > Manādito sminnānaṃ iā vā honti.
 
 After `mana` and the other words of the `mano`-group, the suffixes `smiṃ` and `nā` optionally become `i` and `ā` respectively.
+
+Examples:
+
+* mana + smiṃ = mana + (smiṃ→i) = mana + i (⨀⑦; `manasi` with the `s` of "Sa sare vāgamo", under ¶136)
+* mana + nā = mana + (nā→ā) = mana + ā (⨀③; `manasā` by the next rule)
 
 :::tip[Kaccāyana Reference]
 <LinkCard title="§181 (95): Manogaṇādito smiṃnānamiā" href="/kaccayana/2-namakappa#m181" description="`i`, `ā` for `smiṃ`, `nā` after the `mano`-group" />
@@ -2133,6 +2170,11 @@ Kaccāyana's rule [§110 (201): Tayo neva ca sabbanāmehi](/kaccayana/2-namakapp
 
 After `sabba` and the other pronouns, the suffix `naṃ` becomes `saṃ` or `sānaṃ`.
 
+Examples:
+
+* sabba + naṃ = sabba + (naṃ→saṃ) = sabba + saṃ (⨂④, ⨂⑥; `sabbesaṃ` by the next rule)
+* sabba + naṃ = sabba + (naṃ→sānaṃ) = sabba + sānaṃ (⨂④, ⨂⑥; `sabbesānaṃ` by the next rule)
+
 :::tip[Kaccāyana Reference]
 <LinkCard title="§168 (203): Sabbato naṃ saṃ sānaṃ" href="/kaccayana/2-namakappa#m168" description="`saṃ`, `sānaṃ` for `naṃ` after any pronoun" />
 :::
@@ -2176,6 +2218,11 @@ Before `naṃ`, the final `a` of `sabba` and the other pronouns becomes `e`.
 
 After a pronoun that is `gha` or `pa`, the suffixes `smiṃ` and `sa` optionally become `saṃ` and `sā`.
 
+Examples:
+
+* sabbā + smiṃ = sabbā + (smiṃ→saṃ) = sabbā + saṃ (⨀⑦; `sabbassaṃ` with the `s` of "Saṃsāsvekavacanesu ca" and the shortening of "Gho rassaṃ")
+* sabbā + sa = sabbā + (sa→sā) = sabbā + sā (⨀④, ⨀⑥; `sabbassā` in the same way)
+
 :::tip[Kaccāyana Reference]
 <LinkCard title="§179 (204): Ghapato smiṃ sānaṃ saṃsā" href="/kaccayana/2-namakappa#m179" description="`saṃ`, `sā` for `smiṃ`, `sa` after `gha`, `pa` pronouns" />
 :::
@@ -2209,6 +2256,9 @@ Before the singular `saṃ` and `sā`, a `gha` base is shortened.
 > Ghapaññāhi sabbādīhi smino āya yā na honti.
 
 After the pronouns that are `gha` or `pa`, the suffix `smiṃ` does not become `āya` or `yā`.
+
+* sabbā + smiṃ = sabbassaṃ, sabbāyaṃ — "in all" (⨀⑦; not `sabbāya`, "Ghato nādīnaṃ" not applied)
+* amu + smiṃ = amussaṃ, amuyaṃ — "in that (f.)" (⨀⑦; not `amuyā`, "Pato yā" not applied)
 
 :::tip[Kaccāyana Reference]
 <LinkCard title="§180 (207): Netāhi smimāya yā" href="/kaccayana/2-namakappa#m180" description="No `āya`, `yā` for `smiṃ` after these" />
@@ -2316,6 +2366,12 @@ The following is optional.
 > Tāetāimāhi sassa ssāyo vā hoti.
 
 After `tā`, `etā` and `imā`, the suffix `sa` optionally becomes `ssāya`.
+
+Examples:
+
+* tā + sa = tā + (sa→ssāya) = tā + ssāya (⨀④, ⨀⑥; `tissāya` with the `i` of the next rule)
+* etā + sa = etā + (sa→ssāya) = etā + ssāya (⨀④, ⨀⑥; `etissāya` with the `i` of "Etimāsami")
+* imā + sa = imā + (sa→ssāya) = imā + ssāya (⨀④, ⨀⑥; `imissāya` with the `i` of "Etimāsami", under ¶159)
 
 :::tip[Kaccāyana Reference]
 <LinkCard title="§65 (215): Tato sassa ssāya" href="/kaccayana/2-namakappa#m65" description="From those, of `sa` inflections there is `ssāya`" />
@@ -2784,7 +2840,7 @@ By Kaccāyana's rule "Yosu dvinnaṃ dve ca", before `yo` `dvi` becomes `dve`.
 * dvi + hi = dv + (i→ī) + hi = dvīhi, or dvībhi (⨂③, ⨂⑤)
 
 :::note
-The `ca` of Kaccāyana's rule, as its vutti says, also gives `duve` beside `dve` (`duve samaṇā`, "two ascetics") and `duvinnaṃ` beside `dvinnaṃ`, and admits the stems `dvaya`, `ubha`, `ubhaya` and `duvi`. `ubha` (both) is inflected like `dvi`, with `o` and `e` for `yo`: `ubho`, `ubhe` (⨂①, ⨂②), `ubhinnaṃ` (⨂④, ⨂⑥), `ubhosu`, `ubhesu` (⨂⑦). All are canonical (`duve`, `ubho`, `ubhinnaṃ`). The Bālāvatāra quotes the sutta without drawing on its `ca`; Mitra (1935) tabulates `duve, dve`, `dvinnaṁ, duvinnaṁ` and `ubha` in full.
+The `ca` of Kaccāyana's rule, as its vutti says, also gives `duve` beside `dve` (`duve samaṇā`, "two ascetics") and `duvinnaṃ` beside `dvinnaṃ`, and admits the lemmas `dvaya`, `ubha`, `ubhaya` and `duvi`. `ubha` (both) is inflected like `dvi`, with `o` and `e` for `yo`: `ubho`, `ubhe` (⨂①, ⨂②), `ubhinnaṃ` (⨂④, ⨂⑥), `ubhosu`, `ubhesu` (⨂⑦). All are canonical (`duve`, `ubho`, `ubhinnaṃ`). The Bālāvatāra quotes the sutta without drawing on its `ca`; Mitra (1935) tabulates `duve, dve`, `dvinnaṁ, duvinnaṁ` and `ubha` in full.
 :::
 
 :::tip[Kaccāyana Reference]
@@ -2898,7 +2954,7 @@ By Kaccāyana's rule [§90 (252): Pañcādīnamattaṃ](/kaccayana/2-namakappa#m
 ¶181 Likewise `cha` (six), `satta` (seven), `aṭṭha` (eight), `nava` (nine), `dasa` (ten) and the rest up to `aṭṭhārasa` (eighteen).
 
 :::note
-The stems for eleven to eighteen are formed in the Taddhita chapter and several have two or three shapes, all inflected like `pañca`: `ekādasa` or `ekārasa` (11), `dvādasa` or `bārasa` (12), `terasa` or `teḷasa` (13), `catuddasa`, `cuddasa` or `coddasa` (14), `pañcadasa` or `paṇṇarasa` (15), `soḷasa` or `sorasa` (16), `sattadasa` or `sattarasa` (17), `aṭṭhadasa` or `aṭṭhārasa` (18). Mitra (1935) gives this list after his `pañca` table (with `telasa`, `solasa` for the forms in `ḷ`).
+The lemmas for eleven to eighteen are formed in the Taddhita chapter and several have two or three shapes, all inflected like `pañca`: `ekādasa` or `ekārasa` (11), `dvādasa` or `bārasa` (12), `terasa` or `teḷasa` (13), `catuddasa`, `cuddasa` or `coddasa` (14), `pañcadasa` or `paṇṇarasa` (15), `soḷasa` or `sorasa` (16), `sattadasa` or `sattarasa` (17), `aṭṭhadasa` or `aṭṭhārasa` (18). Mitra (1935) gives this list after his `pañca` table (with `telasa`, `solasa` for the forms in `ḷ`).
 :::
 
 > ¶182 Vīsatyādayo ānavutiyā itthiliṅgā ekavacanantā, vīsati rattīva. Evaṃ tiṃsati.
@@ -3104,6 +3160,9 @@ By "A dhunāmhi ca", `ima` becomes `a` before `dhunā`.
 After `āvuso` (friend), after the prefixes (`upasagga`) and particles (`nipāta`), and after the like, all inflections are elided.
 
 * tvaṃ āvuso — "you, friend"; tumhe āvuso — "you (pl.), friend" (`āvuso` unchanged for either number)
+* āvuso + si = āvuso + ~~si~~ = āvuso — "friend" (⨀①, in `tvaṃ āvuso`); āvuso + yo = āvuso + ~~yo~~ = āvuso (⨂①, in `tumhe āvuso`)
+* pa + si = pa + ~~si~~ = pa — "forth" (the prefix, as in `pahāro`, "a blow")
+* ca + si = ca + ~~si~~ = ca — "and" (the particle)
 
 :::tip[Kaccāyana Reference]
 <LinkCard title="§221 (282): Sabbāsamāvuso pasagganipātādīhi ca" href="/kaccayana/2-namakappa#m221" description="all [inflections elided] after `āvuso`, prefixes, particles" />
