@@ -1,10 +1,9 @@
 {
   "name": "kaccayana.github.io",
-  "description": "Translation of earliest Pāli grammar Kaccāyana into English",
-  "version": "0.0.1",
+  "description": "English translations of the three classical Pāḷi grammars: Kaccāyana, Buddhappiya's Padarūpasiddhi and Dhammakitti's Bālāvatāra, with the earlier translations and studies as reference texts",
+  "version": "1.0.0",
   "scripts": {
     "clean": "rm -rf .astro dist node_modules",
-    "check": "tsc --noEmit --runExternalCode",
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
@@ -13,17 +12,13 @@
     "refresh": "pnpm dlx @astrojs/upgrade ; pnpm up -L"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.42.4",
-    "astro": "^7.3.5",
+    "@astrojs/starlight": "^0.42.6",
+    "astro": "^7.3.8",
     "astro-mermaid": "^2.1.0",
-    "mermaid": "^11.17.2",
-    "pnpm": "^12.6.0",
-    "sharp": "^0.35.4",
+    "mermaid": "^12.1.0",
+    "pnpm": "^12.10.1",
+    "sharp": "^0.35.5",
     "starlight-heading-badges": "^0.8.0"
   },
-  "packageManager": "pnpm@12.6.0+sha512.3ef68f951cb111ac204b4a5a16f0b2ddf0da56a96e0413e81d855d9f0b55ef926714709028e1cd00c405c2c5fb7b9e8ec4dc46777c805d0373c2f2ff00fd20ec",
-  "devDependencies": {
-    "@astrojs/ts-content-mapper": "^0.2.0",
-    "typescript": "^7.1.0-dev.20260925.1"
-  }
+  "packageManager": "pnpm@12.6.0+sha512.3ef68f951cb111ac204b4a5a16f0b2ddf0da56a96e0413e81d855d9f0b55ef926714709028e1cd00c405c2c5fb7b9e8ec4dc46777c805d0373c2f2ff00fd20ec"
 }

@@ -25,7 +25,6 @@ Modern English translations of three related classical Pāḷi grammars: **Kacc�
 
 ```sh
 pnpm install
-pnpm check
 pnpm build
 ```
 
@@ -66,7 +65,6 @@ All commands are run from the root of the project, from a terminal:
 | :------------------------- | :----------------------------------------------- |
 | `pnpm install`             | Installs dependencies                            |
 | `pnpm run dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm check`               | Type-checks the site with `tsc` (the repo is pinned to a TypeScript 7 preview, so `astro check` does not run here) |
 | `pnpm run build`           | Build your production site to `./dist/`          |
 | `pnpm run preview`         | Preview your build locally, before deploying     |
 | `pnpm run astro ...`       | Run CLI commands like `astro add`                |
