@@ -87,15 +87,37 @@ export default defineConfig({
         },
         {
           label: "Kaccāyana",
-          items: [{ autogenerate: { directory: 'kaccayana' } }],
+          items: [
+            'kaccayana',
+            'kaccayana/1-sandhikappa', 
+            { label: "2. Nāmakappa", collapsed: true, items: [{ autogenerate: { directory: 'kaccayana/2-namakappa' } }] }, 'kaccayana/3-karakakappa', 'kaccayana/4-samasakappa',
+            'kaccayana/5-taddhitakappa', 
+            { label: "6. Ākhyātakappa", collapsed: true, items: [{ autogenerate: { directory: 'kaccayana/6-akhyatakappa' } }] }, 
+            { label: "7. Kibbidhānakappa", collapsed: true, items: [{ autogenerate: { directory: 'kaccayana/7-kibbidhanakappa' } }] }, 'kaccayana/8-unadikappa',
+            { label: "U Nandisena (2005)", collapsed: true, items: [{ autogenerate: { directory: 'kaccayana/nandisena' } }] },
+            { label: "D'Alwis (1863)", collapsed: true, items: [{ autogenerate: { directory: 'kaccayana/alwis' } }] },
+          ],
         },
         {
           label: "Bālāvatāra",
-          items: [{ autogenerate: { directory: 'balavatara' } }],
+          items: [
+            'balavatara',
+            'balavatara/0-panama', 'balavatara/1-sandhi', 'balavatara/2-nama', 'balavatara/3-samasa', 'balavatara/4-taddhita',
+            'balavatara/cscd4',
+            { label: "Vidyabhusana, Punnananda and Mitra (1935)", collapsed: true, items: [{ autogenerate: { directory: 'balavatara/mitra' } }] },
+          ],
         },
         {
           label: "Rūpasiddhi",
-          items: [{ autogenerate: { directory: 'rupasiddhi' } }],
+          items: [
+            'rupasiddhi',
+            'rupasiddhi/1-sandhikanda', 
+            { label: "2. Nāmakaṇḍa", collapsed: true, items: [{ autogenerate: { directory: 'rupasiddhi/2-namakanda' } }] }, 'rupasiddhi/3-karakakanda', 'rupasiddhi/4-samasakanda',
+            'rupasiddhi/5-taddhitakanda', 
+            { label: "6. Ākhyātakaṇḍa", collapsed: true, items: [{ autogenerate: { directory: 'rupasiddhi/6-akhyatakanda' } }] }, 
+            { label: "7. Kibbidhānakaṇḍa", collapsed: true, items: [{ autogenerate: { directory: 'rupasiddhi/7-kibbidhanakanda' } }] },
+            { label: "Rachiwong (1995)", collapsed: true, items: [{ autogenerate: { directory: 'rupasiddhi/rachiwong' } }] },
+          ],
         },
         {
           label: "Thiab Malai (1997)",

@@ -1,0 +1,24 @@
+---
+/**
+ * Forwards a sutta fragment on a chapter's old single-page URL to the section page that now holds it:
+ * /kaccayana/2-namakappa#m55 → /kaccayana/2-namakappa/1-pathamakanda/#m55.
+ * `map` gives, for each section slug, the first and last sutta number it holds.
+ */
+interface Props {
+  base: string;                                   // "/kaccayana/2-namakappa/"
+  prefix: string;                                 // "m" or "r"
+  map: Record<string, [number, number]>;          // slug → [first, last]
+}
+const { base, prefix, map } = Astro.props;
+---
+<script is:inline define:vars={{ base, prefix, map }}>
+  (() => {
+    const m = /^#([a-z])(\d+)$/.exec(location.hash || "");
+    if (!m || m[1] !== prefix) return;
+    const n = Number(m[2]);
+    for (const slug in map) {
+      const [a, b] = map[slug];
+      if (n >= a && n <= b) { location.replace(base + slug + "/" + location.hash); return; }
+    }
+  })();
+</script>
