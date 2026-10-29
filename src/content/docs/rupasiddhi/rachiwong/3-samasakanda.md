@@ -1,5 +1,6 @@
 ---
 title: "Samāsakaṇḍa (the chapter on compounds)"
+author: Phramaha Sriporn Rachiwong
 description: "Rachiwong's translation of the Rūpasiddhi's Samāsakaṇḍa (1995)."
 sidebar:
   label: "Samāsakaṇḍa"

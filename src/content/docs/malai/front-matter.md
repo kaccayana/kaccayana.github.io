@@ -1,5 +1,6 @@
 ---
 title: "Kaccāyana-vyākaraṇa: A Critical Study"
+author: Phramaha Thiab Malai
 description: "Title page, certificates, contents, acknowledgement, abbreviations and bibliography of Phramaha Thiab Malai's 1997 Pune thesis, a critical study and translation of Kaccāyana."
 sidebar:
   label: "Front matter"

@@ -1,5 +1,6 @@
 ---
 title: "Introduction"
+author: Phramaha Thiab Malai
 description: "Thiab Malai's survey of Pāli grammatical literature, the Kaccāyana tradition and the plan of the study."
 sidebar:
   label: "Introduction"

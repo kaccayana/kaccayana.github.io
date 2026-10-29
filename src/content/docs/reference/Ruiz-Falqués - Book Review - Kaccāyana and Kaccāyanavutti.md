@@ -1,5 +1,6 @@
 ---
 title: "Review of Pind, Kaccāyana and Kaccāyanavutti (2013)"
+author: Aleix Ruiz-Falqués
 description: >
   Aleix Ruiz Falqués, Orientalistische Literaturzeitung 113.4–5 (2018), pp. 392–395.
 sidebar:

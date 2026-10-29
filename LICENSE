@@ -125,6 +125,14 @@ allows.
    Roy, is a working reference that the site does not publish; rights remain
    with its author.
 
+10. Code ported from Quartz
+
+   The graph view, backlinks, link popovers, reader mode and generated page
+   descriptions (src/lib/graph-view.ts, src/components/Graph.astro,
+   Backlinks.astro, Popover.astro, ReaderMode.astro and src/lib/description.ts)
+   are ported from Quartz v5, https://github.com/jackyzha0/quartz, Copyright (c)
+   2021 jackyzha0, under the MIT License; its text is in LICENSE-QUARTZ.txt.
+
 The CC0 1.0 Universal legal code follows.
 
 -----------------------------------------------------------------------------

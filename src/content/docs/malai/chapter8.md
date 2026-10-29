@@ -1,5 +1,6 @@
 ---
 title: "VIII. Uṇādi-kappa"
+author: Phramaha Thiab Malai
 description: "Thiab Malai's translation of Kaccāyana's Uṇādi-kappa with notes, from the 1997 Pune thesis."
 sidebar:
   label: "VIII. Uṇādi-kappa"

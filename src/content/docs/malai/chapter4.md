@@ -1,5 +1,6 @@
 ---
 title: "IV. Samāsa-kappa"
+author: Phramaha Thiab Malai
 description: "Thiab Malai's translation of Kaccāyana's Samāsa-kappa with notes, from the 1997 Pune thesis."
 sidebar:
   label: "IV. Samāsa-kappa"

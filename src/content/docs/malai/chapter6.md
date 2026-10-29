@@ -1,5 +1,6 @@
 ---
 title: "VI. Ākhyāta-kappa"
+author: Phramaha Thiab Malai
 description: "Thiab Malai's translation of Kaccāyana's Ākhyāta-kappa with notes, from the 1997 Pune thesis."
 sidebar:
   label: "VI. Ākhyāta-kappa"

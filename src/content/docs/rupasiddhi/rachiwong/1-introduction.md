@@ -1,5 +1,6 @@
 ---
 title: "Introduction"
+author: Phramaha Sriporn Rachiwong
 description: "The introduction of Phramaha Sriporn Rachiwong's 1995 thesis on the Rūpasiddhi: the Pāli grammatical literature and Buddhappiya's work."
 sidebar:
   label: "Introduction"

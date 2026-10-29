@@ -20,6 +20,7 @@ Modern English translations of three related classical Pāḷi grammars: **Kacc�
 > - Phramaha Sriporn Rachiwong's *Rūpasiddhi: A Study of Some Aspects* (Ph.D. thesis, University of Pune, 1995) is reproduced as a reading edition of the typescript; copyright remains with the author and no licence is granted.
 > - The articles and reviews by Aleix Ruiz-Falqués in the reference section remain © the author and their publishers (Aditya Prakashan, Northern Illinois University Press, De Gruyter, the Ñāṇasaṃvara Centre for Buddhist Studies, the Pali Text Society, The Sanskrit Library, Brill); no licence is granted.
 > - Photographs from Wikimedia Commons are CC BY-SA 3.0 and are credited in LICENSE.
+> - The graph view, backlinks, link previews and reader mode are adapted from [Quartz](https://github.com/jackyzha0/quartz) (© 2021 jackyzha0) under the MIT licence, in LICENSE-QUARTZ.txt.
 >
 > If you like this work and wish to show your appreciation, please consider sponsoring me.
 

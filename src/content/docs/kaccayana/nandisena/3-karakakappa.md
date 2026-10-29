@@ -1,5 +1,6 @@
 ---
 title: "3. Kārakakappa (Case Chapter)"
+author: U Nandisena
 description: "U Nandisena's translation of Kaccāyana's Kārakakappa, suttas 271–315 (2005)."
 sidebar:
   label: "3. Kārakakappa"

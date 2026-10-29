@@ -1,5 +1,6 @@
 ---
 title: "I. Sandhi-kappa"
+author: Phramaha Thiab Malai
 description: "Thiab Malai's translation of Kaccāyana's Sandhi-kappa with notes, from the 1997 Pune thesis."
 sidebar:
   label: "I. Sandhi-kappa"

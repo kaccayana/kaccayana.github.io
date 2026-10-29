@@ -1,5 +1,6 @@
 ---
 title: "Two levels of optionality in the Kaccāyana Vyākaraṇa"
+author: Aleix Ruiz-Falqués
 description: >
   Aleix Ruiz-Falqués, in Śabdānugamaḥ: Indian linguistic studies in honor of George Cardona, vol. I (Providence: The Sanskrit Library, 2021), pp. 431–465.
 sidebar:

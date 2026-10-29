@@ -1,0 +1,9 @@
+---
+// After the text: the backlinks on narrow screens (where Starlight hides the right sidebar), then
+// Starlight's own footer.
+import Default from "@astrojs/starlight/components/Footer.astro";
+import Backlinks from "./Backlinks.astro";
+---
+
+<Backlinks variant="footer" />
+<Default />

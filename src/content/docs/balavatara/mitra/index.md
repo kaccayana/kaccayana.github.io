@@ -1,6 +1,10 @@
 ---
 draft: false
 title: "Bālāvatāra (1935 Translation)"
+author:
+  - Satischandra Vidyabhusana
+  - Punnananda Swami
+  - Sailendranath Mitra
 description: >
   A translation into English, originally edited and translated by
   the late Mahamahopadhyaya

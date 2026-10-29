@@ -1,5 +1,6 @@
 ---
 title: "On the Authorship of Kaccāyana, the Oldest Pāli Grammar"
+author: Aleix Ruiz-Falqués
 description: >
   A. Ruiz-Falqués, in Pariyatti: Studies in Pāli Language and Literature (New Delhi: Aditya Prakashan, 2017), pp. 251–268.
 sidebar:

@@ -1,5 +1,9 @@
 ---
 title: "I–V. Saññā and Sandhi"
+author:
+  - Satischandra Vidyabhusana
+  - Punnananda Swami
+  - Sailendranath Mitra
 description: "The 1935 Calcutta translation of the Bālāvatāra: orthography and the four sandhi sections."
 sidebar:
   label: "I–V. Saññā and Sandhi"

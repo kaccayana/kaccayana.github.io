@@ -1,5 +1,6 @@
 ---
 title: "Ākhyātakaṇḍa (the chapter on verbs)"
+author: Phramaha Sriporn Rachiwong
 description: "Rachiwong's translation of the Rūpasiddhi's Ākhyātakaṇḍa (1995)."
 sidebar:
   label: "Ākhyātakaṇḍa"

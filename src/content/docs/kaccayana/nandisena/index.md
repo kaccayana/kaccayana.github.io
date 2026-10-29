@@ -1,5 +1,6 @@
 ---
 title: "Kaccāyanabyākaraṇaṃ (U Nandisena)"
+author: U Nandisena
 description: >
   U Nandisena's English translation of the Kaccāyana grammar with its vutti and examples, suttas 1 to 623, based on the Chaṭṭha Saṅgāyana text. First published in Myanmar in 2005; electronic edition by the Instituto de Estudios Buddhistas Hispano, 2017, CC BY-NC-ND 4.0.
 sidebar:

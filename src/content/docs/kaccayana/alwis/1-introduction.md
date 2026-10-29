@@ -1,5 +1,6 @@
 ---
 title: "Introduction"
+author: James D'Alwis
 description: "D'Alwis's introduction (1863): the Pāli language, the Abhidhānappadīpikā, the Sutta Niddesa and the Kaccāyana Vaṇṇanā."
 sidebar:
   label: "Introduction"

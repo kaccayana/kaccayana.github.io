@@ -1,5 +1,6 @@
 ---
 title: "7. Kibbidhānakappa (Primary Derivative Chapter)"
+author: U Nandisena
 description: "U Nandisena's translation of Kaccāyana's Kibbidhānakappa with the Uṇādi section, suttas 524–623 (2005)."
 sidebar:
   label: "7. Kibbidhānakappa"

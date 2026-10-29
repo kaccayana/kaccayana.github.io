@@ -1,5 +1,9 @@
 ---
 title: "VI. Nāmakaṇḍo"
+author:
+  - Satischandra Vidyabhusana
+  - Punnananda Swami
+  - Sailendranath Mitra
 description: "The 1935 Calcutta translation of the Bālāvatāra: the noun section."
 sidebar:
   label: "VI. Nāmakaṇḍo"

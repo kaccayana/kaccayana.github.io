@@ -1,5 +1,9 @@
 ---
 title: "VIII. Kāraka and Vibhatti-bheda"
+author:
+  - Satischandra Vidyabhusana
+  - Punnananda Swami
+  - Sailendranath Mitra
 description: "The 1935 Calcutta translation of the Bālāvatāra: the kāraka and the inflection forms."
 sidebar:
   label: "VIII. Kāraka"

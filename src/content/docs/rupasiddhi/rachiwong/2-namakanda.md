@@ -1,5 +1,6 @@
 ---
 title: "Nāmakaṇḍa (the chapter on nouns)"
+author: Phramaha Sriporn Rachiwong
 description: "Rachiwong's translation of the Rūpasiddhi's Nāmakaṇḍa (1995)."
 sidebar:
   label: "Nāmakaṇḍa"

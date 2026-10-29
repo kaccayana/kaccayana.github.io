@@ -1,5 +1,6 @@
 ---
 title: "Appendix"
+author: James D'Alwis
 description: "The appendix of D'Alwis's Introduction to Kachchāyana's Grammar (1863)."
 sidebar:
   label: "Appendix"

@@ -1,5 +1,6 @@
 ---
 title: "1. Sandhikappa (Sandhi Chapter)"
+author: U Nandisena
 description: "U Nandisena's translation of Kaccāyana's Sandhikappa, suttas 1–51 (2005)."
 sidebar:
   label: "1. Sandhikappa"

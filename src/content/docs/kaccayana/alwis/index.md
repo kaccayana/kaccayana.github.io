@@ -1,5 +1,6 @@
 ---
 title: "An Introduction to Kachchàyana's Grammar of the Pàli Language (D'Alwis, 1863)"
+author: James D'Alwis
 description: "James D'Alwis's Introduction to Kachchāyana's Grammar of the Pāli Language (Colombo, 1863): the earliest English translation of any part of Kaccāyana, the Ākhyātakappa on verbs, with his long Introduction on Pāli and its grammars, the Appendix of Pāli extracts, Corrections and Index. Reproduced from the scan as a reading edition."
 sidebar:
   label: "Front matter and contents"

@@ -13,12 +13,25 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.42.6",
+    "@floating-ui/dom": "^1.8.0",
     "astro": "7.4.2",
     "astro-mermaid": "^2.1.0",
+    "d3-drag": "^3.0.0",
+    "d3-force": "^3.0.0",
+    "d3-selection": "^3.0.0",
+    "d3-zoom": "^3.0.0",
     "mermaid": "^12.2.0",
+    "pixi.js": "^8.22.0",
     "pnpm": "^12.14.0",
+    "reading-time": "^1.5.0",
     "sharp": "^0.35.5",
     "starlight-heading-badges": "^0.8.0"
   },
-  "packageManager": "pnpm@12.14.0+sha512.c18ba6d87993d3d164cb5e8948f32b2c06ee854487e06cd8d86781342fb3e5bb4634367034711e86802baa9c37bea906ce1929ad08d70884c97d801df13389a6"
+  "packageManager": "pnpm@12.14.0+sha512.c18ba6d87993d3d164cb5e8948f32b2c06ee854487e06cd8d86781342fb3e5bb4634367034711e86802baa9c37bea906ce1929ad08d70884c97d801df13389a6",
+  "devDependencies": {
+    "@types/d3-drag": "^3.0.7",
+    "@types/d3-force": "^3.0.10",
+    "@types/d3-selection": "^3.0.12",
+    "@types/d3-zoom": "^3.0.9"
+  }
 }

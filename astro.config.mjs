@@ -7,6 +7,8 @@ import starlightHeadingBadges from "starlight-heading-badges";
 // https://astro.build/config
 export default defineConfig({
   site: "https://kaccayana.github.io",
+  // Fetch pages on hover so navigation is near-instant (with the cross-fade in custom.css).
+  prefetch: { prefetchAll: true },
   fonts: [
     {
       provider: fontProviders.google(),
@@ -68,7 +70,17 @@ export default defineConfig({
       title: "Kaccāyana",
       components: {
         Head: "./src/components/Head.astro",
+        PageTitle: "./src/components/PageTitle.astro",
+        LastUpdated: "./src/components/LastUpdated.astro",
+        // Quartz v5's graph view and backlinks (src/components/Graph.astro, Backlinks.astro).
+        PageSidebar: "./src/components/PageSidebar.astro",
+        Footer: "./src/components/Footer.astro",
+        // Reader mode (Quartz v5) and a toggle for each sidebar, beside the theme picker.
+        ThemeSelect: "./src/components/ThemeSelect.astro",
       },
+      lastUpdated: true,
+      // SEO tags and JSON-LD for each page, from its frontmatter.
+      routeMiddleware: "./src/route-data.ts",
       social: [
         {
           icon: "github",

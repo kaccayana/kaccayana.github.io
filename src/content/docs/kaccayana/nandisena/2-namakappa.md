@@ -1,5 +1,6 @@
 ---
 title: "2. Nāmakappa (Noun Chapter)"
+author: U Nandisena
 description: "U Nandisena's translation of Kaccāyana's Nāmakappa, suttas 52–270 (2005)."
 sidebar:
   label: "2. Nāmakappa"

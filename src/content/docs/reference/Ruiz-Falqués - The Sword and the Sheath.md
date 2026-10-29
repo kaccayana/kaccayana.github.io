@@ -1,5 +1,6 @@
 ---
 title: "The Sword and the Sheath: Three Notes on Kaccāyana 1"
+author: Aleix Ruiz-Falqués
 description: >
   A. Ruiz-Falqués, in Dhamma-Anusīlana: Investigating Papers on Buddhist Studies (New Delhi: Aditya Prakashan, 2021), pp. 373–400.
 sidebar:

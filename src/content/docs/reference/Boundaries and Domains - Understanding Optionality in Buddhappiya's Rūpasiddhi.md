@@ -1,5 +1,6 @@
 ---
 title: "Boundaries and Domains: Understanding Optionality in Buddhappiya's Rūpasiddhi"
+author: Aleix Ruiz-Falqués
 description: "Aleix Ruiz-Falqués, Journal of the Pali Text Society XXXIV (2021), pp. 227–250."
 sidebar:
   label: "Ruiz-Falqués: Boundaries and Domains"

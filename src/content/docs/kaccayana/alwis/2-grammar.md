@@ -1,5 +1,6 @@
 ---
 title: "Kachchāyana's Grammar: Lib. VI, On Verbs"
+author: James D'Alwis
 description: "D'Alwis's translation of Kaccāyana's Ākhyātakappa (1863), the earliest English translation of any part of Kaccāyana, with his notes and comparative tables."
 sidebar:
   label: "Lib. VI, On Verbs"

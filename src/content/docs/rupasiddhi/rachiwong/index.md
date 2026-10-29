@@ -1,5 +1,6 @@
 ---
 title: "Rūpasiddhi: A Study of Some Aspects (Rachiwong, 1995)"
+author: Phramaha Sriporn Rachiwong
 description: "Phramaha Sriporn Rachiwong's 1995 University of Pune thesis: a survey of the Pāli grammatical literature and of Buddhappiya's Rūpasiddhi, and an English translation of its Nāmakaṇḍa, Samāsakaṇḍa and Ākhyātakaṇḍa with explanatory notes. Reproduced from the scan as a reading edition."
 sidebar:
   label: "Front matter and contents"

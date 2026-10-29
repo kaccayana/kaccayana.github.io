@@ -1,5 +1,6 @@
 ---
 title: "5. Taddhitakappa (Secondary Derivative Chapter)"
+author: U Nandisena
 description: "U Nandisena's translation of Kaccāyana's Taddhitakappa, suttas 344–405 (2005)."
 sidebar:
   label: "5. Taddhitakappa"

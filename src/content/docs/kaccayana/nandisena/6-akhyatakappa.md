@@ -1,5 +1,6 @@
 ---
 title: "6. Ākhyātakappa (Verb Chapter)"
+author: U Nandisena
 description: "U Nandisena's translation of Kaccāyana's Ākhyātakappa, suttas 406–523 (2005)."
 sidebar:
   label: "6. Ākhyātakappa"

@@ -1,5 +1,6 @@
 ---
 title: "II. Nāma-kappa"
+author: Phramaha Thiab Malai
 description: "Thiab Malai's translation of Kaccāyana's Nāma-kappa with notes, from the 1997 Pune thesis."
 sidebar:
   label: "II. Nāma-kappa"

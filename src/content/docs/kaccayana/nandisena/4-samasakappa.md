@@ -1,5 +1,6 @@
 ---
 title: "4. Samāsakappa (Compound Chapter)"
+author: U Nandisena
 description: "U Nandisena's translation of Kaccāyana's Samāsakappa, suttas 316–343 (2005)."
 sidebar:
   label: "4. Samāsakappa"

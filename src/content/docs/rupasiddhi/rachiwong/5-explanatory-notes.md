@@ -1,5 +1,6 @@
 ---
 title: "Explanatory Notes"
+author: Phramaha Sriporn Rachiwong
 description: "The explanatory notes of Rachiwong's 1995 thesis on the Rūpasiddhi."
 sidebar:
   label: "Explanatory Notes"

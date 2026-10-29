@@ -1,6 +1,7 @@
 ---
 draft: false
 title: "Bālāvatāra (CSCD4)"
+author: Dhammakitti
 description: >
   This is the version sourced from [Pāḷi Tipiṭaka](https://tipitaka.org) which is a digital reproduction of the authenticated Tipitaka texts from the [Chaṭṭha Saṅgāyana](https://www.tipitaka.org/chattha.html) CD published by the [Vipassana Research Institute](http://www.vridhamma.org/Home.aspx).
 ---

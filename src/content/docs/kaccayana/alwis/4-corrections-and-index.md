@@ -1,5 +1,6 @@
 ---
 title: "Corrections and Index"
+author: James D'Alwis
 description: "The corrections and the index of D'Alwis's Introduction to Kachchāyana's Grammar (1863)."
 sidebar:
   label: "Corrections and Index"

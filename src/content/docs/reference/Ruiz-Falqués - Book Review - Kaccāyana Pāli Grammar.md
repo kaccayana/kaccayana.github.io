@@ -1,5 +1,6 @@
 ---
 title: "Review of Thitzana, Kaccāyana Pāli Grammar (2016)"
+author: Aleix Ruiz-Falqués
 description: >
   Aleix Ruiz-Falqués, Journal of Ñāṇasaṃvara Centre for Buddhist Studies I (2018), pp. 279–303.
 sidebar:
